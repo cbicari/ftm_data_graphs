@@ -17,6 +17,7 @@ config_order = ['16,2', '16,4', '16,6', '16,8', '16,10', '16,12', '16,14', '16,1
 plt.figure(figsize=(16, 8))
 sns.boxplot(x='config', y='estimated_distance_cm', data=df_450, order=config_order,
             palette='viridis', showfliers=True)
+plt.ylim(0, 1400)
 plt.axhline(y=450, color='red', linestyle='--', linewidth=2, label='True distance (450cm)')
 plt.xlabel('Configuration (frame_count, burst_period)', fontsize=12)
 plt.ylabel('Estimated Distance (cm)', fontsize=12)
