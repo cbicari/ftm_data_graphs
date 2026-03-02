@@ -1,0 +1,5586 @@
+physical_distance_cm,frame_count,burst_period,estimated_distance_cm,rtt_ns,rssi_dbm,elapsed_ms
+# Starting automated sampling: 5 configs x 1000 samples = 5000 total
+# Config 1/5: frame_count=16, burst_period=2
+3600,16,2,5235,349,-61,832
+3600,16,2,5130,342,-61,808
+3600,16,2,5190,346,-61,304
+3600,16,2,5145,343,-61,307
+3600,16,2,5235,349,-61,838
+3600,16,2,5250,350,-61,804
+3600,16,2,5220,348,-61,457
+3600,16,2,5175,345,-61,258
+3600,16,2,5190,346,-60,828
+3600,16,2,5145,343,-61,299
+3600,16,2,5310,354,-61,305
+3600,16,2,5205,347,-60,819
+3600,16,2,5130,342,-60,307
+3600,16,2,5265,351,-61,305
+3600,16,2,5235,349,-61,310
+3600,16,2,5100,340,-61,311
+3600,16,2,5070,338,-61,406
+3600,16,2,5175,345,-61,306
+3600,16,2,5025,335,-61,306
+3600,16,2,5100,340,-60,311
+3600,16,2,5070,338,-60,409
+3600,16,2,5190,346,-60,815
+3600,16,2,5235,349,-61,305
+3600,16,2,5205,347,-61,312
+3600,16,2,5235,349,-61,305
+3600,16,2,5235,349,-61,308
+3600,16,2,5175,345,-61,298
+3600,16,2,5175,345,-62,323
+3600,16,2,5175,345,-61,311
+3600,16,2,5205,347,-61,807
+3600,16,2,5205,347,-62,311
+3600,16,2,5205,347,-59,304
+3600,16,2,5220,348,-62,304
+3600,16,2,5265,351,-61,311
+3600,16,2,5220,348,-62,305
+3600,16,2,5160,344,-61,312
+3600,16,2,5205,347,-61,297
+3600,16,2,5175,345,-61,307
+3600,16,2,5190,346,-61,325
+3600,16,2,5205,347,-61,296
+3600,16,2,5265,351,-61,302
+3600,16,2,5190,346,-61,306
+3600,16,2,5205,347,-60,342
+3600,16,2,5160,344,-61,285
+3600,16,2,5220,348,-61,808
+3600,16,2,5235,349,-61,316
+3600,16,2,5250,350,-61,825
+3600,16,2,5250,350,-61,301
+3600,16,2,5220,348,-61,308
+3600,16,2,5220,348,-59,828
+3600,16,2,5250,350,-61,296
+3600,16,2,5205,347,-61,309
+3600,16,2,5100,340,-60,820
+3600,16,2,5100,340,-60,306
+3600,16,2,5115,341,-61,297
+3600,16,2,5130,342,-61,318
+3600,16,2,5355,357,-61,820
+3600,16,2,5325,355,-61,814
+3600,16,2,5340,356,-61,307
+3600,16,2,5220,348,-61,321
+3600,16,2,5295,353,-61,284
+3600,16,2,5280,352,-61,318
+3600,16,2,5235,349,-61,313
+3600,16,2,5295,353,-61,297
+3600,16,2,5235,349,-61,304
+3600,16,2,5100,340,-61,323
+3600,16,2,5190,346,-61,301
+3600,16,2,5145,343,-61,297
+3600,16,2,5265,351,-61,310
+3600,16,2,5235,349,-61,306
+3600,16,2,5265,351,-62,309
+3600,16,2,5310,354,-62,315
+3600,16,2,5130,342,-61,309
+3600,16,2,5280,352,-61,822
+3600,16,2,5400,360,-61,805
+3600,16,2,5445,363,-61,310
+3600,16,2,5355,357,-61,314
+3600,16,2,5175,345,-61,311
+3600,16,2,5085,339,-60,303
+3600,16,2,5250,350,-60,311
+3600,16,2,4800,320,-59,802
+3600,16,2,5070,338,-61,321
+3600,16,2,5265,351,-61,310
+3600,16,2,4920,328,-60,805
+3600,16,2,5325,355,-62,313
+3600,16,2,5085,339,-61,301
+3600,16,2,5145,343,-61,318
+3600,16,2,5040,336,-59,308
+3600,16,2,5475,365,-62,302
+3600,16,2,5385,359,-61,309
+3600,16,2,5355,357,-61,314
+3600,16,2,5295,353,-61,294
+3600,16,2,5130,342,-61,309
+3600,16,2,5430,362,-61,315
+3600,16,2,5520,368,-61,344
+3600,16,2,5670,378,-61,258
+3600,16,2,5760,384,-62,310
+3600,16,2,5910,394,-61,308
+3600,16,2,5520,368,-61,309
+3600,16,2,5505,367,-62,306
+3600,16,2,5580,372,-62,308
+E (46068) wifi:No FTM Measurements received from responder!
+W (46068) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5700,380,-60,276
+3600,16,2,5730,382,-62,804
+3600,16,2,5670,378,-63,310
+3600,16,2,5400,360,-61,315
+3600,16,2,5205,347,-60,812
+3600,16,2,5250,350,-60,306
+3600,16,2,5340,356,-61,312
+3600,16,2,5310,354,-61,312
+3600,16,2,5310,354,-60,311
+3600,16,2,5265,351,-61,306
+3600,16,2,5340,356,-60,359
+3600,16,2,5475,365,-60,759
+3600,16,2,5430,362,-61,304
+3600,16,2,5430,362,-62,314
+3600,16,2,5415,361,-61,297
+3600,16,2,5385,359,-62,323
+3600,16,2,5550,370,-62,295
+3600,16,2,5565,371,-62,316
+3600,16,2,5550,370,-61,302
+3600,16,2,5490,366,-61,305
+3600,16,2,5370,358,-61,314
+3600,16,2,5340,356,-61,298
+3600,16,2,5355,357,-60,306
+3600,16,2,5415,361,-61,317
+3600,16,2,5460,364,-61,302
+3600,16,2,5445,363,-61,311
+3600,16,2,5445,363,-62,297
+3600,16,2,5460,364,-62,309
+3600,16,2,5535,369,-61,318
+3600,16,2,5535,369,-61,294
+3600,16,2,5505,367,-62,311
+3600,16,2,5565,371,-61,312
+3600,16,2,5535,369,-61,305
+3600,16,2,5595,373,-62,302
+3600,16,2,5610,374,-62,319
+3600,16,2,5625,375,-62,850
+3600,16,2,5550,370,-61,369
+3600,16,2,5520,368,-62,308
+3600,16,2,5475,365,-61,317
+3600,16,2,5475,365,-61,482
+3600,16,2,5475,365,-62,325
+3600,16,2,5535,369,-62,311
+3600,16,2,5580,372,-60,305
+3600,16,2,5550,370,-61,317
+3600,16,2,5415,361,-61,809
+3600,16,2,5370,358,-61,310
+3600,16,2,5310,354,-61,303
+3600,16,2,5310,354,-61,319
+3600,16,2,5490,366,-61,808
+3600,16,2,5355,357,-61,318
+3600,16,2,5460,364,-61,311
+3600,16,2,5475,365,-61,801
+3600,16,2,5460,364,-61,312
+3600,16,2,5460,364,-61,306
+3600,16,2,5565,371,-62,309
+3600,16,2,5430,362,-61,318
+3600,16,2,5385,359,-62,822
+3600,16,2,5415,361,-61,930
+3600,16,2,5535,369,-62,802
+3600,16,2,5520,368,-62,299
+3600,16,2,5445,363,-62,321
+3600,16,2,5565,371,-62,813
+3600,16,2,5505,367,-62,303
+3600,16,2,5595,373,-62,314
+3600,16,2,5640,376,-61,298
+3600,16,2,5565,371,-62,319
+3600,16,2,5550,370,-61,808
+3600,16,2,5565,371,-62,316
+3600,16,2,5505,367,-62,297
+3600,16,2,5565,371,-61,312
+3600,16,2,5640,376,-62,318
+3600,16,2,5580,372,-62,815
+3600,16,2,5655,377,-62,301
+3600,16,2,5640,376,-62,316
+3600,16,2,5715,381,-61,311
+3600,16,2,5550,370,-62,803
+3600,16,2,5505,367,-61,306
+3600,16,2,5565,371,-62,306
+3600,16,2,5580,372,-62,309
+3600,16,2,5655,377,-62,325
+3600,16,2,5625,375,-62,821
+3600,16,2,5655,377,-62,299
+3600,16,2,5595,373,-62,809
+3600,16,2,5580,372,-60,307
+3600,16,2,5535,369,-62,305
+3600,16,2,5625,375,-62,311
+3600,16,2,5565,371,-61,316
+3600,16,2,5580,372,-61,299
+3600,16,2,5610,374,-62,322
+3600,16,2,5595,373,-62,288
+3600,16,2,5640,376,-61,312
+3600,16,2,5610,374,-61,318
+3600,16,2,5625,375,-61,302
+3600,16,2,5610,374,-62,297
+3600,16,2,5595,373,-62,315
+3600,16,2,5535,369,-62,313
+3600,16,2,5625,375,-62,813
+3600,16,2,5460,364,-62,306
+3600,16,2,5505,367,-62,313
+3600,16,2,5325,355,-61,300
+3600,16,2,5220,348,-61,314
+3600,16,2,5265,351,-61,808
+3600,16,2,5250,350,-61,307
+3600,16,2,5310,354,-61,309
+3600,16,2,5340,356,-61,308
+3600,16,2,5370,358,-61,317
+3600,16,2,5400,360,-60,871
+3600,16,2,5445,363,-62,755
+3600,16,2,5415,361,-61,320
+3600,16,2,5085,339,-61,836
+E (94401) wifi:No FTM Measurements received from responder!
+W (94402) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5385,359,-61,350
+E (96578) wifi:No FTM Measurements received from responder!
+W (96579) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5460,364,-61,290
+3600,16,2,5400,360,-61,831
+E (100144) wifi:No FTM Measurements received from responder!
+W (100144) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5325,355,-61,327
+3600,16,2,5445,363,-61,807
+3600,16,2,5445,363,-61,324
+3600,16,2,5400,360,-61,1316
+3600,16,2,5430,362,-61,332
+3600,16,2,5310,354,-61,298
+3600,16,2,5355,357,-61,317
+3600,16,2,5460,364,-61,823
+3600,16,2,5400,360,-61,421
+3600,16,2,5385,359,-62,807
+3600,16,2,5295,353,-62,393
+3600,16,2,5415,361,-61,856
+E (109558) wifi:No FTM Measurements received from responder!
+W (109559) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (112021) wifi:No FTM Measurements received from responder!
+W (112022) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (114545) wifi:No FTM Measurements received from responder!
+W (114546) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2506 ms, retrying...
+E (117950) wifi:No FTM Measurements received from responder!
+W (117950) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (120694) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (123195) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,2,5325,355,-61,732
+E (126304) wifi:No FTM Measurements received from responder!
+W (126305) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (128087) wifi:No FTM Measurements received from responder!
+W (128088) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (131333) wifi:No FTM Measurements received from responder!
+W (131333) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (132969) wifi:No FTM Measurements received from responder!
+W (132970) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (136487) wifi:No FTM Measurements received from responder!
+W (136487) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (138933) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (141432) wifi:No FTM Measurements received from responder!
+W (141432) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (143243) wifi:No FTM Measurements received from responder!
+W (143243) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5265,351,-61,667
+E (146746) wifi:No FTM Measurements received from responder!
+W (146747) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (148772) wifi:No FTM Measurements received from responder!
+W (148773) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (151539) wifi:No FTM Measurements received from responder!
+W (151540) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (153690) wifi:No FTM Measurements received from responder!
+W (153690) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (156659) wifi:No FTM Measurements received from responder!
+W (156660) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (158814) wifi:No FTM Measurements received from responder!
+W (158815) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5235,349,-61,865
+E (162367) wifi:No FTM Measurements received from responder!
+W (162368) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (165364) wifi:No FTM Measurements received from responder!
+W (165364) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (167976) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (170349) wifi:No FTM Measurements received from responder!
+W (170349) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (171932) wifi:No FTM Measurements received from responder!
+W (171933) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (175056) wifi:No FTM Measurements received from responder!
+W (175056) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5175,345,-60,505
+E (178042) wifi:No FTM Measurements received from responder!
+W (178043) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5265,351,-61,524
+W (181511) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,2,5250,350,-61,270
+E (184236) wifi:No FTM Measurements received from responder!
+W (184236) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (186782) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (188301) wifi:No FTM Measurements received from responder!
+W (188301) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (191783) wifi:No FTM Measurements received from responder!
+W (191783) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (194445) wifi:No FTM Measurements received from responder!
+W (194446) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5235,349,-61,1413
+W (198200) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (199957) wifi:No FTM Measurements received from responder!
+W (199957) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (202195) wifi:No FTM Measurements received from responder!
+W (202195) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (205702) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (208203) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,2,5385,359,-61,1108
+E (210638) wifi:No FTM Measurements received from responder!
+W (210638) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (213696) wifi:No FTM Measurements received from responder!
+W (213697) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5235,349,-61,1468
+E (218010) wifi:No FTM Measurements received from responder!
+W (218010) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (220456) wifi:No FTM Measurements received from responder!
+W (220456) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (223284) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (225565) wifi:No FTM Measurements received from responder!
+W (225566) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5160,344,-61,560
+E (228606) wifi:No FTM Measurements received from responder!
+W (228606) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (231347) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (233562) wifi:No FTM Measurements received from responder!
+W (233563) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5190,346,-61,457
+E (236675) wifi:No FTM Measurements received from responder!
+W (236675) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (239307) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (240836) wifi:No FTM Measurements received from responder!
+W (240836) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5100,340,-61,323
+W (244632) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (247133) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (248982) wifi:No FTM Measurements received from responder!
+W (248983) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5100,340,-60,646
+3600,16,2,5175,345,-61,1042
+3600,16,2,5190,346,-61,293
+3600,16,2,5100,340,-61,852
+E (254990) wifi:No FTM Measurements received from responder!
+W (254990) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (257469) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (259367) wifi:No FTM Measurements received from responder!
+W (259368) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (261957) wifi:No FTM Measurements received from responder!
+W (261957) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (265263) wifi:No FTM Measurements received from responder!
+W (265264) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (267473) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (268841) wifi:No FTM Measurements received from responder!
+W (268841) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (271637) wifi:No FTM Measurements received from responder!
+W (271637) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (274420) wifi:No FTM Measurements received from responder!
+W (274420) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (276678) wifi:No FTM Measurements received from responder!
+W (276678) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (279878) wifi:No FTM Measurements received from responder!
+W (279878) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (282479) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (284540) wifi:No FTM Measurements received from responder!
+W (284540) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (286680) wifi:No FTM Measurements received from responder!
+W (286680) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5340,356,-63,1624
+3600,16,2,5445,363,-63,292
+W (291898) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (293978) wifi:No FTM Measurements received from responder!
+W (293979) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (297096) wifi:No FTM Measurements received from responder!
+W (297096) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5205,347,-61,1112
+3600,16,2,5295,353,-61,1342
+E (301864) wifi:No FTM Measurements received from responder!
+W (301864) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (304356) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (306857) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (308844) wifi:No FTM Measurements received from responder!
+W (308844) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (311117) wifi:No FTM Measurements received from responder!
+W (311118) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (314360) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (316098) wifi:No FTM Measurements received from responder!
+W (316098) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (318963) wifi:No FTM Measurements received from responder!
+W (318963) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (322155) wifi:No FTM Measurements received from responder!
+W (322156) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (324364) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (326808) wifi:No FTM Measurements received from responder!
+W (326809) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (328617) wifi:No FTM Measurements received from responder!
+W (328617) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (331075) wifi:No FTM Measurements received from responder!
+W (331075) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (334368) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (336887) wifi:No FTM Measurements received from responder!
+W (336888) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (338763) wifi:No FTM Measurements received from responder!
+W (338763) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (341871) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (344372) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (346873) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (349374) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (351875) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (354190) wifi:No FTM Measurements received from responder!
+W (354190) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (356877) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,2,5145,343,-61,828
+W (360206) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,2,5220,348,-61,674
+W (363381) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (365882) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (367912) wifi:No FTM Measurements received from responder!
+W (367912) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (370884) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (373385) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (375882) wifi:No FTM Measurements received from responder!
+W (375883) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (378387) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (380029) wifi:No FTM Measurements received from responder!
+W (380029) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5220,348,-61,366
+W (383755) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (385571) wifi:No FTM Measurements received from responder!
+W (385571) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (387640) wifi:No FTM Measurements received from responder!
+W (387640) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (391044) wifi:No FTM Measurements received from responder!
+W (391044) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5355,357,-61,1737
+W (395497) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (397102) wifi:No FTM Measurements received from responder!
+W (397102) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (400498) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (403151) wifi:No FTM Measurements received from responder!
+W (403151) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (405497) wifi:No FTM Measurements received from responder!
+W (405497) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (408001) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (409724) wifi:No FTM Measurements received from responder!
+W (409725) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (413003) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (415035) wifi:No FTM Measurements received from responder!
+W (415036) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (417499) wifi:No FTM Measurements received from responder!
+W (417499) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (419573) wifi:No FTM Measurements received from responder!
+W (419574) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (423092) wifi:No FTM Measurements received from responder!
+W (423093) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (425257) wifi:No FTM Measurements received from responder!
+W (425257) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (428009) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (430502) wifi:No FTM Measurements received from responder!
+W (430502) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (432424) wifi:No FTM Measurements received from responder!
+W (432425) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5265,351,-61,691
+E (435963) wifi:No FTM Measurements received from responder!
+W (435963) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5145,343,-61,757
+3600,16,2,5325,355,-61,814
+E (439596) wifi:No FTM Measurements received from responder!
+W (439596) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5190,346,-61,1442
+W (444218) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (445946) wifi:No FTM Measurements received from responder!
+W (445947) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (449115) wifi:No FTM Measurements received from responder!
+W (449116) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (451600) wifi:No FTM Measurements received from responder!
+W (451601) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (454222) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (455978) wifi:No FTM Measurements received from responder!
+W (455979) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (458769) wifi:No FTM Measurements received from responder!
+W (458770) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (461366) wifi:No FTM Measurements received from responder!
+W (461367) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (463402) wifi:No FTM Measurements received from responder!
+W (463402) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (466744) wifi:No FTM Measurements received from responder!
+W (466744) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (468476) wifi:No FTM Measurements received from responder!
+W (468476) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (471115) wifi:No FTM Measurements received from responder!
+W (471115) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (473416) wifi:No FTM Measurements received from responder!
+W (473417) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (476441) wifi:No FTM Measurements received from responder!
+W (476442) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (478974) wifi:No FTM Measurements received from responder!
+W (478975) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (481020) wifi:No FTM Measurements received from responder!
+W (481020) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (484085) wifi:No FTM Measurements received from responder!
+W (484085) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (486300) wifi:No FTM Measurements received from responder!
+W (486300) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (489236) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,2,5130,342,-61,269
+W (492006) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (493829) wifi:No FTM Measurements received from responder!
+W (493829) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (496542) wifi:No FTM Measurements received from responder!
+W (496542) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (499509) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (502058) wifi:No FTM Measurements received from responder!
+W (502059) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (504511) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (506562) wifi:No FTM Measurements received from responder!
+W (506562) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (509028) wifi:No FTM Measurements received from responder!
+W (509028) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (512060) wifi:No FTM Measurements received from responder!
+W (512060) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (514515) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (516001) wifi:No FTM Measurements received from responder!
+W (516001) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (518357) wifi:No FTM Measurements received from responder!
+W (518357) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (521856) wifi:No FTM Measurements received from responder!
+W (521857) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (524519) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,2,5025,335,-59,307
+W (527328) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (529807) wifi:No FTM Measurements received from responder!
+W (529808) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (532483) wifi:No FTM Measurements received from responder!
+W (532483) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5220,348,-61,277
+W (535107) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (537608) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (539855) wifi:No FTM Measurements received from responder!
+W (539855) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (542610) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (544555) wifi:No FTM Measurements received from responder!
+W (544555) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (547612) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (549782) wifi:No FTM Measurements received from responder!
+W (549782) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (551553) wifi:No FTM Measurements received from responder!
+W (551554) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,2,5160,344,-61,594
+E (554895) wifi:No FTM Measurements received from responder!
+W (554895) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (558210) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,2,5205,347,-60,285
+3600,16,2,5190,346,-61,316
+3600,16,2,5190,346,-60,302
+3600,16,2,5205,347,-61,308
+3600,16,2,5205,347,-60,299
+3600,16,2,5145,343,-61,310
+3600,16,2,5190,346,-61,305
+3600,16,2,5190,346,-61,310
+3600,16,2,5220,348,-62,318
+3600,16,2,5280,352,-61,300
+3600,16,2,5280,352,-61,313
+3600,16,2,5235,349,-61,809
+3600,16,2,5190,346,-62,318
+3600,16,2,5235,349,-61,302
+3600,16,2,5220,348,-60,315
+3600,16,2,5070,338,-62,807
+3600,16,2,5160,344,-62,319
+3600,16,2,5175,345,-62,296
+3600,16,2,5265,351,-62,317
+3600,16,2,5160,344,-61,815
+3600,16,2,5250,350,-61,301
+3600,16,2,5250,350,-62,305
+3600,16,2,5175,345,-61,310
+3600,16,2,5265,351,-61,311
+3600,16,2,5235,349,-61,305
+3600,16,2,5190,346,-61,305
+3600,16,2,5220,348,-61,308
+3600,16,2,5220,348,-61,306
+3600,16,2,5130,342,-61,313
+3600,16,2,5175,345,-62,305
+3600,16,2,5175,345,-62,305
+3600,16,2,5280,352,-61,308
+3600,16,2,5205,347,-61,308
+3600,16,2,5250,350,-62,310
+3600,16,2,5280,352,-61,301
+3600,16,2,5220,348,-61,308
+3600,16,2,5265,351,-61,312
+3600,16,2,5295,353,-62,322
+3600,16,2,5220,348,-61,343
+3600,16,2,5100,340,-61,781
+3600,16,2,5220,348,-62,294
+3600,16,2,5205,347,-62,312
+3600,16,2,5160,344,-61,301
+3600,16,2,5220,348,-60,316
+3600,16,2,5130,342,-61,294
+3600,16,2,5175,345,-62,318
+3600,16,2,5250,350,-61,816
+3600,16,2,5220,348,-61,304
+3600,16,2,5220,348,-61,315
+3600,16,2,5115,341,-61,811
+3600,16,2,5145,343,-61,317
+3600,16,2,5205,347,-62,295
+3600,16,2,5265,351,-61,304
+3600,16,2,5190,346,-61,310
+3600,16,2,5295,353,-61,303
+3600,16,2,5160,344,-61,320
+3600,16,2,5205,347,-61,298
+3600,16,2,5205,347,-60,320
+3600,16,2,5220,348,-61,295
+3600,16,2,5160,344,-61,317
+3600,16,2,5280,352,-61,298
+3600,16,2,5190,346,-61,317
+3600,16,2,5205,347,-61,292
+3600,16,2,5250,350,-60,312
+3600,16,2,5250,350,-61,313
+3600,16,2,5175,345,-62,302
+3600,16,2,5130,342,-61,326
+3600,16,2,5160,344,-61,801
+3600,16,2,5190,346,-61,306
+3600,16,2,5265,351,-61,319
+3600,16,2,5175,345,-60,307
+3600,16,2,5205,347,-61,300
+3600,16,2,5220,348,-61,305
+3600,16,2,5160,344,-61,316
+3600,16,2,5175,345,-61,293
+3600,16,2,5175,345,-61,312
+3600,16,2,5190,346,-61,307
+3600,16,2,5160,344,-61,309
+3600,16,2,5205,347,-61,305
+3600,16,2,5160,344,-60,305
+3600,16,2,5145,343,-61,320
+3600,16,2,5175,345,-61,305
+3600,16,2,5205,347,-61,309
+3600,16,2,5160,344,-60,810
+3600,16,2,5235,349,-61,306
+3600,16,2,5145,343,-61,317
+3600,16,2,5190,346,-61,304
+3600,16,2,5055,337,-60,302
+3600,16,2,5100,340,-61,306
+3600,16,2,5100,340,-60,305
+3600,16,2,5070,338,-61,310
+3600,16,2,5160,344,-61,315
+3600,16,2,5160,344,-61,294
+3600,16,2,5130,342,-60,311
+3600,16,2,5175,345,-61,314
+3600,16,2,5085,339,-61,300
+3600,16,2,5160,344,-60,314
+3600,16,2,5100,340,-61,307
+3600,16,2,5130,342,-61,300
+3600,16,2,5235,349,-61,319
+3600,16,2,5055,337,-61,815
+3600,16,2,5025,335,-61,305
+3600,16,2,5085,339,-61,303
+3600,16,2,5070,338,-61,314
+3600,16,2,5055,337,-61,303
+3600,16,2,5145,343,-61,312
+3600,16,2,5160,344,-61,306
+3600,16,2,5160,344,-61,305
+3600,16,2,5175,345,-60,309
+3600,16,2,5130,342,-60,307
+3600,16,2,5145,343,-61,311
+3600,16,2,5130,342,-61,307
+3600,16,2,5205,347,-61,813
+3600,16,2,5160,344,-60,309
+3600,16,2,5160,344,-61,318
+3600,16,2,5175,345,-61,295
+3600,16,2,5145,343,-61,313
+3600,16,2,5250,350,-60,308
+3600,16,2,5160,344,-61,810
+3600,16,2,5175,345,-61,318
+3600,16,2,5235,349,-62,818
+3600,16,2,5160,344,-60,839
+3600,16,2,5145,343,-61,282
+3600,16,2,5145,343,-61,314
+3600,16,2,5220,348,-61,812
+3600,16,2,5130,342,-61,299
+3600,16,2,5175,345,-61,311
+3600,16,2,5205,347,-61,304
+3600,16,2,5190,346,-61,320
+3600,16,2,5130,342,-61,304
+3600,16,2,5205,347,-61,316
+3600,16,2,5130,342,-61,804
+3600,16,2,5175,345,-61,316
+3600,16,2,5280,352,-62,818
+3600,16,2,5370,358,-62,305
+3600,16,2,5430,362,-62,325
+3600,16,2,5280,352,-62,293
+3600,16,2,5265,351,-60,303
+3600,16,2,5400,360,-62,311
+3600,16,2,5130,342,-61,306
+3600,16,2,5130,342,-62,308
+3600,16,2,5310,354,-61,300
+3600,16,2,5460,364,-61,320
+3600,16,2,5325,355,-62,829
+3600,16,2,5355,357,-63,794
+3600,16,2,5160,344,-62,312
+3600,16,2,5385,359,-62,309
+3600,16,2,5415,361,-63,324
+3600,16,2,5850,390,-64,288
+3600,16,2,5085,339,-62,314
+3600,16,2,5355,357,-62,310
+3600,16,2,5220,348,-61,309
+3600,16,2,5025,335,-62,811
+3600,16,2,5220,348,-60,303
+3600,16,2,5235,349,-60,305
+3600,16,2,5535,369,-62,312
+3600,16,2,5415,361,-61,316
+3600,16,2,5010,334,-61,310
+3600,16,2,5040,336,-62,293
+3600,16,2,5160,344,-61,305
+3600,16,2,5115,341,-65,317
+3600,16,2,5400,360,-61,827
+3600,16,2,5550,370,-65,301
+3600,16,2,5205,347,-61,303
+3600,16,2,5400,360,-61,312
+3600,16,2,5310,354,-61,308
+3600,16,2,5085,339,-61,296
+3600,16,2,4995,333,-60,324
+3600,16,2,5130,342,-60,803
+3600,16,2,5025,335,-60,306
+3600,16,2,5070,338,-61,317
+3600,16,2,5085,339,-61,827
+3600,16,2,5205,347,-61,324
+3600,16,2,5190,346,-61,296
+3600,16,2,5130,342,-61,796
+3600,16,2,5265,351,-60,319
+3600,16,2,5310,354,-61,311
+3600,16,2,5280,352,-61,290
+3600,16,2,5160,344,-60,323
+3600,16,2,5190,346,-61,291
+3600,16,2,5175,345,-61,327
+3600,16,2,5145,343,-60,328
+3600,16,2,5130,342,-61,791
+3600,16,2,5115,341,-60,307
+3600,16,2,5145,343,-60,309
+3600,16,2,5070,338,-61,817
+3600,16,2,5100,340,-60,306
+3600,16,2,5130,342,-60,308
+3600,16,2,5115,341,-61,337
+3600,16,2,5220,348,-61,789
+3600,16,2,5250,350,-61,444
+3600,16,2,5160,344,-61,384
+3600,16,2,5160,344,-61,327
+3600,16,2,5070,338,-61,966
+3600,16,2,5100,340,-61,748
+3600,16,2,5205,347,-61,305
+3600,16,2,5220,348,-61,308
+3600,16,2,5205,347,-61,917
+3600,16,2,5145,343,-61,312
+3600,16,2,5160,344,-61,303
+3600,16,2,5205,347,-61,305
+3600,16,2,5055,337,-61,311
+3600,16,2,5085,339,-60,304
+3600,16,2,5025,335,-61,312
+3600,16,2,5055,337,-61,308
+3600,16,2,5100,340,-62,304
+3600,16,2,5130,342,-62,311
+3600,16,2,5100,340,-61,815
+3600,16,2,5010,334,-61,302
+3600,16,2,5040,336,-61,312
+3600,16,2,5070,338,-61,298
+3600,16,2,5130,342,-61,312
+3600,16,2,5070,338,-61,316
+3600,16,2,5055,337,-61,811
+3600,16,2,5070,338,-61,306
+3600,16,2,5070,338,-61,316
+3600,16,2,5085,339,-61,308
+3600,16,2,5085,339,-61,813
+3600,16,2,5085,339,-61,304
+3600,16,2,5070,338,-60,315
+3600,16,2,5175,345,-60,310
+3600,16,2,5070,338,-61,306
+3600,16,2,5100,340,-61,295
+3600,16,2,5175,345,-61,310
+3600,16,2,5085,339,-61,315
+3600,16,2,5055,337,-60,825
+3600,16,2,5160,344,-61,301
+3600,16,2,5130,342,-60,303
+3600,16,2,5115,341,-60,302
+3600,16,2,5175,345,-61,316
+3600,16,2,5055,337,-60,303
+3600,16,2,5190,346,-61,304
+3600,16,2,5025,335,-61,307
+3600,16,2,5130,342,-61,303
+3600,16,2,5115,341,-61,313
+3600,16,2,4935,329,-60,311
+3600,16,2,5040,336,-62,303
+3600,16,2,4995,333,-60,306
+3600,16,2,5100,340,-60,315
+3600,16,2,5085,339,-60,299
+3600,16,2,5100,340,-60,304
+3600,16,2,5085,339,-60,314
+3600,16,2,5070,338,-61,310
+3600,16,2,5040,336,-61,305
+3600,16,2,5130,342,-61,302
+3600,16,2,5130,342,-61,312
+3600,16,2,5160,344,-61,305
+3600,16,2,5100,340,-61,305
+3600,16,2,5085,339,-61,317
+3600,16,2,5115,341,-61,299
+3600,16,2,5205,347,-61,314
+3600,16,2,5130,342,-61,308
+3600,16,2,5160,344,-60,310
+3600,16,2,5205,347,-61,292
+3600,16,2,5130,342,-60,311
+3600,16,2,5145,343,-60,310
+3600,16,2,5160,344,-61,307
+3600,16,2,5130,342,-62,311
+3600,16,2,5145,343,-61,297
+3600,16,2,5160,344,-60,320
+3600,16,2,5100,340,-61,304
+3600,16,2,5055,337,-61,311
+3600,16,2,5100,340,-61,296
+3600,16,2,5175,345,-61,319
+3600,16,2,5115,341,-60,310
+3600,16,2,5115,341,-61,294
+3600,16,2,5040,336,-61,313
+3600,16,2,5160,344,-61,301
+3600,16,2,5130,342,-61,319
+3600,16,2,5115,341,-61,816
+3600,16,2,5220,348,-61,304
+3600,16,2,5100,340,-60,302
+3600,16,2,5130,342,-61,320
+3600,16,2,5115,341,-61,805
+3600,16,2,5145,343,-61,315
+3600,16,2,5070,338,-60,302
+3600,16,2,5145,343,-61,314
+3600,16,2,5085,339,-61,311
+3600,16,2,5115,341,-61,812
+3600,16,2,5175,345,-60,305
+3600,16,2,5145,343,-61,306
+3600,16,2,5130,342,-61,316
+3600,16,2,5130,342,-61,297
+3600,16,2,5145,343,-60,318
+3600,16,2,5115,341,-60,820
+3600,16,2,5100,340,-61,308
+3600,16,2,5100,340,-61,307
+3600,16,2,5100,340,-61,304
+3600,16,2,5100,340,-60,304
+3600,16,2,5175,345,-61,312
+3600,16,2,5175,345,-61,811
+3600,16,2,5160,344,-60,316
+3600,16,2,5175,345,-60,828
+3600,16,2,5115,341,-61,301
+3600,16,2,5130,342,-61,807
+3600,16,2,5100,340,-61,323
+3600,16,2,5145,343,-61,811
+3600,16,2,5160,344,-61,309
+3600,16,2,5145,343,-61,825
+3600,16,2,5190,346,-61,805
+3600,16,2,5175,345,-61,322
+3600,16,2,5145,343,-61,314
+3600,16,2,5205,347,-61,291
+3600,16,2,5175,345,-61,313
+3600,16,2,5115,341,-60,296
+3600,16,2,5010,334,-61,316
+3600,16,2,5040,336,-61,813
+3600,16,2,5205,347,-61,303
+3600,16,2,5160,344,-61,317
+3600,16,2,5130,342,-61,821
+3600,16,2,5130,342,-61,320
+3600,16,2,5130,342,-61,286
+3600,16,2,5115,341,-61,302
+3600,16,2,5145,343,-62,317
+3600,16,2,5160,344,-61,309
+3600,16,2,5085,339,-61,343
+3600,16,2,5190,346,-61,805
+3600,16,2,5160,344,-60,797
+3600,16,2,5130,342,-61,309
+3600,16,2,5160,344,-61,810
+3600,16,2,5070,338,-61,316
+3600,16,2,5190,346,-60,824
+3600,16,2,5175,345,-60,808
+3600,16,2,5205,347,-61,313
+3600,16,2,5190,346,-60,806
+3600,16,2,5145,343,-60,320
+3600,16,2,5100,340,-61,820
+3600,16,2,5160,344,-60,314
+3600,16,2,5130,342,-61,300
+3600,16,2,5250,350,-61,314
+3600,16,2,5085,339,-61,812
+3600,16,2,5235,349,-60,870
+3600,16,2,5220,348,-62,250
+3600,16,2,5205,347,-61,314
+3600,16,2,5160,344,-61,314
+3600,16,2,5190,346,-61,813
+3600,16,2,5115,341,-61,313
+3600,16,2,5250,350,-61,300
+3600,16,2,5220,348,-61,821
+3600,16,2,5235,349,-61,819
+3600,16,2,5235,349,-62,304
+3600,16,2,5280,352,-61,308
+3600,16,2,5220,348,-61,301
+3600,16,2,5175,345,-62,315
+3600,16,2,5145,343,-61,820
+3600,16,2,5205,347,-61,297
+3600,16,2,5160,344,-61,319
+3600,16,2,5085,339,-61,866
+3600,16,2,5055,337,-61,260
+3600,16,2,5400,360,-62,810
+3600,16,2,5220,348,-61,322
+3600,16,2,5250,350,-63,287
+3600,16,2,5160,344,-62,331
+3600,16,2,5265,351,-62,313
+3600,16,2,5070,338,-62,301
+3600,16,2,5250,350,-62,306
+3600,16,2,5205,347,-62,345
+3600,16,2,5265,351,-62,262
+3600,16,2,5370,358,-62,307
+3600,16,2,5385,359,-61,322
+3600,16,2,5340,356,-62,290
+3600,16,2,5220,348,-61,345
+3600,16,2,5490,366,-62,775
+3600,16,2,5385,359,-61,314
+3600,16,2,5205,347,-61,814
+3600,16,2,5235,349,-61,303
+3600,16,2,5145,343,-61,310
+3600,16,2,5250,350,-63,314
+3600,16,2,5385,359,-61,305
+3600,16,2,5190,346,-62,304
+3600,16,2,5490,366,-61,303
+3600,16,2,5505,367,-62,317
+3600,16,2,5430,362,-61,308
+3600,16,2,5295,353,-61,303
+3600,16,2,5040,336,-62,300
+3600,16,2,5100,340,-62,306
+3600,16,2,5145,343,-61,315
+3600,16,2,5520,368,-63,305
+3600,16,2,5325,355,-62,303
+3600,16,2,5280,352,-61,319
+3600,16,2,5340,356,-61,308
+3600,16,2,5445,363,-61,305
+3600,16,2,5595,373,-63,307
+3600,16,2,5205,347,-60,821
+3600,16,2,5205,347,-60,293
+3600,16,2,5175,345,-59,312
+3600,16,2,5280,352,-61,304
+3600,16,2,5100,340,-61,316
+3600,16,2,5130,342,-61,300
+3600,16,2,5370,358,-61,312
+3600,16,2,5130,342,-61,312
+3600,16,2,5070,338,-62,296
+3600,16,2,5175,345,-61,312
+3600,16,2,5355,357,-61,305
+3600,16,2,5085,339,-62,315
+3600,16,2,5160,344,-60,307
+3600,16,2,4980,332,-57,313
+3600,16,2,5430,362,-63,808
+3600,16,2,5130,342,-62,304
+3600,16,2,5295,353,-61,304
+3600,16,2,5145,343,-60,312
+3600,16,2,5205,347,-61,317
+3600,16,2,4950,330,-60,305
+3600,16,2,5265,351,-62,815
+3600,16,2,5250,350,-60,306
+3600,16,2,5325,355,-61,312
+3600,16,2,5235,349,-61,303
+3600,16,2,5280,352,-61,306
+3600,16,2,5190,346,-61,315
+3600,16,2,5280,352,-61,301
+3600,16,2,5175,345,-60,311
+3600,16,2,5205,347,-62,302
+3600,16,2,5145,343,-61,300
+3600,16,2,5160,344,-61,329
+3600,16,2,5220,348,-61,318
+3600,16,2,5220,348,-61,801
+3600,16,2,5190,346,-61,302
+3600,16,2,5145,343,-63,306
+3600,16,2,5235,349,-61,302
+3600,16,2,5160,344,-61,314
+3600,16,2,5205,347,-61,313
+3600,16,2,5205,347,-61,308
+3600,16,2,5085,339,-61,306
+3600,16,2,5160,344,-61,307
+3600,16,2,5115,341,-61,823
+3600,16,2,5220,348,-61,406
+3600,16,2,5205,347,-61,809
+3600,16,2,5115,341,-61,331
+3600,16,2,5175,345,-61,803
+3600,16,2,5205,347,-61,867
+3600,16,2,5205,347,-61,254
+3600,16,2,5190,346,-62,329
+3600,16,2,5205,347,-62,812
+3600,16,2,5160,344,-62,299
+3600,16,2,5205,347,-61,810
+3600,16,2,5190,346,-62,317
+3600,16,2,5250,350,-61,818
+3600,16,2,5205,347,-61,1329
+3600,16,2,5220,348,-61,314
+3600,16,2,5160,344,-61,814
+3600,16,2,5175,345,-61,310
+3600,16,2,5040,336,-61,313
+3600,16,2,5145,343,-60,813
+3600,16,2,5145,343,-62,300
+3600,16,2,5175,345,-61,309
+3600,16,2,5085,339,-61,406
+3600,16,2,5160,344,-61,307
+3600,16,2,5130,342,-61,320
+3600,16,2,5130,342,-61,315
+3600,16,2,5130,342,-62,310
+3600,16,2,5175,345,-62,298
+3600,16,2,5100,340,-61,295
+3600,16,2,5175,345,-61,310
+3600,16,2,5130,342,-62,302
+3600,16,2,5190,346,-61,307
+3600,16,2,5205,347,-61,305
+3600,16,2,5175,345,-62,326
+3600,16,2,5145,343,-60,814
+3600,16,2,5175,345,-60,294
+3600,16,2,5145,343,-61,319
+3600,16,2,5100,340,-61,824
+3600,16,2,5070,338,-61,835
+3600,16,2,5115,341,-61,789
+3600,16,2,5190,346,-61,315
+3600,16,2,5130,342,-61,821
+3600,16,2,5160,344,-61,308
+3600,16,2,5190,346,-62,304
+3600,16,2,5160,344,-61,314
+3600,16,2,5145,343,-61,813
+3600,16,2,5100,340,-61,310
+3600,16,2,5175,345,-62,821
+3600,16,2,5250,350,-62,815
+3600,16,2,5175,345,-61,307
+3600,16,2,5160,344,-61,308
+3600,16,2,5145,343,-62,303
+3600,16,2,5160,344,-61,308
+3600,16,2,5160,344,-61,296
+3600,16,2,5160,344,-61,320
+3600,16,2,5115,341,-62,297
+3600,16,2,5145,343,-61,305
+3600,16,2,5175,345,-62,327
+3600,16,2,5055,337,-62,299
+3600,16,2,5175,345,-61,295
+3600,16,2,5220,348,-61,316
+3600,16,2,5190,346,-61,299
+3600,16,2,5145,343,-61,323
+3600,16,2,5205,347,-61,299
+3600,16,2,5220,348,-61,303
+3600,16,2,5175,345,-61,321
+3600,16,2,5175,345,-62,304
+3600,16,2,5145,343,-61,305
+3600,16,2,5220,348,-61,353
+3600,16,2,5220,348,-62,782
+3600,16,2,5145,343,-61,302
+3600,16,2,5250,350,-61,298
+3600,16,2,5115,341,-61,305
+3600,16,2,5160,344,-62,317
+3600,16,2,5160,344,-61,307
+3600,16,2,5100,340,-61,304
+3600,16,2,5190,346,-61,304
+3600,16,2,5160,344,-61,305
+3600,16,2,5190,346,-60,307
+3600,16,2,5145,343,-61,308
+3600,16,2,5115,341,-62,312
+3600,16,2,5115,341,-61,314
+3600,16,2,5190,346,-61,294
+3600,16,2,5160,344,-62,321
+3600,16,2,5145,343,-61,810
+3600,16,2,5190,346,-61,310
+3600,16,2,5205,347,-62,310
+3600,16,2,5220,348,-61,297
+3600,16,2,5235,349,-61,308
+3600,16,2,5190,346,-61,307
+3600,16,2,5190,346,-62,314
+3600,16,2,5220,348,-61,304
+3600,16,2,5130,342,-61,312
+3600,16,2,5265,351,-62,819
+3600,16,2,5160,344,-61,301
+3600,16,2,5235,349,-61,315
+3600,16,2,5130,342,-61,813
+3600,16,2,5175,345,-61,311
+3600,16,2,5130,342,-61,306
+3600,16,2,5160,344,-62,303
+3600,16,2,5175,345,-61,304
+3600,16,2,5190,346,-61,310
+3600,16,2,5205,347,-62,302
+3600,16,2,5160,344,-62,321
+3600,16,2,5250,350,-61,822
+3600,16,2,5250,350,-61,811
+3600,16,2,5205,347,-61,306
+3600,16,2,5175,345,-61,304
+3600,16,2,5235,349,-60,311
+3600,16,2,5220,348,-61,305
+3600,16,2,5190,346,-61,312
+3600,16,2,5205,347,-61,313
+3600,16,2,5145,343,-61,815
+3600,16,2,5235,349,-61,329
+3600,16,2,5310,354,-61,300
+3600,16,2,5220,348,-61,297
+3600,16,2,5190,346,-60,305
+3600,16,2,5190,346,-61,818
+3600,16,2,5190,346,-60,811
+3600,16,2,5190,346,-62,321
+3600,16,2,5175,345,-61,294
+3600,16,2,5280,352,-61,316
+3600,16,2,5190,346,-61,310
+3600,16,2,5220,348,-61,297
+3600,16,2,5145,343,-61,320
+3600,16,2,5220,348,-61,822
+3600,16,2,5220,348,-62,287
+3600,16,2,5220,348,-61,315
+3600,16,2,5190,346,-62,313
+3600,16,2,5220,348,-61,308
+3600,16,2,5130,342,-62,825
+3600,16,2,5205,347,-61,302
+3600,16,2,5175,345,-62,302
+3600,16,2,5175,345,-62,309
+3600,16,2,5205,347,-62,293
+3600,16,2,5205,347,-61,323
+3600,16,2,5235,349,-62,303
+3600,16,2,5130,342,-62,311
+3600,16,2,5130,342,-62,306
+3600,16,2,5175,345,-61,298
+3600,16,2,5205,347,-61,324
+3600,16,2,5190,346,-62,297
+3600,16,2,5160,344,-61,296
+3600,16,2,5250,350,-61,323
+3600,16,2,5160,344,-61,304
+3600,16,2,5190,346,-62,293
+3600,16,2,5250,350,-61,324
+3600,16,2,5295,353,-62,308
+3600,16,2,5205,347,-62,820
+3600,16,2,5175,345,-61,332
+3600,16,2,5235,349,-61,277
+3600,16,2,5250,350,-61,823
+3600,16,2,5190,346,-61,301
+3600,16,2,5205,347,-61,316
+3600,16,2,5280,352,-62,804
+3600,16,2,5175,345,-62,312
+3600,16,2,5310,354,-62,312
+3600,16,2,5175,345,-62,819
+3600,16,2,5130,342,-61,819
+3600,16,2,5175,345,-61,301
+3600,16,2,5115,341,-61,307
+3600,16,2,5145,343,-61,314
+3600,16,2,5250,350,-61,819
+3600,16,2,5205,347,-61,307
+3600,16,2,5175,345,-62,305
+3600,16,2,5205,347,-61,311
+3600,16,2,5220,348,-62,301
+3600,16,2,5235,349,-60,315
+3600,16,2,5205,347,-62,303
+3600,16,2,5190,346,-61,303
+3600,16,2,5115,341,-62,314
+3600,16,2,5070,338,-61,815
+3600,16,2,5085,339,-61,312
+3600,16,2,5115,341,-61,296
+3600,16,2,5190,346,-62,310
+3600,16,2,5205,347,-62,305
+3600,16,2,5205,347,-61,306
+3600,16,2,5175,345,-61,317
+3600,16,2,5085,339,-61,311
+3600,16,2,5115,341,-61,299
+3600,16,2,5190,346,-61,313
+3600,16,2,5130,342,-61,298
+3600,16,2,5190,346,-61,315
+3600,16,2,5130,342,-61,817
+3600,16,2,5160,344,-62,298
+3600,16,2,5175,345,-61,319
+3600,16,2,5190,346,-61,810
+3600,16,2,5235,349,-61,316
+3600,16,2,5145,343,-62,307
+3600,16,2,5130,342,-60,819
+3600,16,2,5205,347,-61,295
+3600,16,2,5100,340,-61,318
+3600,16,2,5160,344,-61,303
+3600,16,2,5130,342,-61,304
+3600,16,2,5190,346,-61,320
+3600,16,2,5115,341,-61,298
+3600,16,2,5145,343,-61,305
+3600,16,2,5205,347,-61,301
+3600,16,2,5100,340,-62,308
+3600,16,2,5115,341,-61,311
+3600,16,2,5250,350,-62,323
+3600,16,2,5145,343,-61,306
+3600,16,2,5205,347,-61,303
+3600,16,2,5130,342,-62,307
+3600,16,2,5145,343,-60,301
+3600,16,2,5190,346,-62,304
+3600,16,2,5160,344,-61,311
+3600,16,2,5145,343,-62,298
+3600,16,2,5115,341,-61,321
+3600,16,2,5130,342,-61,296
+3600,16,2,5220,348,-61,311
+3600,16,2,5130,342,-61,312
+3600,16,2,5040,336,-61,304
+3600,16,2,5145,343,-61,317
+3600,16,2,5100,340,-61,816
+3600,16,2,5160,344,-61,299
+3600,16,2,5085,339,-61,308
+3600,16,2,5145,343,-61,307
+3600,16,2,5160,344,-60,314
+3600,16,2,5190,346,-60,296
+3600,16,2,5160,344,-61,308
+3600,16,2,5190,346,-61,316
+3600,16,2,5010,334,-60,303
+3600,16,2,5190,346,-60,301
+3600,16,2,5160,344,-61,313
+3600,16,2,5085,339,-61,314
+3600,16,2,5205,347,-60,820
+3600,16,2,5205,347,-61,818
+3600,16,2,5205,347,-62,812
+3600,16,2,5190,346,-62,301
+3600,16,2,5085,339,-62,314
+3600,16,2,5130,342,-61,312
+3600,16,2,5160,344,-61,304
+3600,16,2,5100,340,-61,312
+3600,16,2,5055,337,-61,307
+3600,16,2,5130,342,-61,821
+3600,16,2,5040,336,-61,808
+3600,16,2,4995,333,-61,307
+3600,16,2,5145,343,-61,318
+3600,16,2,5370,358,-60,313
+3600,16,2,5445,363,-62,799
+3600,16,2,5325,355,-61,314
+3600,16,2,5475,365,-61,314
+3600,16,2,5160,344,-61,819
+3600,16,2,5190,346,-62,303
+3600,16,2,5070,338,-61,304
+3600,16,2,5085,339,-61,315
+3600,16,2,5130,342,-62,301
+3600,16,2,5160,344,-62,314
+3600,16,2,5115,341,-61,308
+3600,16,2,5145,343,-61,810
+3600,16,2,5175,345,-61,306
+3600,16,2,5295,353,-61,309
+3600,16,2,5175,345,-61,299
+3600,16,2,5175,345,-61,318
+3600,16,2,5160,344,-62,307
+3600,16,2,5175,345,-61,312
+3600,16,2,5115,341,-61,302
+3600,16,2,5130,342,-60,298
+3600,16,2,5130,342,-61,322
+3600,16,2,5160,344,-60,819
+3600,16,2,5145,343,-62,811
+3600,16,2,5145,343,-61,318
+3600,16,2,5220,348,-62,297
+3600,16,2,5130,342,-61,305
+3600,16,2,5085,339,-61,312
+3600,16,2,5130,342,-61,302
+3600,16,2,5145,343,-61,314
+3600,16,2,5115,341,-61,314
+3600,16,2,5100,340,-61,292
+3600,16,2,5085,339,-61,319
+3600,16,2,5115,341,-61,295
+3600,16,2,5205,347,-62,307
+3600,16,2,5205,347,-61,326
+3600,16,2,5145,343,-61,291
+3600,16,2,5280,352,-62,317
+3600,16,2,5190,346,-61,819
+3600,16,2,5130,342,-61,807
+3600,16,2,5070,338,-61,319
+3600,16,2,5130,342,-61,305
+3600,16,2,5175,345,-62,310
+3600,16,2,5085,339,-62,819
+3600,16,2,4980,332,-61,309
+3600,16,2,5265,351,-61,299
+3600,16,2,5280,352,-62,304
+3600,16,2,5220,348,-61,304
+3600,16,2,5280,352,-62,312
+3600,16,2,5160,344,-61,315
+3600,16,2,5115,341,-61,308
+3600,16,2,5325,355,-61,344
+3600,16,2,5400,360,-62,269
+3600,16,2,5100,340,-60,360
+3600,16,2,5100,340,-60,777
+3600,16,2,5205,347,-60,300
+3600,16,2,5295,353,-60,807
+3600,16,2,5400,360,-61,317
+3600,16,2,5400,360,-63,299
+3600,16,2,5415,361,-62,316
+3600,16,2,5130,342,-63,820
+3600,16,2,4890,326,-61,303
+3600,16,2,5070,338,-62,298
+3600,16,2,4935,329,-60,310
+3600,16,2,4980,332,-60,308
+3600,16,2,4950,330,-60,302
+3600,16,2,5070,338,-61,320
+3600,16,2,5325,355,-61,305
+3600,16,2,5700,380,-62,335
+3600,16,2,5310,354,-63,278
+3600,16,2,5085,339,-61,298
+3600,16,2,5070,338,-61,308
+3600,16,2,5115,341,-61,314
+3600,16,2,5160,344,-61,306
+3600,16,2,5070,338,-62,315
+3600,16,2,5070,338,-61,302
+3600,16,2,5070,338,-61,302
+3600,16,2,5145,343,-62,304
+3600,16,2,5220,348,-61,313
+# Config 2/5: frame_count=16, burst_period=4
+3600,16,4,5250,350,-61,503
+3600,16,4,5190,346,-62,527
+3600,16,4,5265,351,-62,621
+3600,16,4,5220,348,-62,502
+3600,16,4,5205,347,-61,500
+3600,16,4,5310,354,-61,523
+3600,16,4,5220,348,-61,507
+3600,16,4,5265,351,-62,512
+3600,16,4,5130,342,-62,509
+3600,16,4,5190,346,-61,513
+3600,16,4,5220,348,-62,511
+3600,16,4,5295,353,-62,514
+3600,16,4,5190,346,-61,510
+3600,16,4,5175,345,-61,507
+3600,16,4,5145,343,-61,518
+3600,16,4,5130,342,-62,507
+3600,16,4,5250,350,-62,517
+3600,16,4,5265,351,-62,512
+3600,16,4,5190,346,-61,526
+3600,16,4,5190,346,-61,493
+3600,16,4,5205,347,-61,513
+3600,16,4,5220,348,-62,525
+3600,16,4,5235,349,-62,503
+3600,16,4,5145,343,-62,520
+3600,16,4,5175,345,-61,511
+3600,16,4,5205,347,-62,505
+3600,16,4,5220,348,-62,520
+3600,16,4,5220,348,-61,513
+3600,16,4,5190,346,-61,514
+3600,16,4,5205,347,-62,511
+3600,16,4,5220,348,-61,616
+3600,16,4,5205,347,-62,495
+3600,16,4,5160,344,-61,512
+3600,16,4,5145,343,-61,513
+3600,16,4,5190,346,-61,514
+3600,16,4,5145,343,-61,509
+3600,16,4,5190,346,-61,521
+3600,16,4,5130,342,-61,516
+3600,16,4,5205,347,-62,1026
+3600,16,4,5235,349,-61,497
+3600,16,4,5220,348,-62,529
+3600,16,4,5220,348,-61,1039
+3600,16,4,5205,347,-61,496
+3600,16,4,5190,346,-62,513
+3600,16,4,5100,340,-62,512
+3600,16,4,5115,341,-61,1014
+3600,16,4,5085,339,-61,529
+3600,16,4,5115,341,-61,498
+3600,16,4,5175,345,-61,502
+3600,16,4,5145,343,-61,527
+3600,16,4,5115,341,-61,511
+3600,16,4,5160,344,-61,1010
+3600,16,4,5130,342,-61,512
+3600,16,4,5190,346,-60,512
+3600,16,4,5160,344,-61,512
+3600,16,4,5190,346,-61,513
+3600,16,4,5190,346,-61,531
+3600,16,4,5145,343,-61,495
+3600,16,4,5265,351,-60,512
+3600,16,4,5115,341,-61,512
+3600,16,4,5010,334,-60,519
+3600,16,4,5115,341,-60,520
+3600,16,4,5145,343,-62,497
+3600,16,4,5130,342,-61,514
+3600,16,4,5130,342,-61,514
+3600,16,4,5100,340,-61,514
+3600,16,4,5145,343,-61,516
+3600,16,4,4980,332,-60,512
+3600,16,4,5055,337,-61,499
+3600,16,4,4995,333,-61,521
+3600,16,4,5040,336,-61,504
+3600,16,4,5040,336,-61,513
+3600,16,4,5085,339,-60,524
+3600,16,4,5175,345,-61,511
+3600,16,4,5040,336,-61,1020
+3600,16,4,5220,348,-61,504
+3600,16,4,5295,353,-61,516
+3600,16,4,5220,348,-61,520
+3600,16,4,5175,345,-61,1020
+3600,16,4,5070,338,-60,512
+3600,16,4,5130,342,-61,512
+3600,16,4,5175,345,-60,506
+3600,16,4,5220,348,-61,511
+3600,16,4,5205,347,-61,513
+3600,16,4,5160,344,-61,523
+3600,16,4,5220,348,-62,1012
+3600,16,4,5190,346,-61,527
+3600,16,4,5160,344,-62,509
+3600,16,4,5295,353,-61,1025
+3600,16,4,5235,349,-62,504
+3600,16,4,5145,343,-62,508
+3600,16,4,5250,350,-61,527
+3600,16,4,5160,344,-61,508
+3600,16,4,5190,346,-61,502
+3600,16,4,5205,347,-62,511
+3600,16,4,5175,345,-61,522
+3600,16,4,5175,345,-61,503
+3600,16,4,5175,345,-62,526
+3600,16,4,5220,348,-61,1009
+3600,16,4,5400,360,-61,529
+3600,16,4,5280,352,-62,510
+3600,16,4,5190,346,-61,513
+3600,16,4,5220,348,-62,507
+3600,16,4,5205,347,-61,1028
+3600,16,4,5250,350,-62,1009
+3600,16,4,5250,350,-61,516
+3600,16,4,5220,348,-62,505
+3600,16,4,5295,353,-62,525
+3600,16,4,5280,352,-61,1032
+3600,16,4,5250,350,-61,1017
+3600,16,4,5190,346,-62,510
+3600,16,4,5370,358,-62,516
+3600,16,4,5205,347,-61,1032
+3600,16,4,5160,344,-62,507
+3600,16,4,5430,362,-62,498
+3600,16,4,5205,347,-62,515
+3600,16,4,5085,339,-61,515
+3600,16,4,5010,334,-62,524
+3600,16,4,5160,344,-61,1015
+3600,16,4,5175,345,-61,527
+3600,16,4,5265,351,-61,508
+3600,16,4,5115,341,-61,537
+3600,16,4,5175,345,-61,465
+3600,16,4,5115,341,-61,513
+3600,16,4,5085,339,-60,518
+3600,16,4,5160,344,-61,528
+3600,16,4,5115,341,-60,1028
+3600,16,4,5190,346,-61,495
+3600,16,4,5040,336,-61,520
+3600,16,4,5070,338,-60,1034
+3600,16,4,5025,335,-61,1002
+3600,16,4,4950,330,-61,524
+3600,16,4,4860,324,-60,1008
+3600,16,4,5220,348,-61,512
+3600,16,4,5160,344,-62,530
+3600,16,4,4995,333,-61,505
+3600,16,4,5145,343,-61,1025
+3600,16,4,5175,345,-60,1009
+3600,16,4,5160,344,-61,511
+3600,16,4,5025,335,-61,525
+3600,16,4,5070,338,-61,1143
+3600,16,4,5160,344,-61,1086
+3600,16,4,5325,355,-62,939
+3600,16,4,5250,350,-61,511
+3600,16,4,5220,348,-61,528
+3600,16,4,5220,348,-60,495
+3600,16,4,5340,356,-61,528
+3600,16,4,5340,356,-61,508
+3600,16,4,5265,351,-61,516
+3600,16,4,5235,349,-60,495
+3600,16,4,5265,351,-61,530
+3600,16,4,5295,353,-61,493
+3600,16,4,5370,358,-61,509
+3600,16,4,5295,353,-62,525
+3600,16,4,5340,356,-62,501
+3600,16,4,5430,362,-63,526
+3600,16,4,5190,346,-61,1023
+3600,16,4,5190,346,-60,512
+3600,16,4,5190,346,-60,510
+3600,16,4,5295,353,-61,1024
+3600,16,4,5115,341,-61,1031
+3600,16,4,5145,343,-60,1015
+3600,16,4,5130,342,-61,501
+3600,16,4,5100,340,-61,511
+3600,16,4,5100,340,-60,533
+3600,16,4,5085,339,-61,505
+3600,16,4,5115,341,-60,511
+3600,16,4,5145,343,-60,1023
+3600,16,4,5085,339,-61,511
+3600,16,4,5115,341,-60,509
+3600,16,4,5175,345,-62,507
+3600,16,4,5145,343,-61,525
+3600,16,4,5130,342,-61,1010
+3600,16,4,5250,350,-61,524
+3600,16,4,5085,339,-61,1032
+3600,16,4,5130,342,-61,504
+3600,16,4,5160,344,-62,1026
+3600,16,4,5100,340,-62,513
+3600,16,4,5175,345,-63,1016
+3600,16,4,5130,342,-61,519
+3600,16,4,5190,346,-62,501
+3600,16,4,5160,344,-61,521
+3600,16,4,5175,345,-62,1013
+3600,16,4,5130,342,-62,526
+3600,16,4,5220,348,-61,1025
+3600,16,4,5085,339,-61,505
+3600,16,4,5145,343,-61,508
+3600,16,4,5145,343,-61,514
+3600,16,4,5220,348,-61,507
+3600,16,4,5190,346,-61,520
+3600,16,4,5265,351,-62,503
+3600,16,4,5100,340,-62,517
+3600,16,4,5265,351,-62,515
+3600,16,4,5115,341,-61,503
+3600,16,4,5100,340,-61,513
+3600,16,4,5115,341,-61,512
+3600,16,4,5130,342,-61,524
+3600,16,4,5190,346,-61,1020
+3600,16,4,5130,342,-61,504
+3600,16,4,5085,339,-62,524
+3600,16,4,5190,346,-62,1027
+3600,16,4,5205,347,-61,1011
+3600,16,4,5205,347,-62,522
+3600,16,4,5085,339,-61,1034
+3600,16,4,5175,345,-59,502
+3600,16,4,5205,347,-61,1011
+3600,16,4,5235,349,-62,519
+3600,16,4,5205,347,-61,509
+3600,16,4,5250,350,-62,520
+3600,16,4,5235,349,-61,513
+3600,16,4,5145,343,-61,500
+3600,16,4,5205,347,-60,523
+3600,16,4,5100,340,-62,502
+3600,16,4,5070,338,-61,512
+3600,16,4,5100,340,-59,518
+3600,16,4,5145,343,-61,505
+3600,16,4,5085,339,-61,512
+3600,16,4,5025,335,-62,523
+3600,16,4,5115,341,-62,1098
+3600,16,4,5190,346,-62,947
+3600,16,4,5085,339,-62,511
+3600,16,4,5100,340,-61,516
+3600,16,4,5040,336,-61,1020
+3600,16,4,5130,342,-62,511
+3600,16,4,5130,342,-60,506
+3600,16,4,5175,345,-61,510
+3600,16,4,5160,344,-61,514
+3600,16,4,5145,343,-61,513
+3600,16,4,5145,343,-61,528
+3600,16,4,5010,334,-61,597
+3600,16,4,5190,346,-62,1039
+3600,16,4,5115,341,-61,1013
+3600,16,4,5175,345,-61,511
+3600,16,4,5175,345,-61,521
+3600,16,4,5160,344,-61,623
+3600,16,4,5160,344,-61,501
+3600,16,4,5220,348,-61,514
+3600,16,4,5220,348,-61,1024
+3600,16,4,5130,342,-61,1013
+3600,16,4,5145,343,-61,512
+3600,16,4,5220,348,-61,524
+3600,16,4,5145,343,-61,514
+3600,16,4,5175,345,-61,503
+3600,16,4,5100,340,-62,520
+3600,16,4,5190,346,-62,1008
+3600,16,4,5085,339,-61,514
+3600,16,4,5205,347,-61,515
+3600,16,4,5175,345,-61,522
+3600,16,4,5220,348,-61,512
+3600,16,4,5025,335,-61,1023
+3600,16,4,5070,338,-61,1026
+3600,16,4,5070,338,-61,1026
+3600,16,4,5160,344,-62,1020
+3600,16,4,5250,350,-62,1016
+3600,16,4,5220,348,-62,520
+3600,16,4,5235,349,-61,500
+3600,16,4,5145,343,-61,534
+3600,16,4,5325,355,-62,502
+3600,16,4,5220,348,-62,1017
+3600,16,4,5160,344,-61,519
+3600,16,4,5160,344,-61,1027
+3600,16,4,5220,348,-62,496
+3600,16,4,5145,343,-62,514
+3600,16,4,5085,339,-60,511
+3600,16,4,5160,344,-61,519
+3600,16,4,5175,345,-61,521
+3600,16,4,5100,340,-61,495
+3600,16,4,5265,351,-61,526
+3600,16,4,5085,339,-61,1011
+3600,16,4,5175,345,-62,527
+3600,16,4,5130,342,-61,496
+3600,16,4,5175,345,-62,512
+3600,16,4,5160,344,-62,525
+3600,16,4,5070,338,-62,1044
+3600,16,4,5070,338,-61,500
+3600,16,4,5175,345,-60,507
+3600,16,4,4980,332,-61,1011
+3600,16,4,4950,330,-62,512
+3600,16,4,4950,330,-62,510
+3600,16,4,5175,345,-61,525
+3600,16,4,5070,338,-61,498
+3600,16,4,5100,340,-60,514
+3600,16,4,5115,341,-61,524
+3600,16,4,5010,334,-61,1015
+3600,16,4,5040,336,-61,508
+3600,16,4,5100,340,-62,513
+3600,16,4,5070,338,-61,524
+3600,16,4,5070,338,-62,505
+3600,16,4,5100,340,-61,506
+3600,16,4,5040,336,-61,524
+3600,16,4,5130,342,-61,1029
+3600,16,4,5175,345,-62,504
+3600,16,4,5250,350,-61,503
+3600,16,4,5235,349,-62,511
+3600,16,4,5160,344,-61,526
+3600,16,4,5145,343,-61,1012
+3600,16,4,5070,338,-60,514
+3600,16,4,5160,344,-61,522
+3600,16,4,5100,340,-61,502
+3600,16,4,5175,345,-61,518
+3600,16,4,5160,344,-61,501
+3600,16,4,5205,347,-61,516
+3600,16,4,5220,348,-61,522
+3600,16,4,5145,343,-61,516
+3600,16,4,5085,339,-61,502
+3600,16,4,5055,337,-61,508
+3600,16,4,5115,341,-61,522
+3600,16,4,5175,345,-61,511
+3600,16,4,5130,342,-62,585
+3600,16,4,5145,343,-62,952
+3600,16,4,5280,352,-62,1025
+3600,16,4,5220,348,-62,516
+3600,16,4,5280,352,-62,509
+3600,16,4,5160,344,-62,1022
+3600,16,4,5085,339,-61,1021
+3600,16,4,5115,341,-61,519
+3600,16,4,5130,342,-60,1017
+3600,16,4,5040,336,-61,512
+3600,16,4,5130,342,-62,524
+3600,16,4,5130,342,-61,496
+3600,16,4,5130,342,-62,520
+3600,16,4,5175,345,-61,507
+3600,16,4,5115,341,-62,516
+3600,16,4,5160,344,-62,502
+3600,16,4,5235,349,-62,513
+3600,16,4,5115,341,-61,521
+3600,16,4,5100,340,-61,1022
+3600,16,4,5145,343,-61,508
+3600,16,4,5280,352,-62,515
+3600,16,4,5145,343,-61,521
+3600,16,4,5130,342,-60,1028
+3600,16,4,5205,347,-61,505
+3600,16,4,5160,344,-61,1028
+3600,16,4,5160,344,-60,496
+3600,16,4,5145,343,-61,526
+3600,16,4,5025,335,-60,508
+3600,16,4,5010,334,-60,543
+3600,16,4,5325,355,-61,587
+3600,16,4,5280,352,-61,513
+3600,16,4,4770,318,-60,518
+3600,16,4,5250,350,-62,1017
+3600,16,4,5295,353,-62,1020
+3600,16,4,5190,346,-62,1025
+3600,16,4,5190,346,-61,1027
+3600,16,4,5280,352,-62,1019
+3600,16,4,5100,340,-61,1029
+3600,16,4,5265,351,-61,1027
+3600,16,4,5595,373,-62,1026
+3600,16,4,5400,360,-63,504
+3600,16,4,5370,358,-62,1024
+3600,16,4,5220,348,-61,1039
+3600,16,4,5250,350,-61,1008
+3600,16,4,5250,350,-61,515
+3600,16,4,5280,352,-61,513
+3600,16,4,5325,355,-61,1023
+3600,16,4,5325,355,-62,1030
+3600,16,4,5295,353,-62,506
+3600,16,4,5160,344,-60,1011
+3600,16,4,5175,345,-61,511
+3600,16,4,5055,337,-61,517
+3600,16,4,5085,339,-60,511
+3600,16,4,5160,344,-61,519
+3600,16,4,5310,354,-61,506
+3600,16,4,5250,350,-60,518
+3600,16,4,5130,342,-61,506
+3600,16,4,5130,342,-61,504
+3600,16,4,5265,351,-59,526
+3600,16,4,5100,340,-61,513
+3600,16,4,5010,334,-61,513
+3600,16,4,5070,338,-60,1028
+3600,16,4,5880,392,-63,1022
+3600,16,4,5040,336,-60,674
+3600,16,4,4890,326,-61,952
+3600,16,4,4950,330,-60,512
+3600,16,4,5025,335,-60,520
+3600,16,4,5145,343,-61,1013
+3600,16,4,4995,333,-62,524
+3600,16,4,4920,328,-59,1070
+3600,16,4,5055,337,-60,994
+3600,16,4,5040,336,-61,511
+3600,16,4,5115,341,-61,516
+3600,16,4,4965,331,-61,994
+3600,16,4,4920,328,-61,532
+3600,16,4,4905,327,-61,1017
+3600,16,4,4860,324,-60,511
+3600,16,4,4815,321,-60,1028
+3600,16,4,4755,317,-60,508
+3600,16,4,4980,332,-60,1012
+3600,16,4,4905,327,-60,531
+3600,16,4,4965,331,-60,493
+3600,16,4,4905,327,-61,615
+3600,16,4,4995,333,-61,1039
+3600,16,4,5070,338,-61,507
+3600,16,4,5055,337,-61,1026
+3600,16,4,5010,334,-61,511
+3600,16,4,4980,332,-60,516
+3600,16,4,4950,330,-60,506
+3600,16,4,4980,332,-60,513
+3600,16,4,4920,328,-59,1029
+3600,16,4,4935,329,-60,509
+3600,16,4,4890,326,-60,1039
+3600,16,4,4995,333,-60,1044
+3600,16,4,5175,345,-61,1025
+3600,16,4,4980,332,-60,987
+3600,16,4,5010,334,-60,1026
+3600,16,4,5040,336,-59,1027
+3600,16,4,5115,341,-60,549
+3600,16,4,4995,333,-59,1006
+3600,16,4,4875,325,-59,993
+3600,16,4,5010,334,-60,521
+3600,16,4,4845,323,-59,1035
+3600,16,4,4875,325,-61,497
+3600,16,4,5205,347,-62,512
+3600,16,4,4860,324,-59,520
+3600,16,4,4755,317,-59,1021
+3600,16,4,5160,344,-61,1022
+3600,16,4,4935,329,-61,1024
+3600,16,4,5265,351,-61,1027
+3600,16,4,5220,348,-62,1020
+3600,16,4,4995,333,-61,1040
+3600,16,4,4980,332,-63,1016
+3600,16,4,5070,338,-62,505
+3600,16,4,5175,345,-62,518
+3600,16,4,5055,337,-61,509
+3600,16,4,5025,335,-61,1549
+W (1128421) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (1131111) wifi:No FTM Measurements received from responder!
+W (1131111) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,4,5595,373,-63,543
+3600,16,4,5385,359,-63,992
+3600,16,4,5475,365,-63,1077
+3600,16,4,5400,360,-63,475
+3600,16,4,5820,388,-64,528
+3600,16,4,5580,372,-62,1016
+3600,16,4,5400,360,-62,1014
+3600,16,4,5415,361,-61,1027
+3600,16,4,5370,358,-62,495
+3600,16,4,5310,354,-62,1074
+3600,16,4,5520,368,-61,972
+3600,16,4,5655,377,-62,1092
+3600,16,4,5505,367,-62,965
+3600,16,4,5355,357,-61,1022
+3600,16,4,5370,358,-61,506
+3600,16,4,5340,356,-62,1063
+3600,16,4,5415,361,-61,987
+3600,16,4,5265,351,-61,1022
+3600,16,4,5280,352,-61,1041
+3600,16,4,5355,357,-61,1112
+3600,16,4,5325,355,-61,1055
+3600,16,4,5340,356,-61,1142
+3600,16,4,5370,358,-61,466
+3600,16,4,5370,358,-61,512
+3600,16,4,5430,362,-62,511
+3600,16,4,5310,354,-61,1029
+3600,16,4,5370,358,-63,1007
+3600,16,4,5370,358,-61,508
+3600,16,4,5400,360,-61,608
+3600,16,4,5460,364,-61,1044
+3600,16,4,5730,382,-61,1031
+3600,16,4,5655,377,-63,1019
+3600,16,4,5220,348,-62,1027
+3600,16,4,4845,323,-58,513
+3600,16,4,5070,338,-60,1035
+3600,16,4,5565,371,-63,1285
+3600,16,4,5625,375,-63,957
+3600,16,4,5295,353,-61,1054
+3600,16,4,5685,379,-62,1029
+3600,16,4,5595,373,-62,982
+3600,16,4,5640,376,-62,1046
+3600,16,4,5520,368,-61,505
+3600,16,4,5580,372,-61,484
+3600,16,4,5610,374,-61,528
+3600,16,4,5490,366,-61,517
+3600,16,4,5745,383,-60,1019
+3600,16,4,5610,374,-61,1131
+3600,16,4,5670,378,-62,1263
+3600,16,4,5520,368,-61,618
+3600,16,4,5535,369,-61,480
+3600,16,4,5460,364,-61,499
+3600,16,4,5460,364,-60,1068
+3600,16,4,5430,362,-61,985
+3600,16,4,5550,370,-61,1192
+3600,16,4,5460,364,-62,964
+3600,16,4,5535,369,-61,1005
+3600,16,4,5790,386,-63,521
+3600,16,4,5250,350,-62,1043
+3600,16,4,5265,351,-61,1083
+3600,16,4,5085,339,-60,1124
+3600,16,4,5295,353,-61,544
+3600,16,4,5340,356,-62,1068
+3600,16,4,5070,338,-60,998
+3600,16,4,5340,356,-61,511
+3600,16,4,5415,361,-61,492
+3600,16,4,5265,351,-62,512
+3600,16,4,5610,374,-62,1023
+3600,16,4,5490,366,-61,509
+3600,16,4,5460,364,-62,505
+3600,16,4,5415,361,-62,522
+3600,16,4,5250,350,-61,527
+3600,16,4,5115,341,-61,498
+3600,16,4,5340,356,-62,1014
+3600,16,4,5340,356,-61,514
+3600,16,4,5400,360,-61,517
+3600,16,4,5475,365,-62,506
+3600,16,4,5295,353,-61,511
+3600,16,4,5325,355,-61,521
+3600,16,4,5340,356,-61,1023
+3600,16,4,5175,345,-61,523
+3600,16,4,4995,333,-60,1011
+3600,16,4,5055,337,-60,516
+3600,16,4,5175,345,-60,1017
+3600,16,4,5085,339,-60,503
+3600,16,4,5115,341,-60,516
+3600,16,4,5265,351,-61,522
+3600,16,4,5415,361,-61,1048
+3600,16,4,5415,361,-62,498
+3600,16,4,5250,350,-61,514
+3600,16,4,5205,347,-61,501
+3600,16,4,5250,350,-61,502
+3600,16,4,5340,356,-62,520
+3600,16,4,5175,345,-62,517
+3600,16,4,5145,343,-61,518
+3600,16,4,5205,347,-62,1023
+3600,16,4,5250,350,-63,511
+3600,16,4,5250,350,-62,506
+3600,16,4,5385,359,-61,1021
+3600,16,4,5400,360,-61,516
+3600,16,4,5295,353,-61,1007
+3600,16,4,5400,360,-61,515
+3600,16,4,5415,361,-61,516
+3600,16,4,5370,358,-60,520
+3600,16,4,5355,357,-61,1029
+3600,16,4,5370,358,-61,1017
+3600,16,4,5415,361,-61,532
+3600,16,4,5460,364,-62,1005
+3600,16,4,5415,361,-61,1024
+3600,16,4,5370,358,-61,499
+3600,16,4,5385,359,-61,513
+3600,16,4,5460,364,-61,531
+3600,16,4,5310,354,-62,505
+3600,16,4,5340,356,-61,1021
+3600,16,4,5355,357,-62,516
+3600,16,4,5415,361,-61,512
+3600,16,4,5460,364,-62,1023
+3600,16,4,5325,355,-62,1026
+3600,16,4,5340,356,-62,497
+3600,16,4,5490,366,-61,519
+3600,16,4,5475,365,-61,512
+3600,16,4,5475,365,-62,510
+3600,16,4,5280,352,-62,521
+3600,16,4,5220,348,-62,1024
+3600,16,4,5220,348,-61,1045
+3600,16,4,5190,346,-60,564
+3600,16,4,5175,345,-61,958
+3600,16,4,5190,346,-62,1016
+3600,16,4,5025,335,-61,1025
+3600,16,4,5280,352,-60,1028
+3600,16,4,4635,309,-60,1019
+3600,16,4,5010,334,-60,1017
+3600,16,4,5070,338,-60,519
+3600,16,4,5115,341,-60,516
+3600,16,4,5130,342,-62,1046
+3600,16,4,5130,342,-62,998
+3600,16,4,5415,361,-61,508
+3600,16,4,5295,353,-60,517
+3600,16,4,5640,376,-62,1010
+3600,16,4,5760,384,-62,525
+3600,16,4,5565,371,-63,1019
+3600,16,4,5415,361,-61,525
+3600,16,4,5400,360,-60,1022
+3600,16,4,5700,380,-62,1026
+3600,16,4,5265,351,-63,517
+3600,16,4,5505,367,-62,495
+3600,16,4,5610,374,-62,524
+3600,16,4,5610,374,-62,1084
+3600,16,4,5430,362,-62,967
+3600,16,4,5355,357,-60,501
+3600,16,4,5340,356,-60,1025
+3600,16,4,5340,356,-60,1026
+3600,16,4,5475,365,-61,507
+3600,16,4,5430,362,-60,515
+3600,16,4,5595,373,-60,1024
+3600,16,4,5430,362,-61,511
+3600,16,4,5370,358,-61,499
+3600,16,4,5355,357,-62,511
+3600,16,4,5355,357,-61,515
+3600,16,4,5430,362,-61,524
+3600,16,4,5295,353,-61,1025
+3600,16,4,5295,353,-62,1026
+3600,16,4,5475,365,-62,1022
+3600,16,4,5400,360,-62,512
+3600,16,4,5190,346,-60,512
+3600,16,4,5220,348,-59,1024
+3600,16,4,5250,350,-60,1022
+3600,16,4,5460,364,-61,1027
+3600,16,4,5580,372,-61,1018
+3600,16,4,5745,383,-62,515
+3600,16,4,5370,358,-62,1025
+3600,16,4,5280,352,-62,513
+3600,16,4,5280,352,-60,505
+3600,16,4,5445,363,-62,516
+3600,16,4,5475,365,-62,508
+3600,16,4,5430,362,-63,524
+3600,16,4,5595,373,-63,1015
+3600,16,4,5625,375,-64,511
+3600,16,4,5685,379,-63,506
+3600,16,4,5535,369,-63,521
+3600,16,4,5160,344,-61,1024
+3600,16,4,5280,352,-61,1027
+3600,16,4,5430,362,-62,500
+3600,16,4,5355,357,-62,518
+3600,16,4,5355,357,-63,505
+3600,16,4,5310,354,-61,517
+3600,16,4,5325,355,-61,514
+3600,16,4,5340,356,-61,513
+3600,16,4,5250,350,-61,514
+3600,16,4,5310,354,-61,1013
+3600,16,4,5310,354,-60,513
+3600,16,4,5325,355,-61,521
+3600,16,4,5355,357,-61,510
+3600,16,4,5415,361,-60,503
+3600,16,4,5280,352,-61,514
+3600,16,4,5310,354,-60,512
+3600,16,4,5205,347,-61,522
+3600,16,4,5205,347,-61,535
+3600,16,4,5280,352,-61,491
+3600,16,4,5085,339,-60,551
+3600,16,4,5220,348,-62,985
+3600,16,4,5220,348,-60,527
+3600,16,4,5460,364,-61,498
+3600,16,4,5340,356,-61,1024
+3600,16,4,5130,342,-61,506
+3600,16,4,5460,364,-62,513
+3600,16,4,5340,356,-62,504
+3600,16,4,5340,356,-62,512
+3600,16,4,5220,348,-62,522
+3600,16,4,5295,353,-61,1023
+3600,16,4,5355,357,-62,503
+3600,16,4,5445,363,-61,512
+3600,16,4,5475,365,-62,526
+3600,16,4,5460,364,-61,499
+3600,16,4,5460,364,-63,518
+3600,16,4,5385,359,-62,510
+3600,16,4,5370,358,-62,508
+3600,16,4,5340,356,-62,512
+3600,16,4,5310,354,-62,513
+3600,16,4,5355,357,-62,519
+3600,16,4,5490,366,-62,504
+3600,16,4,5430,362,-62,515
+3600,16,4,5520,368,-63,510
+3600,16,4,5385,359,-62,515
+3600,16,4,5250,350,-62,523
+3600,16,4,5370,358,-62,1009
+3600,16,4,5400,360,-61,512
+3600,16,4,5445,363,-62,526
+3600,16,4,5355,357,-61,1020
+3600,16,4,5475,365,-62,510
+3600,16,4,5415,361,-63,514
+3600,16,4,5445,363,-62,512
+3600,16,4,5325,355,-63,522
+3600,16,4,5400,360,-63,503
+3600,16,4,5475,365,-63,510
+3600,16,4,5430,362,-63,507
+3600,16,4,5505,367,-62,518
+3600,16,4,5400,360,-62,513
+3600,16,4,5325,355,-62,566
+3600,16,4,5385,359,-62,459
+3600,16,4,5430,362,-63,509
+3600,16,4,5280,352,-62,1018
+3600,16,4,5190,346,-62,512
+3600,16,4,5355,357,-62,506
+3600,16,4,5235,349,-62,536
+3600,16,4,5205,347,-62,1018
+3600,16,4,5325,355,-62,1010
+3600,16,4,5280,352,-63,521
+3600,16,4,5265,351,-62,504
+3600,16,4,5205,347,-62,521
+3600,16,4,5220,348,-62,515
+3600,16,4,5205,347,-62,1018
+3600,16,4,5205,347,-61,507
+3600,16,4,5385,359,-62,519
+3600,16,4,5430,362,-62,512
+3600,16,4,5475,365,-62,1032
+3600,16,4,5145,343,-61,1015
+3600,16,4,5400,360,-65,1027
+3600,16,4,5445,363,-61,503
+3600,16,4,5550,370,-64,519
+3600,16,4,5100,340,-61,530
+3600,16,4,4890,326,-60,1006
+3600,16,4,5085,339,-61,512
+3600,16,4,5145,343,-61,513
+3600,16,4,5385,359,-61,514
+3600,16,4,5190,346,-61,501
+3600,16,4,5355,357,-63,521
+3600,16,4,5250,350,-63,512
+3600,16,4,5460,364,-63,1026
+3600,16,4,5295,353,-62,1014
+3600,16,4,5310,354,-61,515
+3600,16,4,5250,350,-61,510
+3600,16,4,5385,359,-61,517
+3600,16,4,5295,353,-62,506
+3600,16,4,5175,345,-61,522
+3600,16,4,5475,365,-62,1014
+3600,16,4,5235,349,-62,512
+3600,16,4,5295,353,-63,519
+3600,16,4,5235,349,-61,1031
+3600,16,4,5355,357,-61,504
+3600,16,4,5310,354,-63,503
+3600,16,4,5235,349,-60,522
+3600,16,4,5310,354,-61,505
+3600,16,4,5295,353,-61,512
+3600,16,4,5295,353,-65,514
+3600,16,4,5175,345,-62,510
+3600,16,4,5190,346,-61,523
+3600,16,4,5325,355,-62,1006
+3600,16,4,5220,348,-62,516
+3600,16,4,5340,356,-61,526
+3600,16,4,5280,352,-62,575
+3600,16,4,5250,350,-61,536
+3600,16,4,5220,348,-61,527
+3600,16,4,5355,357,-62,503
+3600,16,4,5325,355,-62,516
+3600,16,4,5280,352,-63,509
+3600,16,4,5235,349,-61,504
+3600,16,4,5415,361,-62,529
+3600,16,4,5310,354,-62,513
+3600,16,4,5265,351,-62,510
+3600,16,4,5265,351,-62,511
+3600,16,4,5235,349,-62,517
+3600,16,4,5370,358,-61,1015
+3600,16,4,5340,356,-62,513
+3600,16,4,5265,351,-61,501
+3600,16,4,5250,350,-62,523
+3600,16,4,5280,352,-62,1038
+3600,16,4,5205,347,-62,498
+3600,16,4,5265,351,-61,1022
+3600,16,4,5130,342,-62,511
+3600,16,4,5280,352,-63,516
+3600,16,4,5280,352,-62,1024
+3600,16,4,5190,346,-62,1012
+3600,16,4,5235,349,-62,520
+3600,16,4,5265,351,-62,507
+3600,16,4,5220,348,-62,521
+3600,16,4,5115,341,-61,512
+3600,16,4,5175,345,-62,518
+3600,16,4,5160,344,-60,493
+3600,16,4,5025,335,-61,521
+3600,16,4,5130,342,-61,512
+3600,16,4,5115,341,-61,506
+3600,16,4,5355,357,-62,517
+3600,16,4,5235,349,-62,506
+3600,16,4,5160,344,-62,510
+3600,16,4,5130,342,-61,526
+3600,16,4,5280,352,-62,508
+3600,16,4,5235,349,-62,510
+3600,16,4,5265,351,-61,516
+3600,16,4,5160,344,-61,1031
+3600,16,4,5280,352,-61,503
+3600,16,4,5310,354,-62,520
+3600,16,4,5250,350,-61,1042
+3600,16,4,5205,347,-61,1001
+3600,16,4,5160,344,-61,510
+3600,16,4,5340,356,-61,1019
+3600,16,4,5295,353,-62,518
+3600,16,4,5250,350,-63,512
+3600,16,4,5175,345,-61,1015
+3600,16,4,5175,345,-61,511
+3600,16,4,5055,337,-62,519
+3600,16,4,5265,351,-61,505
+3600,16,4,5085,339,-62,522
+3600,16,4,5115,341,-61,1016
+3600,16,4,5220,348,-62,520
+3600,16,4,5205,347,-62,507
+3600,16,4,5100,340,-61,507
+3600,16,4,5130,342,-60,521
+3600,16,4,5085,339,-61,509
+3600,16,4,5265,351,-62,533
+3600,16,4,5235,349,-62,505
+3600,16,4,5145,343,-61,498
+3600,16,4,5085,339,-62,507
+3600,16,4,5220,348,-62,512
+3600,16,4,5220,348,-62,525
+3600,16,4,5220,348,-61,499
+3600,16,4,5370,358,-62,521
+3600,16,4,5205,347,-62,1029
+3600,16,4,4995,333,-62,1023
+3600,16,4,5100,340,-62,505
+3600,16,4,5370,358,-63,515
+3600,16,4,5295,353,-63,1043
+3600,16,4,5355,357,-62,484
+3600,16,4,5385,359,-62,522
+3600,16,4,5370,358,-63,503
+3600,16,4,5655,377,-62,521
+3600,16,4,5670,378,-63,516
+3600,16,4,5460,364,-62,521
+3600,16,4,4995,333,-61,1013
+3600,16,4,5160,344,-62,517
+3600,16,4,5010,334,-61,1014
+3600,16,4,4890,326,-61,522
+3600,16,4,5160,344,-61,496
+3600,16,4,5190,346,-61,510
+3600,16,4,5085,339,-61,513
+3600,16,4,5010,334,-61,567
+3600,16,4,5145,343,-61,1093
+3600,16,4,5265,351,-61,491
+3600,16,4,5190,346,-62,513
+3600,16,4,5220,348,-60,512
+3600,16,4,5100,340,-61,510
+3600,16,4,5100,340,-61,513
+3600,16,4,5160,344,-61,513
+3600,16,4,5055,337,-61,523
+3600,16,4,5070,338,-59,1020
+3600,16,4,5040,336,-60,499
+3600,16,4,5115,341,-61,520
+3600,16,4,5055,337,-60,527
+3600,16,4,5055,337,-61,530
+3600,16,4,5070,338,-61,497
+3600,16,4,5145,343,-63,499
+3600,16,4,5130,342,-61,1019
+3600,16,4,5025,335,-61,504
+3600,16,4,5160,344,-62,533
+3600,16,4,5145,343,-62,1006
+3600,16,4,4995,333,-60,515
+3600,16,4,4950,330,-61,505
+3600,16,4,4965,331,-60,520
+3600,16,4,4890,326,-61,526
+3600,16,4,4980,332,-60,495
+3600,16,4,5010,334,-60,526
+3600,16,4,5070,338,-61,508
+3600,16,4,4860,324,-62,1035
+3600,16,4,4965,331,-60,1012
+3600,16,4,4965,331,-59,1029
+3600,16,4,5145,343,-60,1031
+3600,16,4,4920,328,-61,1012
+3600,16,4,5085,339,-61,1032
+3600,16,4,4995,333,-61,1006
+3600,16,4,5055,337,-60,510
+3600,16,4,4965,331,-61,517
+3600,16,4,4950,330,-61,519
+3600,16,4,5025,335,-62,514
+3600,16,4,5025,335,-62,1025
+3600,16,4,5025,335,-61,512
+3600,16,4,4965,331,-61,518
+3600,16,4,5055,337,-60,503
+3600,16,4,5130,342,-61,513
+3600,16,4,5010,334,-61,511
+3600,16,4,5145,343,-61,508
+3600,16,4,5040,336,-61,511
+3600,16,4,5055,337,-61,521
+3600,16,4,5025,335,-61,1020
+3600,16,4,5040,336,-60,504
+3600,16,4,5160,344,-61,517
+3600,16,4,5010,334,-60,512
+3600,16,4,5040,336,-62,517
+3600,16,4,4995,333,-61,508
+3600,16,4,5025,335,-61,506
+3600,16,4,5100,340,-60,521
+3600,16,4,5070,338,-60,507
+3600,16,4,5130,342,-62,507
+3600,16,4,5280,352,-61,534
+3600,16,4,5115,341,-61,1054
+3600,16,4,5115,341,-60,988
+3600,16,4,5370,358,-62,502
+3600,16,4,5025,335,-61,515
+3600,16,4,5280,352,-61,1024
+3600,16,4,5235,349,-62,501
+3600,16,4,5040,336,-61,519
+3600,16,4,4995,333,-60,516
+3600,16,4,5085,339,-60,512
+3600,16,4,5280,352,-62,513
+3600,16,4,5085,339,-62,498
+3600,16,4,5250,350,-62,520
+3600,16,4,5250,350,-61,507
+3600,16,4,5220,348,-62,513
+3600,16,4,5175,345,-61,519
+3600,16,4,4920,328,-61,609
+3600,16,4,5145,343,-61,509
+3600,16,4,5130,342,-61,515
+3600,16,4,5130,342,-61,510
+3600,16,4,5205,347,-61,521
+3600,16,4,5190,346,-61,503
+3600,16,4,5265,351,-62,514
+3600,16,4,5160,344,-62,519
+3600,16,4,5205,347,-62,1015
+3600,16,4,5145,343,-61,525
+3600,16,4,5055,337,-62,508
+3600,16,4,5085,339,-61,520
+3600,16,4,5055,337,-62,495
+3600,16,4,5070,338,-61,523
+3600,16,4,5070,338,-62,510
+3600,16,4,5100,340,-61,1030
+3600,16,4,5145,343,-61,499
+3600,16,4,5085,339,-61,520
+3600,16,4,5115,341,-61,503
+3600,16,4,5040,336,-61,512
+3600,16,4,5025,335,-60,523
+3600,16,4,5070,338,-62,1014
+3600,16,4,5100,340,-62,511
+3600,16,4,5145,343,-60,520
+3600,16,4,5115,341,-60,504
+3600,16,4,5010,334,-60,512
+3600,16,4,5100,340,-60,518
+3600,16,4,5415,361,-61,515
+3600,16,4,5355,357,-60,1014
+3600,16,4,5355,357,-61,520
+3600,16,4,5115,341,-62,563
+3600,16,4,5055,337,-62,454
+3600,16,4,5130,342,-61,524
+3600,16,4,5145,343,-61,500
+3600,16,4,5145,343,-61,525
+3600,16,4,5085,339,-61,498
+3600,16,4,5055,337,-61,515
+3600,16,4,5100,340,-61,528
+3600,16,4,5160,344,-62,490
+3600,16,4,5190,346,-61,517
+3600,16,4,5220,348,-62,518
+3600,16,4,5160,344,-61,505
+3600,16,4,5160,344,-61,521
+3600,16,4,5175,345,-61,512
+3600,16,4,5100,340,-60,1011
+3600,16,4,5085,339,-62,525
+3600,16,4,5175,345,-60,544
+3600,16,4,5325,355,-62,478
+3600,16,4,5340,356,-63,505
+3600,16,4,5235,349,-61,511
+3600,16,4,5310,354,-62,521
+3600,16,4,5295,353,-60,1025
+3600,16,4,5115,341,-62,517
+3600,16,4,4965,331,-61,499
+3600,16,4,5070,338,-62,520
+3600,16,4,5235,349,-61,1014
+3600,16,4,5190,346,-60,514
+3600,16,4,5115,341,-61,527
+3600,16,4,5025,335,-61,1016
+3600,16,4,5175,345,-61,515
+3600,16,4,5085,339,-61,498
+3600,16,4,5145,343,-61,523
+3600,16,4,5040,336,-60,1022
+3600,16,4,5100,340,-61,500
+3600,16,4,5160,344,-61,526
+3600,16,4,5130,342,-61,512
+3600,16,4,5085,339,-61,506
+3600,16,4,5085,339,-61,511
+3600,16,4,5100,340,-61,510
+3600,16,4,5205,347,-61,522
+3600,16,4,5160,344,-61,1208
+3600,16,4,5160,344,-60,525
+E (1477260) wifi:No FTM Measurements received from responder!
+W (1477261) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,4,5205,347,-62,480
+3600,16,4,5145,343,-61,496
+3600,16,4,5250,350,-61,520
+3600,16,4,5085,339,-60,507
+3600,16,4,5040,336,-61,509
+3600,16,4,5085,339,-61,518
+3600,16,4,5220,348,-61,519
+E (1483655) wifi:No FTM Measurements received from responder!
+W (1483656) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,4,5175,345,-62,563
+E (1486916) wifi:No FTM Measurements received from responder!
+W (1486916) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,4,5190,346,-62,1012
+3600,16,4,5160,344,-61,491
+3600,16,4,5055,337,-61,670
+3600,16,4,4935,329,-60,454
+3600,16,4,5325,355,-61,1018
+3600,16,4,5310,354,-62,505
+3600,16,4,5370,358,-61,524
+3600,16,4,5205,347,-61,1013
+3600,16,4,5175,345,-61,512
+3600,16,4,5160,344,-61,512
+3600,16,4,5235,349,-61,538
+3600,16,4,5145,343,-60,499
+3600,16,4,5235,349,-61,1020
+3600,16,4,5265,351,-62,518
+3600,16,4,5250,350,-61,1042
+3600,16,4,5340,356,-62,609
+3600,16,4,5355,357,-63,1008
+3600,16,4,5505,367,-62,1022
+3600,16,4,5430,362,-62,507
+3600,16,4,5325,355,-61,528
+3600,16,4,5445,363,-63,517
+3600,16,4,5355,357,-63,505
+3600,16,4,5580,372,-62,1016
+3600,16,4,5400,360,-62,525
+3600,16,4,5160,344,-61,500
+3600,16,4,5250,350,-60,1094
+E (1507164) wifi:No FTM Measurements received from responder!
+W (1507164) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,4,5160,344,-62,605
+W (1510563) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,4,5295,353,-62,479
+3600,16,4,5205,347,-62,498
+3600,16,4,5115,341,-61,504
+3600,16,4,5130,342,-61,516
+3600,16,4,5070,338,-61,510
+3600,16,4,5400,360,-62,521
+3600,16,4,5115,341,-62,513
+3600,16,4,5160,344,-61,500
+3600,16,4,5115,341,-62,511
+3600,16,4,5265,351,-62,509
+3600,16,4,5280,352,-62,518
+3600,16,4,5130,342,-62,523
+3600,16,4,5250,350,-61,509
+3600,16,4,5175,345,-61,1016
+3600,16,4,5415,361,-61,513
+3600,16,4,5145,343,-62,522
+3600,16,4,5625,375,-63,502
+3600,16,4,5175,345,-62,512
+3600,16,4,5265,351,-60,511
+3600,16,4,5430,362,-64,512
+3600,16,4,5085,339,-61,515
+# Config 3/5: frame_count=16, burst_period=6
+3600,16,6,5085,339,-60,704
+3600,16,6,5280,352,-59,726
+3600,16,6,5400,360,-63,725
+3600,16,6,5145,343,-62,1224
+3600,16,6,5145,343,-61,717
+3600,16,6,5130,342,-62,711
+3600,16,6,4995,333,-61,722
+3600,16,6,5040,336,-60,710
+3600,16,6,5010,334,-60,717
+3600,16,6,5010,334,-59,730
+3600,16,6,5445,363,-62,1262
+3600,16,6,5190,346,-62,1261
+3600,16,6,5145,343,-61,637
+3600,16,6,5280,352,-61,725
+3600,16,6,5190,346,-62,1231
+3600,16,6,5175,345,-62,700
+3600,16,6,5145,343,-62,743
+3600,16,6,5280,352,-62,1331
+3600,16,6,5265,351,-62,713
+3600,16,6,5250,350,-60,1229
+3600,16,6,5130,342,-61,1219
+3600,16,6,5460,364,-62,725
+3600,16,6,5235,349,-62,1211
+3600,16,6,5055,337,-61,729
+E (1545447) wifi:No FTM Measurements received from responder!
+W (1545447) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,6,5475,365,-61,676
+3600,16,6,4980,332,-60,1343
+3600,16,6,5145,343,-61,1212
+3600,16,6,5040,336,-61,719
+3600,16,6,5250,350,-61,1230
+3600,16,6,5205,347,-61,717
+3600,16,6,5175,345,-61,711
+3600,16,6,5295,353,-61,729
+3600,16,6,5325,355,-61,1239
+3600,16,6,5145,343,-61,730
+3600,16,6,5235,349,-60,1205
+3600,16,6,4125,275,-61,1274
+3600,16,6,5100,340,-61,1318
+E (1561010) wifi:No FTM Measurements received from responder!
+W (1561011) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,6,5160,344,-60,743
+3600,16,6,5265,351,-62,710
+3600,16,6,5130,342,-61,1239
+3600,16,6,5115,341,-61,1231
+E (1566913) wifi:No FTM Measurements received from responder!
+W (1566913) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (1569449) wifi:No FTM Measurements received from responder!
+W (1569450) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,6,5190,346,-61,968
+3600,16,6,5115,341,-61,1286
+E (1574184) wifi:No FTM Measurements received from responder!
+W (1574185) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,6,5145,343,-61,780
+3600,16,6,5145,343,-61,1236
+3600,16,6,5025,335,-61,1730
+3600,16,6,5370,358,-61,719
+3600,16,6,5460,364,-63,706
+3600,16,6,5040,336,-60,725
+3600,16,6,5040,336,-60,714
+3600,16,6,5055,337,-60,718
+3600,16,6,5250,350,-61,711
+3600,16,6,5175,345,-60,727
+3600,16,6,5235,349,-59,1219
+3600,16,6,5280,352,-61,716
+3600,16,6,5295,353,-62,731
+3600,16,6,5265,351,-62,1233
+3600,16,6,5325,355,-61,712
+3600,16,6,5295,353,-62,714
+3600,16,6,5220,348,-61,1230
+3600,16,6,5205,347,-62,1227
+3600,16,6,5145,343,-62,715
+3600,16,6,5115,341,-61,714
+3600,16,6,5160,344,-62,721
+3600,16,6,5280,352,-62,1220
+3600,16,6,5355,357,-60,730
+3600,16,6,5250,350,-62,1233
+3600,16,6,5250,350,-62,704
+3600,16,6,5355,357,-61,713
+3600,16,6,5265,351,-61,725
+3600,16,6,5250,350,-61,1225
+3600,16,6,5235,349,-61,726
+3600,16,6,5190,346,-61,712
+3600,16,6,5265,351,-61,713
+3600,16,6,5115,341,-62,711
+3600,16,6,5175,345,-61,719
+3600,16,6,5130,342,-61,731
+3600,16,6,5175,345,-60,704
+3600,16,6,5205,347,-62,719
+3600,16,6,5235,349,-61,722
+3600,16,6,5190,346,-62,711
+3600,16,6,4935,329,-60,722
+3600,16,6,5145,343,-60,1223
+3600,16,6,5025,335,-60,717
+3600,16,6,5040,336,-60,710
+3600,16,6,4995,333,-61,718
+3600,16,6,4995,333,-60,716
+3600,16,6,5085,339,-60,723
+3600,16,6,4920,328,-61,709
+3600,16,6,5010,334,-60,725
+3600,16,6,5025,335,-60,719
+3600,16,6,5325,355,-61,716
+3600,16,6,5250,350,-62,717
+3600,16,6,5250,350,-61,720
+3600,16,6,5445,363,-62,1219
+3600,16,6,5160,344,-62,722
+3600,16,6,5205,347,-62,721
+3600,16,6,5025,335,-62,712
+3600,16,6,5010,334,-62,707
+3600,16,6,4965,331,-60,719
+3600,16,6,5010,334,-61,716
+3600,16,6,4965,331,-61,730
+3600,16,6,4950,330,-60,717
+3600,16,6,4875,325,-62,1224
+3600,16,6,4905,327,-62,709
+3600,16,6,5160,344,-62,720
+3600,16,6,5085,339,-60,712
+3600,16,6,5175,345,-61,730
+3600,16,6,5205,347,-61,823
+3600,16,6,5130,342,-61,1227
+3600,16,6,5100,340,-61,1220
+3600,16,6,5115,341,-61,727
+3600,16,6,5235,349,-60,1228
+3600,16,6,5325,355,-61,1230
+3600,16,6,5235,349,-61,718
+3600,16,6,5145,343,-62,711
+3600,16,6,5040,336,-61,720
+3600,16,6,5310,354,-60,1227
+3600,16,6,5310,354,-63,823
+3600,16,6,5550,370,-63,713
+3600,16,6,4995,333,-61,708
+3600,16,6,5325,355,-63,726
+3600,16,6,5235,349,-62,711
+3600,16,6,5175,345,-61,724
+3600,16,6,5310,354,-61,1219
+3600,16,6,5400,360,-62,728
+3600,16,6,5205,347,-61,1241
+3600,16,6,5280,352,-61,695
+3600,16,6,5235,349,-62,720
+3600,16,6,5370,358,-63,716
+3600,16,6,5340,356,-61,718
+3600,16,6,5325,355,-62,714
+3600,16,6,5220,348,-61,709
+3600,16,6,4995,333,-60,731
+3600,16,6,4920,328,-61,711
+3600,16,6,5175,345,-59,713
+3600,16,6,5070,338,-60,725
+3600,16,6,5040,336,-61,718
+3600,16,6,5130,342,-61,1220
+3600,16,6,5010,334,-61,726
+3600,16,6,5115,341,-62,1216
+3600,16,6,5115,341,-61,731
+3600,16,6,5160,344,-61,1222
+3600,16,6,5100,340,-61,717
+3600,16,6,5070,338,-61,721
+3600,16,6,5085,339,-61,1218
+3600,16,6,4875,325,-60,730
+3600,16,6,4830,322,-61,706
+3600,16,6,5115,341,-62,715
+3600,16,6,4860,324,-63,714
+3600,16,6,5085,339,-62,724
+3600,16,6,5085,339,-61,723
+3600,16,6,4890,326,-61,711
+3600,16,6,4995,333,-62,719
+3600,16,6,4935,329,-62,720
+3600,16,6,5025,335,-62,708
+3600,16,6,5145,343,-61,716
+3600,16,6,5025,335,-61,721
+3600,16,6,4920,328,-61,717
+3600,16,6,4800,320,-60,720
+3600,16,6,4725,315,-60,721
+3600,16,6,4830,322,-61,712
+3600,16,6,4980,332,-61,720
+3600,16,6,5175,345,-62,1226
+3600,16,6,5085,339,-60,715
+3600,16,6,4920,328,-60,726
+3600,16,6,4860,324,-60,701
+3600,16,6,5025,335,-59,732
+3600,16,6,5145,343,-61,717
+3600,16,6,5070,338,-61,699
+3600,16,6,5085,339,-61,735
+3600,16,6,5085,339,-60,700
+3600,16,6,5070,338,-60,729
+W (1683716) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,6,4995,333,-61,729
+3600,16,6,5055,337,-60,1174
+3600,16,6,5160,344,-61,716
+3600,16,6,5115,341,-60,1229
+3600,16,6,5175,345,-60,1217
+3600,16,6,5190,346,-61,716
+3600,16,6,5265,351,-61,726
+3600,16,6,5115,341,-61,726
+3600,16,6,5160,344,-61,710
+3600,16,6,5205,347,-61,722
+3600,16,6,5085,339,-60,1221
+3600,16,6,5115,341,-61,720
+3600,16,6,5175,345,-60,1222
+3600,16,6,5130,342,-61,728
+3600,16,6,5130,342,-61,714
+3600,16,6,5100,340,-61,1221
+3600,16,6,5115,341,-61,715
+3600,16,6,5040,336,-60,726
+3600,16,6,5055,337,-62,716
+3600,16,6,5130,342,-61,712
+3600,16,6,5100,340,-61,711
+3600,16,6,5070,338,-60,723
+3600,16,6,4950,330,-61,723
+3600,16,6,5010,334,-60,715
+3600,16,6,5115,341,-61,717
+3600,16,6,5070,338,-61,1220
+3600,16,6,5235,349,-62,717
+3600,16,6,5400,360,-62,727
+3600,16,6,4995,333,-60,707
+3600,16,6,5055,337,-62,725
+3600,16,6,4875,325,-60,1230
+3600,16,6,4935,329,-59,1222
+3600,16,6,5025,335,-61,714
+3600,16,6,4980,332,-61,718
+3600,16,6,4785,319,-61,723
+3600,16,6,4920,328,-60,1232
+3600,16,6,4935,329,-61,714
+3600,16,6,5055,337,-60,713
+3600,16,6,5205,347,-62,712
+3600,16,6,5295,353,-61,723
+3600,16,6,5100,340,-61,723
+3600,16,6,5025,335,-61,1215
+3600,16,6,5070,338,-60,724
+3600,16,6,5010,334,-60,719
+3600,16,6,5040,336,-60,729
+3600,16,6,5055,337,-61,707
+3600,16,6,5040,336,-61,722
+3600,16,6,5430,362,-62,1224
+3600,16,6,5370,358,-62,1223
+3600,16,6,5520,368,-63,716
+3600,16,6,5295,353,-62,717
+3600,16,6,5445,363,-64,721
+3600,16,6,5325,355,-63,731
+3600,16,6,5190,346,-61,696
+3600,16,6,5025,335,-63,726
+3600,16,6,5055,337,-60,717
+3600,16,6,5400,360,-62,714
+3600,16,6,5430,362,-61,1230
+3600,16,6,5415,361,-64,719
+3600,16,6,5325,355,-62,1227
+3600,16,6,5130,342,-62,718
+3600,16,6,5385,359,-61,702
+3600,16,6,5220,348,-61,720
+3600,16,6,5325,355,-62,718
+3600,16,6,5205,347,-61,719
+3600,16,6,5355,357,-61,718
+3600,16,6,4965,331,-60,724
+3600,16,6,5175,345,-61,1247
+3600,16,6,5115,341,-61,803
+3600,16,6,5100,340,-63,1237
+3600,16,6,5085,339,-60,1221
+3600,16,6,5505,367,-62,708
+3600,16,6,5130,342,-62,722
+3600,16,6,5250,350,-61,1229
+3600,16,6,5460,364,-62,716
+3600,16,6,5115,341,-61,715
+3600,16,6,5280,352,-61,1232
+3600,16,6,5160,344,-62,713
+3600,16,6,5070,338,-61,719
+3600,16,6,5190,346,-62,1218
+3600,16,6,5145,343,-62,727
+3600,16,6,5145,343,-61,1230
+3600,16,6,5175,345,-62,1220
+3600,16,6,5085,339,-61,725
+3600,16,6,5130,342,-62,1229
+3600,16,6,5070,338,-61,1282
+3600,16,6,5055,337,-61,666
+3600,16,6,5280,352,-62,722
+3600,16,6,5040,336,-62,1224
+3600,16,6,5040,336,-60,1244
+3600,16,6,5325,355,-62,1216
+3600,16,6,5325,355,-62,712
+3600,16,6,5190,346,-64,713
+3600,16,6,5370,358,-62,723
+3600,16,6,5460,364,-63,709
+3600,16,6,5250,350,-63,720
+3600,16,6,5040,336,-61,718
+3600,16,6,5055,337,-62,716
+3600,16,6,5265,351,-61,709
+3600,16,6,5280,352,-63,727
+3600,16,6,5130,342,-62,707
+3600,16,6,5160,344,-62,726
+3600,16,6,5115,341,-62,1228
+3600,16,6,5115,341,-61,733
+3600,16,6,5235,349,-61,696
+3600,16,6,5130,342,-61,713
+3600,16,6,5250,350,-61,712
+3600,16,6,5160,344,-61,734
+3600,16,6,5700,380,-62,1225
+3600,16,6,5115,341,-61,1228
+3600,16,6,5145,343,-62,836
+3600,16,6,5235,349,-62,689
+3600,16,6,5265,351,-62,720
+3600,16,6,5340,356,-62,712
+3600,16,6,5220,348,-63,722
+3600,16,6,5370,358,-63,719
+3600,16,6,5415,361,-61,725
+3600,16,6,5145,343,-61,1227
+3600,16,6,4965,331,-61,1220
+3600,16,6,5400,360,-63,729
+3600,16,6,5190,346,-62,1225
+3600,16,6,4680,312,-60,719
+3600,16,6,4995,333,-60,715
+3600,16,6,5175,345,-62,1223
+3600,16,6,5370,358,-61,711
+3600,16,6,5400,360,-61,728
+3600,16,6,5580,372,-63,1226
+3600,16,6,5415,361,-62,723
+3600,16,6,4950,330,-60,713
+3600,16,6,5340,356,-62,1231
+3600,16,6,5400,360,-62,712
+3600,16,6,4725,315,-60,720
+3600,16,6,5190,346,-63,709
+3600,16,6,5085,339,-61,712
+3600,16,6,5280,352,-62,723
+3600,16,6,5100,340,-61,711
+3600,16,6,5475,365,-63,720
+3600,16,6,5295,353,-61,711
+3600,16,6,5385,359,-61,725
+3600,16,6,5385,359,-62,712
+3600,16,6,5355,357,-62,731
+3600,16,6,5295,353,-62,712
+3600,16,6,5355,357,-62,711
+3600,16,6,5160,344,-61,725
+3600,16,6,5220,348,-61,1224
+3600,16,6,5145,343,-61,725
+3600,16,6,5235,349,-61,712
+3600,16,6,5205,347,-61,712
+3600,16,6,5265,351,-61,719
+3600,16,6,5265,351,-61,719
+3600,16,6,5265,351,-61,714
+3600,16,6,5325,355,-61,713
+3600,16,6,5160,344,-62,718
+3600,16,6,5160,344,-61,721
+3600,16,6,5160,344,-61,712
+3600,16,6,5250,350,-60,718
+3600,16,6,5655,377,-61,720
+3600,16,6,5550,370,-63,708
+3600,16,6,5355,357,-61,726
+3600,16,6,5670,378,-62,726
+3600,16,6,5370,358,-63,1218
+3600,16,6,4860,324,-61,709
+3600,16,6,5115,341,-61,716
+3600,16,6,5010,334,-60,732
+3600,16,6,5145,343,-62,1226
+3600,16,6,5295,353,-61,1235
+3600,16,6,5175,345,-62,1229
+3600,16,6,5115,341,-63,718
+3600,16,6,5340,356,-61,711
+3600,16,6,4995,333,-63,718
+3600,16,6,5115,341,-63,710
+3600,16,6,5430,362,-62,708
+3600,16,6,5505,367,-65,723
+3600,16,6,5955,397,-64,723
+3600,16,6,5040,336,-62,1221
+3600,16,6,5340,356,-61,725
+3600,16,6,5040,336,-59,830
+3600,16,6,5025,335,-60,696
+3600,16,6,4965,331,-60,719
+3600,16,6,5085,339,-60,722
+3600,16,6,4950,330,-59,712
+3600,16,6,5025,335,-58,717
+3600,16,6,5100,340,-59,729
+3600,16,6,5325,355,-62,703
+3600,16,6,5160,344,-60,725
+3600,16,6,5595,373,-63,714
+3600,16,6,5310,354,-61,720
+3600,16,6,5430,362,-64,1228
+3600,16,6,5385,359,-62,714
+3600,16,6,5145,343,-62,720
+3600,16,6,5130,342,-62,719
+3600,16,6,5160,344,-62,715
+3600,16,6,5400,360,-62,1218
+3600,16,6,5355,357,-61,729
+3600,16,6,5355,357,-62,705
+3600,16,6,5265,351,-61,720
+3600,16,6,5235,349,-61,722
+3600,16,6,5370,358,-62,721
+3600,16,6,5385,359,-62,1221
+3600,16,6,5130,342,-62,724
+3600,16,6,5235,349,-61,724
+3600,16,6,5745,383,-63,710
+3600,16,6,5280,352,-61,1220
+3600,16,6,5280,352,-62,719
+3600,16,6,5385,359,-62,712
+3600,16,6,5490,366,-62,727
+3600,16,6,5415,361,-62,709
+3600,16,6,5400,360,-62,725
+3600,16,6,5460,364,-61,1231
+3600,16,6,5460,364,-61,710
+3600,16,6,5490,366,-63,726
+3600,16,6,5595,373,-62,1224
+3600,16,6,5820,388,-64,717
+3600,16,6,5325,355,-63,713
+3600,16,6,5610,374,-64,710
+3600,16,6,5220,348,-63,719
+3600,16,6,5310,354,-63,724
+3600,16,6,5205,347,-62,709
+3600,16,6,5100,340,-62,719
+3600,16,6,5400,360,-62,712
+3600,16,6,5520,368,-66,728
+3600,16,6,5280,352,-60,719
+3600,16,6,5085,339,-63,715
+3600,16,6,5535,369,-62,1230
+3600,16,6,5535,369,-64,1228
+3600,16,6,5400,360,-63,1229
+3600,16,6,5430,362,-66,712
+3600,16,6,5265,351,-63,713
+3600,16,6,5280,352,-62,715
+3600,16,6,5190,346,-62,720
+3600,16,6,5040,336,-60,728
+3600,16,6,4845,323,-62,702
+3600,16,6,4935,329,-61,724
+3600,16,6,5385,359,-62,719
+3600,16,6,5355,357,-63,1222
+3600,16,6,5190,346,-63,724
+3600,16,6,5250,350,-61,1226
+3600,16,6,5655,377,-61,717
+3600,16,6,4725,315,-61,707
+3600,16,6,4905,327,-61,730
+3600,16,6,5025,335,-61,705
+3600,16,6,5355,357,-63,722
+3600,16,6,5040,336,-62,719
+3600,16,6,5085,339,-61,720
+3600,16,6,5175,345,-62,1229
+3600,16,6,5655,377,-62,718
+3600,16,6,5475,365,-62,1223
+3600,16,6,5205,347,-61,718
+3600,16,6,5175,345,-62,720
+3600,16,6,5355,357,-62,1232
+3600,16,6,5130,342,-62,810
+3600,16,6,5295,353,-60,725
+3600,16,6,5190,346,-62,711
+3600,16,6,5115,341,-62,721
+3600,16,6,5310,354,-61,717
+3600,16,6,5280,352,-61,1218
+3600,16,6,5460,364,-62,728
+3600,16,6,5400,360,-62,708
+3600,16,6,5250,350,-61,723
+3600,16,6,5370,358,-62,717
+3600,16,6,5325,355,-62,718
+3600,16,6,5295,353,-61,712
+3600,16,6,5145,343,-61,720
+3600,16,6,5070,338,-61,712
+3600,16,6,5025,335,-61,711
+3600,16,6,5325,355,-61,720
+3600,16,6,5250,350,-61,722
+3600,16,6,4980,332,-64,723
+3600,16,6,5025,335,-60,715
+3600,16,6,5265,351,-63,794
+3600,16,6,5190,346,-62,730
+3600,16,6,5175,345,-61,727
+3600,16,6,5235,349,-62,707
+3600,16,6,5310,354,-61,723
+3600,16,6,5445,363,-62,710
+3600,16,6,5340,356,-62,729
+3600,16,6,5040,336,-61,717
+3600,16,6,5505,367,-63,720
+3600,16,6,5370,358,-63,713
+3600,16,6,5400,360,-63,706
+3600,16,6,5385,359,-62,728
+3600,16,6,5415,361,-61,1234
+3600,16,6,5475,365,-63,701
+3600,16,6,5400,360,-63,715
+3600,16,6,5385,359,-63,723
+3600,16,6,5400,360,-63,709
+3600,16,6,5385,359,-62,719
+3600,16,6,5430,362,-62,719
+3600,16,6,5370,358,-61,721
+3600,16,6,5520,368,-64,722
+3600,16,6,5445,363,-63,1228
+3600,16,6,5670,378,-64,721
+3600,16,6,5325,355,-60,714
+3600,16,6,5640,376,-63,705
+3600,16,6,5475,365,-63,724
+3600,16,6,5580,372,-64,714
+3600,16,6,5310,354,-61,726
+3600,16,6,4995,333,-61,701
+3600,16,6,5280,352,-61,718
+3600,16,6,5175,345,-65,722
+3600,16,6,5160,344,-61,733
+3600,16,6,5205,347,-62,704
+3600,16,6,5355,357,-62,710
+3600,16,6,5745,383,-62,731
+3600,16,6,5580,372,-65,706
+3600,16,6,5670,378,-64,724
+3600,16,6,5610,374,-64,1225
+3600,16,6,5340,356,-61,708
+3600,16,6,5475,365,-62,729
+3600,16,6,5340,356,-62,716
+3600,16,6,5400,360,-61,711
+3600,16,6,5595,373,-62,723
+3600,16,6,5280,352,-61,1234
+3600,16,6,5355,357,-62,711
+3600,16,6,5325,355,-62,719
+3600,16,6,5175,345,-61,722
+3600,16,6,5265,351,-61,714
+3600,16,6,5325,355,-62,714
+3600,16,6,5325,355,-62,1221
+3600,16,6,5295,353,-62,720
+3600,16,6,5220,348,-62,708
+3600,16,6,5235,349,-61,730
+3600,16,6,5265,351,-60,716
+3600,16,6,5385,359,-62,1225
+3600,16,6,5235,349,-61,711
+3600,16,6,5310,354,-61,717
+3600,16,6,5265,351,-62,718
+3600,16,6,5250,350,-62,712
+3600,16,6,5220,348,-62,718
+3600,16,6,5250,350,-62,729
+3600,16,6,5340,356,-62,1246
+3600,16,6,5325,355,-61,694
+3600,16,6,5310,354,-61,712
+3600,16,6,5475,365,-62,724
+3600,16,6,5400,360,-62,709
+3600,16,6,5415,361,-63,717
+3600,16,6,5415,361,-62,729
+3600,16,6,5355,357,-62,715
+3600,16,6,5205,347,-62,707
+3600,16,6,5265,351,-63,731
+3600,16,6,5235,349,-62,1227
+3600,16,6,5490,366,-63,706
+3600,16,6,5445,363,-62,725
+3600,16,6,5460,364,-61,1234
+3600,16,6,5715,381,-64,719
+3600,16,6,5280,352,-61,1221
+3600,16,6,5250,350,-63,708
+3600,16,6,5115,341,-60,715
+3600,16,6,5430,362,-62,733
+3600,16,6,5175,345,-63,716
+3600,16,6,5310,354,-62,708
+3600,16,6,5430,362,-62,718
+3600,16,6,5700,380,-63,710
+3600,16,6,5535,369,-64,727
+3600,16,6,5070,338,-61,727
+3600,16,6,5325,355,-61,703
+3600,16,6,5370,358,-63,726
+3600,16,6,5130,342,-60,716
+3600,16,6,5310,354,-62,1221
+3600,16,6,5130,342,-61,721
+3600,16,6,5160,344,-61,1245
+3600,16,6,5400,360,-63,709
+3600,16,6,5175,345,-61,1214
+3600,16,6,5190,346,-61,712
+3600,16,6,5070,338,-60,733
+3600,16,6,5370,358,-61,1213
+3600,16,6,5580,372,-63,722
+3600,16,6,5415,361,-62,710
+3600,16,6,5535,369,-61,731
+3600,16,6,5160,344,-61,1236
+3600,16,6,5190,346,-61,697
+3600,16,6,5220,348,-60,729
+3600,16,6,4995,333,-61,1235
+3600,16,6,5070,338,-60,796
+3600,16,6,5190,346,-60,720
+3600,16,6,5415,361,-61,733
+3600,16,6,5370,358,-61,713
+3600,16,6,5250,350,-61,1227
+3600,16,6,5430,362,-62,720
+3600,16,6,5595,373,-64,720
+3600,16,6,5685,379,-64,1228
+3600,16,6,5760,384,-62,712
+3600,16,6,5940,396,-64,710
+3600,16,6,5550,370,-63,711
+3600,16,6,5490,366,-62,718
+3600,16,6,5745,383,-63,725
+3600,16,6,5535,369,-62,718
+3600,16,6,5475,365,-63,720
+3600,16,6,5595,373,-63,710
+3600,16,6,5370,358,-63,723
+3600,16,6,5400,360,-64,1219
+3600,16,6,5040,336,-64,721
+3600,16,6,5310,354,-63,716
+3600,16,6,5145,343,-62,722
+3600,16,6,5100,340,-61,711
+3600,16,6,5265,351,-61,729
+3600,16,6,5280,352,-61,1222
+3600,16,6,5265,351,-62,708
+3600,16,6,5085,339,-62,727
+3600,16,6,5040,336,-61,725
+3600,16,6,4920,328,-60,712
+3600,16,6,5370,358,-62,1228
+3600,16,6,5295,353,-62,710
+3600,16,6,5280,352,-63,712
+3600,16,6,5145,343,-62,722
+3600,16,6,5235,349,-63,716
+3600,16,6,5160,344,-63,718
+3600,16,6,5025,335,-61,717
+3600,16,6,4980,332,-60,717
+3600,16,6,5250,350,-64,720
+3600,16,6,5205,347,-63,719
+3600,16,6,5280,352,-62,1216
+3600,16,6,4995,333,-61,717
+3600,16,6,4740,316,-62,725
+3600,16,6,5160,344,-62,728
+3600,16,6,5130,342,-60,1206
+3600,16,6,5100,340,-61,729
+3600,16,6,4650,310,-63,718
+3600,16,6,5025,335,-61,732
+3600,16,6,5055,337,-63,693
+3600,16,6,5055,337,-61,728
+3600,16,6,5460,364,-63,1223
+3600,16,6,5520,368,-62,721
+3600,16,6,5160,344,-64,707
+3600,16,6,5160,344,-60,731
+3600,16,6,5490,366,-63,713
+3600,16,6,5610,374,-65,1226
+3600,16,6,5565,371,-64,718
+3600,16,6,4920,328,-61,716
+3600,16,6,5400,360,-62,707
+3600,16,6,5520,368,-62,732
+3600,16,6,5475,365,-62,711
+3600,16,6,5385,359,-62,708
+3600,16,6,5475,365,-62,727
+3600,16,6,5385,359,-61,714
+3600,16,6,5595,373,-61,711
+3600,16,6,5445,363,-63,714
+3600,16,6,5220,348,-61,728
+3600,16,6,5250,350,-62,1228
+3600,16,6,5595,373,-63,718
+3600,16,6,5415,361,-60,763
+3600,16,6,5010,334,-60,670
+3600,16,6,5445,363,-63,716
+3600,16,6,5445,363,-62,717
+3600,16,6,5370,358,-65,746
+3600,16,6,5085,339,-62,686
+3600,16,6,5100,340,-63,707
+3600,16,6,5070,338,-62,733
+3600,16,6,5280,352,-62,1231
+3600,16,6,5640,376,-63,706
+3600,16,6,5670,378,-64,709
+3600,16,6,5070,338,-61,719
+3600,16,6,5610,374,-63,730
+3600,16,6,5640,376,-62,1224
+3600,16,6,5295,353,-62,716
+3600,16,6,4935,329,-62,725
+3600,16,6,4920,328,-62,1211
+3600,16,6,5085,339,-61,727
+3600,16,6,5235,349,-61,710
+3600,16,6,5100,340,-61,720
+3600,16,6,5025,335,-61,720
+3600,16,6,5370,358,-62,710
+3600,16,6,5220,348,-61,728
+3600,16,6,5280,352,-62,1337
+3600,16,6,5415,361,-62,712
+3600,16,6,5325,355,-62,715
+3600,16,6,5055,337,-60,713
+3600,16,6,4920,328,-60,719
+3600,16,6,5280,352,-62,719
+3600,16,6,5460,364,-62,1216
+3600,16,6,5205,347,-62,728
+3600,16,6,5550,370,-63,1229
+3600,16,6,5265,351,-62,1233
+3600,16,6,5055,337,-62,1234
+3600,16,6,5190,346,-62,702
+3600,16,6,5010,334,-62,719
+3600,16,6,4995,333,-62,720
+3600,16,6,5190,346,-62,1226
+3600,16,6,5130,342,-62,720
+3600,16,6,5265,351,-62,1253
+3600,16,6,4905,327,-61,683
+3600,16,6,5085,339,-62,716
+3600,16,6,5430,362,-63,729
+3600,16,6,5010,334,-61,1216
+3600,16,6,5040,336,-61,722
+3600,16,6,5295,353,-60,723
+3600,16,6,5115,341,-62,1232
+3600,16,6,5175,345,-62,704
+3600,16,6,5130,342,-62,720
+3600,16,6,4965,331,-62,712
+3600,16,6,5130,342,-63,728
+3600,16,6,5220,348,-62,705
+3600,16,6,5220,348,-63,719
+3600,16,6,5100,340,-62,725
+3600,16,6,5310,354,-63,713
+3600,16,6,5325,355,-63,720
+3600,16,6,5175,345,-63,718
+3600,16,6,5280,352,-62,1218
+3600,16,6,5115,341,-62,723
+3600,16,6,5115,341,-63,712
+3600,16,6,5385,359,-62,728
+3600,16,6,5505,367,-63,706
+3600,16,6,5385,359,-64,716
+3600,16,6,5175,345,-62,727
+3600,16,6,5220,348,-62,1227
+3600,16,6,5235,349,-63,719
+3600,16,6,5295,353,-62,707
+3600,16,6,5265,351,-63,727
+3600,16,6,5265,351,-62,713
+3600,16,6,5250,350,-62,723
+3600,16,6,5235,349,-62,702
+3600,16,6,5265,351,-62,718
+3600,16,6,5250,350,-62,725
+3600,16,6,5280,352,-62,707
+3600,16,6,5340,356,-62,731
+3600,16,6,5280,352,-62,714
+3600,16,6,5295,353,-63,1220
+3600,16,6,5295,353,-62,714
+3600,16,6,5235,349,-62,726
+3600,16,6,5235,349,-62,720
+3600,16,6,5250,350,-62,722
+3600,16,6,5205,347,-62,708
+3600,16,6,5235,349,-63,710
+3600,16,6,5220,348,-62,716
+3600,16,6,5235,349,-63,715
+3600,16,6,5175,345,-62,730
+3600,16,6,5145,343,-62,722
+3600,16,6,5190,346,-63,1218
+3600,16,6,5115,341,-63,723
+3600,16,6,5145,343,-63,1220
+3600,16,6,5115,341,-62,725
+3600,16,6,5280,352,-62,714
+3600,16,6,5295,353,-62,720
+3600,16,6,5250,350,-62,1228
+3600,16,6,5310,354,-64,1231
+3600,16,6,5265,351,-63,715
+3600,16,6,5280,352,-61,1233
+3600,16,6,5100,340,-62,1226
+3600,16,6,4950,330,-63,723
+3600,16,6,5055,337,-62,707
+3600,16,6,5115,341,-63,732
+3600,16,6,5100,340,-63,1216
+3600,16,6,5145,343,-63,718
+3600,16,6,5115,341,-62,718
+3600,16,6,5430,362,-63,1227
+3600,16,6,5460,364,-64,717
+3600,16,6,5655,377,-65,1225
+3600,16,6,5370,358,-69,728
+3600,16,6,5310,354,-63,1222
+3600,16,6,5490,366,-64,709
+3600,16,6,5595,373,-63,717
+3600,16,6,5235,349,-61,731
+3600,16,6,5400,360,-63,708
+3600,16,6,5295,353,-62,721
+3600,16,6,5475,365,-62,704
+3600,16,6,5370,358,-63,724
+3600,16,6,5340,356,-62,714
+3600,16,6,5430,362,-62,710
+3600,16,6,5325,355,-63,719
+3600,16,6,5370,358,-63,719
+3600,16,6,5220,348,-62,713
+3600,16,6,5415,361,-62,718
+3600,16,6,5370,358,-62,714
+3600,16,6,5580,372,-62,729
+3600,16,6,5385,359,-61,717
+3600,16,6,5265,351,-62,1235
+3600,16,6,5265,351,-62,701
+3600,16,6,5220,348,-62,726
+3600,16,6,5325,355,-62,717
+3600,16,6,5310,354,-61,706
+3600,16,6,5370,358,-62,718
+3600,16,6,5325,355,-62,726
+3600,16,6,5250,350,-63,717
+3600,16,6,5085,339,-62,718
+3600,16,6,5355,357,-62,1228
+3600,16,6,5280,352,-63,716
+3600,16,6,5130,342,-62,706
+3600,16,6,5040,336,-62,721
+3600,16,6,5145,343,-62,713
+3600,16,6,5430,362,-64,726
+3600,16,6,5130,342,-62,716
+3600,16,6,5250,350,-63,705
+3600,16,6,5190,346,-62,720
+3600,16,6,5310,354,-62,717
+3600,16,6,5235,349,-62,727
+3600,16,6,5145,343,-61,718
+3600,16,6,5235,349,-61,720
+3600,16,6,5160,344,-62,1283
+3600,16,6,5100,340,-62,1277
+3600,16,6,5070,338,-61,704
+3600,16,6,5100,340,-62,718
+3600,16,6,5055,337,-61,714
+3600,16,6,5265,351,-62,715
+3600,16,6,5190,346,-61,729
+3600,16,6,5115,341,-62,709
+3600,16,6,5235,349,-62,724
+3600,16,6,5595,373,-62,706
+3600,16,6,5670,378,-63,729
+3600,16,6,4785,319,-61,1235
+3600,16,6,5280,352,-61,708
+3600,16,6,5190,346,-61,714
+3600,16,6,5115,341,-62,710
+3600,16,6,5205,347,-61,727
+3600,16,6,5295,353,-62,707
+3600,16,6,5205,347,-62,724
+3600,16,6,5175,345,-62,722
+3600,16,6,5220,348,-62,1219
+3600,16,6,5130,342,-62,725
+3600,16,6,5220,348,-61,721
+3600,16,6,5325,355,-61,713
+3600,16,6,5370,358,-62,705
+3600,16,6,5355,357,-63,729
+3600,16,6,5310,354,-64,709
+3600,16,6,5085,339,-60,716
+3600,16,6,5070,338,-61,717
+3600,16,6,5280,352,-62,715
+3600,16,6,5370,358,-62,724
+3600,16,6,5220,348,-61,720
+3600,16,6,4965,331,-60,717
+3600,16,6,5130,342,-63,1220
+3600,16,6,4815,321,-61,725
+3600,16,6,4965,331,-61,718
+3600,16,6,5100,340,-62,1230
+3600,16,6,5370,358,-63,711
+3600,16,6,6015,401,-63,721
+3600,16,6,5760,384,-65,802
+3600,16,6,5580,372,-63,734
+3600,16,6,5475,365,-63,739
+3600,16,6,5295,353,-63,1206
+3600,16,6,5220,348,-63,706
+3600,16,6,5115,341,-61,731
+3600,16,6,5025,335,-61,706
+3600,16,6,5010,334,-62,722
+3600,16,6,5265,351,-62,719
+3600,16,6,5355,357,-62,709
+3600,16,6,5445,363,-62,730
+3600,16,6,5535,369,-64,699
+3600,16,6,5235,349,-62,730
+3600,16,6,5010,334,-62,714
+3600,16,6,5535,369,-63,719
+3600,16,6,5205,347,-64,717
+3600,16,6,4830,322,-61,717
+3600,16,6,4665,311,-60,718
+3600,16,6,4920,328,-61,707
+3600,16,6,4965,331,-61,725
+3600,16,6,5130,342,-62,718
+3600,16,6,5475,365,-63,718
+3600,16,6,5280,352,-64,705
+3600,16,6,5190,346,-62,726
+3600,16,6,5280,352,-63,717
+3600,16,6,5055,337,-63,717
+3600,16,6,5085,339,-62,709
+3600,16,6,5205,347,-63,728
+3600,16,6,4875,325,-61,715
+3600,16,6,5445,363,-63,1225
+3600,16,6,5250,350,-62,719
+3600,16,6,4845,323,-60,1219
+3600,16,6,4980,332,-61,727
+3600,16,6,4845,323,-61,717
+3600,16,6,5250,350,-62,1243
+3600,16,6,5340,356,-63,701
+3600,16,6,5550,370,-63,1449
+3600,16,6,5085,339,-62,705
+3600,16,6,5070,338,-61,1231
+3600,16,6,5025,335,-60,736
+3600,16,6,4890,326,-60,1216
+3600,16,6,5280,352,-63,1337
+3600,16,6,5280,352,-62,699
+E (2230039) wifi:No FTM Measurements received from responder!
+W (2230040) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,6,4935,329,-60,675
+3600,16,6,4770,318,-62,1219
+3600,16,6,4620,308,-60,729
+3600,16,6,4650,310,-60,709
+3600,16,6,4620,308,-60,794
+3600,16,6,5145,343,-62,1315
+3600,16,6,5040,336,-62,688
+3600,16,6,4890,326,-61,705
+3600,16,6,4680,312,-60,702
+3600,16,6,4875,325,-61,703
+3600,16,6,4995,333,-62,728
+3600,16,6,5025,335,-62,1229
+3600,16,6,5070,338,-61,1237
+3600,16,6,5865,391,-64,1221
+3600,16,6,5565,371,-62,1216
+3600,16,6,5100,340,-61,728
+3600,16,6,5280,352,-61,725
+3600,16,6,5085,339,-61,708
+3600,16,6,5160,344,-61,721
+3600,16,6,5220,348,-63,1215
+3600,16,6,4845,323,-60,729
+3600,16,6,4785,319,-60,715
+3600,16,6,4965,331,-60,710
+3600,16,6,4950,330,-60,733
+3600,16,6,4905,327,-60,698
+3600,16,6,4725,315,-60,728
+3600,16,6,5220,348,-61,704
+3600,16,6,5310,354,-61,720
+3600,16,6,5535,369,-64,718
+3600,16,6,5505,367,-63,723
+3600,16,6,5355,357,-64,718
+3600,16,6,5115,341,-60,1221
+3600,16,6,5325,355,-63,727
+3600,16,6,5505,367,-62,708
+3600,16,6,5325,355,-61,725
+3600,16,6,5295,353,-64,708
+3600,16,6,5340,356,-62,712
+3600,16,6,5385,359,-62,727
+3600,16,6,5445,363,-62,746
+3600,16,6,5505,367,-62,725
+3600,16,6,5280,352,-61,689
+3600,16,6,4725,315,-61,706
+3600,16,6,4695,313,-61,721
+3600,16,6,4845,323,-61,703
+3600,16,6,5070,338,-62,730
+3600,16,6,5235,349,-63,708
+3600,16,6,5520,368,-61,725
+3600,16,6,5595,373,-65,717
+3600,16,6,5265,351,-63,729
+3600,16,6,5130,342,-63,709
+3600,16,6,5370,358,-63,1225
+3600,16,6,5340,356,-62,1229
+3600,16,6,5520,368,-63,737
+3600,16,6,5250,350,-63,686
+3600,16,6,5160,344,-65,724
+3600,16,6,5580,372,-63,720
+3600,16,6,5430,362,-62,1231
+3600,16,6,5145,343,-62,714
+3600,16,6,5265,351,-62,708
+3600,16,6,5535,369,-64,726
+3600,16,6,5640,376,-63,1253
+3600,16,6,5610,374,-63,700
+3600,16,6,5640,376,-63,700
+3600,16,6,5550,370,-62,727
+3600,16,6,5280,352,-62,1245
+3600,16,6,5430,362,-63,690
+3600,16,6,5310,354,-62,729
+3600,16,6,5340,356,-62,716
+3600,16,6,5385,359,-63,719
+3600,16,6,5550,370,-63,717
+3600,16,6,5445,363,-64,1218
+3600,16,6,5385,359,-62,721
+3600,16,6,5460,364,-63,720
+3600,16,6,5535,369,-64,716
+3600,16,6,5820,388,-63,722
+3600,16,6,4995,333,-61,1225
+3600,16,6,5490,366,-62,820
+3600,16,6,5670,378,-62,709
+3600,16,6,5655,377,-64,714
+3600,16,6,5580,372,-63,730
+3600,16,6,5535,369,-62,1225
+3600,16,6,5355,357,-63,1230
+3600,16,6,5475,365,-64,703
+3600,16,6,5445,363,-62,745
+3600,16,6,5430,362,-63,688
+3600,16,6,5550,370,-63,721
+3600,16,6,5430,362,-62,732
+3600,16,6,5490,366,-63,1222
+3600,16,6,5490,366,-62,717
+3600,16,6,5670,378,-62,1220
+3600,16,6,5445,363,-62,723
+3600,16,6,5340,356,-61,719
+3600,16,6,5235,349,-61,716
+3600,16,6,5295,353,-62,707
+3600,16,6,5160,344,-61,733
+3600,16,6,6075,405,-66,1232
+3600,16,6,5490,366,-63,705
+3600,16,6,6045,403,-66,710
+3600,16,6,5550,370,-63,726
+3600,16,6,5085,339,-62,716
+3600,16,6,4845,323,-61,716
+3600,16,6,5625,375,-62,717
+3600,16,6,6105,407,-65,717
+3600,16,6,5790,386,-64,711
+3600,16,6,5205,347,-63,724
+3600,16,6,5445,363,-62,718
+3600,16,6,5535,369,-62,708
+3600,16,6,5400,360,-62,723
+3600,16,6,5790,386,-63,716
+3600,16,6,5745,383,-64,718
+3600,16,6,5370,358,-63,720
+3600,16,6,5130,342,-62,709
+3600,16,6,5415,361,-63,721
+3600,16,6,5055,337,-62,711
+3600,16,6,5205,347,-64,725
+3600,16,6,5265,351,-62,1219
+3600,16,6,5370,358,-65,734
+3600,16,6,5835,389,-66,707
+3600,16,6,6015,401,-64,711
+3600,16,6,5880,392,-65,726
+3600,16,6,5250,350,-65,715
+3600,16,6,5400,360,-64,705
+3600,16,6,5145,343,-62,719
+3600,16,6,5160,344,-62,724
+3600,16,6,5355,357,-63,708
+3600,16,6,6060,404,-65,721
+3600,16,6,5295,353,-64,735
+3600,16,6,4980,332,-61,697
+3600,16,6,5025,335,-61,734
+3600,16,6,5100,340,-63,1220
+3600,16,6,4920,328,-62,727
+3600,16,6,5670,378,-63,1227
+3600,16,6,5745,383,-64,708
+3600,16,6,5895,393,-64,722
+3600,16,6,5640,376,-64,1225
+3600,16,6,5250,350,-63,728
+3600,16,6,5490,366,-64,1216
+3600,16,6,5280,352,-62,718
+3600,16,6,5280,352,-63,718
+3600,16,6,5415,361,-64,1225
+3600,16,6,5370,358,-62,718
+3600,16,6,5280,352,-63,712
+3600,16,6,5265,351,-62,723
+3600,16,6,5325,355,-63,717
+3600,16,6,5310,354,-63,1238
+3600,16,6,5340,356,-63,708
+3600,16,6,5385,359,-62,1220
+3600,16,6,5280,352,-62,726
+3600,16,6,5400,360,-62,1228
+3600,16,6,5265,351,-62,1217
+3600,16,6,5280,352,-62,729
+3600,16,6,5310,354,-64,1229
+3600,16,6,5160,344,-63,707
+3600,16,6,5160,344,-62,724
+3600,16,6,5235,349,-62,711
+3600,16,6,5385,359,-63,724
+3600,16,6,5670,378,-64,718
+3600,16,6,5640,376,-64,717
+3600,16,6,5520,368,-62,716
+# Config 4/5: frame_count=16, burst_period=8
+3600,16,8,5385,359,-64,1435
+3600,16,8,5460,364,-62,1552
+3600,16,8,5385,359,-63,1495
+3600,16,8,5430,362,-64,1459
+3600,16,8,5295,353,-63,923
+3600,16,8,5385,359,-63,918
+3600,16,8,5325,355,-62,1430
+3600,16,8,5220,348,-61,1444
+3600,16,8,5610,374,-62,1424
+3600,16,8,5595,373,-64,913
+3600,16,8,5370,358,-63,922
+3600,16,8,5550,370,-64,920
+3600,16,8,5385,359,-62,916
+3600,16,8,5205,347,-62,935
+3600,16,8,4980,332,-62,1455
+3600,16,8,5070,338,-61,898
+3600,16,8,5145,343,-62,927
+W (2382701) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (2385092) wifi:No FTM Measurements received from responder!
+W (2385092) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,8,5610,374,-62,1652
+3600,16,8,5670,378,-62,2098
+W (2391452) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,8,4830,322,-60,931
+3600,16,8,5385,359,-61,918
+3600,16,8,5070,338,-61,941
+3600,16,8,5355,357,-61,905
+W (2397649) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,8,5070,338,-63,878
+3600,16,8,5205,347,-62,1495
+3600,16,8,5085,339,-61,856
+3600,16,8,5280,352,-62,926
+3600,16,8,5190,346,-62,912
+3600,16,8,5235,349,-63,936
+3600,16,8,5385,359,-62,1421
+3600,16,8,5490,366,-63,920
+3600,16,8,5415,361,-63,920
+3600,16,8,5430,362,-63,933
+W (2410346) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (2412847) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,8,5055,337,-62,1552
+W (2416900) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (2419906) wifi:No FTM Measurements received from responder!
+W (2419906) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,8,5190,346,-62,2015
+3600,16,8,5130,342,-62,890
+3600,16,8,4950,330,-61,894
+3600,16,8,4950,330,-62,928
+3600,16,8,5550,370,-64,917
+3600,16,8,5430,362,-63,919
+3600,16,8,5280,352,-63,919
+3600,16,8,5400,360,-63,924
+3600,16,8,5415,361,-62,919
+3600,16,8,5415,361,-63,927
+3600,16,8,5490,366,-60,925
+3600,16,8,5505,367,-62,924
+3600,16,8,5385,359,-62,1421
+3600,16,8,5265,351,-60,923
+3600,16,8,5355,357,-62,922
+3600,16,8,5055,337,-61,935
+3600,16,8,5220,348,-62,1430
+3600,16,8,5310,354,-63,1432
+3600,16,8,5280,352,-61,923
+3600,16,8,5475,365,-62,1436
+3600,16,8,5280,352,-62,1021
+3600,16,8,5310,354,-63,1556
+3600,16,8,5520,368,-63,903
+3600,16,8,5325,355,-62,1432
+3600,16,8,4995,333,-61,1420
+3600,16,8,5175,345,-60,924
+3600,16,8,5490,366,-63,924
+3600,16,8,5475,365,-63,928
+3600,16,8,5355,357,-63,921
+3600,16,8,5460,364,-62,933
+3600,16,8,5400,360,-64,910
+3600,16,8,5355,357,-62,931
+3600,16,8,5070,338,-61,1429
+3600,16,8,5175,345,-62,916
+3600,16,8,5310,354,-61,921
+3600,16,8,5010,334,-62,918
+3600,16,8,4965,331,-62,931
+3600,16,8,5055,337,-59,1436
+3600,16,8,5385,359,-60,920
+3600,16,8,5085,339,-62,921
+3600,16,8,5490,366,-62,922
+3600,16,8,5355,357,-62,921
+3600,16,8,5280,352,-60,920
+3600,16,8,5490,366,-63,913
+3600,16,8,5190,346,-62,930
+3600,16,8,5070,338,-61,921
+3600,16,8,5040,336,-60,923
+3600,16,8,5175,345,-62,1436
+3600,16,8,5010,334,-61,919
+3600,16,8,5265,351,-61,1449
+3600,16,8,5595,373,-62,908
+3600,16,8,5355,357,-63,1429
+3600,16,8,5460,364,-63,929
+3600,16,8,5535,369,-63,917
+3600,16,8,5325,355,-62,925
+3600,16,8,5250,350,-62,940
+3600,16,8,5325,355,-61,909
+3600,16,8,5295,353,-62,1425
+3600,16,8,5475,365,-62,1433
+3600,16,8,5580,372,-62,926
+3600,16,8,5460,364,-62,916
+3600,16,8,5505,367,-62,925
+3600,16,8,5385,359,-61,908
+3600,16,8,5445,363,-62,929
+3600,16,8,5370,358,-62,929
+3600,16,8,5490,366,-62,1426
+3600,16,8,5325,355,-62,938
+3600,16,8,5385,359,-61,900
+3600,16,8,5565,371,-62,928
+3600,16,8,5595,373,-63,919
+3600,16,8,5535,369,-62,926
+3600,16,8,5445,363,-63,1433
+3600,16,8,5475,365,-63,930
+3600,16,8,5565,371,-63,1426
+3600,16,8,5025,335,-61,1441
+3600,16,8,5355,357,-61,1428
+3600,16,8,5430,362,-61,1433
+3600,16,8,5190,346,-62,918
+3600,16,8,5130,342,-61,925
+3600,16,8,5145,343,-62,925
+3600,16,8,5460,364,-61,911
+3600,16,8,5415,361,-61,926
+3600,16,8,5205,347,-62,927
+3600,16,8,5190,346,-62,1432
+3600,16,8,5145,343,-63,914
+3600,16,8,5220,348,-62,932
+3600,16,8,5310,354,-62,916
+3600,16,8,5505,367,-62,923
+3600,16,8,5280,352,-62,1436
+3600,16,8,5160,344,-61,1434
+3600,16,8,5280,352,-62,913
+3600,16,8,5250,350,-62,926
+3600,16,8,5250,350,-63,926
+3600,16,8,5040,336,-62,1422
+3600,16,8,5235,349,-63,927
+3600,16,8,5235,349,-63,922
+3600,16,8,5370,358,-62,925
+3600,16,8,5220,348,-63,920
+3600,16,8,5175,345,-62,927
+3600,16,8,5235,349,-62,908
+3600,16,8,5295,353,-63,925
+3600,16,8,5490,366,-64,924
+3600,16,8,5685,379,-64,928
+3600,16,8,5385,359,-63,932
+3600,16,8,5445,363,-63,1421
+3600,16,8,5400,360,-63,1438
+3600,16,8,5400,360,-64,920
+3600,16,8,5295,353,-63,1421
+3600,16,8,5220,348,-63,927
+3600,16,8,5175,345,-62,925
+3600,16,8,5295,353,-63,1424
+3600,16,8,5370,358,-61,927
+3600,16,8,5475,365,-65,926
+3600,16,8,5340,356,-63,913
+3600,16,8,5175,345,-62,932
+3600,16,8,5025,335,-62,1424
+3600,16,8,5430,362,-62,917
+3600,16,8,5145,343,-62,940
+3600,16,8,5250,350,-62,920
+3600,16,8,5145,343,-63,1426
+3600,16,8,4995,333,-62,941
+3600,16,8,5325,355,-62,1411
+3600,16,8,5520,368,-62,940
+3600,16,8,5850,390,-63,903
+3600,16,8,5760,384,-62,924
+3600,16,8,5880,392,-64,927
+3600,16,8,5850,390,-64,923
+3600,16,8,5445,363,-63,908
+3600,16,8,5715,381,-62,934
+3600,16,8,5850,390,-64,919
+3600,16,8,5955,397,-63,914
+3600,16,8,6225,415,-66,926
+3600,16,8,6300,420,-65,917
+3600,16,8,6030,402,-65,935
+3600,16,8,5805,387,-64,1434
+3600,16,8,5835,389,-64,914
+3600,16,8,5685,379,-64,925
+3600,16,8,5520,368,-63,915
+3600,16,8,5580,372,-63,921
+3600,16,8,5820,388,-63,919
+3600,16,8,6120,408,-64,932
+3600,16,8,5820,388,-63,921
+3600,16,8,6165,411,-65,922
+3600,16,8,6105,407,-65,907
+3600,16,8,5985,399,-62,934
+3600,16,8,5820,388,-64,921
+3600,16,8,5655,377,-63,927
+3600,16,8,5610,374,-63,1428
+3600,16,8,5235,349,-62,913
+3600,16,8,5205,347,-61,929
+3600,16,8,5685,379,-62,925
+3600,16,8,5910,394,-64,922
+3600,16,8,5925,395,-64,1429
+3600,16,8,6135,409,-64,926
+3600,16,8,5220,348,-63,1433
+3600,16,8,5490,366,-64,921
+3600,16,8,5145,343,-63,914
+3600,16,8,5145,343,-62,925
+3600,16,8,5595,373,-65,932
+3600,16,8,5520,368,-64,915
+3600,16,8,5685,379,-64,914
+3600,16,8,5940,396,-64,932
+3600,16,8,6030,402,-65,921
+3600,16,8,5685,379,-64,976
+3600,16,8,5220,348,-63,858
+3600,16,8,5535,369,-63,916
+3600,16,8,6075,405,-64,936
+3600,16,8,6060,404,-66,941
+3600,16,8,5850,390,-64,927
+3600,16,8,6045,403,-66,901
+3600,16,8,5730,382,-65,1430
+3600,16,8,5970,398,-63,910
+3600,16,8,5895,393,-64,936
+3600,16,8,4980,332,-64,1433
+3600,16,8,5385,359,-64,921
+3600,16,8,5640,376,-64,919
+3600,16,8,5895,393,-65,921
+3600,16,8,5895,393,-63,922
+3600,16,8,5475,365,-63,931
+3600,16,8,5550,370,-63,1424
+3600,16,8,5535,369,-63,1427
+3600,16,8,5685,379,-64,945
+3600,16,8,5640,376,-62,903
+3600,16,8,5760,384,-63,925
+3600,16,8,5550,370,-63,1439
+3600,16,8,5670,378,-63,1440
+3600,16,8,5685,379,-62,910
+3600,16,8,5640,376,-63,1429
+3600,16,8,5700,380,-62,918
+3600,16,8,5610,374,-63,933
+3600,16,8,5640,376,-64,918
+3600,16,8,5655,377,-63,909
+3600,16,8,5715,381,-63,925
+3600,16,8,5625,375,-63,933
+3600,16,8,5610,374,-63,923
+3600,16,8,5625,375,-63,919
+3600,16,8,5625,375,-64,910
+3600,16,8,5520,368,-62,939
+3600,16,8,5655,377,-63,915
+3600,16,8,5565,371,-63,1432
+3600,16,8,5610,374,-64,1424
+3600,16,8,5640,376,-63,936
+3600,16,8,5535,369,-62,917
+3600,16,8,5580,372,-64,922
+3600,16,8,5745,383,-63,917
+3600,16,8,5775,385,-64,924
+3600,16,8,5745,383,-63,915
+3600,16,8,5685,379,-63,921
+3600,16,8,5655,377,-65,920
+3600,16,8,5640,376,-62,932
+3600,16,8,5580,372,-64,1438
+3600,16,8,5655,377,-63,913
+3600,16,8,5670,378,-63,925
+3600,16,8,5610,374,-63,926
+3600,16,8,5640,376,-63,925
+3600,16,8,5580,372,-64,927
+3600,16,8,5655,377,-63,914
+3600,16,8,5640,376,-63,908
+3600,16,8,5610,374,-64,924
+3600,16,8,5700,380,-64,919
+3600,16,8,5670,378,-63,931
+3600,16,8,5595,373,-63,1435
+3600,16,8,5685,379,-62,916
+3600,16,8,5685,379,-63,914
+3600,16,8,5730,382,-64,942
+3600,16,8,5745,383,-64,1420
+3600,16,8,5670,378,-65,937
+3600,16,8,5565,371,-63,912
+3600,16,8,6105,407,-64,1446
+3600,16,8,5835,389,-64,901
+3600,16,8,5940,396,-63,920
+3600,16,8,6105,407,-65,931
+3600,16,8,5385,359,-64,1421
+3600,16,8,5355,357,-61,924
+3600,16,8,5625,375,-65,929
+3600,16,8,5775,385,-65,914
+3600,16,8,5895,393,-64,921
+3600,16,8,5475,365,-65,929
+3600,16,8,5355,357,-61,925
+3600,16,8,5505,367,-63,1428
+3600,16,8,5535,369,-62,933
+3600,16,8,5490,366,-63,913
+3600,16,8,5445,363,-61,929
+3600,16,8,6060,404,-63,930
+3600,16,8,5505,367,-65,908
+3600,16,8,5655,377,-64,937
+3600,16,8,5595,373,-63,904
+3600,16,8,5820,388,-64,924
+3600,16,8,5775,385,-64,1428
+3600,16,8,5715,381,-62,922
+3600,16,8,5715,381,-64,923
+3600,16,8,5715,381,-63,916
+3600,16,8,5775,385,-63,932
+3600,16,8,5790,386,-64,921
+3600,16,8,5760,384,-63,1434
+3600,16,8,5835,389,-62,907
+3600,16,8,5655,377,-63,951
+3600,16,8,5595,373,-63,1416
+3600,16,8,5745,383,-63,917
+3600,16,8,5700,380,-62,926
+3600,16,8,5775,385,-63,920
+3600,16,8,6075,405,-64,920
+3600,16,8,6255,417,-65,940
+3600,16,8,6105,407,-65,908
+3600,16,8,5805,387,-63,915
+3600,16,8,5400,360,-62,924
+3600,16,8,5355,357,-62,924
+3600,16,8,5520,368,-63,941
+3600,16,8,5445,363,-62,1415
+3600,16,8,5775,385,-62,932
+3600,16,8,5430,362,-63,1417
+3600,16,8,5820,388,-63,928
+3600,16,8,5430,362,-63,919
+3600,16,8,5160,344,-60,914
+3600,16,8,5925,395,-64,930
+3600,16,8,5640,376,-62,925
+3600,16,8,5475,365,-62,912
+3600,16,8,5550,370,-61,937
+3600,16,8,5520,368,-63,1420
+3600,16,8,5535,369,-63,930
+3600,16,8,5325,355,-62,1425
+3600,16,8,5700,380,-63,930
+3600,16,8,5535,369,-64,921
+3600,16,8,5205,347,-62,1440
+3600,16,8,5280,352,-63,918
+3600,16,8,5520,368,-63,925
+3600,16,8,5490,366,-62,1423
+3600,16,8,5460,364,-63,929
+3600,16,8,5145,343,-63,1428
+3600,16,8,5490,366,-63,922
+3600,16,8,5715,381,-63,917
+3600,16,8,5820,388,-63,929
+3600,16,8,5835,389,-63,923
+3600,16,8,5280,352,-63,1438
+3600,16,8,5400,360,-63,917
+3600,16,8,5700,380,-64,1430
+3600,16,8,5655,377,-62,917
+3600,16,8,5850,390,-64,921
+3600,16,8,5595,373,-63,930
+3600,16,8,5610,374,-64,922
+3600,16,8,5640,376,-63,907
+3600,16,8,5565,371,-63,923
+3600,16,8,5535,369,-63,926
+3600,16,8,5565,371,-63,929
+3600,16,8,5700,380,-63,1425
+3600,16,8,5505,367,-63,931
+3600,16,8,5445,363,-62,919
+3600,16,8,5535,369,-62,923
+3600,16,8,5670,378,-63,916
+3600,16,8,5925,395,-64,919
+3600,16,8,5865,391,-63,921
+3600,16,8,5655,377,-63,927
+3600,16,8,5715,381,-63,922
+3600,16,8,5730,382,-63,923
+3600,16,8,5670,378,-64,915
+3600,16,8,5475,365,-64,927
+3600,16,8,5400,360,-61,922
+3600,16,8,5625,375,-64,917
+3600,16,8,5565,371,-63,928
+3600,16,8,5670,378,-62,914
+3600,16,8,5385,359,-62,932
+3600,16,8,5355,357,-62,928
+3600,16,8,5250,350,-63,1416
+3600,16,8,5400,360,-62,929
+3600,16,8,5400,360,-63,914
+3600,16,8,5385,359,-62,921
+3600,16,8,5445,363,-62,930
+3600,16,8,5355,357,-63,929
+3600,16,8,5400,360,-63,913
+3600,16,8,5310,354,-62,917
+3600,16,8,5400,360,-63,930
+3600,16,8,5325,355,-62,1442
+3600,16,8,5370,358,-63,913
+3600,16,8,5490,366,-63,913
+3600,16,8,5430,362,-62,920
+3600,16,8,5925,395,-64,921
+3600,16,8,5550,370,-63,932
+3600,16,8,5580,372,-63,933
+3600,16,8,5850,390,-63,928
+3600,16,8,6090,406,-63,895
+3600,16,8,5835,389,-63,940
+3600,16,8,5445,363,-64,909
+3600,16,8,4995,333,-61,921
+3600,16,8,5475,365,-63,929
+3600,16,8,5130,342,-63,1421
+3600,16,8,5310,354,-63,932
+3600,16,8,5190,346,-62,913
+3600,16,8,5025,335,-61,925
+3600,16,8,4935,329,-63,929
+3600,16,8,5295,353,-61,1423
+3600,16,8,5400,360,-62,921
+3600,16,8,5535,369,-62,919
+3600,16,8,5535,369,-64,925
+3600,16,8,5355,357,-61,929
+3600,16,8,5610,374,-63,1433
+3600,16,8,5520,368,-63,965
+3600,16,8,5415,361,-62,983
+3600,16,8,5310,354,-63,928
+3600,16,8,5490,366,-62,1426
+3600,16,8,5655,377,-63,1565
+3600,16,8,5565,371,-63,1627
+3600,16,8,5460,364,-62,904
+3600,16,8,5565,371,-63,914
+3600,16,8,5700,380,-62,932
+3600,16,8,5625,375,-62,918
+3600,16,8,5655,377,-62,932
+3600,16,8,6210,414,-64,1428
+3600,16,8,5520,368,-63,1437
+3600,16,8,5355,357,-62,1416
+3600,16,8,5685,379,-63,934
+3600,16,8,5535,369,-62,1434
+3600,16,8,5940,396,-63,1550
+3600,16,8,5760,384,-62,1007
+3600,16,8,5730,382,-63,1440
+3600,16,8,5745,383,-63,916
+3600,16,8,5595,373,-63,1434
+3600,16,8,5700,380,-63,1750
+3600,16,8,5760,384,-63,915
+3600,16,8,5670,378,-63,905
+3600,16,8,5670,378,-63,922
+3600,16,8,5685,379,-63,920
+3600,16,8,5700,380,-63,935
+3600,16,8,5670,378,-64,1432
+3600,16,8,5760,384,-63,913
+3600,16,8,5715,381,-65,929
+3600,16,8,5730,382,-64,918
+3600,16,8,5775,385,-64,919
+3600,16,8,5760,384,-62,922
+3600,16,8,5775,385,-64,931
+3600,16,8,5655,377,-64,921
+3600,16,8,5760,384,-64,928
+3600,16,8,5580,372,-63,904
+3600,16,8,5475,365,-63,934
+3600,16,8,5565,371,-63,923
+W (2828143) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,8,5565,371,-63,1375
+3600,16,8,5610,374,-63,1342
+3600,16,8,5565,371,-62,917
+3600,16,8,5565,371,-64,928
+3600,16,8,5505,367,-63,909
+3600,16,8,5565,371,-63,935
+3600,16,8,5550,370,-62,912
+3600,16,8,5580,372,-62,933
+3600,16,8,5580,372,-63,1420
+3600,16,8,5625,375,-63,927
+3600,16,8,5580,372,-63,920
+3600,16,8,5670,378,-63,924
+3600,16,8,5625,375,-64,925
+3600,16,8,5715,381,-64,928
+3600,16,8,5550,370,-63,920
+3600,16,8,5880,392,-64,2155
+3600,16,8,5820,388,-63,915
+E (2849393) wifi:No FTM Measurements received from responder!
+W (2849394) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (2851430) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,8,5550,370,-63,1054
+3600,16,8,5355,357,-63,906
+3600,16,8,5715,381,-63,1435
+3600,16,8,5805,387,-64,1429
+3600,16,8,5775,385,-63,928
+3600,16,8,5595,373,-63,920
+3600,16,8,5655,377,-64,920
+E (2860946) wifi:No FTM Measurements received from responder!
+W (2860946) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,8,5625,375,-63,866
+3600,16,8,5640,376,-63,934
+3600,16,8,5580,372,-63,1451
+3600,16,8,5445,363,-63,909
+W (2868184) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,8,5430,362,-63,1691
+W (2872376) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (2875096) wifi:No FTM Measurements received from responder!
+W (2875097) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (2877378) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (2879840) wifi:No FTM Measurements received from responder!
+W (2879841) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+E (2882349) wifi:No FTM Measurements received from responder!
+W (2882349) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+W (2884881) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,8,5640,376,-63,1290
+E (2889191) wifi:No FTM Measurements received from responder!
+W (2889191) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,8,5730,382,-63,1398
+W (2892572) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (2895430) wifi:No FTM Measurements received from responder!
+W (2895430) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,8,5700,380,-63,1017
+3600,16,8,5685,379,-63,920
+3600,16,8,5715,381,-63,917
+3600,16,8,5655,377,-64,916
+3600,16,8,5805,387,-64,935
+3600,16,8,5400,360,-62,1437
+W (2903715) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (2906216) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+W (2908717) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+3600,16,8,5610,374,-64,1102
+3600,16,8,5640,376,-63,2159
+W (2914479) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (2917161) wifi:No FTM Measurements received from responder!
+W (2917161) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,8,5730,382,-62,1741
+E (2921327) wifi:No FTM Measurements received from responder!
+W (2921327) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,16,8,5685,379,-63,880
+3600,16,8,5640,376,-63,917
+3600,16,8,5625,375,-63,937
+3600,16,8,5730,382,-63,910
+3600,16,8,5715,381,-63,1443
+3600,16,8,5670,378,-63,908
+3600,16,8,5715,381,-63,927
+3600,16,8,5670,378,-64,910
+3600,16,8,5685,379,-62,935
+3600,16,8,5760,384,-63,1422
+3600,16,8,5610,374,-64,931
+3600,16,8,5715,381,-63,910
+3600,16,8,5670,378,-64,948
+3600,16,8,5700,380,-64,906
+3600,16,8,5700,380,-62,1427
+3600,16,8,5700,380,-63,915
+3600,16,8,5685,379,-64,924
+3600,16,8,5700,380,-63,931
+3600,16,8,5715,381,-62,910
+3600,16,8,5715,381,-63,928
+3600,16,8,5730,382,-64,918
+3600,16,8,5730,382,-62,929
+3600,16,8,5745,383,-63,923
+3600,16,8,5760,384,-62,915
+3600,16,8,5745,383,-63,917
+3600,16,8,5775,385,-64,921
+3600,16,8,5655,377,-64,926
+3600,16,8,5640,376,-63,927
+3600,16,8,5760,384,-64,913
+3600,16,8,5805,387,-63,933
+3600,16,8,5655,377,-63,1436
+3600,16,8,5700,380,-63,920
+3600,16,8,5595,373,-64,1430
+3600,16,8,5655,377,-64,924
+3600,16,8,5775,385,-64,923
+3600,16,8,5700,380,-64,921
+3600,16,8,5535,369,-63,925
+3600,16,8,5580,372,-63,910
+3600,16,8,5700,380,-63,930
+3600,16,8,5625,375,-64,1423
+3600,16,8,5775,385,-63,933
+3600,16,8,5625,375,-63,928
+3600,16,8,5670,378,-63,917
+3600,16,8,5640,376,-64,1428
+3600,16,8,5520,368,-63,919
+3600,16,8,5625,375,-63,936
+3600,16,8,5595,373,-63,1414
+3600,16,8,5685,379,-63,933
+3600,16,8,5895,393,-63,928
+3600,16,8,5835,389,-64,916
+3600,16,8,5670,378,-64,913
+3600,16,8,5760,384,-65,928
+3600,16,8,6000,400,-64,1015
+3600,16,8,6090,406,-64,924
+3600,16,8,5655,377,-64,932
+3600,16,8,5745,383,-66,1419
+3600,16,8,5715,381,-64,920
+3600,16,8,5430,362,-62,926
+3600,16,8,5715,381,-63,930
+3600,16,8,5610,374,-63,913
+3600,16,8,5715,381,-64,931
+3600,16,8,5610,374,-64,917
+3600,16,8,5730,382,-63,928
+3600,16,8,5745,383,-64,911
+3600,16,8,5550,370,-63,936
+3600,16,8,5445,363,-62,912
+3600,16,8,5550,370,-63,928
+3600,16,8,5685,379,-63,916
+3600,16,8,5715,381,-64,925
+3600,16,8,5580,372,-64,925
+3600,16,8,5835,389,-63,907
+3600,16,8,5790,386,-63,918
+3600,16,8,5820,388,-63,923
+3600,16,8,5580,372,-64,923
+3600,16,8,5655,377,-63,940
+3600,16,8,5760,384,-64,911
+3600,16,8,5745,383,-64,925
+3600,16,8,5655,377,-62,1428
+3600,16,8,5760,384,-63,923
+3600,16,8,5715,381,-64,924
+3600,16,8,5670,378,-64,922
+3600,16,8,5715,381,-63,918
+3600,16,8,5715,381,-63,920
+3600,16,8,5670,378,-63,928
+3600,16,8,5670,378,-64,1436
+3600,16,8,5685,379,-63,910
+3600,16,8,5625,375,-63,919
+3600,16,8,5640,376,-64,931
+3600,16,8,5655,377,-63,924
+3600,16,8,5655,377,-63,923
+3600,16,8,5640,376,-62,913
+3600,16,8,5820,388,-63,930
+3600,16,8,5700,380,-63,1428
+3600,16,8,5895,393,-64,926
+3600,16,8,5760,384,-64,1422
+3600,16,8,5610,374,-63,923
+3600,16,8,5280,352,-63,932
+3600,16,8,5505,367,-62,1434
+3600,16,8,5565,371,-63,909
+3600,16,8,5685,379,-62,925
+3600,16,8,5295,353,-62,931
+3600,16,8,5415,361,-63,922
+3600,16,8,5520,368,-62,921
+3600,16,8,5550,370,-63,1436
+3600,16,8,5520,368,-63,1427
+3600,16,8,5610,374,-62,926
+3600,16,8,5520,368,-63,926
+3600,16,8,5295,353,-62,928
+3600,16,8,5550,370,-63,913
+3600,16,8,5745,383,-63,907
+3600,16,8,5685,379,-62,926
+3600,16,8,5535,369,-62,929
+3600,16,8,5535,369,-63,1421
+3600,16,8,5565,371,-63,924
+3600,16,8,5445,363,-63,927
+3600,16,8,5595,373,-63,918
+3600,16,8,5460,364,-63,917
+3600,16,8,5580,372,-63,925
+3600,16,8,5550,370,-63,923
+3600,16,8,5565,371,-62,920
+3600,16,8,5490,366,-62,926
+3600,16,8,5400,360,-62,928
+3600,16,8,5505,367,-62,917
+3600,16,8,5580,372,-63,925
+3600,16,8,5610,374,-62,916
+3600,16,8,5505,367,-62,915
+3600,16,8,5505,367,-63,924
+3600,16,8,5610,374,-62,932
+3600,16,8,5580,372,-62,925
+3600,16,8,5730,382,-63,919
+3600,16,8,5520,368,-62,1450
+3600,16,8,5610,374,-63,896
+3600,16,8,5535,369,-62,930
+3600,16,8,5595,373,-64,1440
+3600,16,8,5580,372,-62,921
+3600,16,8,5565,371,-63,1426
+3600,16,8,5640,376,-63,920
+3600,16,8,5670,378,-61,927
+3600,16,8,5715,381,-62,1442
+3600,16,8,5775,385,-63,1424
+3600,16,8,5760,384,-63,922
+3600,16,8,5715,381,-63,927
+3600,16,8,5460,364,-62,1420
+3600,16,8,5580,372,-64,918
+3600,16,8,5430,362,-63,930
+3600,16,8,5565,371,-63,924
+3600,16,8,5490,366,-62,908
+3600,16,8,5580,372,-62,933
+3600,16,8,5505,367,-62,916
+3600,16,8,5445,363,-63,929
+3600,16,8,5550,370,-63,1434
+3600,16,8,5535,369,-62,1424
+3600,16,8,5505,367,-63,927
+3600,16,8,5595,373,-63,920
+3600,16,8,5610,374,-63,927
+3600,16,8,5565,371,-62,922
+3600,16,8,5520,368,-63,911
+3600,16,8,5520,368,-63,926
+3600,16,8,5715,381,-63,929
+3600,16,8,5475,365,-64,921
+3600,16,8,5640,376,-61,1425
+3600,16,8,5625,375,-63,932
+3600,16,8,5565,371,-63,934
+3600,16,8,5625,375,-63,900
+3600,16,8,5700,380,-63,935
+3600,16,8,5535,369,-63,1431
+3600,16,8,5595,373,-63,908
+3600,16,8,5565,371,-62,919
+3600,16,8,5670,378,-63,924
+3600,16,8,5625,375,-63,932
+3600,16,8,5610,374,-63,926
+3600,16,8,5595,373,-62,913
+3600,16,8,5520,368,-62,914
+3600,16,8,5475,365,-62,922
+3600,16,8,5535,369,-63,927
+3600,16,8,5535,369,-62,928
+3600,16,8,5475,365,-62,910
+3600,16,8,5505,367,-61,926
+3600,16,8,5445,363,-62,919
+3600,16,8,5565,371,-62,916
+3600,16,8,5550,370,-62,929
+3600,16,8,5715,381,-62,929
+3600,16,8,5280,352,-62,1433
+3600,16,8,5400,360,-62,1432
+3600,16,8,5685,379,-62,921
+3600,16,8,5640,376,-64,914
+3600,16,8,5370,358,-63,937
+3600,16,8,5235,349,-62,920
+3600,16,8,5205,347,-62,1427
+3600,16,8,5700,380,-61,925
+3600,16,8,5730,382,-62,1449
+3600,16,8,5655,377,-62,906
+3600,16,8,5625,375,-62,918
+3600,16,8,5700,380,-63,925
+3600,16,8,5340,356,-62,1437
+3600,16,8,5490,366,-62,1434
+3600,16,8,5520,368,-63,919
+3600,16,8,5490,366,-64,1434
+3600,16,8,5475,365,-63,919
+3600,16,8,5400,360,-63,916
+3600,16,8,5445,363,-62,920
+3600,16,8,5385,359,-61,925
+3600,16,8,5430,362,-63,927
+3600,16,8,5415,361,-62,931
+3600,16,8,5355,357,-63,902
+3600,16,8,5355,357,-63,927
+3600,16,8,5430,362,-63,919
+3600,16,8,5505,367,-63,928
+3600,16,8,5505,367,-63,1437
+3600,16,8,5400,360,-63,919
+3600,16,8,5445,363,-63,1433
+3600,16,8,5475,365,-63,926
+3600,16,8,5460,364,-62,939
+3600,16,8,5505,367,-64,918
+3600,16,8,5610,374,-63,894
+3600,16,8,5460,364,-64,936
+3600,16,8,5325,355,-63,910
+3600,16,8,5430,362,-63,923
+3600,16,8,5445,363,-63,925
+3600,16,8,5520,368,-62,913
+3600,16,8,5520,368,-63,923
+3600,16,8,5490,366,-63,924
+3600,16,8,5475,365,-63,919
+3600,16,8,5475,365,-63,926
+3600,16,8,5430,362,-64,930
+3600,16,8,5625,375,-64,927
+3600,16,8,5460,364,-61,1424
+3600,16,8,5430,362,-62,918
+3600,16,8,5550,370,-63,922
+3600,16,8,5310,354,-63,915
+3600,16,8,5250,350,-63,921
+3600,16,8,5205,347,-63,926
+3600,16,8,5220,348,-62,922
+3600,16,8,5175,345,-62,918
+3600,16,8,5280,352,-63,927
+3600,16,8,5340,356,-63,919
+3600,16,8,5220,348,-62,918
+3600,16,8,5340,356,-63,925
+3600,16,8,5700,380,-63,920
+3600,16,8,5625,375,-64,924
+3600,16,8,5550,370,-62,928
+3600,16,8,5475,365,-62,918
+3600,16,8,5445,363,-63,916
+3600,16,8,5280,352,-62,932
+3600,16,8,5385,359,-62,924
+3600,16,8,5520,368,-62,905
+3600,16,8,5535,369,-63,924
+3600,16,8,5505,367,-63,935
+3600,16,8,5505,367,-62,910
+3600,16,8,5505,367,-63,920
+3600,16,8,5460,364,-63,922
+3600,16,8,5415,361,-63,932
+3600,16,8,5550,370,-63,922
+3600,16,8,5565,371,-64,1424
+3600,16,8,5715,381,-63,920
+3600,16,8,5775,385,-64,933
+3600,16,8,5760,384,-64,922
+3600,16,8,5805,387,-64,934
+3600,16,8,5955,397,-64,909
+3600,16,8,6000,400,-65,911
+3600,16,8,5865,391,-65,920
+3600,16,8,5910,394,-64,933
+3600,16,8,5985,399,-63,920
+3600,16,8,5940,396,-65,913
+3600,16,8,5925,395,-64,923
+3600,16,8,6000,400,-65,932
+3600,16,8,5985,399,-63,922
+3600,16,8,5850,390,-64,913
+3600,16,8,5970,398,-65,921
+3600,16,8,5910,394,-65,929
+3600,16,8,5925,395,-64,922
+3600,16,8,5970,398,-65,1436
+3600,16,8,5895,393,-63,929
+3600,16,8,5880,392,-64,1416
+3600,16,8,5925,395,-64,942
+3600,16,8,6075,405,-64,1431
+3600,16,8,5985,399,-65,911
+3600,16,8,6120,408,-64,1429
+3600,16,8,6135,409,-64,916
+3600,16,8,5910,394,-65,923
+3600,16,8,6030,402,-64,931
+3600,16,8,6000,400,-63,926
+3600,16,8,5910,394,-64,914
+3600,16,8,5835,389,-63,914
+3600,16,8,5820,388,-63,925
+3600,16,8,5685,379,-63,922
+3600,16,8,5850,390,-63,931
+3600,16,8,5835,389,-65,1432
+3600,16,8,5610,374,-65,921
+3600,16,8,5550,370,-64,914
+3600,16,8,5670,378,-61,920
+3600,16,8,5760,384,-63,921
+3600,16,8,5595,373,-61,933
+3600,16,8,5820,388,-63,1426
+3600,16,8,5715,381,-63,931
+3600,16,8,6000,400,-63,926
+3600,16,8,5550,370,-63,924
+3600,16,8,5625,375,-61,1053
+3600,16,8,5790,386,-62,1496
+3600,16,8,5655,377,-63,913
+3600,16,8,5835,389,-64,924
+3600,16,8,5820,388,-64,920
+3600,16,8,5790,386,-64,930
+3600,16,8,5760,384,-65,919
+3600,16,8,5850,390,-63,924
+3600,16,8,5940,396,-63,1427
+3600,16,8,5985,399,-64,922
+3600,16,8,6240,416,-64,919
+3600,16,8,6240,416,-66,925
+3600,16,8,5925,395,-67,916
+3600,16,8,6060,404,-65,930
+3600,16,8,6060,404,-67,915
+3600,16,8,6015,401,-65,931
+3600,16,8,6105,407,-66,920
+3600,16,8,5970,398,-65,934
+3600,16,8,5730,382,-65,902
+3600,16,8,5850,390,-63,924
+3600,16,8,5895,393,-64,917
+3600,16,8,5640,376,-64,923
+3600,16,8,5565,371,-64,920
+3600,16,8,5400,360,-64,932
+3600,16,8,6045,403,-64,917
+3600,16,8,5760,384,-64,916
+3600,16,8,5385,359,-63,932
+3600,16,8,5850,390,-65,915
+3600,16,8,5670,378,-65,929
+3600,16,8,5520,368,-62,918
+3600,16,8,5940,396,-67,923
+3600,16,8,6165,411,-65,925
+3600,16,8,5745,383,-67,915
+3600,16,8,5685,379,-64,916
+3600,16,8,5370,358,-66,933
+3600,16,8,5775,385,-65,910
+3600,16,8,5325,355,-65,933
+3600,16,8,5565,371,-63,914
+3600,16,8,5910,394,-66,930
+3600,16,8,5685,379,-66,928
+3600,16,8,5265,351,-64,910
+3600,16,8,5280,352,-63,930
+3600,16,8,6660,444,-67,1449
+3600,16,8,6285,419,-67,907
+3600,16,8,5775,385,-66,915
+3600,16,8,5790,386,-64,942
+3600,16,8,5670,378,-66,900
+3600,16,8,4620,308,-64,924
+3600,16,8,5310,354,-64,1448
+3600,16,8,4515,301,-61,1425
+3600,16,8,5130,342,-63,1421
+3600,16,8,5430,362,-65,918
+3600,16,8,5295,353,-62,925
+3600,16,8,5235,349,-62,926
+3600,16,8,5130,342,-62,925
+3600,16,8,5055,337,-64,1435
+3600,16,8,5010,334,-65,1438
+3600,16,8,4875,325,-64,918
+3600,16,8,4830,322,-61,1431
+3600,16,8,5145,343,-63,1439
+3600,16,8,5370,358,-65,1421
+3600,16,8,5730,382,-66,930
+3600,16,8,6120,408,-65,913
+3600,16,8,5745,383,-67,929
+3600,16,8,6060,404,-65,1441
+3600,16,8,5595,373,-65,1432
+3600,16,8,5625,375,-63,1427
+3600,16,8,6435,429,-66,924
+3600,16,8,4650,310,-64,1437
+3600,16,8,5250,350,-64,1428
+3600,16,8,5535,369,-65,1433
+3600,16,8,5295,353,-65,1441
+3600,16,8,5580,372,-65,931
+3600,16,8,5280,352,-64,907
+3600,16,8,5550,370,-64,1436
+3600,16,8,5535,369,-66,934
+3600,16,8,5085,339,-63,921
+3600,16,8,4695,313,-62,1407
+3600,16,8,4740,316,-63,939
+3600,16,8,4980,332,-63,918
+3600,16,8,5295,353,-65,908
+3600,16,8,5715,381,-66,922
+3600,16,8,4935,329,-65,919
+3600,16,8,5040,336,-62,934
+3600,16,8,5115,341,-61,928
+3600,16,8,4860,324,-62,920
+3600,16,8,5085,339,-63,1484
+3600,16,8,5220,348,-63,869
+3600,16,8,5055,337,-61,1432
+3600,16,8,5175,345,-61,920
+3600,16,8,5580,372,-63,917
+3600,16,8,5370,358,-64,922
+3600,16,8,5220,348,-62,937
+3600,16,8,5910,394,-64,1423
+3600,16,8,5100,340,-64,1427
+3600,16,8,5310,354,-62,920
+3600,16,8,5550,370,-64,926
+3600,16,8,5580,372,-63,921
+3600,16,8,5385,359,-63,921
+3600,16,8,5460,364,-63,921
+3600,16,8,5805,387,-62,941
+3600,16,8,5640,376,-63,898
+3600,16,8,5325,355,-63,934
+3600,16,8,5565,371,-64,1421
+3600,16,8,5730,382,-64,932
+3600,16,8,5640,376,-64,1423
+3600,16,8,5535,369,-64,933
+3600,16,8,5070,338,-63,1438
+3600,16,8,5325,355,-63,923
+3600,16,8,5235,349,-63,922
+3600,16,8,5460,364,-63,907
+3600,16,8,5460,364,-63,923
+3600,16,8,5460,364,-64,924
+3600,16,8,5295,353,-61,926
+3600,16,8,5310,354,-63,1427
+3600,16,8,5265,351,-64,929
+3600,16,8,5190,346,-62,1431
+3600,16,8,5160,344,-62,919
+3600,16,8,5115,341,-62,984
+3600,16,8,4965,331,-62,1435
+3600,16,8,5370,358,-62,862
+3600,16,8,5355,357,-61,934
+3600,16,8,5430,362,-62,1424
+3600,16,8,5085,339,-63,1431
+3600,16,8,5550,370,-65,1434
+3600,16,8,5055,337,-62,1419
+3600,16,8,5535,369,-63,922
+3600,16,8,5400,360,-63,944
+3600,16,8,5160,344,-62,1441
+3600,16,8,5760,384,-66,1420
+3600,16,8,5235,349,-63,915
+3600,16,8,5295,353,-62,926
+3600,16,8,5670,378,-64,918
+3600,16,8,5415,361,-64,914
+3600,16,8,5100,340,-61,920
+3600,16,8,5415,361,-63,928
+3600,16,8,5565,371,-64,919
+3600,16,8,5550,370,-64,928
+3600,16,8,5670,378,-63,920
+3600,16,8,5655,377,-63,920
+3600,16,8,5595,373,-63,920
+3600,16,8,5610,374,-63,933
+3600,16,8,5565,371,-64,919
+3600,16,8,5655,377,-63,924
+3600,16,8,5745,383,-64,1422
+3600,16,8,5655,377,-64,916
+3600,16,8,5610,374,-64,924
+3600,16,8,5370,358,-63,932
+3600,16,8,5295,353,-63,1434
+3600,16,8,5385,359,-62,928
+3600,16,8,5430,362,-63,1431
+3600,16,8,5415,361,-63,919
+3600,16,8,5340,356,-63,912
+3600,16,8,5385,359,-63,926
+3600,16,8,5445,363,-62,926
+3600,16,8,5445,363,-63,921
+3600,16,8,5505,367,-64,1433
+3600,16,8,5475,365,-63,921
+3600,16,8,5475,365,-62,918
+3600,16,8,5340,356,-63,915
+3600,16,8,5160,344,-63,939
+3600,16,8,5220,348,-63,904
+3600,16,8,5775,385,-63,926
+3600,16,8,5280,352,-64,927
+3600,16,8,6000,400,-65,924
+3600,16,8,5580,372,-63,1430
+3600,16,8,5490,366,-64,928
+3600,16,8,5820,388,-65,1450
+3600,16,8,5550,370,-63,903
+3600,16,8,5910,394,-65,924
+3600,16,8,6000,400,-65,922
+3600,16,8,6135,409,-64,907
+3600,16,8,6060,404,-65,922
+3600,16,8,5925,395,-64,930
+3600,16,8,6015,401,-65,922
+3600,16,8,6225,415,-66,932
+3600,16,8,5865,391,-63,1427
+3600,16,8,5835,389,-65,922
+3600,16,8,5895,393,-62,1417
+3600,16,8,6060,404,-64,940
+3600,16,8,5970,398,-65,1430
+3600,16,8,5745,383,-65,1433
+3600,16,8,5895,393,-65,1440
+3600,16,8,5715,381,-65,919
+3600,16,8,5625,375,-65,915
+3600,16,8,5670,378,-65,921
+3600,16,8,5820,388,-68,926
+3600,16,8,5565,371,-66,920
+3600,16,8,5550,370,-64,937
+3600,16,8,5550,370,-61,943
+3600,16,8,5805,387,-64,909
+3600,16,8,5715,381,-65,1442
+3600,16,8,5775,385,-65,889
+3600,16,8,5955,397,-67,1421
+3600,16,8,5865,391,-65,934
+3600,16,8,5805,387,-65,922
+3600,16,8,5310,354,-63,1435
+3600,16,8,5460,364,-63,915
+3600,16,8,5475,365,-64,922
+3600,16,8,5625,375,-65,927
+3600,16,8,5700,380,-64,921
+3600,16,8,5715,381,-64,929
+3600,16,8,5670,378,-64,1419
+3600,16,8,5745,383,-65,930
+3600,16,8,5640,376,-64,937
+3600,16,8,5730,382,-65,905
+3600,16,8,5385,359,-64,1424
+3600,16,8,5520,368,-63,931
+3600,16,8,5400,360,-63,1423
+3600,16,8,5475,365,-64,933
+3600,16,8,5160,344,-63,1426
+3600,16,8,5160,344,-61,929
+3600,16,8,5250,350,-63,931
+3600,16,8,5670,378,-64,913
+3600,16,8,5325,355,-63,933
+3600,16,8,5730,382,-65,1540
+3600,16,8,5595,373,-65,1406
+3600,16,8,5430,362,-64,931
+3600,16,8,5355,357,-63,916
+3600,16,8,5085,339,-64,930
+3600,16,8,5580,372,-65,1425
+3600,16,8,5640,376,-63,923
+3600,16,8,5790,386,-64,918
+3600,16,8,5850,390,-64,932
+3600,16,8,5850,390,-64,913
+3600,16,8,5700,380,-65,919
+3600,16,8,5010,334,-63,934
+3600,16,8,5205,347,-63,1429
+3600,16,8,5040,336,-63,915
+3600,16,8,5100,340,-63,932
+3600,16,8,5010,334,-63,1433
+3600,16,8,5055,337,-63,1435
+3600,16,8,5175,345,-64,920
+3600,16,8,5190,346,-63,920
+3600,16,8,5190,346,-64,1023
+# Config 5/5: frame_count=24, burst_period=2
+3600,24,2,5115,341,-63,727
+3600,24,2,5730,382,-65,1386
+3600,24,2,5685,379,-65,1995
+3600,24,2,5295,353,-66,1726
+3600,24,2,5070,338,-64,723
+3600,24,2,5130,342,-64,711
+3600,24,2,5205,347,-64,727
+3600,24,2,5160,344,-64,706
+3600,24,2,5235,349,-65,730
+3600,24,2,5265,351,-64,715
+3600,24,2,5100,340,-65,728
+3600,24,2,5145,343,-64,1209
+3600,24,2,5415,361,-65,715
+3600,24,2,5505,367,-65,720
+3600,24,2,5595,373,-65,726
+3600,24,2,5505,367,-64,1230
+3600,24,2,5475,365,-64,704
+3600,24,2,5460,364,-64,731
+3600,24,2,5520,368,-63,702
+3600,24,2,5415,361,-65,732
+3600,24,2,5310,354,-64,701
+3600,24,2,5250,350,-63,731
+3600,24,2,5370,358,-65,717
+3600,24,2,5370,358,-64,1215
+3600,24,2,5475,365,-65,722
+3600,24,2,5340,356,-63,731
+3600,24,2,5700,380,-64,1213
+3600,24,2,5850,390,-65,713
+3600,24,2,5685,379,-65,730
+3600,24,2,5505,367,-66,1228
+3600,24,2,5370,358,-65,706
+3600,24,2,5430,362,-65,727
+3600,24,2,5115,341,-63,1233
+3600,24,2,5310,354,-64,1223
+3600,24,2,5520,368,-64,722
+3600,24,2,5670,378,-65,714
+3600,24,2,5595,373,-64,1233
+3600,24,2,5205,347,-65,1232
+3600,24,2,5070,338,-64,698
+3600,24,2,5100,340,-63,728
+3600,24,2,5640,376,-63,1222
+3600,24,2,5430,362,-64,714
+3600,24,2,5490,366,-64,724
+3600,24,2,5655,377,-64,708
+3600,24,2,5670,378,-64,729
+3600,24,2,5610,374,-65,716
+3600,24,2,5625,375,-64,718
+3600,24,2,5520,368,-63,703
+3600,24,2,5625,375,-64,735
+3600,24,2,5475,365,-63,719
+3600,24,2,5520,368,-65,698
+3600,24,2,5415,361,-64,720
+3600,24,2,5415,361,-65,710
+3600,24,2,5565,371,-63,720
+3600,24,2,5550,370,-65,728
+3600,24,2,6150,410,-67,737
+3600,24,2,5730,382,-65,1216
+3600,24,2,5970,398,-66,709
+3600,24,2,5595,373,-63,1223
+3600,24,2,5625,375,-64,713
+3600,24,2,5940,396,-65,727
+3600,24,2,5805,387,-65,718
+3600,24,2,5970,398,-64,720
+3600,24,2,5655,377,-64,748
+3600,24,2,5625,375,-64,1180
+3600,24,2,5415,361,-63,728
+3600,24,2,5385,359,-65,730
+3600,24,2,5385,359,-64,698
+3600,24,2,5490,366,-62,727
+3600,24,2,5265,351,-64,1220
+3600,24,2,5580,372,-63,725
+3600,24,2,5415,361,-63,707
+3600,24,2,5370,358,-63,735
+3600,24,2,5715,381,-64,705
+3600,24,2,5610,374,-64,705
+3600,24,2,5475,365,-63,742
+3600,24,2,5280,352,-64,708
+3600,24,2,5295,353,-65,1213
+3600,24,2,5265,351,-64,720
+3600,24,2,5385,359,-63,729
+3600,24,2,5205,347,-65,1223
+3600,24,2,5325,355,-64,714
+3600,24,2,5310,354,-65,725
+3600,24,2,5235,349,-64,1221
+3600,24,2,5115,341,-64,732
+3600,24,2,5235,349,-64,706
+3600,24,2,5205,347,-64,1222
+3600,24,2,5175,345,-65,725
+3600,24,2,5085,339,-64,702
+3600,24,2,5160,344,-63,736
+3600,24,2,5235,349,-64,1237
+3600,24,2,5295,353,-64,691
+3600,24,2,5250,350,-66,720
+3600,24,2,5370,358,-64,734
+3600,24,2,5490,366,-65,710
+3600,24,2,5550,370,-65,707
+3600,24,2,5505,367,-64,729
+3600,24,2,5220,348,-64,701
+3600,24,2,5145,343,-63,732
+3600,24,2,5235,349,-64,726
+3600,24,2,5280,352,-62,705
+3600,24,2,5115,341,-63,1219
+3600,24,2,5070,338,-62,726
+3600,24,2,5025,335,-62,711
+3600,24,2,5070,338,-64,720
+3600,24,2,5250,350,-64,721
+3600,24,2,5145,343,-63,708
+3600,24,2,5280,352,-64,723
+3600,24,2,5175,345,-65,719
+3600,24,2,5250,350,-64,706
+3600,24,2,5130,342,-63,718
+3600,24,2,5205,347,-63,727
+3600,24,2,5265,351,-63,713
+3600,24,2,5145,343,-63,723
+3600,24,2,5040,336,-62,716
+3600,24,2,5205,347,-64,708
+3600,24,2,5160,344,-64,733
+3600,24,2,5130,342,-63,1216
+3600,24,2,5085,339,-65,716
+3600,24,2,5040,336,-63,717
+3600,24,2,5130,342,-64,713
+3600,24,2,5100,340,-63,726
+3600,24,2,5100,340,-63,714
+3600,24,2,5235,349,-63,721
+3600,24,2,5175,345,-65,704
+3600,24,2,5475,365,-64,736
+3600,24,2,5295,353,-64,701
+3600,24,2,5505,367,-65,717
+3600,24,2,5295,353,-64,723
+3600,24,2,4875,325,-62,717
+3600,24,2,4950,330,-62,715
+3600,24,2,5310,354,-63,1231
+3600,24,2,5595,373,-64,719
+3600,24,2,5415,361,-63,1220
+3600,24,2,5475,365,-64,724
+3600,24,2,5550,370,-64,1241
+3600,24,2,5550,370,-63,703
+3600,24,2,5625,375,-63,1223
+3600,24,2,5310,354,-63,721
+3600,24,2,5490,366,-63,715
+3600,24,2,5520,368,-63,726
+3600,24,2,5475,365,-64,1232
+3600,24,2,5145,343,-63,1261
+3600,24,2,5370,358,-64,1203
+3600,24,2,5340,356,-64,1213
+3600,24,2,5565,371,-64,709
+3600,24,2,5565,371,-64,726
+3600,24,2,5595,373,-63,702
+3600,24,2,5580,372,-63,738
+3600,24,2,5640,376,-63,701
+3600,24,2,5640,376,-63,727
+3600,24,2,5520,368,-63,1234
+3600,24,2,5580,372,-63,1225
+3600,24,2,5475,365,-62,710
+3600,24,2,5595,373,-64,721
+3600,24,2,5580,372,-64,720
+3600,24,2,5310,354,-63,700
+3600,24,2,5325,355,-63,732
+3600,24,2,5325,355,-63,701
+3600,24,2,5310,354,-63,722
+3600,24,2,5265,351,-63,744
+3600,24,2,5205,347,-63,692
+3600,24,2,5190,346,-64,725
+3600,24,2,5355,357,-65,1224
+3600,24,2,5235,349,-63,723
+3600,24,2,5490,366,-63,717
+3600,24,2,4920,328,-63,1226
+3600,24,2,5445,363,-63,709
+3600,24,2,5340,356,-62,725
+3600,24,2,5100,340,-63,707
+3600,24,2,5175,345,-63,717
+3600,24,2,5190,346,-63,725
+3600,24,2,5280,352,-64,1231
+3600,24,2,5100,340,-62,706
+3600,24,2,5085,339,-63,728
+3600,24,2,5070,338,-62,711
+3600,24,2,5010,334,-62,713
+3600,24,2,5100,340,-63,723
+3600,24,2,5085,339,-63,1293
+3600,24,2,5310,354,-64,1166
+3600,24,2,5460,364,-63,720
+3600,24,2,5430,362,-64,704
+3600,24,2,5310,354,-63,726
+3600,24,2,5445,363,-63,722
+3600,24,2,5325,355,-63,705
+3600,24,2,5400,360,-63,718
+3600,24,2,5400,360,-63,723
+3600,24,2,5460,364,-64,705
+3600,24,2,5310,354,-63,732
+3600,24,2,5310,354,-63,1232
+3600,24,2,5310,354,-63,699
+3600,24,2,5325,355,-63,739
+3600,24,2,5400,360,-63,698
+3600,24,2,5415,361,-63,726
+3600,24,2,5295,353,-64,711
+3600,24,2,5430,362,-63,722
+3600,24,2,5355,357,-64,708
+3600,24,2,5310,354,-63,729
+3600,24,2,5310,354,-64,1227
+3600,24,2,5415,361,-63,699
+3600,24,2,5355,357,-63,724
+3600,24,2,5340,356,-63,712
+3600,24,2,5370,358,-63,726
+3600,24,2,5265,351,-62,720
+3600,24,2,5220,348,-63,706
+3600,24,2,5235,349,-62,734
+3600,24,2,5235,349,-63,710
+3600,24,2,5220,348,-62,719
+3600,24,2,5295,353,-64,706
+3600,24,2,5355,357,-63,710
+3600,24,2,5310,354,-62,729
+3600,24,2,5430,362,-62,709
+3600,24,2,5310,354,-62,730
+3600,24,2,5310,354,-63,730
+3600,24,2,5460,364,-63,705
+3600,24,2,5415,361,-62,701
+3600,24,2,5445,363,-62,716
+3600,24,2,5475,365,-63,727
+3600,24,2,5355,357,-64,711
+3600,24,2,5430,362,-63,725
+3600,24,2,5430,362,-62,721
+3600,24,2,5400,360,-62,699
+3600,24,2,5415,361,-63,737
+3600,24,2,5400,360,-63,711
+3600,24,2,5415,361,-63,719
+3600,24,2,5415,361,-63,715
+3600,24,2,5460,364,-63,707
+3600,24,2,5415,361,-63,726
+3600,24,2,5400,360,-63,706
+3600,24,2,5385,359,-63,713
+3600,24,2,5400,360,-62,722
+3600,24,2,5325,355,-63,728
+3600,24,2,5430,362,-63,1227
+3600,24,2,5415,361,-62,713
+3600,24,2,5520,368,-63,728
+3600,24,2,5505,367,-63,1222
+3600,24,2,5520,368,-63,720
+3600,24,2,5595,373,-63,703
+3600,24,2,5475,365,-62,721
+3600,24,2,5475,365,-63,725
+3600,24,2,5565,371,-63,713
+3600,24,2,5355,357,-63,719
+3600,24,2,5490,366,-64,716
+3600,24,2,5595,373,-63,1240
+3600,24,2,5685,379,-65,697
+3600,24,2,5835,389,-64,733
+3600,24,2,5670,378,-64,706
+3600,24,2,5865,391,-63,710
+3600,24,2,5760,384,-64,714
+3600,24,2,5670,378,-64,732
+3600,24,2,5625,375,-64,1211
+3600,24,2,5685,379,-65,722
+3600,24,2,5475,365,-64,718
+3600,24,2,5475,365,-64,722
+3600,24,2,5400,360,-63,713
+3600,24,2,5340,356,-63,714
+3600,24,2,5370,358,-63,715
+3600,24,2,5295,353,-62,730
+3600,24,2,5385,359,-63,716
+3600,24,2,5250,350,-63,1245
+3600,24,2,5280,352,-63,1207
+3600,24,2,5265,351,-63,720
+3600,24,2,5295,353,-63,706
+3600,24,2,5460,364,-62,721
+3600,24,2,5400,360,-63,736
+3600,24,2,5355,357,-63,697
+3600,24,2,5400,360,-64,723
+3600,24,2,5415,361,-63,717
+3600,24,2,5385,359,-63,717
+3600,24,2,5445,363,-64,721
+3600,24,2,5520,368,-63,717
+3600,24,2,5505,367,-63,1229
+3600,24,2,5520,368,-63,710
+3600,24,2,5535,369,-64,715
+3600,24,2,5535,369,-64,725
+3600,24,2,5565,371,-63,710
+3600,24,2,5595,373,-64,725
+3600,24,2,5625,375,-64,714
+3600,24,2,5595,373,-64,1222
+3600,24,2,5535,369,-63,738
+3600,24,2,5535,369,-64,703
+3600,24,2,5520,368,-64,715
+3600,24,2,5520,368,-65,718
+3600,24,2,5565,371,-63,762
+3600,24,2,5460,364,-63,665
+3600,24,2,5520,368,-63,726
+3600,24,2,5445,363,-64,711
+3600,24,2,5520,368,-64,720
+3600,24,2,5580,372,-63,705
+3600,24,2,5850,390,-64,719
+3600,24,2,5610,374,-65,730
+3600,24,2,5535,369,-64,713
+3600,24,2,5625,375,-65,704
+3600,24,2,5550,370,-64,721
+3600,24,2,5580,372,-63,728
+3600,24,2,5625,375,-64,715
+3600,24,2,5595,373,-64,710
+3600,24,2,5595,373,-64,725
+3600,24,2,5610,374,-64,1228
+3600,24,2,5490,366,-64,718
+3600,24,2,5295,353,-63,715
+3600,24,2,5340,356,-62,710
+3600,24,2,5385,359,-62,727
+3600,24,2,5535,369,-64,706
+3600,24,2,5595,373,-64,716
+3600,24,2,5400,360,-62,711
+3600,24,2,5040,336,-64,735
+3600,24,2,5055,337,-62,714
+3600,24,2,5325,355,-62,712
+3600,24,2,5400,360,-64,723
+3600,24,2,5265,351,-62,714
+3600,24,2,5340,356,-63,707
+3600,24,2,5445,363,-62,730
+3600,24,2,5310,354,-65,704
+3600,24,2,4980,332,-64,716
+3600,24,2,4935,329,-64,728
+3600,24,2,5295,353,-63,716
+3600,24,2,5100,340,-63,1216
+3600,24,2,4905,327,-64,736
+3600,24,2,5130,342,-65,1211
+3600,24,2,5085,339,-64,722
+3600,24,2,5325,355,-63,716
+3600,24,2,5235,349,-61,712
+3600,24,2,5415,361,-64,737
+3600,24,2,5625,375,-64,695
+3600,24,2,5340,356,-62,723
+3600,24,2,5415,361,-65,724
+3600,24,2,5010,334,-61,1229
+3600,24,2,5205,347,-62,723
+3600,24,2,5370,358,-64,711
+3600,24,2,5325,355,-65,715
+3600,24,2,5535,369,-63,710
+3600,24,2,5355,357,-64,724
+3600,24,2,5580,372,-63,717
+3600,24,2,5505,367,-63,717
+3600,24,2,5310,354,-63,720
+3600,24,2,5385,359,-62,716
+3600,24,2,5415,361,-64,702
+3600,24,2,5475,365,-63,730
+3600,24,2,5775,385,-64,1228
+3600,24,2,4950,330,-63,1219
+3600,24,2,5265,351,-64,737
+3600,24,2,5340,356,-63,696
+3600,24,2,5280,352,-63,727
+3600,24,2,5355,357,-63,718
+3600,24,2,5340,356,-62,705
+3600,24,2,5265,351,-63,737
+3600,24,2,5340,356,-65,1213
+3600,24,2,5535,369,-65,725
+3600,24,2,5415,361,-64,703
+3600,24,2,5340,356,-65,741
+3600,24,2,5475,365,-65,707
+3600,24,2,5280,352,-63,1227
+3600,24,2,5310,354,-63,703
+3600,24,2,5295,353,-64,731
+3600,24,2,5310,354,-64,1228
+3600,24,2,5460,364,-64,706
+3600,24,2,5340,356,-64,757
+3600,24,2,5040,336,-63,1203
+3600,24,2,4995,333,-64,727
+3600,24,2,4890,326,-63,700
+3600,24,2,4830,322,-63,713
+3600,24,2,4980,332,-62,717
+3600,24,2,5220,348,-64,714
+3600,24,2,5100,340,-63,716
+3600,24,2,5085,339,-62,735
+3600,24,2,5325,355,-63,699
+3600,24,2,4950,330,-63,717
+3600,24,2,4905,327,-62,727
+3600,24,2,5535,369,-64,1228
+3600,24,2,5520,368,-63,719
+3600,24,2,5325,355,-61,715
+3600,24,2,5415,361,-63,704
+3600,24,2,5430,362,-63,719
+3600,24,2,5385,359,-61,728
+3600,24,2,5535,369,-63,1219
+3600,24,2,5415,361,-63,727
+3600,24,2,5400,360,-63,723
+3600,24,2,5475,365,-63,700
+3600,24,2,5400,360,-63,717
+3600,24,2,5385,359,-63,726
+3600,24,2,5415,361,-63,706
+3600,24,2,5340,356,-63,718
+3600,24,2,5340,356,-63,712
+3600,24,2,5400,360,-63,739
+3600,24,2,5325,355,-63,695
+3600,24,2,5325,355,-63,731
+3600,24,2,5280,352,-63,716
+3600,24,2,5355,357,-63,1216
+3600,24,2,5355,357,-63,721
+3600,24,2,5370,358,-63,728
+3600,24,2,5535,369,-64,717
+3600,24,2,5490,366,-63,1224
+3600,24,2,5490,366,-62,719
+3600,24,2,5445,363,-63,707
+3600,24,2,5490,366,-64,728
+3600,24,2,5445,363,-64,715
+3600,24,2,5430,362,-64,1324
+3600,24,2,5400,360,-63,726
+3600,24,2,5445,363,-62,1228
+3600,24,2,5460,364,-63,703
+3600,24,2,5445,363,-63,729
+3600,24,2,5460,364,-63,704
+3600,24,2,5490,366,-64,743
+3600,24,2,5460,364,-63,1218
+3600,24,2,5475,365,-63,714
+3600,24,2,5430,362,-63,714
+3600,24,2,5445,363,-63,707
+3600,24,2,5475,365,-63,718
+3600,24,2,5445,363,-63,718
+3600,24,2,5520,368,-63,732
+3600,24,2,5490,366,-64,703
+3600,24,2,5460,364,-64,713
+3600,24,2,5490,366,-63,723
+3600,24,2,5475,365,-64,730
+3600,24,2,5445,363,-63,699
+3600,24,2,5445,363,-63,729
+3600,24,2,5475,365,-63,717
+3600,24,2,5535,369,-62,716
+3600,24,2,5505,367,-63,719
+3600,24,2,5520,368,-64,704
+3600,24,2,5490,366,-62,727
+3600,24,2,5580,372,-62,717
+3600,24,2,5505,367,-63,717
+3600,24,2,5490,366,-62,719
+3600,24,2,5460,364,-63,703
+3600,24,2,5490,366,-63,725
+3600,24,2,5580,372,-63,719
+3600,24,2,5475,365,-63,719
+3600,24,2,5565,371,-63,702
+3600,24,2,5550,370,-63,735
+3600,24,2,5505,367,-64,715
+3600,24,2,5520,368,-63,705
+3600,24,2,5550,370,-63,716
+3600,24,2,5505,367,-63,730
+3600,24,2,5520,368,-64,711
+3600,24,2,5505,367,-63,719
+3600,24,2,5490,366,-63,705
+3600,24,2,5490,366,-62,730
+3600,24,2,5880,392,-64,718
+3600,24,2,5775,385,-64,713
+3600,24,2,5625,375,-65,719
+3600,24,2,5505,367,-62,719
+3600,24,2,5325,355,-63,715
+3600,24,2,5400,360,-63,713
+3600,24,2,5295,353,-63,721
+3600,24,2,5310,354,-63,716
+3600,24,2,5475,365,-63,716
+3600,24,2,5370,358,-64,709
+3600,24,2,5175,345,-62,726
+3600,24,2,5295,353,-62,716
+3600,24,2,5460,364,-63,1216
+3600,24,2,5385,359,-62,725
+3600,24,2,5565,371,-62,722
+3600,24,2,5460,364,-63,720
+3600,24,2,5520,368,-62,715
+3600,24,2,5565,371,-63,720
+3600,24,2,5385,359,-63,701
+3600,24,2,5385,359,-62,719
+3600,24,2,5445,363,-63,724
+3600,24,2,5475,365,-62,798
+3600,24,2,5460,364,-62,730
+3600,24,2,5430,362,-62,725
+3600,24,2,5565,371,-63,719
+W (3836283) puara-module: FTM Report received with non-success status: 3
+# Timeout after 2501 ms, retrying...
+E (3839003) wifi:No FTM Measurements received from responder!
+W (3839004) puara-module: FTM Report received with non-success status: 5
+# Timeout after 2501 ms, retrying...
+3600,24,2,5550,370,-64,1563
+3600,24,2,5490,366,-63,707
+3600,24,2,5535,369,-63,705
+3600,24,2,5535,369,-63,736
+3600,24,2,5430,362,-63,707
+3600,24,2,5520,368,-62,716
+3600,24,2,5565,371,-63,705
+3600,24,2,5490,366,-64,722
+3600,24,2,5460,364,-63,727
+3600,24,2,5565,371,-63,709
+3600,24,2,5490,366,-63,707
+3600,24,2,5580,372,-63,732
+3600,24,2,5580,372,-64,716
+3600,24,2,5595,373,-63,724
+3600,24,2,5550,370,-64,711
+3600,24,2,5490,366,-64,704
+3600,24,2,5535,369,-63,729
+3600,24,2,5625,375,-64,1244
+3600,24,2,5655,377,-63,688
+3600,24,2,5595,373,-63,729
+3600,24,2,5385,359,-63,707
+3600,24,2,5475,365,-62,730
+3600,24,2,5325,355,-61,714
+3600,24,2,5475,365,-62,706
+3600,24,2,5520,368,-64,717
+3600,24,2,5580,372,-63,727
+3600,24,2,5520,368,-63,718
+3600,24,2,5175,345,-63,716
+3600,24,2,5445,363,-63,713
+3600,24,2,5460,364,-62,722
+3600,24,2,5535,369,-62,718
+3600,24,2,5460,364,-63,721
+3600,24,2,5520,368,-62,710
+3600,24,2,5385,359,-64,1221
+3600,24,2,5460,364,-63,727
+3600,24,2,5505,367,-63,716
+3600,24,2,5475,365,-62,1232
+3600,24,2,5445,363,-63,717
+3600,24,2,5490,366,-63,1222
+3600,24,2,5355,357,-63,707
+3600,24,2,5265,351,-63,730
+3600,24,2,5175,345,-64,715
+3600,24,2,5235,349,-63,1236
+3600,24,2,5355,357,-63,1225
+3600,24,2,5280,352,-63,713
+3600,24,2,5220,348,-63,718
+3600,24,2,5265,351,-63,1235
+3600,24,2,5370,358,-62,1328
+3600,24,2,5445,363,-63,1561
+3600,24,2,5265,351,-63,1706
+3600,24,2,5505,367,-64,1542
+3600,24,2,5490,366,-63,717
+3600,24,2,5475,365,-62,737
+3600,24,2,5445,363,-63,697
+3600,24,2,5535,369,-63,1237
+3600,24,2,5505,367,-63,712
+3600,24,2,5475,365,-64,714
+3600,24,2,5415,361,-63,719
+3600,24,2,5460,364,-63,712
+3600,24,2,5445,363,-62,719
+3600,24,2,5445,363,-63,716
+3600,24,2,5535,369,-63,718
+3600,24,2,5670,378,-64,715
+3600,24,2,5280,352,-62,717
+3600,24,2,5325,355,-61,1232
+3600,24,2,5310,354,-63,714
+3600,24,2,5355,357,-60,709
+3600,24,2,5190,346,-60,723
+3600,24,2,5160,344,-62,722
+3600,24,2,5550,370,-62,714
+3600,24,2,5265,351,-62,703
+3600,24,2,5400,360,-61,719
+3600,24,2,5445,363,-63,731
+3600,24,2,5445,363,-62,707
+3600,24,2,5265,351,-63,735
+3600,24,2,5430,362,-62,691
+3600,24,2,5460,364,-64,733
+3600,24,2,5205,347,-63,1214
+3600,24,2,5430,362,-63,734
+3600,24,2,5430,362,-64,705
+3600,24,2,5415,361,-64,727
+3600,24,2,5385,359,-63,714
+3600,24,2,5415,361,-63,1232
+3600,24,2,5400,360,-63,717
+3600,24,2,5415,361,-63,715
+3600,24,2,5340,356,-63,719
+3600,24,2,5265,351,-63,1237
+3600,24,2,5295,353,-63,705
+3600,24,2,5265,351,-63,1246
+3600,24,2,5310,354,-63,716
+3600,24,2,5355,357,-63,706
+3600,24,2,5475,365,-63,1224
+3600,24,2,5520,368,-64,1231
+3600,24,2,5490,366,-63,716
+3600,24,2,5430,362,-64,715
+3600,24,2,5550,370,-64,1225
+3600,24,2,5325,355,-63,724
+3600,24,2,5400,360,-63,715
+3600,24,2,5400,360,-62,706
+3600,24,2,5340,356,-63,730
+3600,24,2,5460,364,-63,1228
+3600,24,2,5370,358,-63,1227
+3600,24,2,5325,355,-63,716
+3600,24,2,5310,354,-63,705
+3600,24,2,5415,361,-64,730
+3600,24,2,5430,362,-63,1229
+3600,24,2,5325,355,-63,709
+3600,24,2,5250,350,-63,716
+3600,24,2,5145,343,-63,726
+3600,24,2,5370,358,-63,1218
+3600,24,2,5505,367,-63,714
+3600,24,2,5460,364,-65,729
+3600,24,2,5175,345,-63,706
+3600,24,2,5310,354,-63,729
+3600,24,2,5265,351,-62,1233
+3600,24,2,5490,366,-64,1209
+3600,24,2,5310,354,-63,731
+3600,24,2,5430,362,-63,1231
+3600,24,2,5220,348,-63,715
+3600,24,2,5340,356,-63,716
+3600,24,2,5280,352,-64,725
+3600,24,2,5280,352,-62,1250
+3600,24,2,5370,358,-64,694
+3600,24,2,5355,357,-62,1233
+3600,24,2,5370,358,-63,708
+3600,24,2,5385,359,-62,719
+3600,24,2,5460,364,-62,717
+3600,24,2,5340,356,-62,746
+3600,24,2,5310,354,-62,697
+3600,24,2,5400,360,-63,688
+3600,24,2,5505,367,-62,731
+3600,24,2,5340,356,-61,727
+3600,24,2,5385,359,-61,707
+3600,24,2,5325,355,-63,718
+3600,24,2,5385,359,-64,715
+3600,24,2,5445,363,-62,732
+3600,24,2,5415,361,-63,844
+3600,24,2,5385,359,-63,1203
+3600,24,2,5265,351,-62,1234
+3600,24,2,5385,359,-62,1210
+3600,24,2,5445,363,-63,1232
+3600,24,2,5460,364,-62,722
+3600,24,2,5385,359,-62,707
+3600,24,2,5445,363,-63,1230
+3600,24,2,5505,367,-62,726
+3600,24,2,5505,367,-63,1213
+3600,24,2,5535,369,-62,727
+3600,24,2,5430,362,-63,717
+3600,24,2,5445,363,-62,1240
+3600,24,2,5355,357,-63,710
+3600,24,2,5310,354,-62,1210
+3600,24,2,5310,354,-63,713
+3600,24,2,5265,351,-61,717
+3600,24,2,5250,350,-62,732
+3600,24,2,5265,351,-63,716
+3600,24,2,5235,349,-63,727
+3600,24,2,5310,354,-63,693
+3600,24,2,5250,350,-62,732
+3600,24,2,5235,349,-62,702
+3600,24,2,5265,351,-63,742
+3600,24,2,5265,351,-63,706
+3600,24,2,5265,351,-63,713
+3600,24,2,5205,347,-62,719
+3600,24,2,5295,353,-62,720
+3600,24,2,5325,355,-62,1223
+3600,24,2,5325,355,-62,725
+3600,24,2,5400,360,-62,702
+3600,24,2,5385,359,-63,730
+3600,24,2,5460,364,-63,741
+3600,24,2,5400,360,-63,696
+3600,24,2,5415,361,-63,708
+3600,24,2,5475,365,-63,722
+3600,24,2,5355,357,-62,725
+3600,24,2,5535,369,-63,707
+3600,24,2,5430,362,-63,747
+3600,24,2,5385,359,-63,702
+3600,24,2,5490,366,-64,688
+3600,24,2,5505,367,-62,731
+3600,24,2,5475,365,-64,716
+3600,24,2,5385,359,-64,707
+3600,24,2,5400,360,-62,726
+3600,24,2,5325,355,-63,704
+3600,24,2,5355,357,-63,717
+3600,24,2,5460,364,-63,715
+3600,24,2,5445,363,-61,716
+3600,24,2,5400,360,-63,732
+3600,24,2,5415,361,-63,1244
+3600,24,2,5415,361,-63,703
+3600,24,2,5355,357,-62,1229
+3600,24,2,5370,358,-62,704
+3600,24,2,5370,358,-63,726
+3600,24,2,5385,359,-63,1219
+3600,24,2,5370,358,-63,713
+3600,24,2,5400,360,-63,741
+3600,24,2,5400,360,-62,812
+3600,24,2,5400,360,-62,703
+3600,24,2,5430,362,-63,731
+3600,24,2,5475,365,-63,1223
+3600,24,2,5415,361,-63,774
+3600,24,2,5385,359,-63,664
+3600,24,2,5325,355,-63,717
+3600,24,2,5415,361,-62,1218
+3600,24,2,5460,364,-64,714
+3600,24,2,5505,367,-63,717
+3600,24,2,5550,370,-63,728
+3600,24,2,5445,363,-63,1229
+3600,24,2,5370,358,-64,724
+3600,24,2,5430,362,-63,1218
+3600,24,2,5280,352,-62,716
+3600,24,2,5280,352,-62,709
+3600,24,2,5340,356,-63,730
+3600,24,2,5295,353,-62,715
+3600,24,2,5295,353,-64,710
+3600,24,2,5235,349,-64,731
+3600,24,2,5265,351,-63,699
+3600,24,2,5205,347,-63,726
+3600,24,2,5295,353,-62,706
+3600,24,2,5280,352,-63,733
+3600,24,2,5310,354,-63,713
+3600,24,2,5310,354,-64,717
+3600,24,2,5235,349,-62,718
+3600,24,2,5310,354,-63,704
+3600,24,2,5175,345,-62,718
+3600,24,2,5250,350,-63,729
+3600,24,2,5370,358,-62,710
+3600,24,2,5265,351,-63,712
+3600,24,2,5355,357,-63,735
+3600,24,2,5340,356,-63,698
+3600,24,2,5265,351,-63,734
+3600,24,2,5310,354,-63,1213
+3600,24,2,5325,355,-63,720
+3600,24,2,5400,360,-63,726
+3600,24,2,5430,362,-64,713
+3600,24,2,5295,353,-63,709
+3600,24,2,5220,348,-62,730
+3600,24,2,5295,353,-62,704
+3600,24,2,5280,352,-62,723
+3600,24,2,5340,356,-62,712
+3600,24,2,5295,353,-62,725
+3600,24,2,5175,345,-63,717
+3600,24,2,5340,356,-62,1238
+3600,24,2,5175,345,-62,1219
+3600,24,2,5355,357,-64,1236
+3600,24,2,5250,350,-63,1220
+3600,24,2,5280,352,-63,730
+3600,24,2,5295,353,-63,718
+3600,24,2,5295,353,-62,1202
+3600,24,2,5370,358,-62,727
+3600,24,2,5235,349,-63,717
+3600,24,2,5265,351,-63,720
+3600,24,2,5280,352,-63,717
+3600,24,2,5340,356,-63,714
+3600,24,2,5340,356,-62,718
+3600,24,2,5445,363,-62,709
+3600,24,2,5475,365,-64,716
+3600,24,2,5535,369,-62,715
+3600,24,2,5460,364,-63,739
+3600,24,2,5310,354,-62,706
+3600,24,2,5205,347,-63,719
+3600,24,2,5280,352,-62,1233
+3600,24,2,5220,348,-62,704
+3600,24,2,5160,344,-63,725
+3600,24,2,5220,348,-62,714
+3600,24,2,5265,351,-62,708
+3600,24,2,5235,349,-63,726
+3600,24,2,5175,345,-63,707
+3600,24,2,5250,350,-63,720
+3600,24,2,5325,355,-62,724
+3600,24,2,5235,349,-62,703
+3600,24,2,5205,347,-62,744
+3600,24,2,5250,350,-62,1216
+3600,24,2,5205,347,-62,706
+3600,24,2,5265,351,-62,731
+3600,24,2,5205,347,-63,1211
+3600,24,2,5310,354,-63,731
+3600,24,2,5355,357,-63,721
+3600,24,2,5175,345,-63,1219
+3600,24,2,5235,349,-63,728
+3600,24,2,5205,347,-63,712
+3600,24,2,5325,355,-63,707
+3600,24,2,5355,357,-62,729
+3600,24,2,5160,344,-62,1224
+3600,24,2,5205,347,-62,704
+3600,24,2,5160,344,-62,733
+3600,24,2,5220,348,-62,718
+3600,24,2,5130,342,-62,1225
+3600,24,2,5175,345,-63,707
+3600,24,2,5220,348,-62,717
+3600,24,2,5205,347,-63,713
+3600,24,2,5235,349,-62,734
+3600,24,2,5145,343,-63,761
+3600,24,2,5175,345,-60,656
+3600,24,2,5220,348,-63,723
+3600,24,2,5130,342,-63,728
+3600,24,2,5280,352,-62,1218
+3600,24,2,5355,357,-64,709
+3600,24,2,5325,355,-63,733
+3600,24,2,5295,353,-63,704
+3600,24,2,5325,355,-63,730
+3600,24,2,5250,350,-65,715
+3600,24,2,5340,356,-65,728
+3600,24,2,5325,355,-65,705
+3600,24,2,5265,351,-64,703
+3600,24,2,5235,349,-62,731
+3600,24,2,4875,325,-62,717
+3600,24,2,5295,353,-63,1217
+3600,24,2,5235,349,-64,728
+3600,24,2,5085,339,-62,704
+3600,24,2,4965,331,-61,730
+3600,24,2,5130,342,-60,845
+3600,24,2,5235,349,-62,678
+3600,24,2,5205,347,-63,730
+3600,24,2,5250,350,-62,712
+3600,24,2,5250,350,-61,710
+3600,24,2,5220,348,-63,713
+3600,24,2,5190,346,-62,720
+3600,24,2,5295,353,-63,715
+3600,24,2,5355,357,-62,718
+3600,24,2,5265,351,-60,717
+3600,24,2,5190,346,-62,716
+3600,24,2,5295,353,-62,719
+3600,24,2,5265,351,-63,727
+3600,24,2,5265,351,-61,717
+3600,24,2,5280,352,-63,1230
+3600,24,2,5250,350,-62,719
+3600,24,2,5250,350,-63,701
+3600,24,2,5265,351,-63,723
+3600,24,2,5280,352,-63,714
+3600,24,2,5325,355,-62,728
+3600,24,2,5205,347,-63,717
+3600,24,2,5280,352,-62,706
+3600,24,2,5235,349,-63,727
+3600,24,2,5205,347,-63,714
+3600,24,2,5160,344,-62,708
+3600,24,2,5190,346,-63,714
+3600,24,2,5235,349,-62,729
+3600,24,2,5190,346,-62,718
+3600,24,2,5130,342,-63,1235
+3600,24,2,5220,348,-63,712
+3600,24,2,5160,344,-63,702
+3600,24,2,5130,342,-63,721
+3600,24,2,5175,345,-62,726
+3600,24,2,5175,345,-62,716
+3600,24,2,5235,349,-62,721
+3600,24,2,5220,348,-63,704
+3600,24,2,5205,347,-63,731
+3600,24,2,5220,348,-63,808
+3600,24,2,5205,347,-63,723
+3600,24,2,5205,347,-63,717
+3600,24,2,5160,344,-62,707
+3600,24,2,5205,347,-62,728
+3600,24,2,5130,342,-62,705
+3600,24,2,5235,349,-63,729
+3600,24,2,5205,347,-63,716
+3600,24,2,5265,351,-63,1219
+3600,24,2,5250,350,-64,728
+3600,24,2,5370,358,-63,709
+3600,24,2,5295,353,-63,725
+3600,24,2,5265,351,-63,718
+3600,24,2,5280,352,-63,702
+3600,24,2,5325,355,-64,722
+3600,24,2,5370,358,-64,712
+3600,24,2,5415,361,-63,728
+3600,24,2,5415,361,-63,702
+3600,24,2,5430,362,-64,731
+3600,24,2,5325,355,-61,1230
+3600,24,2,5370,358,-63,705
+3600,24,2,5340,356,-63,727
+3600,24,2,5340,356,-64,709
+3600,24,2,5355,357,-62,730
+3600,24,2,5295,353,-63,713
+3600,24,2,5340,356,-63,705
+3600,24,2,5295,353,-63,728
+3600,24,2,5340,356,-63,713
+3600,24,2,5445,363,-63,720
+3600,24,2,5310,354,-63,719
+3600,24,2,5415,361,-63,704
+3600,24,2,5370,358,-63,729
+3600,24,2,5385,359,-63,703
+3600,24,2,5355,357,-63,729
+3600,24,2,5325,355,-63,707
+3600,24,2,5235,349,-63,739
+3600,24,2,5265,351,-62,704
+3600,24,2,5205,347,-63,717
+3600,24,2,5220,348,-62,714
+3600,24,2,5205,347,-63,705
+3600,24,2,5205,347,-63,726
+3600,24,2,5190,346,-63,729
+3600,24,2,5205,347,-63,711
+3600,24,2,5340,356,-62,1320
+3600,24,2,5370,358,-63,730
+3600,24,2,5355,357,-63,705
+3600,24,2,5355,357,-63,725
+3600,24,2,5340,356,-63,707
+3600,24,2,5325,355,-63,714
+3600,24,2,5325,355,-62,721
+3600,24,2,5355,357,-63,717
+3600,24,2,5325,355,-62,729
+3600,24,2,5325,355,-63,704
+3600,24,2,5430,362,-63,735
+3600,24,2,5325,355,-62,1208
+3600,24,2,5295,353,-62,740
+3600,24,2,5250,350,-63,695
+3600,24,2,5175,345,-62,722
+3600,24,2,5280,352,-63,733
+3600,24,2,5355,357,-63,706
+3600,24,2,5340,356,-63,702
+3600,24,2,5385,359,-63,734
+3600,24,2,5175,345,-62,715
+3600,24,2,5295,353,-63,702
+3600,24,2,5340,356,-63,721
+3600,24,2,5265,351,-61,731
+3600,24,2,5295,353,-62,713
+3600,24,2,5250,350,-62,1223
+3600,24,2,5190,346,-62,711
+3600,24,2,5325,355,-61,729
+3600,24,2,5310,354,-64,817
+3600,24,2,5430,362,-63,715
+3600,24,2,5250,350,-63,724
+3600,24,2,5265,351,-62,1230
+3600,24,2,5265,351,-63,707
+3600,24,2,5190,346,-62,709
+3600,24,2,5130,342,-61,735
+3600,24,2,5280,352,-63,698
+3600,24,2,5250,350,-63,720
+3600,24,2,5235,349,-63,727
+3600,24,2,5175,345,-62,704
+3600,24,2,5220,348,-63,718
+3600,24,2,5190,346,-62,728
+3600,24,2,5160,344,-62,719
+3600,24,2,5115,341,-62,1217
+3600,24,2,5175,345,-62,727
+3600,24,2,5250,350,-63,709
+3600,24,2,5205,347,-62,728
+3600,24,2,5175,345,-62,708
+3600,24,2,5235,349,-62,724
+3600,24,2,5280,352,-62,721
+3600,24,2,5280,352,-62,712
+3600,24,2,5250,350,-63,717
+3600,24,2,5340,356,-62,1233
+3600,24,2,5175,345,-63,1234
+3600,24,2,5220,348,-63,705
+3600,24,2,5265,351,-63,1219
+3600,24,2,5220,348,-63,714
+3600,24,2,5205,347,-63,730
+3600,24,2,5160,344,-63,705
+3600,24,2,5145,343,-63,729
+3600,24,2,5205,347,-62,720
+3600,24,2,5190,346,-63,717
+3600,24,2,5235,349,-63,703
+3600,24,2,5250,350,-63,730
+3600,24,2,5220,348,-63,1216
+3600,24,2,5160,344,-63,726
+3600,24,2,5175,345,-62,714
+3600,24,2,5145,343,-63,727
+3600,24,2,5220,348,-63,706
+3600,24,2,5205,347,-63,709
+3600,24,2,5175,345,-62,728
+3600,24,2,5205,347,-63,721
+3600,24,2,5145,343,-63,707
+3600,24,2,5190,346,-63,710
+3600,24,2,5190,346,-63,736
+3600,24,2,5190,346,-63,726
+3600,24,2,5130,342,-64,692
+3600,24,2,5130,342,-62,727
+3600,24,2,5175,345,-63,705
+3600,24,2,5115,341,-62,730
+3600,24,2,5190,346,-62,1230
+3600,24,2,5235,349,-63,700
+3600,24,2,5205,347,-62,716
+3600,24,2,5250,350,-63,732
+3600,24,2,5190,346,-62,703
+3600,24,2,5220,348,-62,718
+3600,24,2,5235,349,-62,718
+3600,24,2,5205,347,-63,727
+3600,24,2,5175,345,-63,720
+3600,24,2,5475,365,-62,716
+3600,24,2,5310,354,-60,711
+3600,24,2,5430,362,-64,709
+3600,24,2,5400,360,-63,731
+3600,24,2,5250,350,-64,714
+3600,24,2,5490,366,-63,1229
+3600,24,2,5415,361,-64,729
+3600,24,2,5310,354,-64,695
+3600,24,2,5295,353,-62,731
+3600,24,2,5250,350,-63,701
+3600,24,2,5220,348,-63,718
+3600,24,2,5010,334,-62,720
+3600,24,2,5325,355,-63,723
+3600,24,2,5145,343,-62,719
+3600,24,2,5235,349,-63,1229
+3600,24,2,5220,348,-63,708
+3600,24,2,5220,348,-63,729
+3600,24,2,5235,349,-63,711
+3600,24,2,5220,348,-62,718
+3600,24,2,5250,350,-62,703
+3600,24,2,5265,351,-62,722
+3600,24,2,5235,349,-63,718
+3600,24,2,5235,349,-63,722
+3600,24,2,5265,351,-63,712
+3600,24,2,5220,348,-62,723
+3600,24,2,5250,350,-62,702
+3600,24,2,5205,347,-62,718
+3600,24,2,5250,350,-62,719
+3600,24,2,5250,350,-62,731
+3600,24,2,5130,342,-63,720
+3600,24,2,5205,347,-62,1208
+3600,24,2,5265,351,-62,723
+3600,24,2,5280,352,-63,716
+3600,24,2,5205,347,-62,714
+3600,24,2,5205,347,-62,736
+3600,24,2,5235,349,-63,701
+3600,24,2,5325,355,-63,713
+3600,24,2,5415,361,-62,720
+3600,24,2,5355,357,-63,713
+3600,24,2,5385,359,-63,721
+3600,24,2,5145,343,-64,720
+3600,24,2,5280,352,-62,724
+3600,24,2,5220,348,-63,704
+3600,24,2,5280,352,-63,728
+3600,24,2,5265,351,-63,706
+3600,24,2,5205,347,-62,739
+3600,24,2,5295,353,-63,706
+3600,24,2,5235,349,-63,717
+3600,24,2,5070,338,-62,717
+3600,24,2,4995,333,-62,706
+3600,24,2,5205,347,-62,729
+3600,24,2,5190,346,-62,704
+3600,24,2,5205,347,-62,719
+3600,24,2,5190,346,-62,713
+3600,24,2,5205,347,-62,724
+3600,24,2,5265,351,-63,707
+3600,24,2,5310,354,-62,736
+3600,24,2,5235,349,-62,697
+3600,24,2,5295,353,-62,727
+3600,24,2,5175,345,-62,729
+# Sampling complete! All configurations tested.
+# clockout-error count : 218 
+zero-zero measures count : 0

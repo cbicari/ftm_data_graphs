@@ -1,0 +1,5694 @@
+physical_distance_cm,frame_count,burst_period,estimated_distance_cm,rtt_ns,rssi_dbm,elapsed_ms
+# Starting automated sampling: 5 configs x 1000 samples = 5000 total
+# Config 1/5: frame_count=16, burst_period=2
+300,16,2,615,41,-44,333
+300,16,2,630,42,-44,1212
+E (11777) wifi:No FTM Measurements received from responder!
+W (11777) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,615,41,-44,429
+W (18409) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (22863) wifi:No FTM Measurements received from responder!
+W (22863) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (27231) wifi:No FTM Measurements received from responder!
+W (27232) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,615,41,-44,338
+300,16,2,630,42,-44,1018
+300,16,2,630,42,-44,317
+E (34747) wifi:No FTM Measurements received from responder!
+W (34747) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (39654) wifi:No FTM Measurements received from responder!
+W (39655) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (44264) wifi:No FTM Measurements received from responder!
+W (44264) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,1070
+W (51158) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (55052) wifi:No FTM Measurements received from responder!
+W (55053) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (60241) wifi:No FTM Measurements received from responder!
+W (60241) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (64981) wifi:No FTM Measurements received from responder!
+W (64981) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (70621) wifi:No FTM Measurements received from responder!
+W (70621) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (75336) wifi:No FTM Measurements received from responder!
+W (75336) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (81076) wifi:No FTM Measurements received from responder!
+W (81077) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (85130) wifi:No FTM Measurements received from responder!
+W (85130) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (91315) wifi:No FTM Measurements received from responder!
+W (91315) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,615,41,-44,457
+W (96624) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+W (101625) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,440
+300,16,2,630,42,-44,922
+300,16,2,615,41,-44,401
+E (107869) wifi:No FTM Measurements received from responder!
+W (107870) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (112610) wifi:No FTM Measurements received from responder!
+W (112610) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (117396) wifi:No FTM Measurements received from responder!
+W (117396) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (122255) wifi:No FTM Measurements received from responder!
+W (122255) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (127334) wifi:No FTM Measurements received from responder!
+W (127334) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (132619) wifi:No FTM Measurements received from responder!
+W (132619) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (137413) wifi:No FTM Measurements received from responder!
+W (137413) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (142266) wifi:No FTM Measurements received from responder!
+W (142266) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (147450) wifi:No FTM Measurements received from responder!
+W (147451) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,363
+300,16,2,615,41,-44,891
+E (154305) wifi:No FTM Measurements received from responder!
+W (154306) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,600,40,-44,394
+E (160161) wifi:No FTM Measurements received from responder!
+W (160161) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (163998) wifi:No FTM Measurements received from responder!
+W (163999) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,615,41,-44,1220
+300,16,2,420,28,-44,1345
+300,16,2,630,42,-44,1040
+E (173527) wifi:No FTM Measurements received from responder!
+W (173527) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,660,44,-44,434
+E (178488) wifi:No FTM Measurements received from responder!
+W (178488) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (183138) wifi:No FTM Measurements received from responder!
+W (183138) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,487
+E (188949) wifi:No FTM Measurements received from responder!
+W (188950) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (193923) wifi:No FTM Measurements received from responder!
+W (193924) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (198847) wifi:No FTM Measurements received from responder!
+W (198848) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,600,40,-44,973
+300,16,2,615,41,-44,1062
+E (206920) wifi:No FTM Measurements received from responder!
+W (206920) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,615,41,-44,306
+300,16,2,615,41,-44,806
+300,16,2,615,41,-44,320
+300,16,2,615,41,-44,295
+300,16,2,615,41,-44,324
+300,16,2,615,41,-44,302
+300,16,2,615,41,-44,806
+300,16,2,615,41,-44,330
+300,16,2,615,41,-44,285
+300,16,2,630,42,-44,317
+300,16,2,615,41,-44,298
+300,16,2,615,41,-44,322
+300,16,2,615,41,-44,306
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,307
+300,16,2,615,41,-44,816
+300,16,2,630,42,-44,311
+300,16,2,615,41,-45,296
+300,16,2,630,42,-44,325
+300,16,2,615,41,-44,816
+300,16,2,615,41,-44,303
+300,16,2,615,41,-44,308
+300,16,2,630,42,-44,315
+300,16,2,630,42,-44,300
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,308
+300,16,2,630,42,-44,293
+300,16,2,630,42,-44,325
+E (221586) wifi:No FTM Measurements received from responder!
+W (221586) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-45,320
+300,16,2,615,41,-44,306
+300,16,2,630,42,-44,307
+300,16,2,615,41,-44,308
+300,16,2,630,42,-44,307
+300,16,2,615,41,-44,303
+300,16,2,615,41,-44,313
+300,16,2,615,41,-44,817
+300,16,2,630,42,-44,820
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,823
+300,16,2,615,41,-44,818
+300,16,2,630,42,-44,817
+300,16,2,630,42,-44,306
+300,16,2,1095,73,-44,328
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,285
+300,16,2,630,42,-44,309
+300,16,2,615,41,-44,312
+300,16,2,615,41,-44,302
+300,16,2,630,42,-44,306
+300,16,2,615,41,-44,308
+300,16,2,615,41,-44,294
+300,16,2,615,41,-44,332
+300,16,2,630,42,-44,296
+300,16,2,615,41,-44,294
+300,16,2,615,41,-44,306
+300,16,2,600,40,-44,323
+300,16,2,615,41,-44,304
+300,16,2,615,41,-44,310
+300,16,2,615,41,-44,293
+300,16,2,615,41,-44,320
+300,16,2,615,41,-44,308
+300,16,2,615,41,-44,306
+300,16,2,630,42,-44,303
+300,16,2,615,41,-44,315
+300,16,2,630,42,-44,290
+300,16,2,615,41,-44,320
+300,16,2,615,41,-44,806
+300,16,2,615,41,-44,325
+300,16,2,630,42,-44,303
+300,16,2,630,42,-44,819
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,308
+300,16,2,600,40,-44,307
+300,16,2,600,40,-44,294
+300,16,2,600,40,-44,320
+300,16,2,615,41,-44,806
+300,16,2,615,41,-44,322
+300,16,2,615,41,-44,306
+300,16,2,615,41,-44,309
+300,16,2,615,41,-44,821
+300,16,2,615,41,-44,304
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,306
+300,16,2,615,41,-44,308
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,295
+300,16,2,615,41,-44,320
+300,16,2,615,41,-44,308
+300,16,2,630,42,-44,295
+300,16,2,615,41,-44,329
+300,16,2,615,41,-44,808
+300,16,2,615,41,-44,310
+300,16,2,615,41,-44,305
+300,16,2,600,40,-44,295
+300,16,2,600,40,-44,319
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,819
+300,16,2,615,41,-44,308
+300,16,2,600,40,-44,293
+300,16,2,615,41,-44,325
+300,16,2,600,40,-44,817
+300,16,2,600,40,-44,818
+300,16,2,615,41,-44,488
+300,16,2,600,40,-44,851
+300,16,2,615,41,-44,813
+300,16,2,615,41,-44,305
+300,16,2,615,41,-44,821
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,315
+300,16,2,615,41,-44,798
+300,16,2,600,40,-44,321
+300,16,2,600,40,-44,293
+300,16,2,615,41,-44,307
+300,16,2,600,40,-44,321
+300,16,2,600,40,-44,825
+300,16,2,615,41,-44,288
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,320
+300,16,2,600,40,-44,822
+300,16,2,600,40,-44,818
+300,16,2,615,41,-44,817
+300,16,2,630,42,-44,307
+300,16,2,615,41,-44,296
+300,16,2,615,41,-44,325
+300,16,2,615,41,-44,301
+300,16,2,615,41,-44,308
+300,16,2,600,40,-44,820
+300,16,2,615,41,-44,293
+300,16,2,615,41,-44,330
+300,16,2,615,41,-44,796
+300,16,2,630,42,-44,320
+300,16,2,600,40,-45,308
+300,16,2,615,41,-44,874
+300,16,2,600,40,-44,866
+300,16,2,615,41,-44,820
+300,16,2,615,41,-44,293
+300,16,2,600,40,-44,317
+300,16,2,615,41,-44,314
+300,16,2,615,41,-44,305
+300,16,2,615,41,-44,819
+300,16,2,615,41,-44,805
+300,16,2,645,43,-44,323
+300,16,2,585,39,-44,304
+300,16,2,600,40,-44,308
+300,16,2,615,41,-43,810
+300,16,2,570,38,-44,317
+300,16,2,585,39,-44,306
+300,16,2,585,39,-45,311
+300,16,2,600,40,-45,817
+300,16,2,600,40,-45,307
+300,16,2,600,40,-45,307
+300,16,2,600,40,-44,306
+300,16,2,585,39,-44,807
+300,16,2,600,40,-44,322
+300,16,2,585,39,-44,305
+300,16,2,585,39,-44,805
+300,16,2,585,39,-44,321
+300,16,2,570,38,-45,295
+300,16,2,585,39,-44,320
+300,16,2,585,39,-44,306
+300,16,2,600,40,-44,821
+300,16,2,615,41,-44,307
+300,16,2,600,40,-44,306
+300,16,2,615,41,-44,309
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,306
+300,16,2,600,40,-44,320
+300,16,2,585,39,-44,294
+300,16,2,585,39,-44,312
+300,16,2,600,40,-44,289
+300,16,2,630,42,-44,307
+300,16,2,585,39,-45,321
+300,16,2,600,40,-45,294
+300,16,2,600,40,-45,321
+300,16,2,585,39,-45,308
+300,16,2,630,42,-45,307
+300,16,2,600,40,-45,306
+300,16,2,570,38,-45,307
+300,16,2,600,40,-44,308
+300,16,2,600,40,-43,307
+300,16,2,600,40,-44,820
+300,16,2,570,38,-44,307
+300,16,2,630,42,-44,823
+300,16,2,630,42,-44,303
+300,16,2,630,42,-44,294
+300,16,2,600,40,-44,322
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,293
+300,16,2,615,41,-44,322
+300,16,2,600,40,-44,293
+300,16,2,600,40,-44,307
+300,16,2,600,40,-44,321
+300,16,2,600,40,-44,306
+300,16,2,615,41,-44,307
+300,16,2,630,42,-44,823
+300,16,2,615,41,-45,828
+300,16,2,615,41,-44,806
+300,16,2,645,43,-44,307
+300,16,2,615,41,-43,308
+300,16,2,585,39,-44,293
+300,16,2,600,40,-44,329
+300,16,2,615,41,-45,300
+300,16,2,570,38,-45,307
+300,16,2,645,43,-44,827
+300,16,2,600,40,-44,798
+300,16,2,600,40,-44,322
+300,16,2,600,40,-44,306
+300,16,2,600,40,-44,828
+300,16,2,600,40,-44,301
+300,16,2,585,39,-44,292
+300,16,2,585,39,-44,324
+300,16,2,615,41,-44,299
+300,16,2,600,40,-44,296
+300,16,2,615,41,-44,308
+300,16,2,570,38,-45,321
+300,16,2,660,44,-45,307
+300,16,2,675,45,-45,307
+300,16,2,660,44,-45,294
+300,16,2,645,43,-45,323
+300,16,2,615,41,-45,292
+300,16,2,645,43,-45,320
+300,16,2,525,35,-45,823
+300,16,2,525,35,-45,304
+300,16,2,555,37,-45,307
+300,16,2,600,40,-45,847
+300,16,2,585,39,-45,298
+300,16,2,585,39,-46,294
+300,16,2,585,39,-45,814
+300,16,2,585,39,-45,306
+300,16,2,600,40,-45,806
+300,16,2,600,40,-45,321
+300,16,2,585,39,-45,820
+300,16,2,600,40,-46,316
+300,16,2,585,39,-45,801
+300,16,2,570,38,-45,321
+300,16,2,585,39,-45,289
+300,16,2,570,38,-45,320
+300,16,2,570,38,-45,822
+300,16,2,585,39,-46,306
+300,16,2,600,40,-46,307
+300,16,2,600,40,-46,307
+300,16,2,600,40,-46,818
+300,16,2,585,39,-45,304
+300,16,2,600,40,-45,311
+300,16,2,690,46,-44,823
+300,16,2,630,42,-44,820
+300,16,2,585,39,-45,802
+300,16,2,600,40,-45,324
+300,16,2,645,43,-44,304
+300,16,2,570,38,-46,307
+300,16,2,615,41,-43,295
+300,16,2,615,41,-44,323
+300,16,2,630,42,-44,304
+300,16,2,600,40,-44,308
+300,16,2,585,39,-44,293
+300,16,2,600,40,-45,319
+300,16,2,585,39,-45,819
+300,16,2,600,40,-45,307
+300,16,2,600,40,-45,309
+300,16,2,600,40,-45,306
+300,16,2,600,40,-45,307
+300,16,2,600,40,-45,819
+300,16,2,615,41,-45,310
+300,16,2,615,41,-45,306
+300,16,2,615,41,-45,307
+300,16,2,600,40,-45,295
+300,16,2,600,40,-45,318
+300,16,2,615,41,-45,844
+300,16,2,600,40,-44,1047
+E (330765) wifi:No FTM Measurements received from responder!
+W (330765) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (335518) wifi:No FTM Measurements received from responder!
+W (335518) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,600,40,-45,1453
+300,16,2,615,41,-45,1201
+300,16,2,600,40,-45,814
+E (344543) wifi:No FTM Measurements received from responder!
+W (344543) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (349286) wifi:No FTM Measurements received from responder!
+W (349286) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (353733) wifi:No FTM Measurements received from responder!
+W (353734) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (359313) wifi:No FTM Measurements received from responder!
+W (359314) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (364200) wifi:No FTM Measurements received from responder!
+W (364200) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (368942) wifi:No FTM Measurements received from responder!
+W (368942) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,1020,68,-44,306
+300,16,2,660,44,-44,830
+300,16,2,660,44,-44,807
+300,16,2,645,43,-44,923
+300,16,2,645,43,-44,343
+300,16,2,630,42,-44,387
+300,16,2,645,43,-44,806
+300,16,2,645,43,-44,828
+300,16,2,645,43,-44,849
+300,16,2,645,43,-44,987
+300,16,2,660,44,-44,887
+E (381979) wifi:No FTM Measurements received from responder!
+W (381979) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,645,43,-44,468
+300,16,2,630,42,-44,861
+300,16,2,645,43,-44,905
+E (389430) wifi:No FTM Measurements received from responder!
+W (389430) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,765,51,-44,357
+300,16,2,630,42,-44,893
+E (395761) wifi:No FTM Measurements received from responder!
+W (395762) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,645,43,-44,699
+300,16,2,645,43,-44,822
+300,16,2,675,45,-45,822
+300,16,2,630,42,-44,851
+300,16,2,630,42,-44,776
+300,16,2,615,41,-44,854
+300,16,2,660,44,-44,904
+300,16,2,645,43,-44,818
+300,16,2,645,43,-44,828
+300,16,2,645,43,-44,911
+300,16,2,645,43,-44,849
+300,16,2,645,43,-44,478
+300,16,2,645,43,-44,918
+300,16,2,645,43,-43,993
+300,16,2,660,44,-44,860
+300,16,2,645,43,-44,417
+300,16,2,645,43,-44,1033
+300,16,2,645,43,-44,1197
+E (415483) wifi:No FTM Measurements received from responder!
+W (415484) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,660,44,-44,629
+300,16,2,645,43,-44,833
+300,16,2,660,44,-44,809
+300,16,2,630,42,-44,822
+300,16,2,630,42,-44,417
+300,16,2,645,43,-44,813
+300,16,2,645,43,-44,838
+300,16,2,645,43,-44,928
+300,16,2,660,44,-44,831
+300,16,2,660,44,-44,797
+300,16,2,630,42,-44,803
+300,16,2,645,43,-44,895
+300,16,2,645,43,-44,985
+300,16,2,645,43,-44,841
+E (431835) wifi:No FTM Measurements received from responder!
+W (431835) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,675,45,-44,404
+300,16,2,615,41,-44,1002
+300,16,2,630,42,-44,1170
+300,16,2,645,43,-44,867
+300,16,2,645,43,-44,812
+300,16,2,630,42,-44,831
+300,16,2,645,43,-44,941
+300,16,2,645,43,-44,912
+300,16,2,645,43,-44,1003
+300,16,2,675,45,-44,829
+300,16,2,645,43,-44,834
+300,16,2,645,43,-44,1025
+E (447410) wifi:No FTM Measurements received from responder!
+W (447410) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (451987) wifi:No FTM Measurements received from responder!
+W (451987) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,660,44,-44,329
+E (457618) wifi:No FTM Measurements received from responder!
+W (457619) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,660,44,-44,326
+300,16,2,645,43,-44,815
+E (463814) wifi:No FTM Measurements received from responder!
+W (463815) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,438
+300,16,2,660,44,-44,906
+300,16,2,660,44,-44,811
+300,16,2,645,43,-44,831
+300,16,2,645,43,-44,842
+300,16,2,660,44,-44,887
+300,16,2,645,43,-44,512
+300,16,2,630,42,-44,840
+300,16,2,645,43,-44,803
+300,16,2,645,43,-44,824
+E (476458) wifi:No FTM Measurements received from responder!
+W (476458) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,1205
+W (483357) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,2,645,43,-44,619
+E (488443) wifi:No FTM Measurements received from responder!
+W (488444) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (493541) wifi:No FTM Measurements received from responder!
+W (493541) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (498133) wifi:No FTM Measurements received from responder!
+W (498133) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (503416) wifi:No FTM Measurements received from responder!
+W (503417) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (508736) wifi:No FTM Measurements received from responder!
+W (508737) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+W (513982) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (518594) wifi:No FTM Measurements received from responder!
+W (518595) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,645,43,-44,573
+E (524021) wifi:No FTM Measurements received from responder!
+W (524021) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,645,43,-44,326
+E (529401) wifi:No FTM Measurements received from responder!
+W (529402) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,645,43,-44,329
+E (535243) wifi:No FTM Measurements received from responder!
+W (535243) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (539711) wifi:No FTM Measurements received from responder!
+W (539712) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+W (545216) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (549759) wifi:No FTM Measurements received from responder!
+W (549760) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (554105) wifi:No FTM Measurements received from responder!
+W (554105) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+W (560219) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (564639) wifi:No FTM Measurements received from responder!
+W (564639) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (570381) wifi:No FTM Measurements received from responder!
+W (570381) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (575406) wifi:No FTM Measurements received from responder!
+W (575406) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (579269) wifi:No FTM Measurements received from responder!
+W (579270) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (584584) wifi:No FTM Measurements received from responder!
+W (584585) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (590347) wifi:No FTM Measurements received from responder!
+W (590347) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,660,44,-44,614
+W (595841) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (600788) wifi:No FTM Measurements received from responder!
+W (600789) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (605332) wifi:No FTM Measurements received from responder!
+W (605332) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+W (610843) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (615298) wifi:No FTM Measurements received from responder!
+W (615299) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+W (620845) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,2,645,43,-44,858
+W (626704) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+W (631705) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (635901) wifi:No FTM Measurements received from responder!
+W (635901) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (641616) wifi:No FTM Measurements received from responder!
+W (641617) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (646445) wifi:No FTM Measurements received from responder!
+W (646446) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (651087) wifi:No FTM Measurements received from responder!
+W (651087) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (656198) wifi:No FTM Measurements received from responder!
+W (656198) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (660833) wifi:No FTM Measurements received from responder!
+W (660834) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,645,43,-45,396
+300,16,2,690,46,-44,827
+300,16,2,630,42,-44,912
+E (668790) wifi:No FTM Measurements received from responder!
+W (668791) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (672815) wifi:No FTM Measurements received from responder!
+W (672816) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,562
+300,16,2,645,43,-44,1335
+E (680274) wifi:No FTM Measurements received from responder!
+W (680274) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,453
+E (686108) wifi:No FTM Measurements received from responder!
+W (686108) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (690135) wifi:No FTM Measurements received from responder!
+W (690136) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,645,43,-44,410
+E (696012) wifi:No FTM Measurements received from responder!
+W (696012) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,820
+E (702173) wifi:No FTM Measurements received from responder!
+W (702174) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (706320) wifi:No FTM Measurements received from responder!
+W (706320) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (711677) wifi:No FTM Measurements received from responder!
+W (711678) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (716745) wifi:No FTM Measurements received from responder!
+W (716746) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (721417) wifi:No FTM Measurements received from responder!
+W (721417) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (726902) wifi:No FTM Measurements received from responder!
+W (726903) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (731386) wifi:No FTM Measurements received from responder!
+W (731386) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,330
+300,16,2,645,43,-45,1581
+300,16,2,645,43,-45,871
+300,16,2,630,42,-44,863
+W (741085) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (745120) wifi:No FTM Measurements received from responder!
+W (745120) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (750686) wifi:No FTM Measurements received from responder!
+W (750686) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (755672) wifi:No FTM Measurements received from responder!
+W (755672) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (760593) wifi:No FTM Measurements received from responder!
+W (760593) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,472
+E (765894) wifi:No FTM Measurements received from responder!
+W (765894) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (770552) wifi:No FTM Measurements received from responder!
+W (770552) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (775367) wifi:No FTM Measurements received from responder!
+W (775367) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,531
+300,16,2,630,42,-44,816
+E (782804) wifi:No FTM Measurements received from responder!
+W (782804) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (786742) wifi:No FTM Measurements received from responder!
+W (786742) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (791935) wifi:No FTM Measurements received from responder!
+W (791936) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (797131) wifi:No FTM Measurements received from responder!
+W (797131) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,395
+E (802638) wifi:No FTM Measurements received from responder!
+W (802638) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,480
+E (808135) wifi:No FTM Measurements received from responder!
+W (808135) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (812766) wifi:No FTM Measurements received from responder!
+W (812767) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,615,41,-45,425
+E (818770) wifi:No FTM Measurements received from responder!
+W (818771) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,500
+E (824502) wifi:No FTM Measurements received from responder!
+W (824502) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,295
+300,16,2,630,42,-44,860
+E (830683) wifi:No FTM Measurements received from responder!
+W (830684) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (834759) wifi:No FTM Measurements received from responder!
+W (834759) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (839807) wifi:No FTM Measurements received from responder!
+W (839808) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,424
+300,16,2,630,42,-44,925
+E (846737) wifi:No FTM Measurements received from responder!
+W (846738) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,322
+E (851866) wifi:No FTM Measurements received from responder!
+W (851866) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,615,41,-44,517
+300,16,2,630,42,-44,844
+300,16,2,630,42,-44,967
+300,16,2,630,42,-44,372
+E (859695) wifi:No FTM Measurements received from responder!
+W (859695) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,417
+300,16,2,630,42,-44,901
+E (865950) wifi:No FTM Measurements received from responder!
+W (865951) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (870725) wifi:No FTM Measurements received from responder!
+W (870725) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,393
+E (876240) wifi:No FTM Measurements received from responder!
+W (876240) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,474
+300,16,2,630,42,-44,823
+300,16,2,615,41,-44,303
+300,16,2,630,42,-44,309
+300,16,2,630,42,-44,931
+300,16,2,645,43,-43,809
+300,16,2,630,42,-44,819
+300,16,2,630,42,-43,307
+300,16,2,630,42,-44,821
+300,16,2,630,42,-44,305
+300,16,2,630,42,-44,822
+300,16,2,615,41,-44,305
+300,16,2,615,41,-44,430
+300,16,2,630,42,-44,288
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,308
+300,16,2,615,41,-44,307
+300,16,2,630,42,-44,297
+300,16,2,615,41,-44,317
+300,16,2,615,41,-44,307
+300,16,2,615,41,-44,294
+300,16,2,630,42,-44,322
+300,16,2,630,42,-44,818
+300,16,2,630,42,-45,295
+300,16,2,615,41,-44,319
+300,16,2,615,41,-44,823
+300,16,2,615,41,-44,822
+300,16,2,630,42,-44,814
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,820
+300,16,2,630,42,-44,804
+300,16,2,615,41,-44,322
+300,16,2,630,42,-44,295
+300,16,2,615,41,-45,320
+300,16,2,615,41,-44,306
+300,16,2,615,41,-44,810
+300,16,2,630,42,-44,304
+300,16,2,615,41,-44,320
+300,16,2,630,42,-44,295
+300,16,2,630,42,-44,319
+300,16,2,630,42,-44,828
+300,16,2,630,42,-44,301
+300,16,2,630,42,-44,312
+300,16,2,630,42,-45,304
+300,16,2,630,42,-44,305
+300,16,2,615,41,-44,305
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,823
+300,16,2,630,42,-45,303
+300,16,2,630,42,-45,295
+300,16,2,630,42,-44,321
+300,16,2,630,42,-44,291
+300,16,2,615,41,-44,322
+300,16,2,615,41,-44,316
+300,16,2,630,42,-44,301
+300,16,2,615,41,-45,292
+300,16,2,630,42,-44,325
+300,16,2,615,41,-44,305
+300,16,2,630,42,-45,820
+300,16,2,630,42,-44,303
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,308
+300,16,2,615,41,-44,311
+300,16,2,615,41,-44,304
+300,16,2,630,42,-44,293
+300,16,2,630,42,-44,324
+300,16,2,615,41,-44,289
+300,16,2,630,42,-44,336
+300,16,2,630,42,-44,805
+300,16,2,630,42,-44,295
+300,16,2,630,42,-44,320
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,292
+300,16,2,630,42,-44,326
+300,16,2,630,42,-44,305
+300,16,2,630,42,-44,818
+300,16,2,630,42,-44,308
+300,16,2,615,41,-44,293
+300,16,2,630,42,-45,320
+300,16,2,615,41,-44,308
+300,16,2,615,41,-44,307
+300,16,2,570,38,-41,306
+300,16,2,630,42,-44,296
+300,16,2,630,42,-44,320
+300,16,2,630,42,-44,312
+300,16,2,630,42,-44,301
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,819
+300,16,2,630,42,-44,820
+300,16,2,630,42,-44,820
+300,16,2,645,43,-44,305
+300,16,2,630,42,-44,293
+300,16,2,630,42,-44,322
+300,16,2,645,43,-44,293
+300,16,2,630,42,-44,323
+300,16,2,600,40,-44,308
+300,16,2,630,42,-44,820
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,294
+300,16,2,615,41,-44,322
+300,16,2,630,42,-44,301
+300,16,2,630,42,-44,298
+300,16,2,630,42,-44,322
+300,16,2,630,42,-44,306
+300,16,2,615,41,-44,826
+300,16,2,630,42,-44,351
+300,16,2,645,43,-44,257
+300,16,2,615,41,-44,824
+300,16,2,615,41,-44,302
+300,16,2,630,42,-45,309
+300,16,2,630,42,-44,293
+300,16,2,630,42,-44,333
+300,16,2,630,42,-45,384
+300,16,2,630,42,-44,320
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,827
+300,16,2,630,42,-44,302
+300,16,2,630,42,-44,309
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,309
+300,16,2,645,43,-44,820
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,308
+300,16,2,645,43,-44,815
+300,16,2,630,42,-45,306
+300,16,2,630,42,-44,314
+300,16,2,630,42,-44,305
+300,16,2,630,42,-44,820
+300,16,2,660,44,-45,828
+300,16,2,630,42,-44,299
+300,16,2,630,42,-44,310
+300,16,2,630,42,-44,294
+300,16,2,630,42,-44,317
+300,16,2,630,42,-44,822
+300,16,2,645,43,-45,291
+300,16,2,645,43,-44,324
+300,16,2,630,42,-44,304
+300,16,2,645,43,-44,306
+300,16,2,630,42,-44,807
+300,16,2,645,43,-44,333
+300,16,2,615,41,-45,280
+300,16,2,630,42,-44,322
+300,16,2,615,41,-45,306
+300,16,2,630,42,-44,819
+300,16,2,630,42,-45,299
+300,16,2,630,42,-44,317
+300,16,2,615,41,-44,411
+300,16,2,630,42,-44,291
+300,16,2,645,43,-44,333
+300,16,2,630,42,-44,283
+300,16,2,630,42,-45,320
+300,16,2,630,42,-44,819
+300,16,2,630,42,-45,294
+300,16,2,630,42,-44,324
+300,16,2,630,42,-44,304
+300,16,2,645,43,-44,293
+300,16,2,630,42,-44,322
+300,16,2,630,42,-45,306
+300,16,2,645,43,-44,308
+300,16,2,630,42,-44,820
+300,16,2,615,41,-45,306
+300,16,2,615,41,-44,819
+300,16,2,615,41,-45,819
+300,16,2,615,41,-45,820
+300,16,2,630,42,-45,318
+300,16,2,630,42,-44,283
+300,16,2,630,42,-45,307
+300,16,2,630,42,-44,322
+300,16,2,630,42,-44,817
+300,16,2,645,43,-44,832
+300,16,2,630,42,-44,294
+300,16,2,645,43,-44,821
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,296
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,309
+300,16,2,630,42,-44,321
+300,16,2,630,42,-44,307
+300,16,2,645,43,-44,307
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,302
+300,16,2,630,42,-44,299
+300,16,2,645,43,-45,327
+300,16,2,630,42,-44,300
+300,16,2,660,44,-44,839
+300,16,2,630,42,-44,802
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,831
+300,16,2,630,42,-44,810
+300,16,2,630,42,-44,291
+300,16,2,630,42,-44,308
+300,16,2,645,43,-44,320
+300,16,2,630,42,-45,308
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,293
+300,16,2,630,42,-44,327
+300,16,2,645,43,-44,302
+300,16,2,645,43,-44,820
+300,16,2,615,41,-44,306
+300,16,2,630,42,-45,823
+300,16,2,630,42,-44,303
+300,16,2,630,42,-45,821
+300,16,2,630,42,-44,305
+300,16,2,630,42,-44,823
+300,16,2,645,43,-44,304
+300,16,2,630,42,-45,307
+300,16,2,630,42,-44,309
+300,16,2,630,42,-44,306
+300,16,2,630,42,-45,824
+300,16,2,630,42,-45,302
+300,16,2,630,42,-45,307
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,821
+300,16,2,630,42,-44,294
+300,16,2,645,43,-44,323
+300,16,2,645,43,-44,304
+300,16,2,630,42,-44,826
+300,16,2,630,42,-44,300
+300,16,2,630,42,-44,821
+300,16,2,630,42,-44,291
+300,16,2,630,42,-44,333
+300,16,2,645,43,-44,281
+300,16,2,645,43,-44,318
+300,16,2,645,43,-44,311
+300,16,2,630,42,-44,308
+300,16,2,645,43,-44,818
+300,16,2,630,42,-44,824
+300,16,2,645,43,-44,823
+300,16,2,630,42,-44,812
+300,16,2,630,42,-44,824
+300,16,2,630,42,-44,288
+300,16,2,630,42,-44,312
+300,16,2,630,42,-44,319
+300,16,2,630,42,-44,303
+300,16,2,630,42,-44,822
+300,16,2,630,42,-44,305
+300,16,2,645,43,-44,310
+300,16,2,645,43,-44,818
+300,16,2,630,42,-44,306
+300,16,2,645,43,-45,308
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,310
+300,16,2,645,43,-45,805
+300,16,2,615,41,-44,328
+300,16,2,630,42,-44,300
+300,16,2,645,43,-44,306
+300,16,2,630,42,-44,315
+300,16,2,630,42,-44,301
+300,16,2,630,42,-44,305
+300,16,2,645,43,-44,823
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,303
+300,16,2,630,42,-44,317
+300,16,2,630,42,-44,801
+300,16,2,645,43,-45,321
+300,16,2,645,43,-44,308
+300,16,2,630,42,-45,291
+300,16,2,645,43,-44,326
+300,16,2,630,42,-45,303
+300,16,2,645,43,-45,302
+300,16,2,630,42,-44,313
+300,16,2,645,43,-44,307
+300,16,2,645,43,-44,306
+300,16,2,630,42,-44,806
+300,16,2,630,42,-44,324
+300,16,2,630,42,-44,307
+300,16,2,645,43,-44,304
+300,16,2,630,42,-45,820
+300,16,2,630,42,-44,294
+300,16,2,645,43,-44,315
+300,16,2,615,41,-45,312
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,822
+300,16,2,630,42,-44,833
+300,16,2,645,43,-44,805
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,804
+300,16,2,615,41,-44,334
+300,16,2,630,42,-44,298
+300,16,2,645,43,-44,305
+300,16,2,630,42,-44,806
+300,16,2,630,42,-44,325
+300,16,2,630,42,-44,302
+300,16,2,630,42,-45,307
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,338
+300,16,2,630,42,-44,483
+300,16,2,630,42,-44,305
+300,16,2,630,42,-45,815
+300,16,2,630,42,-45,313
+300,16,2,645,43,-44,818
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,307
+300,16,2,630,42,-45,327
+300,16,2,630,42,-44,288
+300,16,2,630,42,-44,307
+300,16,2,630,42,-45,307
+300,16,2,630,42,-44,308
+300,16,2,630,42,-45,929
+300,16,2,630,42,-45,287
+300,16,2,645,43,-44,326
+300,16,2,630,42,-44,289
+300,16,2,630,42,-44,325
+300,16,2,630,42,-44,297
+300,16,2,630,42,-45,311
+300,16,2,630,42,-44,295
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,329
+300,16,2,630,42,-44,299
+300,16,2,630,42,-44,293
+300,16,2,630,42,-44,321
+300,16,2,630,42,-45,307
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,820
+300,16,2,630,42,-44,301
+300,16,2,630,42,-44,313
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,806
+300,16,2,630,42,-44,321
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,819
+300,16,2,630,42,-44,307
+300,16,2,630,42,-45,820
+300,16,2,615,41,-44,308
+300,16,2,630,42,-45,306
+300,16,2,600,40,-45,820
+300,16,2,615,41,-45,306
+300,16,2,600,40,-44,823
+300,16,2,585,39,-44,304
+300,16,2,585,39,-45,307
+300,16,2,615,41,-45,820
+300,16,2,615,41,-44,306
+300,16,2,630,42,-45,294
+300,16,2,630,42,-44,334
+300,16,2,630,42,-44,294
+300,16,2,615,41,-44,820
+300,16,2,645,43,-44,820
+300,16,2,630,42,-45,819
+300,16,2,630,42,-45,305
+300,16,2,630,42,-45,822
+300,16,2,630,42,-44,823
+300,16,2,630,42,-44,301
+300,16,2,630,42,-44,828
+300,16,2,615,41,-44,298
+300,16,2,645,43,-44,308
+300,16,2,630,42,-44,806
+300,16,2,645,43,-44,321
+300,16,2,645,43,-44,306
+300,16,2,630,42,-44,822
+300,16,2,630,42,-44,305
+300,16,2,645,43,-44,307
+300,16,2,630,42,-44,822
+300,16,2,645,43,-44,306
+300,16,2,645,43,-44,409
+300,16,2,615,41,-44,307
+300,16,2,960,64,-44,307
+300,16,2,645,43,-44,307
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,307
+300,16,2,645,43,-44,822
+300,16,2,645,43,-44,819
+300,16,2,645,43,-44,306
+300,16,2,645,43,-44,306
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,826
+300,16,2,630,42,-44,801
+300,16,2,630,42,-44,323
+300,16,2,630,42,-44,811
+300,16,2,630,42,-44,299
+300,16,2,630,42,-44,324
+300,16,2,645,43,-44,823
+300,16,2,645,43,-44,301
+300,16,2,645,43,-44,293
+300,16,2,630,42,-44,323
+300,16,2,645,43,-44,303
+300,16,2,630,42,-44,826
+300,16,2,630,42,-44,292
+300,16,2,630,42,-44,317
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,293
+300,16,2,630,42,-44,324
+300,16,2,780,52,-44,290
+300,16,2,630,42,-44,324
+300,16,2,645,43,-44,304
+300,16,2,630,42,-44,312
+300,16,2,645,43,-44,304
+300,16,2,615,41,-44,307
+300,16,2,630,42,-44,822
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,293
+300,16,2,630,42,-44,325
+300,16,2,645,43,-45,303
+300,16,2,630,42,-44,825
+300,16,2,630,42,-44,303
+300,16,2,630,42,-44,818
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,815
+300,16,2,630,42,-44,312
+300,16,2,630,42,-44,819
+300,16,2,630,42,-44,307
+300,16,2,630,42,-45,308
+300,16,2,630,42,-44,306
+300,16,2,645,43,-44,819
+300,16,2,645,43,-44,308
+300,16,2,645,43,-44,307
+300,16,2,630,42,-44,822
+300,16,2,630,42,-44,299
+300,16,2,645,43,-44,312
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,310
+300,16,2,645,43,-44,290
+300,16,2,630,42,-44,325
+300,16,2,645,43,-44,290
+300,16,2,630,42,-44,325
+300,16,2,630,42,-45,303
+300,16,2,630,42,-44,307
+300,16,2,645,43,-44,293
+300,16,2,645,43,-44,326
+300,16,2,645,43,-44,308
+300,16,2,630,42,-44,302
+300,16,2,630,42,-44,841
+300,16,2,645,43,-44,285
+300,16,2,645,43,-44,828
+300,16,2,645,43,-44,298
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,295
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,327
+300,16,2,630,42,-44,816
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,309
+300,16,2,630,42,-44,305
+300,16,2,630,42,-44,826
+300,16,2,630,42,-44,301
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,297
+300,16,2,630,42,-44,323
+300,16,2,645,43,-44,304
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,302
+300,16,2,630,42,-44,311
+300,16,2,630,42,-44,830
+300,16,2,630,42,-44,813
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,292
+300,16,2,630,42,-44,322
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,292
+300,16,2,630,42,-44,328
+300,16,2,630,42,-44,303
+300,16,2,630,42,-44,309
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,823
+300,16,2,630,42,-44,303
+300,16,2,630,42,-44,294
+300,16,2,630,42,-44,330
+300,16,2,630,42,-44,297
+300,16,2,630,42,-44,298
+300,16,2,645,43,-44,317
+300,16,2,645,43,-44,307
+300,16,2,630,42,-44,293
+300,16,2,630,42,-44,325
+300,16,2,630,42,-44,303
+300,16,2,630,42,-44,824
+300,16,2,630,42,-45,305
+300,16,2,645,43,-44,305
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,826
+300,16,2,630,42,-44,288
+300,16,2,630,42,-44,323
+300,16,2,645,43,-44,291
+300,16,2,645,43,-44,323
+300,16,2,645,43,-44,306
+300,16,2,645,43,-44,292
+300,16,2,630,42,-44,324
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,822
+300,16,2,645,43,-44,305
+300,16,2,855,57,-44,294
+300,16,2,630,42,-44,320
+300,16,2,630,42,-44,828
+300,16,2,630,42,-44,300
+300,16,2,645,43,-44,292
+300,16,2,630,42,-44,327
+300,16,2,645,43,-44,304
+300,16,2,645,43,-45,304
+300,16,2,645,43,-44,307
+300,16,2,630,42,-44,828
+300,16,2,645,43,-44,300
+300,16,2,630,42,-44,819
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,309
+300,16,2,630,42,-44,291
+300,16,2,630,42,-44,320
+300,16,2,615,41,-44,823
+300,16,2,630,42,-44,300
+300,16,2,630,42,-44,307
+300,16,2,645,43,-44,299
+300,16,2,645,43,-44,321
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,308
+300,16,2,630,42,-44,305
+300,16,2,600,40,-44,308
+300,16,2,615,41,-44,410
+300,16,2,630,42,-44,307
+300,16,2,630,42,-45,307
+300,16,2,630,42,-44,311
+300,16,2,630,42,-44,307
+300,16,2,630,42,-44,304
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,827
+300,16,2,645,43,-44,801
+300,16,2,645,43,-45,319
+300,16,2,630,42,-44,306
+300,16,2,645,43,-44,823
+300,16,2,645,43,-44,306
+300,16,2,645,43,-44,307
+300,16,2,645,43,-44,307
+300,16,2,645,43,-44,346
+300,16,2,645,43,-44,267
+300,16,2,615,41,-44,307
+300,16,2,645,43,-44,309
+300,16,2,645,43,-44,305
+300,16,2,645,43,-44,820
+300,16,2,645,43,-44,819
+300,16,2,660,44,-44,810
+300,16,2,645,43,-44,316
+300,16,2,645,43,-44,822
+300,16,2,645,43,-44,305
+300,16,2,645,43,-44,307
+300,16,2,645,43,-44,805
+300,16,2,645,43,-44,325
+300,16,2,645,43,-44,303
+300,16,2,645,43,-44,308
+300,16,2,630,42,-44,306
+300,16,2,645,43,-45,832
+300,16,2,645,43,-44,301
+300,16,2,645,43,-44,301
+300,16,2,615,41,-44,820
+300,16,2,630,42,-45,833
+300,16,2,630,42,-45,280
+300,16,2,630,42,-45,323
+300,16,2,630,42,-45,291
+300,16,2,645,43,-44,331
+300,16,2,615,41,-44,303
+300,16,2,630,42,-44,301
+300,16,2,660,44,-45,821
+300,16,2,660,44,-44,819
+300,16,2,660,44,-44,818
+300,16,2,645,43,-44,824
+300,16,2,630,42,-44,817
+300,16,2,630,42,-44,306
+300,16,2,630,42,-44,820
+300,16,2,645,43,-45,291
+E (1124458) wifi:No FTM Measurements received from responder!
+W (1124458) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,630,42,-44,338
+300,16,2,630,42,-44,307
+300,16,2,615,41,-44,295
+300,16,2,615,41,-44,320
+300,16,2,615,41,-44,292
+300,16,2,630,42,-44,325
+300,16,2,615,41,-44,309
+300,16,2,630,42,-45,298
+300,16,2,615,41,-44,307
+300,16,2,645,43,-44,312
+300,16,2,660,44,-44,307
+300,16,2,645,43,-44,293
+300,16,2,660,44,-44,324
+300,16,2,630,42,-44,804
+300,16,2,630,42,-44,321
+300,16,2,645,43,-44,294
+300,16,2,645,43,-44,325
+300,16,2,630,42,-44,813
+300,16,2,630,42,-44,296
+300,16,2,645,43,-44,322
+300,16,2,630,42,-44,305
+300,16,2,645,43,-44,306
+300,16,2,630,42,-44,294
+300,16,2,645,43,-44,326
+300,16,2,645,43,-44,817
+300,16,2,630,42,-44,819
+# Config 2/5: frame_count=16, burst_period=4
+300,16,4,630,42,-44,509
+300,16,4,615,41,-44,507
+300,16,4,630,42,-45,502
+300,16,4,615,41,-44,521
+300,16,4,630,42,-44,1011
+300,16,4,615,41,-44,526
+300,16,4,645,43,-44,499
+300,16,4,630,42,-44,525
+300,16,4,630,42,-44,498
+300,16,4,630,42,-44,512
+300,16,4,615,41,-45,544
+300,16,4,645,43,-44,1006
+300,16,4,630,42,-44,502
+300,16,4,630,42,-44,531
+300,16,4,630,42,-44,492
+300,16,4,630,42,-45,510
+300,16,4,630,42,-44,532
+300,16,4,630,42,-45,492
+300,16,4,630,42,-45,532
+300,16,4,630,42,-44,491
+300,16,4,630,42,-44,533
+300,16,4,615,41,-44,1005
+300,16,4,630,42,-44,524
+300,16,4,630,42,-44,1023
+300,16,4,645,43,-44,608
+300,16,4,630,42,-44,506
+300,16,4,630,42,-44,511
+300,16,4,630,42,-45,513
+300,16,4,630,42,-45,511
+300,16,4,630,42,-45,512
+300,16,4,630,42,-44,514
+300,16,4,615,41,-44,530
+300,16,4,630,42,-44,492
+300,16,4,645,43,-45,534
+300,16,4,645,43,-45,491
+300,16,4,630,42,-44,528
+300,16,4,630,42,-44,598
+300,16,4,630,42,-45,526
+300,16,4,630,42,-45,512
+300,16,4,630,42,-44,1010
+300,16,4,630,42,-44,512
+300,16,4,630,42,-44,513
+300,16,4,630,42,-44,531
+300,16,4,630,42,-44,494
+300,16,4,630,42,-44,514
+300,16,4,630,42,-44,525
+300,16,4,615,41,-44,495
+300,16,4,630,42,-44,537
+300,16,4,630,42,-44,506
+300,16,4,630,42,-44,493
+300,16,4,615,41,-44,512
+300,16,4,630,42,-45,532
+300,16,4,630,42,-44,492
+300,16,4,630,42,-44,532
+300,16,4,630,42,-44,498
+300,16,4,630,42,-44,511
+300,16,4,630,42,-45,535
+300,16,4,630,42,-45,488
+300,16,4,630,42,-45,528
+300,16,4,630,42,-44,1009
+300,16,4,630,42,-44,521
+300,16,4,630,42,-44,501
+300,16,4,615,41,-44,511
+300,16,4,630,42,-45,532
+300,16,4,630,42,-44,492
+300,16,4,630,42,-44,524
+300,16,4,615,41,-44,514
+300,16,4,630,42,-44,1031
+300,16,4,615,41,-45,489
+300,16,4,630,42,-45,512
+300,16,4,630,42,-44,512
+300,16,4,630,42,-44,531
+300,16,4,630,42,-44,494
+300,16,4,630,42,-45,511
+300,16,4,630,42,-45,525
+300,16,4,630,42,-44,1013
+300,16,4,630,42,-44,510
+300,16,4,615,41,-45,513
+300,16,4,630,42,-44,532
+300,16,4,630,42,-44,491
+300,16,4,615,41,-44,512
+300,16,4,600,40,-44,512
+300,16,4,585,39,-45,512
+300,16,4,585,39,-44,534
+300,16,4,615,41,-44,490
+300,16,4,600,40,-44,514
+300,16,4,600,40,-44,524
+300,16,4,615,41,-45,1025
+300,16,4,630,42,-44,497
+300,16,4,600,40,-44,512
+300,16,4,630,42,-44,512
+300,16,4,615,41,-44,512
+300,16,4,630,42,-44,529
+300,16,4,615,41,-44,511
+300,16,4,600,40,-44,496
+300,16,4,630,42,-44,526
+300,16,4,630,42,-44,517
+300,16,4,630,42,-44,495
+300,16,4,630,42,-45,516
+300,16,4,630,42,-44,527
+300,16,4,615,41,-44,505
+300,16,4,600,40,-45,1010
+300,16,4,630,42,-44,512
+300,16,4,615,41,-45,521
+300,16,4,615,41,-44,518
+300,16,4,630,42,-44,511
+300,16,4,630,42,-44,512
+300,16,4,630,42,-44,1032
+300,16,4,615,41,-44,1016
+300,16,4,570,38,-44,1026
+300,16,4,630,42,-45,497
+300,16,4,690,46,-44,524
+300,16,4,615,41,-44,512
+300,16,4,630,42,-44,1031
+300,16,4,630,42,-45,494
+300,16,4,630,42,-44,530
+300,16,4,630,42,-45,493
+300,16,4,630,42,-44,537
+300,16,4,630,42,-44,998
+300,16,4,630,42,-45,530
+300,16,4,630,42,-44,1026
+300,16,4,630,42,-44,492
+300,16,4,630,42,-44,513
+300,16,4,630,42,-45,537
+300,16,4,630,42,-44,1004
+300,16,4,615,41,-44,506
+300,16,4,630,42,-44,514
+300,16,4,630,42,-44,511
+300,16,4,630,42,-44,525
+300,16,4,630,42,-44,514
+300,16,4,645,43,-44,496
+300,16,4,615,41,-44,513
+300,16,4,645,43,-44,530
+300,16,4,645,43,-44,500
+300,16,4,645,43,-44,524
+300,16,4,615,41,-44,494
+300,16,4,615,41,-45,511
+300,16,4,630,42,-45,526
+300,16,4,630,42,-44,512
+300,16,4,645,43,-44,1071
+300,16,4,630,42,-44,1003
+300,16,4,645,43,-45,984
+300,16,4,615,41,-44,516
+300,16,4,630,42,-45,525
+300,16,4,645,43,-44,1033
+300,16,4,630,42,-45,1017
+300,16,4,615,41,-45,1021
+300,16,4,630,42,-44,1025
+300,16,4,630,42,-44,1027
+300,16,4,615,41,-44,506
+300,16,4,615,41,-44,512
+300,16,4,630,42,-44,513
+300,16,4,615,41,-44,1035
+300,16,4,630,42,-44,1014
+300,16,4,630,42,-44,1023
+300,16,4,615,41,-45,497
+300,16,4,615,41,-44,513
+300,16,4,825,55,-44,512
+300,16,4,630,42,-44,512
+300,16,4,630,42,-44,511
+300,16,4,630,42,-45,513
+300,16,4,630,42,-44,511
+300,16,4,630,42,-44,512
+300,16,4,630,42,-44,512
+300,16,4,630,42,-44,514
+300,16,4,630,42,-44,530
+300,16,4,630,42,-44,507
+300,16,4,630,42,-44,1129
+300,16,4,555,37,-44,1043
+300,16,4,630,42,-44,476
+300,16,4,615,41,-44,512
+300,16,4,630,42,-44,511
+300,16,4,645,43,-45,532
+300,16,4,630,42,-44,495
+300,16,4,630,42,-44,524
+300,16,4,630,42,-44,518
+300,16,4,615,41,-44,523
+300,16,4,615,41,-44,481
+300,16,4,615,41,-44,525
+300,16,4,615,41,-44,503
+300,16,4,615,41,-44,530
+300,16,4,615,41,-44,503
+300,16,4,630,42,-45,1025
+300,16,4,615,41,-44,1048
+300,16,4,630,42,-44,488
+300,16,4,630,42,-45,1014
+300,16,4,630,42,-44,508
+300,16,4,630,42,-44,513
+300,16,4,630,42,-44,515
+300,16,4,630,42,-44,525
+300,16,4,615,41,-44,509
+300,16,4,630,42,-44,497
+300,16,4,630,42,-44,513
+300,16,4,630,42,-44,525
+300,16,4,630,42,-45,1024
+300,16,4,630,42,-44,513
+300,16,4,630,42,-44,1009
+300,16,4,630,42,-44,528
+300,16,4,630,42,-44,511
+300,16,4,645,43,-44,516
+300,16,4,630,42,-45,509
+300,16,4,615,41,-44,503
+300,16,4,615,41,-44,529
+300,16,4,645,43,-44,1017
+300,16,4,630,42,-44,509
+300,16,4,660,44,-44,513
+300,16,4,630,42,-44,1025
+300,16,4,615,41,-45,1028
+300,16,4,630,42,-44,493
+300,16,4,615,41,-45,515
+300,16,4,660,44,-44,523
+300,16,4,630,42,-43,542
+300,16,4,690,46,-43,482
+300,16,4,630,42,-45,1036
+300,16,4,645,43,-45,1002
+300,16,4,465,31,-45,527
+300,16,4,435,29,-46,493
+300,16,4,525,35,-45,518
+300,16,4,510,34,-45,524
+300,16,4,375,25,-49,508
+300,16,4,420,28,-49,500
+300,16,4,435,29,-49,511
+300,16,4,435,29,-48,511
+300,16,4,495,33,-48,542
+300,16,4,540,36,-46,585
+300,16,4,510,34,-48,532
+300,16,4,540,36,-48,493
+300,16,4,435,29,-49,537
+300,16,4,615,41,-44,626
+300,16,4,615,41,-44,1106
+300,16,4,645,43,-44,1011
+300,16,4,570,38,-45,526
+300,16,4,495,33,-48,493
+300,16,4,555,37,-46,525
+300,16,4,450,30,-46,1011
+300,16,4,435,29,-49,514
+300,16,4,510,34,-46,510
+300,16,4,450,30,-51,512
+300,16,4,405,27,-49,512
+300,16,4,630,42,-48,512
+300,16,4,525,35,-46,512
+300,16,4,570,38,-46,514
+300,16,4,630,42,-45,510
+300,16,4,615,41,-44,512
+300,16,4,630,42,-44,512
+300,16,4,630,42,-45,514
+300,16,4,630,42,-44,531
+300,16,4,645,43,-44,1029
+300,16,4,660,44,-44,505
+300,16,4,630,42,-44,495
+300,16,4,660,44,-45,531
+300,16,4,645,43,-44,512
+300,16,4,630,42,-44,510
+300,16,4,645,43,-44,527
+300,16,4,630,42,-44,492
+300,16,4,630,42,-45,1014
+300,16,4,645,43,-44,508
+300,16,4,645,43,-44,526
+300,16,4,645,43,-44,1014
+300,16,4,645,43,-44,522
+300,16,4,630,42,-45,498
+300,16,4,630,42,-44,517
+300,16,4,630,42,-44,523
+300,16,4,645,43,-44,496
+300,16,4,615,41,-45,512
+300,16,4,615,41,-44,526
+300,16,4,615,41,-44,1041
+300,16,4,630,42,-44,1011
+300,16,4,630,42,-44,1020
+300,16,4,630,42,-45,1014
+300,16,4,645,43,-45,522
+300,16,4,630,42,-45,1010
+300,16,4,645,43,-44,518
+300,16,4,645,43,-45,534
+300,16,4,645,43,-45,593
+300,16,4,630,42,-44,506
+300,16,4,630,42,-45,511
+300,16,4,630,42,-45,518
+300,16,4,630,42,-44,536
+300,16,4,630,42,-44,1008
+300,16,4,630,42,-44,501
+300,16,4,630,42,-44,539
+300,16,4,630,42,-44,485
+300,16,4,630,42,-45,513
+300,16,4,630,42,-45,523
+300,16,4,645,43,-44,499
+300,16,4,630,42,-44,510
+300,16,4,645,43,-45,515
+300,16,4,630,42,-44,527
+300,16,4,630,42,-44,1030
+300,16,4,630,42,-44,503
+300,16,4,615,41,-44,517
+300,16,4,645,43,-45,494
+300,16,4,630,42,-44,535
+300,16,4,630,42,-45,1014
+300,16,4,630,42,-44,503
+300,16,4,630,42,-44,509
+300,16,4,630,42,-44,531
+300,16,4,630,42,-44,505
+300,16,4,630,42,-45,520
+300,16,4,645,43,-45,490
+300,16,4,615,41,-44,533
+300,16,4,630,42,-44,510
+300,16,4,630,42,-44,494
+300,16,4,630,42,-45,525
+300,16,4,630,42,-44,514
+300,16,4,645,43,-44,511
+300,16,4,645,43,-45,512
+300,16,4,630,42,-44,503
+300,16,4,630,42,-45,523
+300,16,4,645,43,-44,508
+300,16,4,645,43,-44,503
+300,16,4,690,46,-45,533
+300,16,4,615,41,-44,502
+300,16,4,630,42,-44,510
+300,16,4,630,42,-45,1014
+300,16,4,630,42,-44,511
+300,16,4,630,42,-44,512
+300,16,4,630,42,-44,535
+300,16,4,630,42,-44,511
+300,16,4,630,42,-44,1001
+300,16,4,630,42,-45,511
+300,16,4,630,42,-45,525
+300,16,4,630,42,-45,516
+300,16,4,630,42,-44,509
+300,16,4,630,42,-44,501
+300,16,4,630,42,-44,536
+300,16,4,630,42,-44,1011
+300,16,4,630,42,-44,498
+300,16,4,630,42,-44,526
+300,16,4,630,42,-44,512
+300,16,4,615,41,-44,512
+300,16,4,630,42,-44,497
+300,16,4,645,43,-44,513
+300,16,4,630,42,-45,526
+300,16,4,645,43,-44,1024
+300,16,4,630,42,-45,499
+300,16,4,630,42,-44,510
+300,16,4,630,42,-44,513
+300,16,4,630,42,-44,526
+300,16,4,615,41,-44,512
+300,16,4,630,42,-44,500
+300,16,4,630,42,-44,524
+300,16,4,630,42,-45,1011
+300,16,4,630,42,-45,513
+300,16,4,630,42,-44,524
+300,16,4,630,42,-45,513
+300,16,4,630,42,-44,497
+300,16,4,630,42,-44,526
+300,16,4,630,42,-44,501
+300,16,4,630,42,-44,531
+300,16,4,645,43,-44,504
+300,16,4,645,43,-44,1010
+300,16,4,645,43,-44,526
+300,16,4,630,42,-44,1031
+300,16,4,630,42,-44,499
+300,16,4,630,42,-44,520
+300,16,4,630,42,-44,1037
+300,16,4,630,42,-44,1056
+300,16,4,630,42,-44,968
+300,16,4,645,43,-44,527
+300,16,4,630,42,-45,507
+300,16,4,630,42,-45,1030
+300,16,4,630,42,-44,496
+300,16,4,630,42,-45,521
+300,16,4,630,42,-44,1011
+300,16,4,630,42,-44,510
+300,16,4,645,43,-44,513
+300,16,4,630,42,-44,513
+300,16,4,630,42,-45,511
+300,16,4,630,42,-45,512
+300,16,4,630,42,-44,512
+300,16,4,630,42,-45,525
+300,16,4,630,42,-44,515
+300,16,4,630,42,-44,497
+300,16,4,630,42,-45,511
+300,16,4,615,41,-45,545
+300,16,4,630,42,-44,479
+300,16,4,630,42,-44,512
+300,16,4,630,42,-44,511
+300,16,4,630,42,-44,513
+300,16,4,615,41,-45,512
+300,16,4,630,42,-44,531
+300,16,4,630,42,-45,493
+300,16,4,615,41,-44,536
+300,16,4,615,41,-44,488
+300,16,4,630,42,-44,529
+300,16,4,615,41,-44,498
+300,16,4,615,41,-44,508
+300,16,4,630,42,-44,515
+300,16,4,615,41,-44,510
+300,16,4,630,42,-44,513
+300,16,4,630,42,-44,512
+300,16,4,615,41,-45,525
+300,16,4,630,42,-45,497
+300,16,4,630,42,-44,513
+300,16,4,615,41,-44,525
+300,16,4,630,42,-44,514
+300,16,4,630,42,-44,497
+300,16,4,630,42,-44,512
+300,16,4,615,41,-44,538
+300,16,4,630,42,-44,491
+300,16,4,630,42,-44,507
+300,16,4,645,43,-44,512
+300,16,4,645,43,-44,532
+300,16,4,630,42,-44,497
+300,16,4,630,42,-44,531
+300,16,4,630,42,-45,1019
+300,16,4,630,42,-44,1006
+300,16,4,630,42,-44,511
+300,16,4,615,41,-44,537
+300,16,4,630,42,-44,504
+300,16,4,630,42,-44,519
+300,16,4,630,42,-44,506
+300,16,4,630,42,-44,511
+300,16,4,630,42,-44,1030
+300,16,4,630,42,-44,490
+300,16,4,615,41,-44,515
+300,16,4,615,41,-45,525
+300,16,4,630,42,-44,1023
+300,16,4,630,42,-44,522
+300,16,4,615,41,-44,502
+300,16,4,645,43,-44,512
+300,16,4,570,38,-45,1014
+300,16,4,615,41,-46,506
+300,16,4,600,40,-45,526
+300,16,4,630,42,-45,1011
+300,16,4,585,39,-46,511
+300,16,4,585,39,-46,513
+300,16,4,600,40,-45,511
+300,16,4,600,40,-46,526
+300,16,4,570,38,-45,499
+300,16,4,555,37,-46,512
+300,16,4,555,37,-46,531
+300,16,4,555,37,-46,506
+300,16,4,615,41,-45,1010
+300,16,4,615,41,-45,526
+300,16,4,630,42,-45,1046
+300,16,4,615,41,-45,1006
+300,16,4,615,41,-45,1006
+300,16,4,615,41,-45,513
+300,16,4,615,41,-45,511
+300,16,4,615,41,-45,539
+300,16,4,555,37,-45,1012
+300,16,4,555,37,-46,499
+300,16,4,585,39,-46,511
+300,16,4,615,41,-46,525
+300,16,4,615,41,-45,1024
+300,16,4,630,42,-45,1027
+300,16,4,615,41,-45,509
+300,16,4,615,41,-45,1033
+300,16,4,615,41,-45,490
+300,16,4,615,41,-45,511
+300,16,4,630,42,-45,512
+300,16,4,630,42,-45,527
+300,16,4,630,42,-45,1136
+300,16,4,615,41,-45,1009
+300,16,4,600,40,-46,509
+300,16,4,585,39,-46,522
+300,16,4,600,40,-46,510
+300,16,4,630,42,-45,1037
+300,16,4,585,39,-46,996
+300,16,4,615,41,-46,527
+300,16,4,600,40,-45,504
+300,16,4,615,41,-45,527
+300,16,4,600,40,-44,509
+300,16,4,600,40,-45,510
+300,16,4,600,40,-45,1014
+300,16,4,600,40,-44,525
+300,16,4,600,40,-45,496
+300,16,4,585,39,-45,523
+300,16,4,585,39,-46,1024
+300,16,4,600,40,-46,1030
+300,16,4,600,40,-46,506
+300,16,4,615,41,-46,499
+300,16,4,600,40,-46,525
+300,16,4,570,38,-45,499
+300,16,4,570,38,-46,527
+300,16,4,570,38,-45,1029
+300,16,4,555,37,-46,508
+300,16,4,570,38,-46,1021
+300,16,4,570,38,-46,515
+300,16,4,600,40,-45,501
+300,16,4,600,40,-45,511
+300,16,4,630,42,-45,529
+300,16,4,615,41,-45,505
+300,16,4,615,41,-45,1031
+300,16,4,630,42,-45,495
+300,16,4,585,39,-46,520
+300,16,4,585,39,-45,1024
+300,16,4,600,40,-45,1012
+300,16,4,600,40,-46,511
+300,16,4,615,41,-45,512
+300,16,4,615,41,-45,512
+300,16,4,615,41,-45,531
+300,16,4,630,42,-45,514
+300,16,4,630,42,-45,497
+300,16,4,615,41,-45,527
+300,16,4,615,41,-45,517
+300,16,4,600,40,-45,503
+300,16,4,615,41,-45,1026
+300,16,4,585,39,-44,512
+300,16,4,585,39,-45,507
+300,16,4,570,38,-44,517
+300,16,4,570,38,-45,1019
+300,16,4,555,37,-45,1011
+300,16,4,570,38,-45,526
+300,16,4,555,37,-45,516
+300,16,4,570,38,-45,495
+300,16,4,585,39,-46,509
+300,16,4,570,38,-45,527
+300,16,4,570,38,-45,1092
+300,16,4,570,38,-45,1064
+300,16,4,570,38,-46,539
+300,16,4,570,38,-45,479
+300,16,4,570,38,-45,1025
+300,16,4,570,38,-45,1023
+300,16,4,555,37,-45,498
+300,16,4,555,37,-44,512
+300,16,4,570,38,-45,513
+300,16,4,570,38,-44,532
+300,16,4,570,38,-44,505
+300,16,4,570,38,-44,513
+300,16,4,570,38,-44,1032
+300,16,4,570,38,-45,505
+300,16,4,585,39,-44,511
+300,16,4,570,38,-44,1049
+300,16,4,585,39,-45,478
+300,16,4,600,40,-44,523
+300,16,4,615,41,-43,1007
+300,16,4,615,41,-44,512
+300,16,4,585,39,-44,512
+300,16,4,630,42,-44,513
+300,16,4,630,42,-45,537
+300,16,4,615,41,-44,1001
+300,16,4,600,40,-44,528
+300,16,4,615,41,-45,507
+300,16,4,585,39,-44,498
+300,16,4,600,40,-45,526
+300,16,4,585,39,-44,504
+300,16,4,645,43,-45,520
+300,16,4,600,40,-43,1036
+300,16,4,645,43,-44,500
+300,16,4,615,41,-44,1011
+300,16,4,630,42,-44,511
+300,16,4,645,43,-44,514
+300,16,4,660,44,-43,530
+300,16,4,630,42,-43,506
+300,16,4,645,43,-44,515
+300,16,4,645,43,-43,613
+300,16,4,615,41,-43,501
+300,16,4,615,41,-43,528
+300,16,4,615,41,-43,493
+300,16,4,630,42,-43,511
+300,16,4,615,41,-44,526
+300,16,4,600,40,-44,498
+300,16,4,600,40,-44,559
+300,16,4,615,41,-43,615
+300,16,4,615,41,-43,478
+300,16,4,615,41,-43,529
+300,16,4,600,40,-44,495
+300,16,4,600,40,-44,514
+300,16,4,585,39,-44,1012
+300,16,4,600,40,-44,522
+300,16,4,585,39,-44,1014
+300,16,4,615,41,-44,538
+300,16,4,600,40,-44,999
+300,16,4,585,39,-44,531
+300,16,4,600,40,-44,492
+300,16,4,630,42,-44,525
+300,16,4,645,43,-44,1030
+300,16,4,630,42,-43,1002
+300,16,4,630,42,-44,516
+300,16,4,615,41,-43,529
+300,16,4,600,40,-44,494
+300,16,4,645,43,-44,508
+300,16,4,630,42,-44,526
+300,16,4,615,41,-44,499
+300,16,4,600,40,-43,533
+300,16,4,645,43,-45,1016
+300,16,4,615,41,-44,512
+300,16,4,615,41,-44,1033
+300,16,4,585,39,-44,490
+300,16,4,630,42,-45,528
+300,16,4,600,40,-43,1024
+300,16,4,615,41,-44,1025
+300,16,4,615,41,-44,1020
+300,16,4,630,42,-44,499
+300,16,4,645,43,-44,511
+300,16,4,645,43,-44,526
+300,16,4,645,43,-44,522
+300,16,4,630,42,-44,488
+300,16,4,630,42,-44,526
+300,16,4,645,43,-43,1037
+300,16,4,630,42,-44,500
+300,16,4,600,40,-44,515
+300,16,4,600,40,-44,496
+300,16,4,615,41,-44,510
+300,16,4,615,41,-44,512
+300,16,4,615,41,-44,512
+300,16,4,615,41,-44,514
+300,16,4,615,41,-44,524
+300,16,4,585,39,-44,1049
+300,16,4,585,39,-44,493
+300,16,4,600,40,-44,508
+300,16,4,600,40,-44,1014
+300,16,4,600,40,-44,526
+300,16,4,600,40,-44,506
+300,16,4,600,40,-44,1014
+300,16,4,615,41,-44,510
+300,16,4,630,42,-44,531
+300,16,4,600,40,-44,505
+300,16,4,600,40,-44,1037
+300,16,4,600,40,-44,1021
+300,16,4,615,41,-44,1004
+300,16,4,600,40,-44,514
+300,16,4,600,40,-44,530
+300,16,4,600,40,-44,1010
+300,16,4,600,40,-44,502
+300,16,4,600,40,-44,527
+300,16,4,600,40,-43,511
+300,16,4,615,41,-44,500
+300,16,4,600,40,-44,511
+300,16,4,600,40,-44,526
+300,16,4,615,41,-44,1029
+300,16,4,615,41,-44,493
+300,16,4,615,41,-44,511
+300,16,4,600,40,-44,514
+300,16,4,600,40,-44,524
+300,16,4,600,40,-44,1010
+300,16,4,600,40,-44,527
+300,16,4,600,40,-44,1036
+300,16,4,600,40,-44,1017
+300,16,4,600,40,-44,508
+300,16,4,600,40,-44,511
+300,16,4,585,39,-44,497
+300,16,4,600,40,-44,516
+300,16,4,600,40,-44,532
+300,16,4,615,41,-44,505
+W (1534014) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,600,40,-44,535
+300,16,4,615,41,-44,1020
+300,16,4,600,40,-44,508
+300,16,4,585,39,-44,511
+300,16,4,585,39,-44,498
+300,16,4,585,39,-44,518
+300,16,4,585,39,-44,529
+300,16,4,600,40,-44,1024
+300,16,4,615,41,-44,1025
+300,16,4,615,41,-44,490
+300,16,4,615,41,-44,629
+300,16,4,600,40,-44,1036
+300,16,4,600,40,-44,497
+300,16,4,600,40,-44,1011
+300,16,4,600,40,-44,513
+300,16,4,615,41,-44,511
+300,16,4,600,40,-44,514
+300,16,4,615,41,-44,509
+300,16,4,615,41,-44,526
+300,16,4,600,40,-44,1025
+300,16,4,600,40,-44,512
+300,16,4,615,41,-44,500
+300,16,4,615,41,-44,524
+300,16,4,600,40,-44,1035
+300,16,4,615,41,-44,500
+300,16,4,600,40,-45,1013
+300,16,4,615,41,-44,524
+300,16,4,600,40,-44,497
+300,16,4,600,40,-44,527
+300,16,4,615,41,-44,1024
+300,16,4,615,41,-44,1042
+300,16,4,585,39,-44,497
+300,16,4,600,40,-44,1038
+300,16,4,600,40,-44,499
+300,16,4,600,40,-44,500
+300,16,4,615,41,-44,529
+300,16,4,615,41,-44,507
+300,16,4,600,40,-44,1029
+300,16,4,600,40,-44,1001
+300,16,4,600,40,-44,526
+300,16,4,615,41,-44,512
+300,16,4,600,40,-44,503
+300,16,4,600,40,-44,507
+300,16,4,615,41,-44,512
+300,16,4,615,41,-44,515
+300,16,4,615,41,-44,535
+300,16,4,600,40,-44,500
+300,16,4,600,40,-44,1031
+300,16,4,615,41,-44,490
+300,16,4,600,40,-44,531
+300,16,4,615,41,-44,507
+300,16,4,585,39,-44,512
+300,16,4,585,39,-44,512
+300,16,4,600,40,-44,503
+300,16,4,615,41,-44,527
+300,16,4,615,41,-44,507
+300,16,4,615,41,-44,1023
+300,16,4,615,41,-44,1060
+300,16,4,615,41,-44,477
+300,16,4,615,41,-44,503
+300,16,4,615,41,-44,530
+300,16,4,615,41,-44,505
+300,16,4,600,40,-44,1049
+300,16,4,615,41,-44,485
+300,16,4,600,40,-44,1023
+300,16,4,615,41,-44,1026
+300,16,4,615,41,-44,1036
+300,16,4,570,38,-44,487
+300,16,4,630,42,-44,511
+300,16,4,615,41,-44,524
+300,16,4,615,41,-44,1104
+300,16,4,615,41,-44,934
+300,16,4,615,41,-44,528
+300,16,4,630,42,-44,498
+300,16,4,600,40,-44,530
+300,16,4,615,41,-44,1035
+300,16,4,615,41,-44,1010
+300,16,4,600,40,-44,1008
+300,16,4,615,41,-44,510
+300,16,4,615,41,-44,535
+300,16,4,600,40,-44,490
+300,16,4,600,40,-44,545
+300,16,4,615,41,-44,490
+300,16,4,615,41,-44,501
+300,16,4,615,41,-44,513
+300,16,4,615,41,-44,525
+300,16,4,615,41,-44,1024
+300,16,4,600,40,-44,1011
+300,16,4,600,40,-44,524
+300,16,4,615,41,-44,496
+300,16,4,615,41,-44,530
+300,16,4,600,40,-44,520
+300,16,4,600,40,-44,491
+300,16,4,615,41,-44,526
+300,16,4,600,40,-44,516
+300,16,4,615,41,-44,511
+300,16,4,600,40,-44,506
+300,16,4,600,40,-44,516
+300,16,4,600,40,-44,513
+300,16,4,630,42,-44,505
+300,16,4,585,39,-44,1012
+300,16,4,600,40,-44,533
+300,16,4,600,40,-44,517
+300,16,4,600,40,-44,489
+300,16,4,600,40,-44,530
+300,16,4,615,41,-44,1003
+300,16,4,615,41,-44,510
+300,16,4,600,40,-44,529
+300,16,4,600,40,-44,1025
+300,16,4,600,40,-44,498
+300,16,4,615,41,-44,564
+300,16,4,600,40,-44,1003
+300,16,4,615,41,-44,995
+300,16,4,615,41,-44,532
+300,16,4,600,40,-44,509
+300,16,4,615,41,-44,494
+300,16,4,600,40,-44,526
+300,16,4,600,40,-44,1124
+300,16,4,600,40,-44,1013
+300,16,4,615,41,-44,522
+300,16,4,600,40,-44,496
+300,16,4,600,40,-44,527
+300,16,4,600,40,-44,497
+300,16,4,600,40,-44,514
+300,16,4,600,40,-44,524
+300,16,4,600,40,-44,513
+300,16,4,600,40,-44,1047
+300,16,4,600,40,-44,1104
+300,16,4,600,40,-44,1129
+300,16,4,615,41,-44,496
+300,16,4,600,40,-44,530
+300,16,4,600,40,-44,493
+300,16,4,600,40,-44,525
+300,16,4,600,40,-44,513
+300,16,4,600,40,-44,497
+300,16,4,600,40,-45,512
+300,16,4,600,40,-44,512
+300,16,4,600,40,-44,512
+300,16,4,600,40,-44,526
+300,16,4,600,40,-44,1011
+300,16,4,615,41,-44,538
+300,16,4,600,40,-44,487
+300,16,4,600,40,-44,529
+300,16,4,615,41,-44,493
+300,16,4,600,40,-44,543
+300,16,4,615,41,-44,1013
+300,16,4,600,40,-44,493
+300,16,4,600,40,-44,529
+300,16,4,600,40,-44,494
+300,16,4,585,39,-44,531
+300,16,4,600,40,-44,500
+300,16,4,600,40,-44,519
+300,16,4,600,40,-44,503
+300,16,4,600,40,-44,530
+300,16,4,600,40,-44,1017
+300,16,4,600,40,-44,516
+300,16,4,615,41,-44,517
+300,16,4,600,40,-44,1029
+300,16,4,615,41,-44,1137
+300,16,4,600,40,-44,1153
+300,16,4,600,40,-44,1216
+300,16,4,585,39,-44,989
+300,16,4,600,40,-44,1069
+300,16,4,600,40,-44,1312
+300,16,4,600,40,-44,1213
+300,16,4,615,41,-44,500
+300,16,4,615,41,-44,1020
+300,16,4,600,40,-44,1034
+300,16,4,600,40,-44,530
+300,16,4,600,40,-44,1204
+300,16,4,600,40,-44,1009
+300,16,4,615,41,-44,512
+300,16,4,615,41,-44,511
+300,16,4,615,41,-44,527
+300,16,4,600,40,-44,1023
+300,16,4,615,41,-44,511
+300,16,4,615,41,-44,1039
+300,16,4,585,39,-44,999
+300,16,4,615,41,-44,527
+300,16,4,615,41,-44,493
+300,16,4,615,41,-44,513
+300,16,4,600,40,-44,512
+300,16,4,600,40,-44,531
+300,16,4,615,41,-44,512
+300,16,4,615,41,-44,507
+300,16,4,615,41,-44,1028
+300,16,4,615,41,-44,493
+300,16,4,600,40,-44,526
+300,16,4,600,40,-44,513
+300,16,4,615,41,-44,511
+300,16,4,600,40,-44,1025
+300,16,4,600,40,-44,503
+300,16,4,600,40,-44,508
+300,16,4,585,39,-44,536
+300,16,4,600,40,-44,1012
+300,16,4,600,40,-44,500
+300,16,4,600,40,-44,531
+300,16,4,570,38,-44,491
+300,16,4,570,38,-45,513
+300,16,4,600,40,-45,512
+300,16,4,645,43,-44,513
+300,16,4,600,40,-44,511
+300,16,4,585,39,-44,511
+300,16,4,585,39,-44,515
+300,16,4,570,38,-44,529
+300,16,4,570,38,-44,493
+300,16,4,585,39,-44,512
+300,16,4,570,38,-44,526
+300,16,4,585,39,-44,1014
+300,16,4,585,39,-44,513
+300,16,4,570,38,-44,507
+300,16,4,585,39,-44,526
+300,16,4,570,38,-44,1029
+300,16,4,570,38,-44,494
+300,16,4,570,38,-44,525
+300,16,4,585,39,-44,1042
+300,16,4,570,38,-44,1006
+300,16,4,570,38,-44,539
+300,16,4,570,38,-44,474
+300,16,4,570,38,-44,523
+300,16,4,570,38,-44,1010
+300,16,4,570,38,-44,518
+300,16,4,570,38,-44,524
+300,16,4,570,38,-44,508
+300,16,4,585,39,-44,1016
+300,16,4,570,38,-44,525
+300,16,4,570,38,-44,496
+300,16,4,585,39,-44,514
+300,16,4,570,38,-44,521
+300,16,4,570,38,-44,512
+300,16,4,585,39,-44,500
+300,16,4,585,39,-44,524
+300,16,4,570,38,-44,498
+300,16,4,585,39,-44,529
+300,16,4,585,39,-44,599
+300,16,4,570,38,-44,524
+300,16,4,570,38,-44,1024
+300,16,4,585,39,-44,512
+300,16,4,585,39,-44,1024
+300,16,4,585,39,-44,504
+300,16,4,570,38,-44,511
+300,16,4,585,39,-44,531
+300,16,4,570,38,-44,1022
+300,16,4,570,38,-44,1007
+300,16,4,570,38,-44,534
+300,16,4,585,39,-44,1013
+300,16,4,585,39,-44,1031
+300,16,4,585,39,-44,506
+300,16,4,585,39,-44,1023
+300,16,4,585,39,-44,1035
+300,16,4,570,38,-45,518
+300,16,4,585,39,-45,1012
+300,16,4,570,38,-44,1153
+300,16,4,570,38,-44,1009
+300,16,4,585,39,-44,1012
+300,16,4,570,38,-44,1033
+300,16,4,570,38,-44,500
+300,16,4,585,39,-44,509
+300,16,4,585,39,-44,1013
+300,16,4,570,38,-44,543
+300,16,4,585,39,-44,1005
+300,16,4,570,38,-44,1012
+300,16,4,570,38,-44,528
+E (1716120) wifi:No FTM Measurements received from responder!
+W (1716120) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,570,38,-44,530
+300,16,4,570,38,-44,512
+300,16,4,570,38,-44,505
+300,16,4,570,38,-44,1029
+300,16,4,570,38,-44,512
+300,16,4,570,38,-44,509
+300,16,4,570,38,-44,1028
+300,16,4,585,39,-44,516
+300,16,4,570,38,-44,503
+300,16,4,570,38,-44,1024
+300,16,4,570,38,-44,515
+300,16,4,570,38,-44,1021
+300,16,4,570,38,-44,503
+300,16,4,585,39,-44,524
+300,16,4,600,40,-44,510
+300,16,4,570,38,-44,511
+E (1731519) wifi:No FTM Measurements received from responder!
+W (1731519) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1735730) wifi:No FTM Measurements received from responder!
+W (1735731) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,794
+W (1742441) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (1746959) wifi:No FTM Measurements received from responder!
+W (1746960) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1752282) wifi:No FTM Measurements received from responder!
+W (1752283) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,1091
+300,16,4,555,37,-44,1105
+E (1759455) wifi:No FTM Measurements received from responder!
+W (1759456) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,924
+300,16,4,570,38,-44,1227
+W (1766792) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (1771405) wifi:No FTM Measurements received from responder!
+W (1771405) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1776522) wifi:No FTM Measurements received from responder!
+W (1776522) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1782066) wifi:No FTM Measurements received from responder!
+W (1782067) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1785957) wifi:No FTM Measurements received from responder!
+W (1785957) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1791740) wifi:No FTM Measurements received from responder!
+W (1791740) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,599
+300,16,4,585,39,-44,1516
+300,16,4,585,39,-44,532
+300,16,4,585,39,-44,1224
+300,16,4,555,37,-44,1139
+E (1802085) wifi:No FTM Measurements received from responder!
+W (1802085) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1806193) wifi:No FTM Measurements received from responder!
+W (1806194) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1811769) wifi:No FTM Measurements received from responder!
+W (1811769) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1816270) wifi:No FTM Measurements received from responder!
+W (1816270) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1821305) wifi:No FTM Measurements received from responder!
+W (1821305) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1825925) wifi:No FTM Measurements received from responder!
+W (1825926) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1831921) wifi:No FTM Measurements received from responder!
+W (1831922) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1836014) wifi:No FTM Measurements received from responder!
+W (1836014) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,390,26,-43,734
+300,16,4,525,35,-44,1787
+E (1844730) wifi:No FTM Measurements received from responder!
+W (1844730) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1848803) wifi:No FTM Measurements received from responder!
+W (1848804) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,1125,75,-43,954
+E (1855340) wifi:No FTM Measurements received from responder!
+W (1855340) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1859580) wifi:No FTM Measurements received from responder!
+W (1859580) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,699
+W (1865994) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,840,56,-44,720
+W (1871715) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (1876535) wifi:No FTM Measurements received from responder!
+W (1876536) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,622
+300,16,4,600,40,-45,1064
+300,16,4,615,41,-44,1080
+300,16,4,600,40,-45,1151
+E (1885878) wifi:No FTM Measurements received from responder!
+W (1885879) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+W (1890635) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+W (1895636) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (1899838) wifi:No FTM Measurements received from responder!
+W (1899838) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,555,37,-44,857
+W (1906495) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,637
+300,16,4,570,38,-44,984
+300,16,4,585,39,-44,1163
+300,16,4,600,40,-43,1183
+W (1915464) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,1041
+E (1921466) wifi:No FTM Measurements received from responder!
+W (1921466) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-45,528
+300,16,4,555,37,-44,1204
+300,16,4,600,40,-45,1243
+300,16,4,600,40,-45,1025
+300,16,4,615,41,-44,1276
+300,16,4,600,40,-43,1582
+E (1932997) wifi:No FTM Measurements received from responder!
+W (1932997) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1937607) wifi:No FTM Measurements received from responder!
+W (1937607) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1942771) wifi:No FTM Measurements received from responder!
+W (1942771) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1948380) wifi:No FTM Measurements received from responder!
+W (1948381) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,1616
+W (1954984) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,1341
+W (1961327) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (1965461) wifi:No FTM Measurements received from responder!
+W (1965462) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,555,37,-44,571
+E (1971543) wifi:No FTM Measurements received from responder!
+W (1971543) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,635
+300,16,4,585,39,-44,1296
+300,16,4,615,41,-44,1550
+300,16,4,585,39,-44,1040
+300,16,4,600,40,-45,1250
+300,16,4,585,39,-44,999
+300,16,4,600,40,-45,1836
+300,16,4,600,40,-44,1110
+300,16,4,585,39,-45,1226
+W (1987842) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,600,40,-45,525
+300,16,4,585,39,-44,527
+300,16,4,585,39,-44,1215
+300,16,4,600,40,-45,1037
+300,16,4,585,39,-45,1268
+300,16,4,600,40,-44,1175
+W (1998591) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (2002760) wifi:No FTM Measurements received from responder!
+W (2002761) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,555,37,-45,596
+E (2008391) wifi:No FTM Measurements received from responder!
+W (2008392) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,600,40,-44,595
+300,16,4,600,40,-44,1242
+300,16,4,585,39,-44,1036
+E (2017350) wifi:No FTM Measurements received from responder!
+W (2017351) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,585,39,-44,979
+300,16,4,585,39,-44,1188
+300,16,4,570,38,-44,1016
+300,16,4,585,39,-44,500
+300,16,4,570,38,-44,1021
+300,16,4,585,39,-44,1038
+300,16,4,585,39,-44,1048
+300,16,4,585,39,-44,1086
+300,16,4,600,40,-44,1475
+300,16,4,585,39,-44,967
+300,16,4,585,39,-44,512
+300,16,4,585,39,-44,513
+300,16,4,585,39,-44,537
+300,16,4,585,39,-44,1016
+300,16,4,585,39,-44,510
+300,16,4,585,39,-44,497
+300,16,4,585,39,-44,525
+300,16,4,585,39,-44,1024
+300,16,4,585,39,-44,515
+300,16,4,570,38,-44,509
+300,16,4,585,39,-44,1014
+300,16,4,585,39,-44,528
+300,16,4,585,39,-44,494
+300,16,4,585,39,-44,525
+300,16,4,585,39,-44,1023
+300,16,4,585,39,-44,1039
+300,16,4,585,39,-44,483
+300,16,4,585,39,-44,516
+300,16,4,585,39,-44,534
+# Config 3/5: frame_count=16, burst_period=6
+300,16,6,585,39,-44,691
+300,16,6,600,40,-44,718
+300,16,6,585,39,-44,725
+300,16,6,585,39,-44,716
+300,16,6,585,39,-44,812
+300,16,6,585,39,-44,734
+300,16,6,570,38,-44,801
+300,16,6,570,38,-44,719
+300,16,6,570,38,-44,733
+300,16,6,585,39,-44,701
+300,16,6,600,40,-44,715
+300,16,6,585,39,-44,715
+300,16,6,585,39,-44,727
+300,16,6,585,39,-44,705
+300,16,6,585,39,-44,721
+300,16,6,585,39,-44,731
+300,16,6,585,39,-44,1226
+300,16,6,585,39,-44,713
+300,16,6,585,39,-44,709
+300,16,6,600,40,-44,715
+300,16,6,585,39,-44,722
+300,16,6,585,39,-44,713
+300,16,6,600,40,-44,718
+300,16,6,600,40,-44,724
+300,16,6,585,39,-44,708
+300,16,6,585,39,-44,734
+300,16,6,600,40,-44,708
+300,16,6,600,40,-44,1217
+300,16,6,600,40,-44,729
+300,16,6,585,39,-44,1217
+300,16,6,585,39,-44,717
+300,16,6,600,40,-44,720
+300,16,6,600,40,-44,715
+300,16,6,600,40,-44,716
+300,16,6,600,40,-44,719
+300,16,6,600,40,-44,725
+300,16,6,600,40,-44,1354
+300,16,6,600,40,-44,1209
+300,16,6,600,40,-44,714
+300,16,6,585,39,-44,718
+300,16,6,600,40,-44,1221
+300,16,6,585,39,-44,715
+300,16,6,600,40,-44,713
+300,16,6,600,40,-44,729
+300,16,6,600,40,-44,723
+300,16,6,600,40,-44,702
+300,16,6,600,40,-44,717
+300,16,6,600,40,-44,717
+300,16,6,585,39,-44,739
+300,16,6,570,38,-44,702
+300,16,6,600,40,-44,711
+300,16,6,600,40,-44,724
+300,16,6,615,41,-44,1218
+300,16,6,600,40,-44,717
+300,16,6,600,40,-44,727
+300,16,6,585,39,-44,1222
+300,16,6,585,39,-44,724
+300,16,6,600,40,-44,1228
+300,16,6,600,40,-44,1238
+300,16,6,585,39,-44,713
+300,16,6,600,40,-44,714
+300,16,6,600,40,-44,1215
+300,16,6,585,39,-44,720
+300,16,6,600,40,-44,716
+300,16,6,585,39,-44,726
+300,16,6,615,41,-44,1217
+300,16,6,615,41,-44,719
+300,16,6,600,40,-44,737
+300,16,6,600,40,-44,698
+300,16,6,600,40,-43,734
+300,16,6,585,39,-44,707
+300,16,6,600,40,-44,721
+300,16,6,600,40,-44,1220
+300,16,6,600,40,-44,725
+300,16,6,600,40,-44,1241
+300,16,6,600,40,-44,1214
+300,16,6,600,40,-44,1242
+300,16,6,585,39,-44,1224
+300,16,6,600,40,-44,704
+300,16,6,585,39,-44,721
+300,16,6,600,40,-44,716
+300,16,6,585,39,-44,1230
+300,16,6,585,39,-44,1228
+300,16,6,585,39,-44,711
+300,16,6,600,40,-44,728
+300,16,6,585,39,-44,712
+300,16,6,585,39,-44,705
+300,16,6,585,39,-44,717
+300,16,6,600,40,-44,723
+300,16,6,585,39,-44,732
+300,16,6,600,40,-44,698
+300,16,6,600,40,-44,721
+300,16,6,600,40,-44,710
+300,16,6,600,40,-44,728
+300,16,6,585,39,-44,1246
+300,16,6,585,39,-44,1200
+300,16,6,585,39,-44,729
+300,16,6,600,40,-44,1229
+300,16,6,585,39,-44,706
+300,16,6,675,45,-44,727
+300,16,6,600,40,-44,1226
+300,16,6,600,40,-44,736
+300,16,6,585,39,-44,1357
+300,16,6,585,39,-44,664
+300,16,6,585,39,-44,728
+300,16,6,600,40,-44,1221
+300,16,6,600,40,-44,724
+300,16,6,600,40,-44,710
+300,16,6,600,40,-44,734
+300,16,6,600,40,-44,710
+300,16,6,600,40,-44,1215
+300,16,6,600,40,-44,717
+300,16,6,600,40,-44,716
+300,16,6,600,40,-44,716
+300,16,6,600,40,-44,720
+300,16,6,615,41,-44,725
+300,16,6,585,39,-44,1229
+300,16,6,600,40,-44,1217
+300,16,6,615,41,-44,717
+300,16,6,615,41,-44,729
+300,16,6,600,40,-44,1219
+300,16,6,825,55,-44,726
+300,16,6,600,40,-44,768
+300,16,6,615,41,-44,675
+300,16,6,630,42,-44,726
+300,16,6,615,41,-44,698
+300,16,6,600,40,-44,1229
+300,16,6,585,39,-44,1229
+300,16,6,615,41,-45,1221
+300,16,6,615,41,-45,713
+300,16,6,630,42,-44,728
+300,16,6,600,40,-44,1221
+300,16,6,630,42,-44,725
+300,16,6,645,43,-44,1229
+300,16,6,630,42,-44,1218
+300,16,6,615,41,-44,727
+300,16,6,615,41,-44,1229
+300,16,6,615,41,-44,712
+300,16,6,630,42,-44,731
+300,16,6,600,40,-44,699
+300,16,6,630,42,-44,714
+300,16,6,615,41,-44,728
+300,16,6,630,42,-44,1217
+300,16,6,645,43,-44,721
+300,16,6,600,40,-43,727
+300,16,6,585,39,-45,728
+300,16,6,615,41,-45,1252
+300,16,6,615,41,-44,1199
+300,16,6,615,41,-44,1236
+300,16,6,630,42,-44,1205
+300,16,6,630,42,-44,726
+300,16,6,645,43,-44,1218
+300,16,6,645,43,-44,719
+300,16,6,630,42,-44,719
+300,16,6,615,41,-44,719
+300,16,6,630,42,-45,722
+300,16,6,615,41,-44,1222
+300,16,6,615,41,-44,734
+300,16,6,630,42,-44,708
+300,16,6,615,41,-45,1219
+300,16,6,630,42,-44,724
+300,16,6,675,45,-44,1230
+300,16,6,690,46,-45,708
+300,16,6,660,44,-44,717
+300,16,6,660,44,-44,725
+300,16,6,675,45,-44,1228
+300,16,6,675,45,-43,852
+300,16,6,630,42,-44,1373
+300,16,6,600,40,-44,1365
+300,16,6,615,41,-45,939
+E (2192481) wifi:No FTM Measurements received from responder!
+W (2192482) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (2197266) wifi:No FTM Measurements received from responder!
+W (2197266) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,600,40,-44,933
+300,16,6,630,42,-44,1335
+300,16,6,675,45,-44,1246
+300,16,6,630,42,-44,1239
+300,16,6,675,45,-44,1301
+300,16,6,630,42,-44,1315
+W (2209529) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,6,600,40,-45,764
+300,16,6,690,46,-43,1236
+300,16,6,615,41,-45,1370
+300,16,6,645,43,-43,1279
+E (2219213) wifi:No FTM Measurements received from responder!
+W (2219214) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,615,41,-45,859
+300,16,6,630,42,-44,1335
+300,16,6,630,42,-44,1333
+300,16,6,675,45,-44,1390
+300,16,6,660,44,-45,1268
+300,16,6,570,38,-44,1229
+E (2231228) wifi:No FTM Measurements received from responder!
+W (2231228) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,660,44,-43,701
+E (2237951) wifi:No FTM Measurements received from responder!
+W (2237951) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (2241928) wifi:No FTM Measurements received from responder!
+W (2241928) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,675,45,-44,854
+E (2248597) wifi:No FTM Measurements received from responder!
+W (2248598) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,585,39,-44,741
+E (2254366) wifi:No FTM Measurements received from responder!
+W (2254366) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,555,37,-44,1092
+300,16,6,615,41,-44,1154
+300,16,6,585,39,-44,729
+300,16,6,630,42,-44,1345
+300,16,6,615,41,-44,1275
+300,16,6,630,42,-44,1380
+E (2266038) wifi:No FTM Measurements received from responder!
+W (2266038) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-45,1007
+E (2272197) wifi:No FTM Measurements received from responder!
+W (2272197) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (2276591) wifi:No FTM Measurements received from responder!
+W (2276592) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (2282500) wifi:No FTM Measurements received from responder!
+W (2282500) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,645,43,-44,1233
+300,16,6,630,42,-44,1354
+300,16,6,630,42,-44,1490
+300,16,6,645,43,-44,1315
+E (2292229) wifi:No FTM Measurements received from responder!
+W (2292230) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,743
+300,16,6,600,40,-44,1333
+300,16,6,615,41,-44,1234
+300,16,6,765,51,-44,1326
+300,16,6,630,42,-44,1558
+300,16,6,630,42,-44,1412
+300,16,6,630,42,-44,1234
+300,16,6,630,42,-44,1289
+300,16,6,600,40,-44,1265
+300,16,6,615,41,-44,1251
+300,16,6,630,42,-44,1492
+300,16,6,645,43,-44,1468
+E (2312946) wifi:No FTM Measurements received from responder!
+W (2312946) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,979
+300,16,6,630,42,-44,1383
+W (2320242) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (2324889) wifi:No FTM Measurements received from responder!
+W (2324889) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,798
+300,16,6,630,42,-44,1388
+300,16,6,630,42,-44,2061
+300,16,6,645,43,-44,1862
+E (2336577) wifi:No FTM Measurements received from responder!
+W (2336577) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,645,43,-44,712
+E (2341829) wifi:No FTM Measurements received from responder!
+W (2341829) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,718
+300,16,6,630,42,-44,1257
+300,16,6,645,43,-44,1396
+300,16,6,645,43,-45,886
+300,16,6,630,42,-44,1323
+300,16,6,645,43,-44,1183
+300,16,6,630,42,-44,1231
+300,16,6,630,42,-44,1253
+300,16,6,630,42,-44,1373
+300,16,6,630,42,-44,1294
+300,16,6,630,42,-45,1597
+300,16,6,630,42,-44,1269
+300,16,6,630,42,-44,1196
+300,16,6,615,41,-44,1811
+300,16,6,630,42,-44,2183
+W (2367038) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,767
+E (2372601) wifi:No FTM Measurements received from responder!
+W (2372601) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,834
+300,16,6,630,42,-44,1584
+300,16,6,630,42,-44,1255
+300,16,6,630,42,-44,717
+300,16,6,675,45,-44,1253
+300,16,6,615,41,-44,1309
+300,16,6,615,41,-44,1596
+W (2386355) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,772
+E (2392602) wifi:No FTM Measurements received from responder!
+W (2392602) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,776
+300,16,6,630,42,-44,1289
+W (2399194) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,6,645,43,-44,848
+300,16,6,630,42,-44,1557
+300,16,6,630,42,-44,1318
+300,16,6,630,42,-44,1516
+E (2409493) wifi:No FTM Measurements received from responder!
+W (2409494) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,999
+300,16,6,885,59,-44,1472
+W (2416905) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,883
+W (2422789) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (2427182) wifi:No FTM Measurements received from responder!
+W (2427182) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,907
+300,16,6,630,42,-44,1861
+E (2435342) wifi:No FTM Measurements received from responder!
+W (2435343) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (2441098) wifi:No FTM Measurements received from responder!
+W (2441099) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,1362
+300,16,6,645,43,-44,1509
+300,16,6,630,42,-44,1345
+300,16,6,630,42,-44,1262
+300,16,6,630,42,-44,2049
+300,16,6,645,43,-44,1485
+300,16,6,630,42,-44,1395
+300,16,6,630,42,-44,1218
+300,16,6,630,42,-44,1432
+300,16,6,645,43,-44,1192
+300,16,6,630,42,-44,1231
+300,16,6,645,43,-44,1243
+300,16,6,645,43,-44,1234
+300,16,6,615,41,-44,1261
+300,16,6,630,42,-44,1283
+300,16,6,630,42,-44,1608
+300,16,6,645,43,-44,1668
+300,16,6,630,42,-44,1228
+300,16,6,630,42,-44,1274
+E (2472061) wifi:No FTM Measurements received from responder!
+W (2472062) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,889
+W (2477730) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,843
+300,16,6,615,41,-44,1786
+300,16,6,630,42,-44,1321
+300,16,6,645,43,-41,1314
+E (2488030) wifi:No FTM Measurements received from responder!
+W (2488031) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (2492934) wifi:No FTM Measurements received from responder!
+W (2492934) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,6,630,42,-44,713
+300,16,6,630,42,-44,720
+300,16,6,630,42,-44,715
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,715
+300,16,6,645,43,-44,732
+300,16,6,630,42,-44,705
+300,16,6,630,42,-44,722
+300,16,6,645,43,-44,725
+300,16,6,630,42,-44,702
+300,16,6,630,42,-44,715
+300,16,6,630,42,-44,716
+300,16,6,645,43,-44,717
+300,16,6,630,42,-44,726
+300,16,6,630,42,-44,708
+300,16,6,645,43,-44,718
+300,16,6,630,42,-44,717
+300,16,6,615,41,-44,729
+300,16,6,645,43,-44,1228
+300,16,6,630,42,-44,1218
+300,16,6,630,42,-44,727
+300,16,6,630,42,-44,706
+300,16,6,630,42,-44,729
+300,16,6,630,42,-44,706
+300,16,6,630,42,-44,727
+300,16,6,660,44,-44,1218
+300,16,6,630,42,-44,727
+300,16,6,630,42,-44,1218
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,727
+300,16,6,630,42,-44,731
+300,16,6,630,42,-44,1219
+300,16,6,615,41,-44,1216
+300,16,6,630,42,-44,713
+300,16,6,630,42,-44,732
+300,16,6,630,42,-44,728
+300,16,6,630,42,-44,1209
+300,16,6,615,41,-44,730
+300,16,6,615,41,-44,1226
+300,16,6,645,43,-44,1217
+300,16,6,615,41,-44,714
+300,16,6,630,42,-44,714
+300,16,6,630,42,-44,719
+300,16,6,630,42,-44,728
+300,16,6,630,42,-44,706
+300,16,6,630,42,-44,728
+300,16,6,630,42,-44,712
+300,16,6,630,42,-44,711
+300,16,6,630,42,-44,714
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,1238
+300,16,6,630,42,-44,1224
+300,16,6,630,42,-44,1218
+300,16,6,630,42,-44,710
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,717
+300,16,6,630,42,-45,726
+300,16,6,630,42,-44,708
+300,16,6,630,42,-44,717
+300,16,6,645,43,-44,715
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,705
+300,16,6,645,43,-44,729
+300,16,6,645,43,-44,728
+300,16,6,630,42,-44,1225
+300,16,6,630,42,-44,1223
+300,16,6,630,42,-44,707
+300,16,6,630,42,-45,725
+300,16,6,630,42,-45,726
+300,16,6,630,42,-44,700
+300,16,6,630,42,-44,725
+300,16,6,630,42,-44,1222
+300,16,6,645,43,-44,711
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,720
+300,16,6,630,42,-44,713
+300,16,6,630,42,-44,731
+300,16,6,645,43,-44,702
+300,16,6,630,42,-44,732
+300,16,6,630,42,-44,717
+300,16,6,615,41,-44,715
+300,16,6,615,41,-44,1216
+300,16,6,630,42,-44,717
+300,16,6,615,41,-44,729
+300,16,6,630,42,-44,1224
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,704
+300,16,6,630,42,-44,716
+300,16,6,630,42,-44,718
+300,16,6,645,43,-44,713
+300,16,6,630,42,-44,725
+300,16,6,630,42,-44,708
+300,16,6,630,42,-44,725
+300,16,6,645,43,-44,717
+300,16,6,630,42,-44,721
+300,16,6,630,42,-44,1214
+300,16,6,645,43,-44,721
+300,16,6,645,43,-44,723
+300,16,6,630,42,-44,709
+300,16,6,630,42,-44,725
+300,16,6,630,42,-44,720
+300,16,6,630,42,-44,703
+300,16,6,630,42,-44,727
+300,16,6,630,42,-44,1286
+300,16,6,630,42,-44,1189
+300,16,6,630,42,-44,687
+300,16,6,630,42,-44,724
+300,16,6,630,42,-44,735
+300,16,6,630,42,-44,711
+300,16,6,630,42,-44,701
+300,16,6,630,42,-44,713
+300,16,6,630,42,-44,716
+300,16,6,630,42,-44,718
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,720
+300,16,6,645,43,-44,1214
+300,16,6,630,42,-44,728
+300,16,6,645,43,-44,706
+300,16,6,630,42,-44,727
+300,16,6,630,42,-44,721
+300,16,6,645,43,-44,1231
+300,16,6,630,42,-44,1329
+300,16,6,630,42,-44,1508
+300,16,6,630,42,-44,1258
+300,16,6,630,42,-44,1233
+300,16,6,630,42,-44,698
+300,16,6,630,42,-44,719
+300,16,6,645,43,-44,720
+300,16,6,630,42,-44,725
+300,16,6,630,42,-44,704
+300,16,6,630,42,-44,714
+300,16,6,630,42,-44,719
+300,16,6,630,42,-44,718
+300,16,6,630,42,-44,712
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,1220
+300,16,6,630,42,-44,717
+300,16,6,645,43,-44,712
+300,16,6,615,41,-44,718
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,711
+300,16,6,630,42,-44,720
+300,16,6,630,42,-44,723
+300,16,6,630,42,-44,708
+300,16,6,630,42,-44,725
+300,16,6,630,42,-44,887
+300,16,6,630,42,-44,646
+300,16,6,630,42,-44,1228
+300,16,6,630,42,-44,729
+300,16,6,645,43,-44,1217
+300,16,6,630,42,-44,1224
+300,16,6,630,42,-44,721
+300,16,6,630,42,-44,1219
+300,16,6,645,43,-44,714
+300,16,6,630,42,-44,718
+300,16,6,615,41,-44,728
+300,16,6,630,42,-44,1230
+300,16,6,645,43,-44,1228
+300,16,6,630,42,-44,1216
+300,16,6,630,42,-44,716
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,708
+300,16,6,630,42,-44,750
+300,16,6,645,43,-44,679
+300,16,6,630,42,-44,726
+300,16,6,645,43,-44,716
+300,16,6,630,42,-44,721
+300,16,6,630,42,-44,706
+300,16,6,630,42,-44,715
+300,16,6,630,42,-44,718
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,716
+300,16,6,615,41,-44,722
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,725
+300,16,6,630,42,-44,1216
+300,16,6,630,42,-44,717
+300,16,6,645,43,-45,715
+300,16,6,645,43,-44,718
+300,16,6,645,43,-44,717
+300,16,6,660,44,-44,729
+300,16,6,660,44,-44,713
+300,16,6,645,43,-44,725
+300,16,6,645,43,-44,1214
+300,16,6,645,43,-44,714
+300,16,6,630,42,-44,730
+300,16,6,645,43,-44,1216
+300,16,6,645,43,-44,730
+300,16,6,645,43,-44,728
+300,16,6,645,43,-44,1210
+300,16,6,645,43,-44,719
+300,16,6,645,43,-44,726
+300,16,6,645,43,-44,720
+300,16,6,645,43,-44,1225
+300,16,6,645,43,-44,1225
+300,16,6,660,44,-44,1230
+300,16,6,645,43,-44,1228
+300,16,6,630,42,-44,1291
+300,16,6,645,43,-44,1181
+300,16,6,645,43,-44,1219
+300,16,6,645,43,-44,700
+300,16,6,615,41,-44,730
+300,16,6,645,43,-44,1230
+300,16,6,645,43,-44,726
+300,16,6,660,44,-45,1211
+300,16,6,630,42,-44,711
+300,16,6,645,43,-45,721
+300,16,6,660,44,-44,725
+300,16,6,645,43,-44,1223
+300,16,6,645,43,-44,711
+300,16,6,645,43,-44,717
+300,16,6,645,43,-44,715
+300,16,6,645,43,-44,716
+300,16,6,645,43,-44,731
+300,16,6,645,43,-44,710
+300,16,6,645,43,-44,715
+300,16,6,660,44,-44,737
+300,16,6,645,43,-44,691
+300,16,6,615,41,-44,720
+300,16,6,645,43,-44,718
+300,16,6,645,43,-44,726
+300,16,6,660,44,-44,708
+300,16,6,630,42,-44,713
+300,16,6,645,43,-44,716
+300,16,6,645,43,-44,723
+300,16,6,645,43,-44,733
+300,16,6,645,43,-44,708
+300,16,6,780,52,-44,1242
+300,16,6,630,42,-44,695
+300,16,6,630,42,-44,713
+300,16,6,630,42,-44,716
+300,16,6,645,43,-44,717
+300,16,6,645,43,-44,719
+300,16,6,630,42,-44,714
+300,16,6,630,42,-44,739
+300,16,6,615,41,-44,1229
+300,16,6,615,41,-44,701
+300,16,6,630,42,-44,712
+300,16,6,615,41,-44,722
+300,16,6,615,41,-44,727
+300,16,6,630,42,-44,1221
+300,16,6,615,41,-44,730
+300,16,6,600,40,-44,1230
+300,16,6,615,41,-44,1225
+300,16,6,615,41,-44,1214
+300,16,6,630,42,-44,715
+300,16,6,630,42,-44,724
+300,16,6,630,42,-44,713
+300,16,6,630,42,-44,711
+300,16,6,615,41,-44,730
+300,16,6,630,42,-44,703
+300,16,6,615,41,-44,734
+300,16,6,630,42,-44,1234
+300,16,6,615,41,-44,1225
+300,16,6,615,41,-44,706
+300,16,6,615,41,-44,724
+300,16,6,630,42,-44,1236
+300,16,6,630,42,-44,711
+300,16,6,615,41,-45,1212
+300,16,6,615,41,-44,731
+300,16,6,615,41,-44,720
+300,16,6,630,42,-44,723
+300,16,6,615,41,-44,699
+300,16,6,630,42,-44,727
+300,16,6,615,41,-44,1216
+300,16,6,615,41,-44,736
+300,16,6,615,41,-44,713
+300,16,6,615,41,-44,1228
+300,16,6,630,42,-44,708
+300,16,6,615,41,-44,716
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,1230
+300,16,6,630,42,-44,701
+300,16,6,630,42,-44,731
+300,16,6,630,42,-44,1229
+300,16,6,630,42,-44,1218
+300,16,6,630,42,-44,716
+300,16,6,630,42,-44,716
+300,16,6,615,41,-44,729
+300,16,6,615,41,-44,1225
+300,16,6,615,41,-44,702
+300,16,6,630,42,-44,738
+300,16,6,630,42,-44,699
+300,16,6,630,42,-44,729
+300,16,6,630,42,-44,702
+300,16,6,615,41,-44,744
+300,16,6,615,41,-44,1223
+300,16,6,630,42,-44,703
+300,16,6,615,41,-44,711
+300,16,6,630,42,-43,712
+300,16,6,1035,69,-44,736
+300,16,6,630,42,-44,1228
+300,16,6,630,42,-44,713
+300,16,6,630,42,-44,1231
+300,16,6,645,43,-44,1212
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,718
+300,16,6,630,42,-44,716
+300,16,6,615,41,-44,721
+300,16,6,615,41,-44,712
+300,16,6,615,41,-44,731
+300,16,6,615,41,-44,727
+300,16,6,615,41,-44,693
+300,16,6,615,41,-44,730
+300,16,6,630,42,-44,1230
+300,16,6,615,41,-44,1223
+300,16,6,630,42,-44,713
+300,16,6,630,42,-44,729
+300,16,6,615,41,-44,705
+300,16,6,630,42,-44,721
+300,16,6,615,41,-44,724
+300,16,6,615,41,-44,708
+300,16,6,630,42,-44,731
+300,16,6,645,43,-44,718
+300,16,6,615,41,-44,710
+300,16,6,645,43,-44,723
+300,16,6,615,41,-44,1222
+300,16,6,630,42,-44,1215
+300,16,6,615,41,-44,717
+300,16,6,615,41,-44,717
+300,16,6,615,41,-44,736
+300,16,6,630,42,-44,722
+300,16,6,630,42,-44,698
+300,16,6,615,41,-44,726
+300,16,6,615,41,-44,1213
+300,16,6,615,41,-44,718
+300,16,6,615,41,-44,714
+300,16,6,615,41,-44,720
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,714
+300,16,6,630,42,-44,730
+300,16,6,630,42,-45,1216
+300,16,6,630,42,-44,716
+300,16,6,570,38,-44,719
+300,16,6,630,42,-44,719
+300,16,6,615,41,-44,751
+300,16,6,615,41,-45,1203
+300,16,6,615,41,-44,728
+300,16,6,615,41,-44,706
+300,16,6,630,42,-44,708
+300,16,6,630,42,-44,721
+300,16,6,615,41,-44,733
+300,16,6,615,41,-44,1234
+300,16,6,615,41,-44,700
+300,16,6,615,41,-44,726
+300,16,6,630,42,-44,711
+300,16,6,615,41,-44,724
+300,16,6,615,41,-44,1235
+300,16,6,615,41,-44,692
+300,16,6,630,42,-44,720
+300,16,6,615,41,-44,730
+300,16,6,630,42,-45,698
+300,16,6,615,41,-44,720
+300,16,6,630,42,-44,718
+300,16,6,630,42,-44,737
+300,16,6,630,42,-44,1226
+300,16,6,615,41,-44,706
+300,16,6,615,41,-44,1216
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,729
+300,16,6,615,41,-44,722
+300,16,6,615,41,-44,1235
+300,16,6,630,42,-44,692
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,712
+300,16,6,615,41,-44,727
+300,16,6,615,41,-44,1210
+300,16,6,615,41,-44,727
+300,16,6,615,41,-44,726
+300,16,6,630,42,-44,1219
+300,16,6,630,42,-44,726
+300,16,6,615,41,-45,1210
+300,16,6,630,42,-44,731
+300,16,6,615,41,-44,703
+300,16,6,630,42,-44,730
+300,16,6,615,41,-44,1216
+300,16,6,630,42,-44,730
+300,16,6,630,42,-44,1263
+300,16,6,615,41,-45,1203
+300,16,6,600,40,-44,725
+300,16,6,615,41,-44,723
+300,16,6,630,42,-44,1208
+300,16,6,615,41,-44,1218
+300,16,6,615,41,-44,725
+300,16,6,630,42,-44,722
+300,16,6,630,42,-44,732
+300,16,6,615,41,-44,1204
+300,16,6,615,41,-44,740
+300,16,6,615,41,-44,694
+300,16,6,615,41,-44,722
+300,16,6,615,41,-45,1324
+300,16,6,615,41,-45,744
+300,16,6,615,41,-44,1211
+300,16,6,630,42,-44,1217
+300,16,6,630,42,-44,727
+300,16,6,615,41,-44,712
+300,16,6,615,41,-44,745
+300,16,6,630,42,-44,1198
+300,16,6,630,42,-44,742
+300,16,6,615,41,-44,689
+300,16,6,630,42,-44,726
+300,16,6,630,42,-44,727
+300,16,6,630,42,-45,1213
+300,16,6,615,41,-44,729
+300,16,6,615,41,-44,807
+300,16,6,645,43,-45,733
+300,16,6,615,41,-44,1239
+300,16,6,615,41,-44,1216
+300,16,6,615,41,-44,1240
+300,16,6,615,41,-44,1198
+300,16,6,630,42,-45,717
+300,16,6,630,42,-44,716
+300,16,6,630,42,-44,728
+300,16,6,615,41,-44,728
+300,16,6,630,42,-44,1234
+300,16,6,630,42,-44,1229
+300,16,6,630,42,-44,1220
+300,16,6,630,42,-44,1238
+300,16,6,630,42,-44,712
+300,16,6,615,41,-45,710
+300,16,6,630,42,-44,717
+300,16,6,615,41,-44,714
+300,16,6,630,42,-44,721
+300,16,6,630,42,-44,1239
+300,16,6,630,42,-44,1214
+300,16,6,630,42,-45,1230
+300,16,6,630,42,-45,1212
+300,16,6,615,41,-44,731
+300,16,6,615,41,-44,719
+300,16,6,630,42,-44,1235
+300,16,6,615,41,-44,1211
+300,16,6,630,42,-44,715
+300,16,6,630,42,-44,727
+300,16,6,570,38,-44,722
+300,16,6,615,41,-44,708
+300,16,6,615,41,-44,729
+300,16,6,615,41,-44,711
+300,16,6,615,41,-44,720
+300,16,6,660,44,-44,1232
+300,16,6,630,42,-44,700
+300,16,6,630,42,-44,726
+300,16,6,615,41,-44,815
+300,16,6,630,42,-44,724
+300,16,6,630,42,-44,1229
+300,16,6,630,42,-44,723
+300,16,6,615,41,-44,708
+300,16,6,630,42,-44,738
+300,16,6,630,42,-44,694
+300,16,6,630,42,-45,1236
+300,16,6,630,42,-45,712
+300,16,6,630,42,-44,1222
+300,16,6,615,41,-44,737
+300,16,6,615,41,-44,704
+300,16,6,615,41,-44,724
+300,16,6,630,42,-44,1215
+300,16,6,615,41,-44,716
+300,16,6,615,41,-44,738
+300,16,6,615,41,-44,1217
+300,16,6,615,41,-44,716
+300,16,6,615,41,-44,712
+300,16,6,615,41,-44,722
+300,16,6,630,42,-44,1213
+300,16,6,630,42,-44,715
+300,16,6,630,42,-44,717
+300,16,6,615,41,-44,716
+300,16,6,615,41,-44,730
+300,16,6,615,41,-44,725
+300,16,6,630,42,-44,706
+300,16,6,630,42,-44,716
+300,16,6,615,41,-44,730
+300,16,6,615,41,-44,707
+300,16,6,630,42,-44,726
+300,16,6,630,42,-45,699
+300,16,6,600,40,-44,714
+300,16,6,630,42,-44,740
+300,16,6,615,41,-44,1224
+300,16,6,630,42,-44,1239
+300,16,6,615,41,-44,1216
+300,16,6,630,42,-44,730
+300,16,6,615,41,-44,701
+300,16,6,630,42,-44,1230
+300,16,6,600,40,-44,719
+300,16,6,615,41,-44,714
+300,16,6,630,42,-44,1223
+300,16,6,630,42,-44,743
+300,16,6,615,41,-44,1227
+300,16,6,645,43,-44,699
+300,16,6,630,42,-44,1216
+300,16,6,615,41,-44,727
+300,16,6,630,42,-44,1220
+300,16,6,615,41,-44,729
+300,16,6,630,42,-44,1218
+300,16,6,630,42,-44,727
+300,16,6,630,42,-44,710
+300,16,6,615,41,-44,716
+300,16,6,630,42,-44,728
+300,16,6,615,41,-45,1234
+300,16,6,630,42,-44,701
+300,16,6,630,42,-44,721
+300,16,6,615,41,-45,736
+300,16,6,630,42,-44,1220
+300,16,6,615,41,-44,702
+300,16,6,615,41,-44,740
+300,16,6,615,41,-44,689
+300,16,6,615,41,-44,714
+300,16,6,615,41,-45,729
+300,16,6,630,42,-44,721
+300,16,6,630,42,-44,723
+300,16,6,630,42,-44,1206
+300,16,6,615,41,-44,717
+300,16,6,630,42,-44,716
+300,16,6,630,42,-45,715
+300,16,6,630,42,-44,719
+300,16,6,630,42,-44,741
+300,16,6,630,42,-44,1234
+300,16,6,630,42,-44,1201
+300,16,6,615,41,-44,728
+300,16,6,615,41,-44,1215
+300,16,6,615,41,-44,720
+300,16,6,615,41,-44,754
+300,16,6,630,42,-44,682
+300,16,6,615,41,-44,724
+300,16,6,615,41,-44,1225
+300,16,6,615,41,-44,725
+300,16,6,615,41,-44,717
+300,16,6,615,41,-44,719
+300,16,6,615,41,-44,1247
+300,16,6,630,42,-44,1359
+300,16,6,615,41,-44,651
+300,16,6,630,42,-44,720
+300,16,6,615,41,-44,716
+300,16,6,615,41,-44,731
+300,16,6,615,41,-44,1220
+300,16,6,630,42,-44,742
+300,16,6,630,42,-44,1215
+300,16,6,615,41,-44,1248
+300,16,6,615,41,-44,681
+300,16,6,630,42,-44,728
+300,16,6,615,41,-44,1215
+300,16,6,615,41,-44,718
+300,16,6,615,41,-44,721
+300,16,6,615,41,-44,735
+300,16,6,615,41,-44,1215
+300,16,6,630,42,-44,724
+300,16,6,615,41,-44,704
+300,16,6,630,42,-44,712
+300,16,6,630,42,-44,731
+300,16,6,615,41,-44,814
+300,16,6,630,42,-44,745
+300,16,6,600,40,-44,1202
+300,16,6,630,42,-44,730
+300,16,6,615,41,-44,1211
+300,16,6,615,41,-44,727
+300,16,6,615,41,-44,1223
+300,16,6,615,41,-44,712
+300,16,6,615,41,-44,726
+300,16,6,615,41,-44,1229
+300,16,6,615,41,-44,718
+300,16,6,615,41,-44,708
+300,16,6,615,41,-44,714
+300,16,6,630,42,-44,714
+300,16,6,615,41,-44,719
+300,16,6,615,41,-44,714
+300,16,6,630,42,-44,720
+300,16,6,615,41,-44,714
+300,16,6,630,42,-44,718
+300,16,6,630,42,-44,729
+300,16,6,615,41,-44,1233
+300,16,6,615,41,-44,1232
+300,16,6,615,41,-44,1222
+300,16,6,615,41,-44,716
+300,16,6,615,41,-44,730
+300,16,6,630,42,-44,691
+300,16,6,615,41,-45,716
+300,16,6,630,42,-44,717
+300,16,6,630,42,-44,718
+300,16,6,630,42,-44,719
+300,16,6,615,41,-44,715
+300,16,6,630,42,-44,718
+300,16,6,600,40,-44,727
+300,16,6,615,41,-44,1219
+300,16,6,615,41,-44,727
+300,16,6,615,41,-44,1217
+300,16,6,630,42,-44,729
+300,16,6,630,42,-44,1228
+300,16,6,630,42,-44,1221
+300,16,6,630,42,-44,713
+300,16,6,630,42,-44,718
+300,16,6,630,42,-44,727
+300,16,6,615,41,-44,1229
+300,16,6,615,41,-44,1229
+300,16,6,615,41,-44,1219
+300,16,6,630,42,-44,727
+300,16,6,630,42,-44,729
+300,16,6,630,42,-44,1227
+300,16,6,615,41,-44,1230
+300,16,6,615,41,-44,1232
+300,16,6,630,42,-44,1223
+300,16,6,630,42,-44,722
+300,16,6,615,41,-44,704
+300,16,6,615,41,-44,729
+300,16,6,615,41,-44,1211
+300,16,6,615,41,-44,725
+300,16,6,630,42,-44,702
+300,16,6,615,41,-44,727
+300,16,6,615,41,-44,719
+300,16,6,630,42,-44,1231
+300,16,6,615,41,-44,717
+300,16,6,615,41,-44,722
+300,16,6,615,41,-44,721
+300,16,6,615,41,-44,1219
+300,16,6,615,41,-44,715
+300,16,6,615,41,-44,1216
+300,16,6,615,41,-44,716
+300,16,6,630,42,-44,724
+300,16,6,630,42,-44,727
+300,16,6,630,42,-44,1238
+300,16,6,630,42,-44,692
+300,16,6,615,41,-44,715
+300,16,6,615,41,-44,728
+300,16,6,615,41,-44,713
+300,16,6,615,41,-44,735
+300,16,6,630,42,-44,706
+300,16,6,645,43,-44,1227
+300,16,6,615,41,-44,1226
+300,16,6,630,42,-44,707
+300,16,6,615,41,-44,747
+300,16,6,615,41,-44,1210
+300,16,6,615,41,-44,720
+300,16,6,630,42,-44,713
+300,16,6,615,41,-44,708
+300,16,6,615,41,-44,719
+300,16,6,615,41,-44,710
+300,16,6,630,42,-44,726
+300,16,6,615,41,-44,728
+300,16,6,615,41,-44,702
+300,16,6,615,41,-45,717
+300,16,6,615,41,-44,715
+300,16,6,615,41,-44,720
+300,16,6,630,42,-44,726
+300,16,6,615,41,-44,1226
+300,16,6,615,41,-45,1217
+300,16,6,615,41,-44,716
+300,16,6,615,41,-44,716
+300,16,6,615,41,-44,724
+300,16,6,615,41,-45,764
+300,16,6,630,42,-44,1190
+300,16,6,615,41,-44,1264
+300,16,6,615,41,-44,680
+300,16,6,615,41,-44,705
+300,16,6,630,42,-44,761
+300,16,6,630,42,-44,684
+300,16,6,630,42,-44,727
+300,16,6,615,41,-44,1209
+300,16,6,615,41,-44,712
+300,16,6,630,42,-45,732
+300,16,6,615,41,-44,717
+300,16,6,630,42,-44,1214
+300,16,6,615,41,-44,726
+300,16,6,600,40,-44,735
+300,16,6,630,42,-44,1239
+300,16,6,615,41,-44,1213
+300,16,6,615,41,-44,1229
+300,16,6,630,42,-44,720
+300,16,6,615,41,-44,710
+300,16,6,615,41,-44,723
+300,16,6,630,42,-44,708
+300,16,6,630,42,-44,707
+300,16,6,615,41,-44,743
+300,16,6,615,41,-44,1313
+300,16,6,615,41,-44,722
+300,16,6,615,41,-44,702
+300,16,6,630,42,-44,716
+300,16,6,615,41,-44,717
+300,16,6,630,42,-44,727
+300,16,6,615,41,-44,732
+300,16,6,630,42,-44,698
+300,16,6,630,42,-44,736
+300,16,6,615,41,-44,1228
+300,16,6,630,42,-45,690
+300,16,6,630,42,-44,715
+300,16,6,615,41,-44,717
+300,16,6,630,42,-44,731
+300,16,6,630,42,-44,1221
+300,16,6,630,42,-44,742
+300,16,6,630,42,-44,1212
+300,16,6,630,42,-44,1255
+300,16,6,615,41,-44,690
+300,16,6,630,42,-44,1229
+300,16,6,630,42,-44,727
+300,16,6,615,41,-44,710
+300,16,6,630,42,-44,722
+300,16,6,615,41,-44,710
+300,16,6,630,42,-44,1241
+300,16,6,630,42,-44,708
+300,16,6,630,42,-44,725
+300,16,6,615,41,-44,1226
+300,16,6,630,42,-44,713
+300,16,6,615,41,-44,902
+300,16,6,630,42,-44,730
+300,16,6,615,41,-44,1223
+300,16,6,630,42,-44,725
+300,16,6,630,42,-44,1221
+300,16,6,615,41,-44,718
+300,16,6,615,41,-44,729
+300,16,6,630,42,-44,709
+300,16,6,630,42,-44,1240
+300,16,6,630,42,-44,802
+300,16,6,630,42,-44,725
+300,16,6,630,42,-44,719
+300,16,6,615,41,-44,718
+300,16,6,615,41,-44,729
+300,16,6,630,42,-44,704
+300,16,6,630,42,-44,1226
+300,16,6,630,42,-44,940
+300,16,6,630,42,-44,701
+300,16,6,615,41,-44,1227
+300,16,6,630,42,-44,702
+300,16,6,630,42,-44,717
+300,16,6,690,46,-44,715
+300,16,6,630,42,-45,719
+# Config 4/5: frame_count=16, burst_period=8
+300,16,8,630,42,-45,928
+300,16,8,630,42,-44,1423
+300,16,8,630,42,-44,931
+300,16,8,615,41,-44,917
+300,16,8,630,42,-44,926
+300,16,8,630,42,-44,916
+300,16,8,630,42,-44,919
+300,16,8,630,42,-44,924
+300,16,8,630,42,-44,913
+300,16,8,630,42,-44,927
+300,16,8,630,42,-44,921
+300,16,8,630,42,-44,925
+300,16,8,615,41,-44,928
+300,16,8,630,42,-45,921
+300,16,8,630,42,-44,940
+300,16,8,630,42,-44,897
+300,16,8,630,42,-44,931
+300,16,8,630,42,-44,909
+300,16,8,630,42,-44,923
+300,16,8,615,41,-44,926
+300,16,8,630,42,-44,917
+300,16,8,630,42,-44,933
+300,16,8,615,41,-45,1425
+300,16,8,615,41,-44,919
+300,16,8,630,42,-44,924
+300,16,8,615,41,-44,946
+300,16,8,630,42,-44,889
+300,16,8,630,42,-44,938
+300,16,8,630,42,-44,1426
+300,16,8,630,42,-44,923
+300,16,8,630,42,-44,922
+300,16,8,630,42,-44,941
+300,16,8,630,42,-44,910
+300,16,8,630,42,-44,920
+300,16,8,630,42,-44,1059
+300,16,8,630,42,-44,876
+300,16,8,615,41,-44,922
+300,16,8,630,42,-45,921
+300,16,8,615,41,-44,924
+300,16,8,615,41,-44,922
+300,16,8,630,42,-45,927
+300,16,8,615,41,-44,930
+300,16,8,615,41,-44,1433
+300,16,8,615,41,-44,925
+300,16,8,630,42,-44,1430
+300,16,8,615,41,-44,1417
+300,16,8,630,42,-44,931
+300,16,8,630,42,-44,923
+300,16,8,600,40,-44,921
+300,16,8,615,41,-44,940
+300,16,8,615,41,-44,893
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,924
+300,16,8,615,41,-44,1425
+300,16,8,615,41,-44,930
+300,16,8,615,41,-44,924
+300,16,8,630,42,-44,916
+300,16,8,615,41,-44,925
+300,16,8,615,41,-44,924
+300,16,8,630,42,-44,912
+300,16,8,630,42,-44,929
+300,16,8,615,41,-43,928
+300,16,8,630,42,-44,1421
+300,16,8,630,42,-44,928
+300,16,8,630,42,-45,1019
+300,16,8,615,41,-44,944
+300,16,8,630,42,-44,1411
+300,16,8,630,42,-44,927
+300,16,8,615,41,-44,914
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,920
+300,16,8,630,42,-44,928
+300,16,8,615,41,-44,912
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,931
+300,16,8,630,42,-44,929
+300,16,8,615,41,-44,929
+300,16,8,615,41,-44,907
+300,16,8,615,41,-44,922
+300,16,8,630,42,-44,911
+300,16,8,615,41,-44,937
+300,16,8,630,42,-44,1425
+300,16,8,615,41,-44,925
+300,16,8,615,41,-44,1424
+300,16,8,615,41,-44,916
+300,16,8,615,41,-44,936
+300,16,8,600,40,-44,916
+300,16,8,615,41,-44,919
+300,16,8,600,40,-44,921
+300,16,8,630,42,-44,921
+300,16,8,630,42,-44,922
+300,16,8,615,41,-44,931
+300,16,8,600,40,-44,925
+300,16,8,615,41,-44,1431
+300,16,8,615,41,-44,1433
+300,16,8,615,41,-44,937
+300,16,8,630,42,-44,1410
+300,16,8,630,42,-44,929
+300,16,8,630,42,-44,1434
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,912
+300,16,8,630,42,-44,930
+300,16,8,630,42,-44,1428
+300,16,8,615,41,-44,930
+300,16,8,630,42,-44,931
+300,16,8,630,42,-44,1422
+300,16,8,630,42,-44,930
+300,16,8,615,41,-44,1428
+300,16,8,615,41,-44,1449
+300,16,8,630,42,-44,900
+300,16,8,615,41,-44,918
+300,16,8,630,42,-44,928
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-44,1424
+300,16,8,615,41,-44,937
+300,16,8,630,42,-44,1008
+300,16,8,615,41,-44,957
+300,16,8,615,41,-44,1399
+300,16,8,630,42,-44,931
+300,16,8,615,41,-45,1433
+300,16,8,615,41,-44,931
+300,16,8,630,42,-44,1545
+300,16,8,615,41,-44,898
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,930
+300,16,8,630,42,-44,958
+300,16,8,615,41,-44,875
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,931
+300,16,8,615,41,-44,931
+300,16,8,630,42,-44,1419
+300,16,8,630,42,-44,919
+300,16,8,630,42,-44,919
+300,16,8,615,41,-44,932
+300,16,8,630,42,-44,1425
+300,16,8,630,42,-44,930
+300,16,8,630,42,-44,919
+300,16,8,615,41,-44,915
+300,16,8,630,42,-44,921
+300,16,8,615,41,-44,932
+300,16,8,615,41,-44,915
+300,16,8,630,42,-44,923
+300,16,8,630,42,-44,918
+300,16,8,615,41,-44,930
+300,16,8,630,42,-44,1437
+300,16,8,615,41,-44,1424
+300,16,8,615,41,-45,928
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,913
+300,16,8,630,42,-44,929
+300,16,8,615,41,-44,936
+300,16,8,600,40,-44,906
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,931
+300,16,8,630,42,-44,917
+300,16,8,630,42,-44,927
+300,16,8,615,41,-44,929
+300,16,8,615,41,-45,905
+300,16,8,615,41,-45,921
+300,16,8,615,41,-44,921
+300,16,8,615,41,-45,931
+300,16,8,615,41,-44,1424
+300,16,8,615,41,-44,933
+300,16,8,630,42,-44,913
+300,16,8,645,43,-44,921
+300,16,8,645,43,-44,929
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-44,916
+300,16,8,615,41,-44,927
+300,16,8,615,41,-45,943
+300,16,8,615,41,-44,890
+300,16,8,600,40,-44,934
+300,16,8,600,40,-45,927
+300,16,8,600,40,-45,924
+300,16,8,600,40,-45,1416
+300,16,8,1020,68,-43,943
+300,16,8,600,40,-44,1426
+300,16,8,600,40,-44,925
+300,16,8,585,39,-44,905
+300,16,8,600,40,-44,936
+300,16,8,600,40,-45,915
+300,16,8,600,40,-44,936
+300,16,8,600,40,-44,1413
+300,16,8,600,40,-44,928
+300,16,8,600,40,-44,930
+300,16,8,600,40,-44,931
+300,16,8,600,40,-44,904
+300,16,8,600,40,-44,913
+300,16,8,600,40,-44,930
+300,16,8,600,40,-44,1427
+300,16,8,600,40,-44,933
+300,16,8,600,40,-44,916
+300,16,8,600,40,-44,936
+300,16,8,585,39,-44,1431
+300,16,8,585,39,-43,914
+300,16,8,585,39,-44,1427
+300,16,8,600,40,-45,921
+300,16,8,615,41,-44,953
+300,16,8,615,41,-44,885
+300,16,8,615,41,-44,931
+300,16,8,615,41,-44,911
+300,16,8,600,40,-44,922
+300,16,8,615,41,-44,931
+300,16,8,615,41,-44,939
+300,16,8,615,41,-44,894
+300,16,8,615,41,-45,949
+300,16,8,675,45,-44,894
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,933
+300,16,8,600,40,-44,1439
+300,16,8,600,40,-44,1422
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,1426
+300,16,8,615,41,-44,929
+300,16,8,630,42,-44,923
+300,16,8,630,42,-44,937
+300,16,8,615,41,-44,896
+300,16,8,660,44,-44,931
+300,16,8,615,41,-44,916
+300,16,8,615,41,-44,926
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,934
+300,16,8,615,41,-44,906
+300,16,8,615,41,-44,932
+300,16,8,600,40,-44,910
+300,16,8,615,41,-44,950
+300,16,8,615,41,-45,908
+300,16,8,615,41,-44,914
+300,16,8,600,40,-43,920
+300,16,8,600,40,-44,932
+300,16,8,600,40,-44,904
+300,16,8,600,40,-44,931
+300,16,8,615,41,-44,934
+300,16,8,630,42,-44,910
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-44,918
+300,16,8,615,41,-44,937
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-44,908
+300,16,8,600,40,-44,1425
+300,16,8,600,40,-44,925
+300,16,8,600,40,-44,917
+300,16,8,600,40,-44,932
+300,16,8,615,41,-45,918
+300,16,8,615,41,-44,925
+300,16,8,600,40,-44,949
+300,16,8,600,40,-44,885
+300,16,8,600,40,-44,934
+300,16,8,615,41,-44,916
+300,16,8,615,41,-44,937
+300,16,8,615,41,-45,1435
+300,16,8,615,41,-44,900
+300,16,8,630,42,-44,918
+300,16,8,615,41,-44,934
+300,16,8,615,41,-44,910
+300,16,8,615,41,-45,922
+300,16,8,630,42,-44,923
+300,16,8,630,42,-44,920
+300,16,8,630,42,-44,921
+300,16,8,630,42,-44,921
+300,16,8,645,43,-44,933
+300,16,8,630,42,-44,955
+300,16,8,630,42,-44,1401
+300,16,8,630,42,-44,921
+300,16,8,630,42,-44,931
+300,16,8,630,42,-44,906
+300,16,8,615,41,-44,950
+300,16,8,630,42,-44,894
+300,16,8,615,41,-44,927
+300,16,8,630,42,-44,939
+300,16,8,615,41,-44,904
+300,16,8,615,41,-43,940
+300,16,8,630,42,-44,1445
+300,16,8,600,40,-45,1398
+300,16,8,585,39,-44,928
+300,16,8,600,40,-45,936
+300,16,8,600,40,-44,915
+300,16,8,570,38,-45,1425
+300,16,8,600,40,-44,934
+300,16,8,630,42,-44,909
+300,16,8,630,42,-44,930
+300,16,8,645,43,-44,911
+300,16,8,645,43,-44,914
+300,16,8,630,42,-44,932
+300,16,8,615,41,-44,1423
+300,16,8,615,41,-44,934
+300,16,8,630,42,-44,934
+300,16,8,615,41,-44,897
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,928
+300,16,8,600,40,-44,937
+300,16,8,615,41,-44,1460
+300,16,8,615,41,-44,1394
+300,16,8,615,41,-44,944
+300,16,8,600,40,-44,1433
+300,16,8,615,41,-44,906
+300,16,8,630,42,-44,1421
+300,16,8,615,41,-44,923
+300,16,8,600,40,-44,942
+300,16,8,600,40,-44,1440
+300,16,8,630,42,-44,1517
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,1422
+300,16,8,615,41,-44,924
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,921
+300,16,8,600,40,-44,928
+300,16,8,615,41,-44,946
+300,16,8,615,41,-44,911
+300,16,8,615,41,-44,1427
+300,16,8,615,41,-44,931
+300,16,8,600,40,-44,912
+300,16,8,615,41,-44,946
+300,16,8,615,41,-44,1396
+300,16,8,615,41,-44,930
+300,16,8,615,41,-44,945
+300,16,8,615,41,-44,907
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,1411
+300,16,8,600,40,-44,934
+300,16,8,600,40,-44,1503
+300,16,8,600,40,-44,1377
+300,16,8,600,40,-44,914
+300,16,8,630,42,-44,1416
+300,16,8,615,41,-44,932
+300,16,8,630,42,-44,923
+300,16,8,615,41,-44,920
+300,16,8,630,42,-44,912
+300,16,8,630,42,-44,922
+300,16,8,630,42,-44,921
+300,16,8,645,43,-44,921
+300,16,8,630,42,-44,933
+300,16,8,630,42,-44,1449
+300,16,8,645,43,-44,913
+300,16,8,645,43,-44,1427
+300,16,8,645,43,-44,1426
+300,16,8,645,43,-44,928
+300,16,8,645,43,-44,921
+300,16,8,645,43,-45,922
+300,16,8,630,42,-44,991
+300,16,8,645,43,-44,948
+300,16,8,630,42,-45,923
+300,16,8,645,43,-44,916
+300,16,8,645,43,-44,933
+300,16,8,615,41,-44,1422
+300,16,8,630,42,-44,923
+300,16,8,615,41,-44,932
+300,16,8,630,42,-44,1422
+300,16,8,615,41,-44,922
+300,16,8,645,43,-44,934
+300,16,8,615,41,-44,1428
+300,16,8,615,41,-44,926
+300,16,8,630,42,-44,948
+300,16,8,630,42,-44,898
+300,16,8,615,41,-44,1419
+300,16,8,630,42,-44,934
+300,16,8,615,41,-44,1422
+300,16,8,615,41,-44,921
+300,16,8,630,42,-44,932
+300,16,8,630,42,-44,930
+300,16,8,630,42,-44,903
+300,16,8,630,42,-44,922
+300,16,8,630,42,-44,932
+300,16,8,630,42,-44,1428
+300,16,8,600,40,-44,919
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,920
+300,16,8,615,41,-44,933
+300,16,8,630,42,-44,923
+300,16,8,630,42,-44,915
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,920
+300,16,8,630,42,-44,926
+300,16,8,630,42,-43,917
+300,16,8,630,42,-44,932
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,921
+300,16,8,630,42,-44,915
+300,16,8,615,41,-44,929
+300,16,8,630,42,-44,925
+300,16,8,615,41,-44,907
+300,16,8,630,42,-44,929
+300,16,8,615,41,-44,927
+300,16,8,630,42,-44,924
+300,16,8,615,41,-45,1430
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,910
+300,16,8,615,41,-44,920
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,924
+300,16,8,615,41,-44,934
+300,16,8,615,41,-44,909
+300,16,8,600,40,-44,912
+300,16,8,615,41,-45,925
+300,16,8,600,40,-44,919
+300,16,8,630,42,-44,928
+300,16,8,630,42,-44,940
+300,16,8,630,42,-44,921
+300,16,8,615,41,-44,909
+300,16,8,615,41,-44,924
+300,16,8,615,41,-44,971
+300,16,8,615,41,-44,858
+300,16,8,615,41,-44,931
+300,16,8,615,41,-45,915
+300,16,8,615,41,-45,917
+300,16,8,630,42,-44,933
+300,16,8,630,42,-44,922
+300,16,8,600,40,-44,1436
+300,16,8,630,42,-44,1431
+300,16,8,615,41,-44,941
+300,16,8,630,42,-44,887
+300,16,8,630,42,-44,936
+300,16,8,615,41,-44,1031
+300,16,8,630,42,-44,1420
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,1446
+300,16,8,615,41,-44,1417
+300,16,8,615,41,-44,939
+300,16,8,615,41,-44,1425
+300,16,8,615,41,-44,914
+300,16,8,615,41,-45,922
+300,16,8,615,41,-44,915
+300,16,8,615,41,-44,931
+300,16,8,615,41,-44,914
+300,16,8,630,42,-44,929
+300,16,8,615,41,-44,911
+300,16,8,615,41,-44,922
+300,16,8,630,42,-44,925
+300,16,8,615,41,-45,920
+300,16,8,615,41,-44,931
+300,16,8,615,41,-44,933
+300,16,8,615,41,-44,1425
+300,16,8,615,41,-44,909
+300,16,8,630,42,-44,921
+300,16,8,630,42,-44,923
+300,16,8,615,41,-45,919
+300,16,8,615,41,-44,923
+300,16,8,630,42,-44,923
+300,16,8,630,42,-44,923
+300,16,8,615,41,-44,923
+300,16,8,630,42,-44,927
+300,16,8,615,41,-44,925
+300,16,8,615,41,-44,914
+300,16,8,615,41,-44,918
+300,16,8,615,41,-44,921
+300,16,8,630,42,-44,920
+300,16,8,615,41,-44,932
+300,16,8,615,41,-44,1422
+300,16,8,615,41,-44,925
+300,16,8,615,41,-44,941
+300,16,8,615,41,-45,901
+300,16,8,615,41,-44,925
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,924
+300,16,8,615,41,-44,919
+300,16,8,630,42,-45,924
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,930
+300,16,8,615,41,-44,1423
+300,16,8,630,42,-44,922
+300,16,8,615,41,-44,932
+300,16,8,630,42,-44,1038
+300,16,8,630,42,-44,1416
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,917
+300,16,8,630,42,-44,920
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,924
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,929
+300,16,8,615,41,-44,1018
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,953
+300,16,8,615,41,-44,1411
+300,16,8,615,41,-44,1419
+300,16,8,615,41,-44,933
+300,16,8,615,41,-44,910
+300,16,8,660,44,-44,934
+300,16,8,615,41,-44,936
+300,16,8,615,41,-44,1433
+300,16,8,615,41,-44,911
+300,16,8,615,41,-44,912
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,943
+300,16,8,615,41,-44,1413
+300,16,8,615,41,-44,926
+300,16,8,615,41,-44,1432
+300,16,8,615,41,-44,936
+300,16,8,615,41,-44,918
+300,16,8,615,41,-44,1492
+300,16,8,645,43,-44,1476
+300,16,8,615,41,-44,1417
+300,16,8,615,41,-45,944
+300,16,8,615,41,-44,1422
+300,16,8,585,39,-44,1432
+300,16,8,615,41,-44,1513
+300,16,8,615,41,-44,1456
+300,16,8,615,41,-44,1440
+300,16,8,615,41,-44,1433
+300,16,8,585,39,-45,919
+300,16,8,585,39,-45,923
+300,16,8,600,40,-44,1432
+300,16,8,600,40,-44,1425
+300,16,8,615,41,-44,929
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,925
+300,16,8,630,42,-44,915
+300,16,8,615,41,-44,922
+300,16,8,630,42,-44,918
+300,16,8,615,41,-44,945
+300,16,8,615,41,-44,903
+300,16,8,630,42,-44,918
+300,16,8,630,42,-44,930
+300,16,8,615,41,-44,913
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,922
+300,16,8,630,42,-44,931
+300,16,8,615,41,-44,938
+300,16,8,630,42,-44,1409
+300,16,8,615,41,-44,932
+300,16,8,615,41,-44,932
+300,16,8,630,42,-44,1418
+300,16,8,630,42,-44,916
+300,16,8,630,42,-44,931
+300,16,8,630,42,-44,933
+300,16,8,630,42,-44,906
+300,16,8,630,42,-44,919
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,934
+300,16,8,615,41,-44,1427
+300,16,8,615,41,-45,941
+300,16,8,615,41,-44,895
+300,16,8,600,40,-45,931
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-44,1433
+300,16,8,600,40,-44,1436
+300,16,8,615,41,-44,1430
+300,16,8,615,41,-44,938
+300,16,8,615,41,-44,905
+300,16,8,630,42,-45,917
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,934
+300,16,8,615,41,-43,1441
+300,16,8,615,41,-44,901
+300,16,8,630,42,-44,918
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,915
+300,16,8,615,41,-44,926
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,933
+300,16,8,615,41,-44,898
+300,16,8,615,41,-44,932
+300,16,8,615,41,-44,943
+300,16,8,630,42,-44,904
+300,16,8,615,41,-44,931
+300,16,8,630,42,-44,1415
+300,16,8,615,41,-44,929
+300,16,8,630,42,-45,1428
+300,16,8,630,42,-44,927
+300,16,8,615,41,-44,1433
+300,16,8,615,41,-44,1435
+300,16,8,630,42,-44,932
+300,16,8,615,41,-44,918
+300,16,8,615,41,-44,931
+300,16,8,615,41,-45,903
+300,16,8,615,41,-44,918
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,1444
+300,16,8,615,41,-44,902
+300,16,8,630,42,-44,921
+300,16,8,615,41,-45,931
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-45,925
+300,16,8,615,41,-45,1429
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,1424
+300,16,8,615,41,-44,937
+300,16,8,615,41,-45,1445
+300,16,8,615,41,-44,1413
+300,16,8,630,42,-44,1422
+300,16,8,615,41,-44,931
+300,16,8,615,41,-44,914
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,933
+300,16,8,615,41,-44,925
+300,16,8,615,41,-44,926
+300,16,8,555,37,-45,911
+300,16,8,615,41,-44,948
+300,16,8,600,40,-45,1410
+300,16,8,615,41,-44,937
+300,16,8,600,40,-44,1413
+300,16,8,615,41,-44,926
+300,16,8,615,41,-44,915
+300,16,8,615,41,-44,929
+300,16,8,615,41,-44,915
+300,16,8,615,41,-44,917
+300,16,8,615,41,-45,933
+300,16,8,615,41,-44,1423
+300,16,8,630,42,-44,925
+300,16,8,630,42,-44,944
+300,16,8,630,42,-45,896
+300,16,8,630,42,-44,926
+300,16,8,615,41,-44,916
+300,16,8,615,41,-44,933
+300,16,8,630,42,-44,1422
+300,16,8,630,42,-44,924
+300,16,8,630,42,-44,920
+300,16,8,615,41,-44,926
+300,16,8,720,48,-44,929
+300,16,8,615,41,-44,915
+300,16,8,615,41,-44,921
+300,16,8,630,42,-44,919
+300,16,8,615,41,-45,919
+300,16,8,615,41,-45,934
+300,16,8,615,41,-44,912
+300,16,8,630,42,-44,920
+300,16,8,630,42,-44,925
+300,16,8,615,41,-44,932
+300,16,8,615,41,-44,929
+300,16,8,615,41,-44,1423
+300,16,8,615,41,-44,938
+300,16,8,630,42,-44,919
+300,16,8,615,41,-44,1013
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-44,918
+300,16,8,615,41,-45,962
+300,16,8,630,42,-44,1399
+300,16,8,630,42,-44,1434
+300,16,8,615,41,-44,1427
+300,16,8,615,41,-44,941
+300,16,8,615,41,-44,1421
+300,16,8,615,41,-44,1458
+300,16,8,615,41,-44,1406
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,1435
+300,16,8,570,38,-44,1438
+300,16,8,615,41,-44,1446
+300,16,8,615,41,-45,1422
+300,16,8,615,41,-44,1441
+300,16,8,615,41,-44,1517
+300,16,8,615,41,-44,916
+300,16,8,615,41,-44,932
+300,16,8,615,41,-44,1471
+300,16,8,615,41,-44,1396
+300,16,8,615,41,-44,1615
+300,16,8,615,41,-44,1357
+300,16,8,600,40,-44,1435
+300,16,8,630,42,-44,1471
+300,16,8,615,41,-44,1397
+300,16,8,615,41,-44,1540
+300,16,8,615,41,-44,1956
+300,16,8,600,40,-44,1426
+300,16,8,615,41,-44,1435
+300,16,8,615,41,-44,1427
+300,16,8,615,41,-45,1427
+E (3800369) wifi:No FTM Measurements received from responder!
+W (3800369) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5005 ms, retrying...
+300,16,8,615,41,-44,1047
+W (3806383) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,1056
+300,16,8,615,41,-44,1934
+E (3814424) wifi:No FTM Measurements received from responder!
+W (3814425) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,932
+300,16,8,615,41,-44,2101
+300,16,8,615,41,-44,1885
+W (3824293) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (3828732) wifi:No FTM Measurements received from responder!
+W (3828733) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (3833968) wifi:No FTM Measurements received from responder!
+W (3833968) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,630,42,-45,954
+300,16,8,615,41,-44,1372
+300,16,8,615,41,-44,1515
+300,16,8,630,42,-44,1431
+E (3844959) wifi:No FTM Measurements received from responder!
+W (3844959) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (3849127) wifi:No FTM Measurements received from responder!
+W (3849127) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (3854127) wifi:No FTM Measurements received from responder!
+W (3854127) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,1281
+300,16,8,615,41,-44,1559
+W (3862411) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (3867008) wifi:No FTM Measurements received from responder!
+W (3867008) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,932
+W (3873345) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,8,630,42,-44,1775
+300,16,8,615,41,-44,2103
+300,16,8,615,41,-44,2015
+300,16,8,615,41,-44,1408
+300,16,8,705,47,-44,1625
+300,16,8,615,41,-44,1554
+300,16,8,615,41,-44,1571
+300,16,8,630,42,-44,1565
+E (3892588) wifi:No FTM Measurements received from responder!
+W (3892588) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,974
+300,16,8,615,41,-44,1522
+300,16,8,630,42,-44,1532
+300,16,8,615,41,-44,1610
+300,16,8,615,41,-44,954
+300,16,8,615,41,-44,1578
+300,16,8,630,42,-44,1607
+300,16,8,615,41,-44,2158
+300,16,8,615,41,-44,1601
+300,16,8,630,42,-44,1747
+300,16,8,525,35,-44,1715
+300,16,8,615,41,-44,1682
+E (3915778) wifi:No FTM Measurements received from responder!
+W (3915779) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,600,40,-44,1052
+300,16,8,630,42,-44,903
+E (3922684) wifi:No FTM Measurements received from responder!
+W (3922684) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (3927421) wifi:No FTM Measurements received from responder!
+W (3927421) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,630,42,-44,915
+300,16,8,630,42,-44,1504
+300,16,8,615,41,-44,1404
+W (3936424) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,1139
+300,16,8,630,42,-44,1950
+E (3944924) wifi:No FTM Measurements received from responder!
+W (3944924) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,1015
+E (3950584) wifi:No FTM Measurements received from responder!
+W (3950584) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,896
+300,16,8,630,42,-44,1696
+300,16,8,615,41,-44,932
+300,16,8,675,45,-44,1442
+300,16,8,615,41,-44,1427
+300,16,8,615,41,-44,1422
+300,16,8,630,42,-44,941
+E (3964443) wifi:No FTM Measurements received from responder!
+W (3964443) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,1269
+300,16,8,615,41,-44,1399
+W (3971957) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (3977882) wifi:No FTM Measurements received from responder!
+W (3977882) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,630,42,-44,955
+300,16,8,630,42,-44,1960
+300,16,8,615,41,-45,1639
+300,16,8,525,35,-44,2215
+W (3988727) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,8,600,40,-45,991
+300,16,8,615,41,-44,1514
+E (3996916) wifi:No FTM Measurements received from responder!
+W (3996917) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,931
+300,16,8,615,41,-45,1470
+300,16,8,615,41,-44,1693
+300,16,8,630,42,-44,1504
+300,16,8,615,41,-44,1495
+300,16,8,615,41,-44,1414
+300,16,8,600,40,-44,1567
+300,16,8,615,41,-44,1519
+300,16,8,615,41,-44,1035
+300,16,8,615,41,-44,1410
+300,16,8,630,42,-44,1434
+300,16,8,615,41,-44,1498
+300,16,8,630,42,-44,1474
+300,16,8,630,42,-44,1468
+W (4021146) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,8,600,40,-44,908
+300,16,8,615,41,-44,1473
+300,16,8,600,40,-44,1533
+300,16,8,615,41,-44,1419
+300,16,8,630,42,-44,1509
+300,16,8,615,41,-44,1460
+300,16,8,630,42,-44,1413
+E (4036396) wifi:No FTM Measurements received from responder!
+W (4036396) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,8,615,41,-44,1142
+300,16,8,1125,75,-41,1456
+300,16,8,615,41,-44,1396
+300,16,8,615,41,-44,929
+300,16,8,615,41,-44,1454
+300,16,8,630,42,-44,1438
+300,16,8,630,42,-44,1560
+300,16,8,615,41,-44,1453
+300,16,8,630,42,-44,1455
+300,16,8,615,41,-44,1343
+300,16,8,615,41,-44,1224
+300,16,8,615,41,-44,935
+300,16,8,615,41,-44,1532
+300,16,8,615,41,-44,1612
+300,16,8,615,41,-45,1464
+300,16,8,615,41,-44,1437
+300,16,8,615,41,-44,1551
+300,16,8,600,40,-44,1451
+300,16,8,615,41,-44,1392
+300,16,8,630,42,-44,1560
+300,16,8,615,41,-44,1411
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-44,1966
+300,16,8,615,41,-44,1413
+300,16,8,615,41,-44,1950
+300,16,8,630,42,-44,1437
+300,16,8,615,41,-44,910
+300,16,8,615,41,-44,1847
+300,16,8,615,41,-44,1733
+300,16,8,615,41,-44,1962
+300,16,8,600,40,-44,1445
+300,16,8,615,41,-44,1421
+300,16,8,615,41,-44,1523
+300,16,8,615,41,-44,1449
+300,16,8,615,41,-44,1444
+300,16,8,615,41,-44,886
+300,16,8,615,41,-44,931
+300,16,8,630,42,-44,940
+300,16,8,615,41,-44,912
+300,16,8,615,41,-44,907
+300,16,8,615,41,-44,930
+300,16,8,615,41,-44,1421
+300,16,8,615,41,-44,928
+300,16,8,600,40,-44,928
+300,16,8,615,41,-44,1422
+300,16,8,615,41,-44,933
+300,16,8,570,38,-44,1422
+300,16,8,630,42,-44,920
+300,16,8,630,42,-44,928
+300,16,8,630,42,-44,929
+300,16,8,630,42,-44,933
+300,16,8,615,41,-44,1001
+300,16,8,630,42,-44,933
+300,16,8,615,41,-44,915
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,1436
+300,16,8,615,41,-44,1421
+300,16,8,615,41,-44,931
+300,16,8,615,41,-44,914
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,930
+300,16,8,615,41,-44,1421
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,931
+300,16,8,630,42,-44,913
+300,16,8,615,41,-44,929
+300,16,8,630,42,-44,927
+300,16,8,615,41,-44,1426
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,930
+300,16,8,615,41,-44,1424
+300,16,8,600,40,-44,922
+300,16,8,615,41,-44,931
+300,16,8,630,42,-44,1446
+300,16,8,630,42,-44,1426
+300,16,8,615,41,-44,1442
+300,16,8,615,41,-44,897
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,931
+300,16,8,615,41,-44,1427
+300,16,8,630,42,-44,928
+300,16,8,630,42,-44,1434
+300,16,8,615,41,-44,918
+300,16,8,615,41,-44,913
+300,16,8,615,41,-44,944
+300,16,8,615,41,-44,899
+300,16,8,615,41,-44,921
+300,16,8,600,40,-44,923
+300,16,8,615,41,-44,933
+300,16,8,630,42,-44,940
+300,16,8,615,41,-44,905
+300,16,8,615,41,-44,914
+300,16,8,630,42,-44,927
+300,16,8,630,42,-44,920
+300,16,8,615,41,-44,950
+300,16,8,615,41,-44,890
+300,16,8,615,41,-44,923
+300,16,8,630,42,-44,930
+300,16,8,615,41,-44,1437
+300,16,8,615,41,-44,903
+300,16,8,615,41,-44,934
+300,16,8,615,41,-44,912
+300,16,8,630,42,-44,919
+300,16,8,615,41,-44,926
+300,16,8,630,42,-44,919
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,936
+300,16,8,615,41,-44,1423
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,929
+300,16,8,600,40,-44,923
+300,16,8,615,41,-44,1473
+300,16,8,615,41,-44,882
+300,16,8,630,42,-44,1422
+300,16,8,630,42,-44,921
+300,16,8,615,41,-44,934
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,944
+300,16,8,615,41,-44,892
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,926
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,939
+300,16,8,615,41,-44,1417
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,932
+300,16,8,630,42,-44,1432
+300,16,8,615,41,-44,1427
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,933
+300,16,8,600,40,-44,1419
+300,16,8,615,41,-44,934
+300,16,8,615,41,-44,916
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,911
+300,16,8,600,40,-44,920
+300,16,8,630,42,-45,929
+300,16,8,615,41,-44,914
+300,16,8,630,42,-44,934
+300,16,8,615,41,-44,932
+300,16,8,600,40,-44,1442
+300,16,8,615,41,-44,898
+300,16,8,600,40,-44,941
+300,16,8,615,41,-44,909
+300,16,8,615,41,-44,1422
+300,16,8,615,41,-44,920
+300,16,8,615,41,-44,923
+300,16,8,630,42,-44,924
+300,16,8,615,41,-44,936
+300,16,8,615,41,-44,1428
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,917
+300,16,8,630,42,-44,911
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,937
+300,16,8,615,41,-44,1418
+300,16,8,615,41,-44,948
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,899
+300,16,8,615,41,-44,920
+300,16,8,615,41,-44,932
+300,16,8,615,41,-44,1024
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,906
+300,16,8,615,41,-44,922
+300,16,8,855,57,-44,931
+300,16,8,630,42,-44,1434
+300,16,8,615,41,-44,1434
+300,16,8,615,41,-44,930
+300,16,8,615,41,-44,1438
+300,16,8,630,42,-44,903
+300,16,8,600,40,-44,927
+300,16,8,615,41,-44,1433
+300,16,8,615,41,-44,938
+300,16,8,615,41,-44,1440
+300,16,8,615,41,-44,890
+300,16,8,615,41,-44,928
+300,16,8,630,42,-44,941
+300,16,8,615,41,-44,1413
+300,16,8,630,42,-45,925
+300,16,8,615,41,-44,925
+300,16,8,615,41,-44,913
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,931
+300,16,8,615,41,-44,901
+300,16,8,615,41,-44,921
+300,16,8,600,40,-44,919
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,917
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,920
+300,16,8,615,41,-44,930
+300,16,8,615,41,-44,911
+300,16,8,615,41,-44,931
+300,16,8,600,40,-44,916
+300,16,8,615,41,-44,943
+300,16,8,690,46,-44,898
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,919
+300,16,8,630,42,-44,933
+300,16,8,630,42,-44,1007
+300,16,8,615,41,-44,932
+300,16,8,630,42,-44,917
+300,16,8,615,41,-44,936
+300,16,8,630,42,-44,1450
+300,16,8,615,41,-44,1414
+300,16,8,630,42,-44,914
+300,16,8,615,41,-44,928
+300,16,8,630,42,-44,923
+300,16,8,615,41,-44,927
+300,16,8,615,41,-44,1426
+300,16,8,615,41,-44,921
+300,16,8,600,40,-45,911
+300,16,8,615,41,-44,922
+300,16,8,630,42,-44,922
+300,16,8,615,41,-44,922
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,929
+300,16,8,615,41,-44,1425
+300,16,8,615,41,-44,921
+300,16,8,615,41,-44,922
+300,16,8,600,40,-44,922
+300,16,8,600,40,-44,929
+300,16,8,600,40,-44,1429
+300,16,8,615,41,-44,923
+300,16,8,615,41,-44,938
+300,16,8,630,42,-44,1425
+300,16,8,600,40,-44,1429
+300,16,8,615,41,-44,926
+300,16,8,630,42,-44,913
+300,16,8,615,41,-44,916
+300,16,8,615,41,-44,919
+300,16,8,615,41,-44,934
+300,16,8,615,41,-44,1422
+300,16,8,600,40,-44,933
+300,16,8,615,41,-44,1432
+300,16,8,630,42,-44,929
+300,16,8,630,42,-44,1423
+300,16,8,615,41,-44,934
+300,16,8,615,41,-44,1421
+300,16,8,615,41,-44,959
+300,16,8,615,41,-44,893
+300,16,8,615,41,-44,915
+300,16,8,630,42,-44,925
+300,16,8,630,42,-44,1425
+300,16,8,630,42,-44,930
+300,16,8,615,41,-44,1426
+300,16,8,615,41,-44,918
+300,16,8,615,41,-44,928
+300,16,8,615,41,-44,914
+300,16,8,615,41,-44,934
+300,16,8,600,40,-44,927
+300,16,8,615,41,-44,1415
+300,16,8,630,42,-44,935
+300,16,8,615,41,-44,910
+# Config 5/5: frame_count=24, burst_period=2
+300,24,2,615,41,-44,754
+300,24,2,600,40,-44,701
+300,24,2,615,41,-44,1226
+300,24,2,615,41,-44,722
+300,24,2,615,41,-44,717
+300,24,2,615,41,-44,1229
+300,24,2,615,41,-44,717
+300,24,2,615,41,-44,717
+300,24,2,615,41,-44,1214
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,733
+300,24,2,615,41,-44,700
+300,24,2,615,41,-44,735
+300,24,2,615,41,-44,713
+300,24,2,615,41,-44,701
+300,24,2,705,47,-44,730
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,704
+300,24,2,615,41,-44,735
+300,24,2,615,41,-44,699
+300,24,2,615,41,-44,717
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,718
+300,24,2,630,42,-44,715
+300,24,2,615,41,-44,720
+300,24,2,630,42,-44,741
+300,24,2,615,41,-44,1202
+300,24,2,630,42,-44,719
+300,24,2,615,41,-44,729
+300,24,2,615,41,-44,723
+300,24,2,615,41,-44,1231
+300,24,2,615,41,-44,1248
+300,24,2,630,42,-44,1201
+300,24,2,615,41,-44,1224
+300,24,2,615,41,-45,750
+300,24,2,615,41,-44,691
+300,24,2,615,41,-44,709
+300,24,2,615,41,-44,710
+300,24,2,630,42,-44,715
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,717
+300,24,2,615,41,-44,721
+300,24,2,615,41,-44,713
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,716
+300,24,2,630,42,-44,732
+300,24,2,615,41,-44,704
+300,24,2,615,41,-44,729
+300,24,2,615,41,-44,720
+300,24,2,630,42,-44,720
+300,24,2,630,42,-44,699
+300,24,2,630,42,-44,716
+300,24,2,615,41,-44,729
+300,24,2,615,41,-44,1215
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,717
+300,24,2,615,41,-44,733
+300,24,2,615,41,-44,1222
+300,24,2,630,42,-44,717
+300,24,2,615,41,-44,707
+300,24,2,615,41,-44,717
+300,24,2,630,42,-44,731
+300,24,2,630,42,-44,1218
+300,24,2,630,42,-44,716
+300,24,2,630,42,-44,716
+300,24,2,615,41,-44,714
+300,24,2,615,41,-44,724
+300,24,2,615,41,-44,724
+300,24,2,615,41,-44,1216
+300,24,2,615,41,-44,735
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,718
+300,24,2,630,42,-44,848
+300,24,2,615,41,-44,1180
+300,24,2,630,42,-44,717
+300,24,2,615,41,-44,721
+300,24,2,615,41,-44,732
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,1212
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,731
+300,24,2,615,41,-44,1215
+300,24,2,615,41,-44,731
+300,24,2,615,41,-44,1217
+300,24,2,615,41,-44,729
+300,24,2,615,41,-44,1217
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,723
+300,24,2,630,42,-45,724
+300,24,2,615,41,-44,705
+300,24,2,615,41,-44,720
+300,24,2,615,41,-44,725
+300,24,2,615,41,-44,1220
+300,24,2,630,42,-44,714
+300,24,2,615,41,-44,728
+300,24,2,615,41,-44,712
+300,24,2,615,41,-44,718
+300,24,2,630,42,-44,710
+300,24,2,615,41,-44,725
+300,24,2,615,41,-44,725
+300,24,2,615,41,-44,699
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,717
+300,24,2,615,41,-44,731
+300,24,2,615,41,-44,705
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,716
+300,24,2,630,42,-44,715
+300,24,2,615,41,-44,740
+300,24,2,615,41,-44,694
+300,24,2,615,41,-44,723
+300,24,2,615,41,-44,723
+300,24,2,615,41,-44,1247
+300,24,2,615,41,-44,699
+300,24,2,615,41,-45,717
+300,24,2,630,42,-44,1228
+300,24,2,630,42,-44,715
+300,24,2,630,42,-44,707
+300,24,2,630,42,-44,714
+300,24,2,630,42,-44,718
+300,24,2,630,42,-44,716
+300,24,2,630,42,-44,718
+300,24,2,630,42,-44,730
+300,24,2,615,41,-44,1230
+300,24,2,615,41,-44,705
+300,24,2,630,42,-44,727
+300,24,2,615,41,-44,714
+300,24,2,615,41,-44,725
+300,24,2,615,41,-44,713
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,721
+300,24,2,615,41,-44,714
+300,24,2,615,41,-44,718
+300,24,2,630,42,-44,714
+300,24,2,630,42,-44,1216
+300,24,2,630,42,-44,723
+300,24,2,615,41,-44,719
+300,24,2,630,42,-44,717
+300,24,2,615,41,-44,717
+300,24,2,630,42,-44,713
+300,24,2,630,42,-44,726
+300,24,2,615,41,-44,723
+300,24,2,615,41,-44,704
+300,24,2,630,42,-44,716
+300,24,2,615,41,-44,719
+300,24,2,615,41,-44,710
+300,24,2,615,41,-44,720
+300,24,2,615,41,-44,729
+300,24,2,615,41,-43,706
+300,24,2,615,41,-44,715
+300,24,2,615,41,-45,725
+300,24,2,615,41,-44,1332
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,1229
+300,24,2,615,41,-44,1231
+300,24,2,615,41,-44,1215
+300,24,2,615,41,-44,730
+300,24,2,615,41,-44,747
+300,24,2,615,41,-44,1198
+300,24,2,615,41,-44,1254
+300,24,2,615,41,-44,687
+300,24,2,615,41,-44,737
+300,24,2,615,41,-44,715
+300,24,2,630,42,-44,821
+300,24,2,615,41,-44,804
+300,24,2,615,41,-44,1218
+300,24,2,615,41,-44,744
+300,24,2,630,42,-44,1230
+300,24,2,630,42,-44,702
+300,24,2,615,41,-44,1228
+300,24,2,615,41,-44,1220
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,728
+300,24,2,615,41,-44,699
+300,24,2,660,44,-43,723
+300,24,2,615,41,-44,710
+300,24,2,615,41,-44,727
+300,24,2,615,41,-44,724
+300,24,2,615,41,-44,1214
+300,24,2,615,41,-44,715
+300,24,2,630,42,-44,730
+300,24,2,615,41,-44,701
+300,24,2,615,41,-44,725
+300,24,2,630,42,-44,709
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,730
+300,24,2,615,41,-44,709
+300,24,2,615,41,-44,713
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,715
+300,24,2,600,40,-44,717
+300,24,2,600,40,-44,718
+300,24,2,600,40,-44,718
+300,24,2,615,41,-44,726
+300,24,2,615,41,-44,1229
+300,24,2,615,41,-44,1229
+300,24,2,615,41,-44,1217
+300,24,2,615,41,-44,730
+300,24,2,615,41,-44,1221
+300,24,2,615,41,-44,713
+300,24,2,615,41,-44,728
+300,24,2,600,40,-44,702
+300,24,2,615,41,-44,725
+300,24,2,615,41,-44,711
+300,24,2,615,41,-44,728
+300,24,2,615,41,-44,707
+300,24,2,615,41,-44,721
+300,24,2,615,41,-44,712
+300,24,2,630,42,-44,728
+300,24,2,615,41,-44,1228
+300,24,2,615,41,-44,706
+300,24,2,615,41,-44,728
+300,24,2,615,41,-44,704
+300,24,2,615,41,-44,718
+300,24,2,750,50,-44,714
+300,24,2,615,41,-44,722
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,716
+300,24,2,630,42,-44,719
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,715
+300,24,2,630,42,-44,718
+300,24,2,615,41,-44,728
+300,24,2,615,41,-44,1224
+300,24,2,615,41,-44,717
+300,24,2,615,41,-44,711
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,729
+300,24,2,615,41,-44,710
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,725
+300,24,2,630,42,-44,711
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,734
+300,24,2,615,41,-44,1208
+300,24,2,615,41,-44,712
+300,24,2,615,41,-44,719
+300,24,2,615,41,-44,724
+300,24,2,630,42,-44,710
+300,24,2,615,41,-44,739
+300,24,2,615,41,-44,1220
+300,24,2,615,41,-44,1233
+300,24,2,600,40,-44,699
+300,24,2,615,41,-44,733
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,1218
+300,24,2,615,41,-44,711
+300,24,2,615,41,-44,731
+300,24,2,615,41,-44,703
+300,24,2,615,41,-44,729
+300,24,2,615,41,-44,720
+300,24,2,630,42,-44,1228
+300,24,2,615,41,-44,1226
+300,24,2,615,41,-44,727
+300,24,2,615,41,-44,696
+300,24,2,630,42,-44,728
+300,24,2,615,41,-44,705
+300,24,2,630,42,-44,724
+300,24,2,615,41,-44,716
+300,24,2,630,42,-44,715
+300,24,2,615,41,-44,711
+300,24,2,615,41,-44,729
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,713
+300,24,2,615,41,-44,709
+300,24,2,630,42,-44,732
+300,24,2,615,41,-44,1224
+300,24,2,615,41,-44,711
+300,24,2,615,41,-45,711
+300,24,2,630,42,-44,728
+300,24,2,645,43,-44,705
+300,24,2,630,42,-44,729
+300,24,2,630,42,-44,725
+300,24,2,600,40,-44,709
+300,24,2,615,41,-44,721
+300,24,2,615,41,-44,709
+300,24,2,615,41,-44,724
+300,24,2,615,41,-44,706
+300,24,2,630,42,-44,718
+300,24,2,615,41,-44,716
+300,24,2,615,41,-44,723
+300,24,2,630,42,-44,709
+300,24,2,615,41,-44,752
+300,24,2,615,41,-44,690
+300,24,2,615,41,-44,1229
+300,24,2,615,41,-44,703
+300,24,2,600,40,-44,731
+300,24,2,615,41,-44,707
+300,24,2,630,42,-44,711
+300,24,2,615,41,-44,731
+300,24,2,600,40,-44,732
+300,24,2,615,41,-44,689
+300,24,2,615,41,-44,718
+300,24,2,630,42,-44,719
+300,24,2,630,42,-44,715
+300,24,2,615,41,-45,715
+300,24,2,630,42,-45,718
+300,24,2,630,42,-44,723
+300,24,2,615,41,-44,732
+300,24,2,600,40,-44,711
+300,24,2,630,42,-44,714
+300,24,2,630,42,-44,710
+300,24,2,630,42,-44,708
+300,24,2,630,42,-44,728
+300,24,2,615,41,-44,713
+300,24,2,630,42,-44,721
+300,24,2,630,42,-44,709
+300,24,2,630,42,-45,728
+300,24,2,630,42,-44,719
+300,24,2,615,41,-44,708
+300,24,2,615,41,-44,732
+300,24,2,600,40,-44,701
+300,24,2,615,41,-44,715
+300,24,2,600,40,-44,726
+300,24,2,615,41,-44,725
+300,24,2,615,41,-44,719
+300,24,2,615,41,-44,1213
+300,24,2,630,42,-44,711
+300,24,2,615,41,-44,716
+300,24,2,630,42,-44,716
+300,24,2,630,42,-44,723
+300,24,2,615,41,-44,726
+300,24,2,585,39,-44,707
+300,24,2,645,43,-44,717
+300,24,2,540,36,-44,728
+300,24,2,630,42,-45,717
+300,24,2,630,42,-44,715
+300,24,2,645,43,-44,1221
+300,24,2,630,42,-44,722
+300,24,2,630,42,-42,711
+300,24,2,630,42,-44,733
+300,24,2,615,41,-44,1215
+300,24,2,630,42,-44,721
+300,24,2,630,42,-44,711
+300,24,2,615,41,-44,724
+300,24,2,630,42,-44,709
+300,24,2,630,42,-44,719
+300,24,2,615,41,-44,716
+300,24,2,630,42,-44,715
+300,24,2,630,42,-44,727
+300,24,2,630,42,-44,706
+300,24,2,630,42,-44,717
+300,24,2,615,41,-44,723
+300,24,2,630,42,-45,714
+300,24,2,630,42,-44,723
+300,24,2,630,42,-44,1226
+300,24,2,630,42,-44,725
+300,24,2,630,42,-44,699
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,724
+300,24,2,630,42,-45,736
+300,24,2,600,40,-44,689
+300,24,2,630,42,-44,714
+300,24,2,615,41,-44,733
+300,24,2,630,42,-44,703
+300,24,2,615,41,-45,730
+300,24,2,615,41,-44,719
+300,24,2,615,41,-44,1214
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,730
+300,24,2,615,41,-44,725
+300,24,2,615,41,-44,693
+300,24,2,630,42,-44,720
+300,24,2,630,42,-44,715
+300,24,2,630,42,-44,724
+300,24,2,615,41,-44,737
+300,24,2,615,41,-44,1209
+300,24,2,630,42,-44,715
+300,24,2,615,41,-44,723
+300,24,2,630,42,-44,1224
+300,24,2,615,41,-44,715
+300,24,2,630,42,-44,713
+300,24,2,630,42,-44,717
+300,24,2,630,42,-44,724
+300,24,2,630,42,-44,715
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,710
+300,24,2,630,42,-44,717
+300,24,2,615,41,-44,730
+300,24,2,615,41,-44,1222
+300,24,2,630,42,-44,728
+300,24,2,615,41,-44,702
+300,24,2,630,42,-44,713
+300,24,2,615,41,-44,722
+300,24,2,615,41,-44,726
+300,24,2,630,42,-44,1217
+300,24,2,615,41,-44,714
+300,24,2,615,41,-44,736
+300,24,2,615,41,-44,705
+300,24,2,615,41,-44,713
+300,24,2,615,41,-44,716
+300,24,2,615,41,-45,718
+300,24,2,615,41,-44,722
+300,24,2,630,42,-44,750
+300,24,2,615,41,-44,689
+300,24,2,615,41,-44,1217
+300,24,2,630,42,-44,734
+300,24,2,615,41,-44,1216
+300,24,2,630,42,-44,711
+300,24,2,615,41,-44,730
+300,24,2,615,41,-44,1229
+300,24,2,615,41,-44,732
+300,24,2,615,41,-44,701
+300,24,2,615,41,-44,1216
+300,24,2,615,41,-44,721
+300,24,2,615,41,-44,729
+300,24,2,630,42,-44,717
+300,24,2,615,41,-44,700
+300,24,2,630,42,-44,716
+300,24,2,630,42,-44,732
+300,24,2,615,41,-44,702
+300,24,2,615,41,-44,721
+300,24,2,630,42,-44,727
+300,24,2,615,41,-44,710
+300,24,2,615,41,-44,756
+300,24,2,615,41,-44,678
+300,24,2,615,41,-44,761
+300,24,2,630,42,-44,668
+300,24,2,615,41,-44,713
+300,24,2,615,41,-44,725
+300,24,2,615,41,-44,724
+300,24,2,615,41,-44,721
+300,24,2,615,41,-44,701
+300,24,2,615,41,-44,727
+300,24,2,630,42,-44,717
+300,24,2,615,41,-44,732
+300,24,2,615,41,-44,701
+300,24,2,615,41,-44,1231
+300,24,2,630,42,-44,1227
+300,24,2,615,41,-44,1215
+300,24,2,615,41,-44,731
+300,24,2,615,41,-44,703
+300,24,2,735,49,-44,718
+300,24,2,600,40,-44,724
+300,24,2,615,41,-44,730
+300,24,2,615,41,-44,700
+300,24,2,615,41,-44,721
+300,24,2,615,41,-44,709
+300,24,2,615,41,-44,730
+300,24,2,615,41,-44,720
+300,24,2,615,41,-44,715
+300,24,2,615,41,-44,718
+300,24,2,615,41,-44,1215
+300,24,2,615,41,-44,736
+300,24,2,630,42,-44,1213
+300,24,2,630,42,-44,720
+300,24,2,630,42,-44,722
+300,24,2,630,42,-44,720
+300,24,2,630,42,-44,707
+300,24,2,630,42,-44,723
+300,24,2,630,42,-44,731
+300,24,2,630,42,-44,693
+300,24,2,615,41,-44,711
+300,24,2,615,41,-44,730
+300,24,2,630,42,-44,726
+300,24,2,615,41,-44,699
+300,24,2,615,41,-44,728
+300,24,2,630,42,-44,701
+300,24,2,630,42,-44,718
+300,24,2,630,42,-44,731
+300,24,2,630,42,-44,701
+300,24,2,630,42,-44,724
+300,24,2,615,41,-44,712
+300,24,2,630,42,-44,719
+300,24,2,630,42,-44,714
+300,24,2,615,41,-44,731
+300,24,2,630,42,-44,705
+300,24,2,615,41,-44,728
+300,24,2,615,41,-44,1219
+300,24,2,615,41,-44,714
+300,24,2,630,42,-44,715
+300,24,2,825,55,-45,719
+300,24,2,630,42,-44,729
+300,24,2,615,41,-44,705
+300,24,2,615,41,-44,729
+300,24,2,630,42,-44,704
+300,24,2,630,42,-44,716
+300,24,2,630,42,-44,730
+300,24,2,615,41,-44,1215
+300,24,2,615,41,-44,730
+300,24,2,645,43,-44,704
+300,24,2,630,42,-44,718
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,723
+300,24,2,645,43,-44,1216
+300,24,2,645,43,-44,709
+300,24,2,660,44,-44,716
+300,24,2,645,43,-44,725
+300,24,2,645,43,-44,719
+300,24,2,645,43,-44,708
+300,24,2,645,43,-44,730
+300,24,2,660,44,-44,718
+300,24,2,645,43,-44,1235
+300,24,2,645,43,-44,696
+300,24,2,645,43,-45,730
+300,24,2,645,43,-44,711
+300,24,2,645,43,-44,722
+300,24,2,645,43,-44,720
+300,24,2,630,42,-44,1227
+300,24,2,645,43,-44,711
+300,24,2,645,43,-44,744
+300,24,2,630,42,-44,1194
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,706
+300,24,2,660,44,-44,714
+300,24,2,645,43,-44,723
+300,24,2,645,43,-44,739
+300,24,2,645,43,-44,1209
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,724
+300,24,2,780,52,-44,1243
+300,24,2,660,44,-44,703
+300,24,2,645,43,-44,1215
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,725
+300,24,2,645,43,-44,706
+300,24,2,645,43,-44,714
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,731
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,1215
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,736
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,714
+300,24,2,645,43,-44,702
+300,24,2,645,43,-44,719
+300,24,2,660,44,-44,717
+300,24,2,645,43,-44,719
+300,24,2,645,43,-44,727
+300,24,2,645,43,-44,1229
+300,24,2,645,43,-44,1229
+300,24,2,645,43,-44,1228
+300,24,2,660,44,-44,711
+300,24,2,645,43,-44,725
+300,24,2,645,43,-44,706
+300,24,2,645,43,-44,713
+300,24,2,645,43,-44,733
+300,24,2,645,43,-44,718
+300,24,2,660,44,-44,1224
+300,24,2,660,44,-44,717
+300,24,2,630,42,-44,718
+300,24,2,645,43,-44,1221
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,728
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,704
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,732
+300,24,2,645,43,-44,1228
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,730
+300,24,2,660,44,-44,1225
+300,24,2,645,43,-44,719
+300,24,2,645,43,-45,1215
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,735
+300,24,2,645,43,-44,706
+300,24,2,660,44,-44,714
+300,24,2,645,43,-44,710
+300,24,2,660,44,-44,723
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,714
+300,24,2,660,44,-44,710
+300,24,2,645,43,-44,732
+300,24,2,645,43,-44,1216
+300,24,2,645,43,-44,722
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,705
+300,24,2,645,43,-44,1229
+300,24,2,645,43,-44,812
+300,24,2,630,42,-44,717
+300,24,2,630,42,-44,710
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,719
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,713
+300,24,2,645,43,-44,1216
+300,24,2,630,42,-44,719
+300,24,2,630,42,-44,716
+300,24,2,645,43,-44,728
+300,24,2,645,43,-44,1217
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,714
+300,24,2,645,43,-44,731
+300,24,2,645,43,-44,1230
+300,24,2,645,43,-44,1227
+300,24,2,660,44,-44,720
+300,24,2,645,43,-44,1228
+300,24,2,645,43,-44,1227
+300,24,2,645,43,-44,708
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,1227
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,1198
+300,24,2,630,42,-44,732
+300,24,2,645,43,-44,703
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,731
+300,24,2,645,43,-44,1221
+300,24,2,645,43,-44,1230
+300,24,2,645,43,-44,1208
+300,24,2,645,43,-45,721
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,718
+300,24,2,675,45,-44,725
+300,24,2,660,44,-44,717
+300,24,2,645,43,-44,721
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,722
+300,24,2,645,43,-44,1214
+300,24,2,645,43,-44,728
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,711
+300,24,2,645,43,-44,1227
+300,24,2,645,43,-44,710
+300,24,2,645,43,-44,713
+300,24,2,660,44,-44,716
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,1228
+300,24,2,660,44,-44,1228
+300,24,2,645,43,-44,723
+300,24,2,660,44,-44,1227
+300,24,2,645,43,-44,1210
+300,24,2,660,44,-44,721
+300,24,2,645,43,-44,713
+300,24,2,645,43,-44,727
+300,24,2,660,44,-45,717
+300,24,2,645,43,-44,723
+300,24,2,645,43,-44,1214
+300,24,2,630,42,-44,734
+300,24,2,645,43,-44,1225
+300,24,2,645,43,-44,1230
+300,24,2,660,44,-44,702
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,707
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,718
+300,24,2,660,44,-44,719
+300,24,2,645,43,-44,744
+300,24,2,645,43,-44,1206
+300,24,2,645,43,-44,703
+300,24,2,645,43,-44,731
+300,24,2,645,43,-44,1229
+300,24,2,645,43,-44,1229
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,1218
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,732
+300,24,2,645,43,-44,719
+300,24,2,660,44,-44,703
+300,24,2,645,43,-44,725
+300,24,2,645,43,-44,1222
+300,24,2,645,43,-44,723
+300,24,2,645,43,-44,703
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,1214
+300,24,2,660,44,-44,732
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,702
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,722
+300,24,2,645,43,-44,1230
+300,24,2,645,43,-44,735
+300,24,2,660,44,-44,686
+300,24,2,660,44,-44,715
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,1222
+300,24,2,645,43,-44,731
+300,24,2,645,43,-44,1209
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,721
+300,24,2,645,43,-44,713
+300,24,2,645,43,-44,729
+300,24,2,765,51,-44,1223
+300,24,2,645,43,-44,724
+300,24,2,660,44,-44,1216
+300,24,2,645,43,-44,739
+300,24,2,645,43,-44,1210
+300,24,2,645,43,-44,711
+300,24,2,645,43,-44,731
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,722
+300,24,2,645,43,-44,713
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,705
+300,24,2,645,43,-44,727
+300,24,2,645,43,-44,1231
+300,24,2,660,44,-44,1216
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,719
+300,24,2,645,43,-44,727
+300,24,2,645,43,-44,1213
+300,24,2,645,43,-44,710
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,725
+300,24,2,645,43,-44,705
+300,24,2,660,44,-44,725
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,703
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,1215
+300,24,2,630,42,-44,722
+300,24,2,630,42,-44,722
+300,24,2,735,49,-44,701
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,727
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,1229
+300,24,2,645,43,-44,1215
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,1232
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,725
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,722
+300,24,2,645,43,-44,700
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,721
+300,24,2,630,42,-44,718
+300,24,2,645,43,-44,711
+300,24,2,645,43,-44,708
+300,24,2,645,43,-44,719
+300,24,2,660,44,-44,719
+300,24,2,675,45,-44,719
+300,24,2,630,42,-44,724
+300,24,2,645,43,-44,1230
+300,24,2,645,43,-44,1228
+300,24,2,645,43,-44,711
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,1223
+300,24,2,645,43,-44,727
+300,24,2,645,43,-44,1214
+300,24,2,645,43,-45,714
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,719
+300,24,2,645,43,-44,728
+300,24,2,645,43,-44,711
+300,24,2,645,43,-44,711
+300,24,2,660,44,-44,708
+300,24,2,660,44,-44,712
+300,24,2,660,44,-44,716
+300,24,2,645,43,-44,731
+300,24,2,645,43,-44,1216
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,727
+300,24,2,645,43,-44,706
+300,24,2,645,43,-44,716
+300,24,2,660,44,-44,727
+300,24,2,645,43,-44,1222
+300,24,2,660,44,-44,713
+300,24,2,645,43,-44,728
+300,24,2,645,43,-44,703
+300,24,2,645,43,-44,716
+300,24,2,660,44,-44,731
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,703
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,732
+300,24,2,645,43,-44,706
+300,24,2,645,43,-44,725
+300,24,2,645,43,-44,711
+300,24,2,645,43,-44,725
+300,24,2,645,43,-44,719
+300,24,2,645,43,-44,714
+300,24,2,645,43,-44,727
+300,24,2,645,43,-44,1204
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,717
+300,24,2,660,44,-44,738
+300,24,2,645,43,-44,1205
+300,24,2,660,44,-44,732
+300,24,2,645,43,-44,1229
+300,24,2,645,43,-44,706
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,713
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,705
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,721
+300,24,2,660,44,-44,727
+300,24,2,645,43,-44,717
+300,24,2,675,45,-44,709
+300,24,2,645,43,-44,723
+300,24,2,645,43,-44,719
+300,24,2,645,43,-44,717
+300,24,2,660,44,-44,707
+300,24,2,645,43,-44,726
+300,24,2,660,44,-44,1229
+300,24,2,645,43,-44,1233
+300,24,2,645,43,-44,710
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,1216
+300,24,2,645,43,-44,732
+300,24,2,645,43,-44,705
+300,24,2,645,43,-44,727
+300,24,2,645,43,-44,719
+300,24,2,660,44,-44,715
+300,24,2,645,43,-44,704
+300,24,2,645,43,-44,728
+300,24,2,645,43,-44,1229
+300,24,2,660,44,-44,1230
+300,24,2,660,44,-44,719
+300,24,2,645,43,-44,1225
+300,24,2,645,43,-44,705
+300,24,2,645,43,-44,729
+300,24,2,660,44,-44,715
+300,24,2,645,43,-44,705
+300,24,2,645,43,-44,731
+300,24,2,660,44,-44,716
+300,24,2,645,43,-44,1217
+300,24,2,645,43,-44,721
+300,24,2,645,43,-44,725
+300,24,2,645,43,-44,703
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,1216
+300,24,2,660,44,-44,713
+300,24,2,645,43,-44,732
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,1227
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,694
+300,24,2,645,43,-44,716
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,724
+300,24,2,645,43,-44,696
+300,24,2,660,44,-44,719
+300,24,2,645,43,-44,714
+300,24,2,645,43,-44,732
+300,24,2,645,43,-44,1254
+300,24,2,660,44,-44,698
+300,24,2,660,44,-44,805
+300,24,2,660,44,-44,722
+300,24,2,645,43,-44,712
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,1323
+300,24,2,645,43,-44,720
+300,24,2,645,43,-44,724
+300,24,2,645,43,-44,1209
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,702
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,720
+300,24,2,660,44,-44,728
+300,24,2,645,43,-44,1229
+300,24,2,645,43,-44,721
+300,24,2,645,43,-44,809
+300,24,2,645,43,-45,723
+300,24,2,645,43,-44,1231
+300,24,2,645,43,-44,709
+300,24,2,645,43,-44,722
+300,24,2,660,44,-44,712
+300,24,2,645,43,-44,724
+300,24,2,645,43,-44,703
+300,24,2,645,43,-44,714
+300,24,2,645,43,-44,742
+300,24,2,645,43,-44,700
+300,24,2,645,43,-44,713
+300,24,2,645,43,-44,712
+300,24,2,660,44,-44,731
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,721
+300,24,2,645,43,-44,713
+300,24,2,645,43,-44,1228
+300,24,2,645,43,-44,1231
+300,24,2,645,43,-44,715
+300,24,2,660,44,-44,1221
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,702
+300,24,2,645,43,-44,732
+300,24,2,645,43,-44,706
+300,24,2,645,43,-44,727
+300,24,2,660,44,-44,700
+E (5056318) wifi:No FTM Measurements received from responder!
+W (5056318) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,24,2,645,43,-44,752
+300,24,2,645,43,-44,703
+300,24,2,645,43,-44,727
+300,24,2,645,43,-44,1218
+300,24,2,660,44,-44,728
+300,24,2,645,43,-44,722
+300,24,2,645,43,-44,697
+300,24,2,660,44,-44,740
+300,24,2,660,44,-44,1221
+300,24,2,645,43,-44,1217
+300,24,2,660,44,-44,731
+300,24,2,675,45,-44,715
+300,24,2,660,44,-44,718
+300,24,2,645,43,-44,818
+300,24,2,645,43,-44,717
+300,24,2,675,45,-44,717
+300,24,2,675,45,-44,715
+300,24,2,645,43,-44,710
+300,24,2,660,44,-44,725
+300,24,2,630,42,-45,715
+300,24,2,645,43,-44,1214
+300,24,2,645,43,-44,747
+300,24,2,630,42,-45,687
+300,24,2,630,42,-44,754
+300,24,2,645,43,-44,1197
+300,24,2,660,44,-44,724
+300,24,2,660,44,-44,719
+300,24,2,645,43,-44,1235
+300,24,2,645,43,-44,710
+300,24,2,660,44,-44,715
+300,24,2,660,44,-44,708
+300,24,2,645,43,-44,729
+300,24,2,630,42,-44,704
+300,24,2,645,43,-44,728
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,1218
+300,24,2,645,43,-44,713
+300,24,2,645,43,-44,719
+300,24,2,645,43,-44,715
+300,24,2,660,44,-44,731
+300,24,2,645,43,-44,1228
+300,24,2,645,43,-44,1216
+300,24,2,645,43,-44,731
+300,24,2,645,43,-44,709
+300,24,2,645,43,-44,726
+300,24,2,645,43,-44,717
+300,24,2,630,42,-44,717
+300,24,2,645,43,-44,721
+300,24,2,630,42,-44,698
+300,24,2,630,42,-44,719
+300,24,2,645,43,-44,726
+300,24,2,630,42,-44,712
+300,24,2,645,43,-44,708
+300,24,2,630,42,-44,716
+300,24,2,630,42,-44,731
+300,24,2,630,42,-44,1230
+300,24,2,630,42,-44,707
+300,24,2,630,42,-44,728
+300,24,2,630,42,-44,703
+300,24,2,645,43,-44,718
+300,24,2,645,43,-44,729
+300,24,2,645,43,-44,706
+300,24,2,645,43,-44,726
+300,24,2,630,42,-44,719
+300,24,2,660,44,-45,1213
+300,24,2,660,44,-44,732
+300,24,2,660,44,-44,1221
+300,24,2,645,43,-44,725
+300,24,2,630,42,-44,713
+300,24,2,645,43,-44,706
+300,24,2,660,44,-44,715
+300,24,2,660,44,-44,718
+300,24,2,645,43,-44,716
+300,24,2,660,44,-44,734
+300,24,2,645,43,-44,1226
+300,24,2,645,43,-44,1216
+300,24,2,645,43,-44,731
+300,24,2,645,43,-44,702
+300,24,2,645,43,-44,730
+300,24,2,630,42,-44,719
+300,24,2,645,43,-44,715
+300,24,2,645,43,-44,1215
+300,24,2,645,43,-44,717
+300,24,2,645,43,-44,730
+300,24,2,645,43,-44,719
+# Sampling complete! All configurations tested.
+# clockout-error count : 242 
+zero-zero measures count : 0
+======================== [SUCCESS] Took 5174.94 seconds ========================

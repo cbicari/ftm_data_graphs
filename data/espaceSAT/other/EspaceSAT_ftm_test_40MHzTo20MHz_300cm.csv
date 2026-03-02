@@ -1,0 +1,2113 @@
+Processing template (board: esp32-c3-devkitc-02; platform: https://github.com/pioarduino/platform-espressif32/releases/download/stable/platform-espressif32.zip; framework: arduino)
+--------------------------------------------------------------------------------
+Processing template (board: esp32-c3-devkitc-02; platform: https://github.com/pioarduino/platform-espressif32/releases/download/stable/platform-espressif32.zip; framework: arduino)
+--------------------------------------------------------------------------------
+Verbose mode can be enabled via `-v, --verbose` option
+CONFIGURATION: https://docs.platformio.org/page/boards/espressif32/esp32-c3-devkitc-02.html
+PLATFORM: Espressif 32 (55.3.37) > Espressif ESP32-C3-DevKitC-02
+HARDWARE: ESP32C3 160MHz, 320KB RAM, 4MB Flash
+DEBUG: Current (cmsis-dap) External (cmsis-dap, esp-bridge, esp-builtin, esp-prog, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa)
+PACKAGES: 
+ - contrib-piohome @ 3.4.4 
+ - framework-arduinoespressif32 @ 3.3.7 
+ - framework-arduinoespressif32-libs @ 5.5.0+sha.87912cd291 
+ - tool-esptoolpy @ 5.1.2 
+ - toolchain-riscv32-esp @ 14.2.0+20251107 
+ - toolchain-xtensa-esp32s3 @ 12.2.0+20230208
+LDF: Library Dependency Finder -> https://bit.ly/configure-pio-ldf
+LDF Modes: Finder ~ chain, Compatibility ~ soft
+Found 44 compatible libraries
+Scanning dependencies...
+Dependency Graph
+|-- puara-module @ 1.0.0
+Building in release mode
+Retrieving maximum program size .pio/build/template/firmware.elf
+Checking size .pio/build/template/firmware.elf
+Advanced Memory Usage is available via "PlatformIO Home > Project Inspect"
+RAM:   [=         ]  13.8% (used 45344 bytes from 327680 bytes)
+Flash: [===       ]  32.0% (used 1257433 bytes from 3932160 bytes)
+Configuring upload protocol...
+AVAILABLE: cmsis-dap, esp-bridge, esp-builtin, esp-prog, espota, esptool, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa
+CURRENT: upload_protocol = esptool
+Looking for upload port...
+Auto-detected: /dev/ttyUSB0
+Uploading .pio/build/template/firmware.bin
+esptool v5.1.2
+Serial port /dev/ttyUSB0:
+Connecting....
+Connected to ESP32-C3 on /dev/ttyUSB0:
+Chip type:          ESP32-C3 (QFN32) (revision v0.4)
+Features:           Wi-Fi, BT 5 (LE), Single Core, 160MHz
+Crystal frequency:  40MHz
+MAC:                54:32:04:41:45:a8
+
+Uploading stub flasher...
+Running stub flasher...
+Stub flasher running.
+Changing baud rate to 460800...
+Changed.
+
+Configuring flash size...
+Auto-detected flash size: 4MB
+Flash will be erased from 0x00000000 to 0x00004fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00155fff...
+SHA digest in image updated.
+Compressed 19520 bytes to 12719...
+
+Writing at 0x00000000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/12719 bytes... 
+Writing at 0x00004c40 [██████████████████████████████] 100.0% 12719/12719 bytes... 
+Wrote 19520 bytes (12719 compressed) at 0x00000000 in 0.7 seconds (211.6 kbit/s).
+Hash of data verified.
+Compressed 3072 bytes to 119...
+
+Writing at 0x00008000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/119 bytes... 
+Writing at 0x00008c00 [██████████████████████████████] 100.0% 119/119 bytes... 
+Wrote 3072 bytes (119 compressed) at 0x00008000 in 0.1 seconds (282.7 kbit/s).
+Hash of data verified.
+Compressed 8192 bytes to 47...
+
+Writing at 0x0000e000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/47 bytes... 
+Writing at 0x00010000 [██████████████████████████████] 100.0% 47/47 bytes... 
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.2 seconds (372.8 kbit/s).
+Hash of data verified.
+Compressed 1331616 bytes to 783706...
+
+Writing at 0x00010000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/783706 bytes... 
+Writing at 0x0001caeb [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   2.1% 16384/783706 bytes... 
+Writing at 0x0002866e [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   4.2% 32768/783706 bytes... 
+Writing at 0x000301a4 [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   6.3% 49152/783706 bytes... 
+Writing at 0x0003a5d8 [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   8.4% 65536/783706 bytes... 
+Processing template (board: esp32-c3-devkitc-02; platform: https://github.com/pioarduino/platform-espressif32/releases/download/stable/platform-espressif32.zip; framework: arduino)
+--------------------------------------------------------------------------------
+Verbose mode can be enabled via `-v, --verbose` option
+CONFIGURATION: https://docs.platformio.org/page/boards/espressif32/esp32-c3-devkitc-02.html
+PLATFORM: Espressif 32 (55.3.37) > Espressif ESP32-C3-DevKitC-02
+HARDWARE: ESP32C3 160MHz, 320KB RAM, 4MB Flash
+DEBUG: Current (cmsis-dap) External (cmsis-dap, esp-bridge, esp-builtin, esp-prog, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa)
+PACKAGES: 
+ - contrib-piohome @ 3.4.4 
+ - framework-arduinoespressif32 @ 3.3.7 
+ - framework-arduinoespressif32-libs @ 5.5.0+sha.87912cd291 
+ - tool-esptoolpy @ 5.1.2 
+ - toolchain-riscv32-esp @ 14.2.0+20251107 
+ - toolchain-xtensa-esp32s3 @ 12.2.0+20230208
+LDF: Library Dependency Finder -> https://bit.ly/configure-pio-ldf
+LDF Modes: Finder ~ chain, Compatibility ~ soft
+Found 44 compatible libraries
+Scanning dependencies...
+Dependency Graph
+|-- puara-module @ 1.0.0
+Building in release mode
+Retrieving maximum program size .pio/build/template/firmware.elf
+Checking size .pio/build/template/firmware.elf
+Advanced Memory Usage is available via "PlatformIO Home > Project Inspect"
+RAM:   [=         ]  13.8% (used 45344 bytes from 327680 bytes)
+Flash: [===       ]  32.0% (used 1257433 bytes from 3932160 bytes)
+Configuring upload protocol...
+AVAILABLE: cmsis-dap, esp-bridge, esp-builtin, esp-prog, espota, esptool, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa
+CURRENT: upload_protocol = esptool
+Looking for upload port...
+Auto-detected: /dev/ttyUSB0
+Uploading .pio/build/template/firmware.bin
+esptool v5.1.2
+Serial port /dev/ttyUSB0:
+Connecting....
+Connected to ESP32-C3 on /dev/ttyUSB0:
+Chip type:          ESP32-C3 (QFN32) (revision v0.4)
+Features:           Wi-Fi, BT 5 (LE), Single Core, 160MHz
+Crystal frequency:  40MHz
+MAC:                54:32:04:41:45:a8
+
+Uploading stub flasher...
+Running stub flasher...
+Stub flasher running.
+Changing baud rate to 460800...
+Changed.
+
+Configuring flash size...
+Auto-detected flash size: 4MB
+Flash will be erased from 0x00000000 to 0x00004fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00155fff...
+SHA digest in image updated.
+Compressed 19520 bytes to 12719...
+
+Writing at 0x00000000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/12719 bytes... 
+
+Writing at 0x00004c40 [██████████████████████████████] 100.0% 12719/12719 bytes... 
+Wrote 19520 bytes (12719 compressed) at 0x00000000 in 0.7 seconds (227.8 kbit/s).
+Hash of data verified.
+Compressed 3072 bytes to 119...
+
+Writing at 0x00008000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/119 bytes... 
+
+Writing at 0x00008c00 [██████████████████████████████] 100.0% 119/119 bytes... 
+Wrote 3072 bytes (119 compressed) at 0x00008000 in 0.1 seconds (464.4 kbit/s).
+Hash of data verified.
+Compressed 8192 bytes to 47...
+
+Writing at 0x0000e000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/47 bytes... 
+
+Writing at 0x00010000 [██████████████████████████████] 100.0% 47/47 bytes... 
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (606.5 kbit/s).
+Hash of data verified.
+Compressed 1331616 bytes to 783706...
+
+Writing at 0x00010000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/783706 bytes... 
+
+Writing at 0x0001caeb [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   2.1% 16384/783706 bytes... 
+
+Writing at 0x0002866e [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   4.2% 32768/783706 bytes... 
+
+Writing at 0x000301a4 [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   6.3% 49152/783706 bytes... 
+
+Writing at 0x0003a5d8 [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   8.4% 65536/783706 bytes... 
+
+Writing at 0x000464dd [███░░░░░░░░░░░░░░░░░░░░░░░░░░░]  10.5% 81920/783706 bytes... 
+
+Writing at 0x0004fbe9 [███░░░░░░░░░░░░░░░░░░░░░░░░░░░]  12.5% 98304/783706 bytes... 
+
+Writing at 0x00055ef4 [████░░░░░░░░░░░░░░░░░░░░░░░░░░]  14.6% 114688/783706 bytes... 
+
+Writing at 0x0005cdb4 [█████░░░░░░░░░░░░░░░░░░░░░░░░░]  16.7% 131072/783706 bytes... 
+
+Writing at 0x00062ef7 [█████░░░░░░░░░░░░░░░░░░░░░░░░░]  18.8% 147456/783706 bytes... 
+
+Writing at 0x000697bc [██████░░░░░░░░░░░░░░░░░░░░░░░░]  20.9% 163840/783706 bytes... 
+
+Writing at 0x0006fad5 [██████░░░░░░░░░░░░░░░░░░░░░░░░]  23.0% 180224/783706 bytes... 
+
+Writing at 0x00075dac [███████░░░░░░░░░░░░░░░░░░░░░░░]  25.1% 196608/783706 bytes... 
+
+Writing at 0x0007bf92 [████████░░░░░░░░░░░░░░░░░░░░░░]  27.2% 212992/783706 bytes... 
+
+Writing at 0x0008208c [████████░░░░░░░░░░░░░░░░░░░░░░]  29.3% 229376/783706 bytes... 
+
+Writing at 0x00087e41 [█████████░░░░░░░░░░░░░░░░░░░░░]  31.4% 245760/783706 bytes... 
+
+Writing at 0x0008df92 [██████████░░░░░░░░░░░░░░░░░░░░]  33.4% 262144/783706 bytes... 
+
+Writing at 0x00094102 [██████████░░░░░░░░░░░░░░░░░░░░]  35.5% 278528/783706 bytes... 
+
+Writing at 0x0009a471 [███████████░░░░░░░░░░░░░░░░░░░]  37.6% 294912/783706 bytes... 
+
+Writing at 0x000a04a3 [███████████░░░░░░░░░░░░░░░░░░░]  39.7% 311296/783706 bytes... 
+
+Writing at 0x000a6406 [████████████░░░░░░░░░░░░░░░░░░]  41.8% 327680/783706 bytes... 
+
+Writing at 0x000abba7 [█████████████░░░░░░░░░░░░░░░░░]  43.9% 344064/783706 bytes... 
+
+Writing at 0x000b150d [█████████████░░░░░░░░░░░░░░░░░]  46.0% 360448/783706 bytes... 
+
+Writing at 0x000b6d04 [██████████████░░░░░░░░░░░░░░░░]  48.1% 376832/783706 bytes... 
+
+Writing at 0x000bc8f0 [███████████████░░░░░░░░░░░░░░░]  50.2% 393216/783706 bytes... 
+
+Writing at 0x000c25a3 [███████████████░░░░░░░░░░░░░░░]  52.3% 409600/783706 bytes... 
+
+Writing at 0x000c7fea [████████████████░░░░░░░░░░░░░░]  54.4% 425984/783706 bytes... 
+
+Writing at 0x000cdb4c [████████████████░░░░░░░░░░░░░░]  56.4% 442368/783706 bytes... 
+
+Writing at 0x000d3bec [█████████████████░░░░░░░░░░░░░]  58.5% 458752/783706 bytes... 
+
+Writing at 0x000d957a [██████████████████░░░░░░░░░░░░]  60.6% 475136/783706 bytes... 
+
+Writing at 0x000dfa56 [██████████████████░░░░░░░░░░░░]  62.7% 491520/783706 bytes... 
+
+Writing at 0x000e5e8f [███████████████████░░░░░░░░░░░]  64.8% 507904/783706 bytes... 
+
+Writing at 0x000ebfd9 [████████████████████░░░░░░░░░░]  66.9% 524288/783706 bytes... 
+
+Writing at 0x000f2182 [████████████████████░░░░░░░░░░]  69.0% 540672/783706 bytes... 
+
+Writing at 0x000f810e [█████████████████████░░░░░░░░░]  71.1% 557056/783706 bytes... 
+
+Writing at 0x000fe067 [█████████████████████░░░░░░░░░]  73.2% 573440/783706 bytes... 
+
+Writing at 0x001052e5 [██████████████████████░░░░░░░░]  75.3% 589824/783706 bytes... 
+
+Writing at 0x0010bf74 [███████████████████████░░░░░░░]  77.4% 606208/783706 bytes... 
+
+Writing at 0x001136b2 [███████████████████████░░░░░░░]  79.4% 622592/783706 bytes... 
+
+Writing at 0x0011b9b8 [████████████████████████░░░░░░]  81.5% 638976/783706 bytes... 
+
+Writing at 0x00122dda [█████████████████████████░░░░░]  83.6% 655360/783706 bytes... 
+
+Writing at 0x00128da1 [█████████████████████████░░░░░]  85.7% 671744/783706 bytes... 
+
+Writing at 0x0012ef68 [██████████████████████████░░░░]  87.8% 688128/783706 bytes... 
+
+Writing at 0x00135ee7 [██████████████████████████░░░░]  89.9% 704512/783706 bytes... 
+
+Writing at 0x0013e121 [███████████████████████████░░░]  92.0% 720896/783706 bytes... 
+
+Writing at 0x00143863 [████████████████████████████░░]  94.1% 737280/783706 bytes... 
+
+Writing at 0x0014995c [████████████████████████████░░]  96.2% 753664/783706 bytes... 
+
+Writing at 0x0014fe22 [█████████████████████████████░]  98.3% 770048/783706 bytes... 
+
+Writing at 0x001551a0 [██████████████████████████████] 100.0% 783706/783706 bytes... 
+Wrote 1331616 bytes (783706 compressed) at 0x00010000 in 23.3 seconds (457.7 kbit/s).
+Hash of data verified.
+
+Hard resetting via RTS pin...
+Warning! Skipping unknown filters `default esp32_exception_decoder`. Known filters are `debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time`
+--- Terminal on /dev/ttyUSB0 | 115200 8-N-1
+--- Available filters and text transformations: debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[APuara Start Done!
+
+  Type "reboot" in the serial monitor to reset the ESP32.
+
+physical_distance_cm,frame_count,burst_period,estimated_distance_cm,rtt_ns,rssi_dbm,elapsed_ms
+# Starting automated sampling: 5 configs x 1000 samples = 5000 total
+# Config 1/5: frame_count=16, burst_period=2
+300,16,2,870,58,-38,293
+300,16,2,915,61,-38,331
+
+I don´t recognize the command "␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A␛[A"
+300,16,2,840,56,-38,802
+300,16,2,855,57,-38,303
+300,16,2,885,59,-38,298
+300,16,2,885,59,-39,307
+300,16,2,870,58,-39,321
+300,16,2,915,61,-40,298
+300,16,2,870,58,-38,316
+300,16,2,885,59,-39,819
+300,16,2,855,57,-38,307
+300,16,2,810,54,-38,814
+300,16,2,840,56,-38,340
+300,16,2,855,57,-38,780
+300,16,2,900,60,-38,310
+300,16,2,870,58,-37,320
+300,16,2,885,59,-38,333
+300,16,2,855,57,-38,278
+300,16,2,825,55,-39,1005
+300,16,2,930,62,-37,859
+300,16,2,870,58,-38,852
+E (17762) wifi:No FTM Measurements received from responder!
+W (17763) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,945,63,-39,272
+E (23671) wifi:No FTM Measurements received from responder!
+W (23671) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (28069) wifi:No FTM Measurements received from responder!
+W (28069) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,930,62,-38,578
+300,16,2,855,57,-38,803
+E (34859) wifi:No FTM Measurements received from responder!
+W (34859) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (38921) wifi:No FTM Measurements received from responder!
+W (38921) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,855,57,-38,975
+E (46224) wifi:No FTM Measurements received from responder!
+W (46225) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,855,57,-38,392
+300,16,2,945,63,-41,1173
+W (52536) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (56886) wifi:No FTM Measurements received from responder!
+W (56886) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,1005,67,-41,475
+E (63123) wifi:No FTM Measurements received from responder!
+W (63123) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,990,66,-41,666
+W (68680) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+E (72495) wifi:No FTM Measurements received from responder!
+W (72496) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (77602) wifi:No FTM Measurements received from responder!
+W (77602) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (83665) wifi:No FTM Measurements received from responder!
+W (83665) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,930,62,-41,387
+E (88464) wifi:No FTM Measurements received from responder!
+W (88465) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (93865) wifi:No FTM Measurements received from responder!
+W (93866) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (98224) wifi:No FTM Measurements received from responder!
+W (98224) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (103230) wifi:No FTM Measurements received from responder!
+W (103230) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (108044) wifi:No FTM Measurements received from responder!
+W (108044) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+======================== [SUCCESS] Took 151.87 seconds ========================
+Processing template (board: esp32-c3-devkitc-02; platform: https://github.com/pioarduino/platform-espressif32/releases/download/stable/platform-espressif32.zip; framework: arduino)
+--------------------------------------------------------------------------------
+Verbose mode can be enabled via `-v, --verbose` option
+CONFIGURATION: https://docs.platformio.org/page/boards/espressif32/esp32-c3-devkitc-02.html
+PLATFORM: Espressif 32 (55.3.37) > Espressif ESP32-C3-DevKitC-02
+HARDWARE: ESP32C3 160MHz, 320KB RAM, 4MB Flash
+DEBUG: Current (cmsis-dap) External (cmsis-dap, esp-bridge, esp-builtin, esp-prog, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa)
+PACKAGES: 
+ - contrib-piohome @ 3.4.4 
+ - framework-arduinoespressif32 @ 3.3.7 
+ - framework-arduinoespressif32-libs @ 5.5.0+sha.87912cd291 
+ - tool-esptoolpy @ 5.1.2 
+ - toolchain-riscv32-esp @ 14.2.0+20251107 
+ - toolchain-xtensa-esp32s3 @ 12.2.0+20230208
+LDF: Library Dependency Finder -> https://bit.ly/configure-pio-ldf
+LDF Modes: Finder ~ chain, Compatibility ~ soft
+Found 44 compatible libraries
+Scanning dependencies...
+Dependency Graph
+|-- puara-module @ 1.0.0
+Building in release mode
+Compiling .pio/build/template/libee8/puara-module/puara_wifi.cpp.o
+Linking .pio/build/template/firmware.elf
+                            Memory Type Usage Summary                             
+┏━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
+┃ Memory Type/Section ┃ Used [bytes] ┃ Used [%] ┃ Remain [bytes] ┃ Total [bytes] ┃
+┡━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
+│ Flash Code          │      1020192 │          │                │               │
+│    .text            │      1020192 │          │                │               │
+│ Flash Data          │       237808 │          │                │               │
+│    .rodata          │       163772 │          │                │               │
+│    .eh_frame        │        73780 │          │                │               │
+│    .appdesc         │          256 │          │                │               │
+│ DRAM                │       105929 │    32.97 │         215367 │        321296 │
+│    .text            │        60588 │    18.86 │                │               │
+│    .bss             │        31496 │      9.8 │                │               │
+│    .data            │        13845 │     4.31 │                │               │
+└─────────────────────┴──────────────┴──────────┴────────────────┴───────────────┘
+Retrieving maximum program size .pio/build/template/firmware.elf
+Checking size .pio/build/template/firmware.elf
+Advanced Memory Usage is available via "PlatformIO Home > Project Inspect"
+RAM:   [=         ]  13.8% (used 45344 bytes from 327680 bytes)
+Flash: [===       ]  32.0% (used 1258397 bytes from 3932160 bytes)
+Building .pio/build/template/firmware.bin
+esptool v5.1.2
+Creating ESP32C3 image...
+Merged 2 ELF sections.
+Successfully created ESP32C3 image.
+Configuring upload protocol...
+AVAILABLE: cmsis-dap, esp-bridge, esp-builtin, esp-prog, espota, esptool, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa
+CURRENT: upload_protocol = esptool
+Looking for upload port...
+Auto-detected: /dev/ttyUSB0
+Uploading .pio/build/template/firmware.bin
+esptool v5.1.2
+Serial port /dev/ttyUSB0:
+Connecting....
+Connected to ESP32-C3 on /dev/ttyUSB0:
+Chip type:          ESP32-C3 (QFN32) (revision v0.4)
+Features:           Wi-Fi, BT 5 (LE), Single Core, 160MHz
+Crystal frequency:  40MHz
+MAC:                54:32:04:41:45:a8
+
+Uploading stub flasher...
+Running stub flasher...
+Stub flasher running.
+Changing baud rate to 460800...
+Changed.
+
+Configuring flash size...
+Auto-detected flash size: 4MB
+Flash will be erased from 0x00000000 to 0x00004fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00155fff...
+SHA digest in image updated.
+Compressed 19520 bytes to 12719...
+
+Writing at 0x00000000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/12719 bytes... 
+Writing at 0x00004c40 [██████████████████████████████] 100.0% 12719/12719 bytes... 
+Wrote 19520 bytes (12719 compressed) at 0x00000000 in 0.7 seconds (213.8 kbit/s).
+Hash of data verified.
+Compressed 3072 bytes to 119...
+
+Writing at 0x00008000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/119 bytes... 
+Writing at 0x00008c00 [██████████████████████████████] 100.0% 119/119 bytes... 
+Wrote 3072 bytes (119 compressed) at 0x00008000 in 0.1 seconds (282.5 kbit/s).
+Hash of data verified.
+Compressed 8192 bytes to 47...
+
+Writing at 0x0000e000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/47 bytes... 
+Writing at 0x00010000 [██████████████████████████████] 100.0% 47/47 bytes... 
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.2 seconds (383.6 kbit/s).
+Hash of data verified.
+Compressed 1332576 bytes to 784340...
+
+Writing at 0x00010000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/784340 bytes... 
+Writing at 0x0001caf6 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   2.1% 16384/784340 bytes... 
+Writing at 0x0002867b [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   4.2% 32768/784340 bytes... 
+Writing at 0x000301b1 [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   6.3% 49152/784340 bytes... 
+Writing at 0x0003a5a3 [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   8.4% 65536/784340 bytes... 
+Writing at 0x00046488 [███░░░░░░░░░░░░░░░░░░░░░░░░░░░]  10.4% 81920/784340 bytes... 
+Writing at 0x0004fbf8 [███░░░░░░░░░░░░░░░░░░░░░░░░░░░]  12.5% 98304/784340 bytes... 
+Writing at 0x00055efb [████░░░░░░░░░░░░░░░░░░░░░░░░░░]  14.6% 114688/784340 bytes... 
+Writing at 0x0005cdb5 [█████░░░░░░░░░░░░░░░░░░░░░░░░░]  16.7% 131072/784340 bytes... 
+Writing at 0x00062efb [█████░░░░░░░░░░░░░░░░░░░░░░░░░]  18.8% 147456/784340 bytes... 
+Writing at 0x000697c6 [██████░░░░░░░░░░░░░░░░░░░░░░░░]  20.9% 163840/784340 bytes... 
+Writing at 0x0006faf2 [██████░░░░░░░░░░░░░░░░░░░░░░░░]  23.0% 180224/784340 bytes... 
+Writing at 0x00075dcc [███████░░░░░░░░░░░░░░░░░░░░░░░]  25.1% 196608/784340 bytes... 
+Writing at 0x0007bfa5 [████████░░░░░░░░░░░░░░░░░░░░░░]  27.2% 212992/784340 bytes... 
+Writing at 0x000820ac [████████░░░░░░░░░░░░░░░░░░░░░░]  29.2% 229376/784340 bytes... 
+Writing at 0x00087e55 [█████████░░░░░░░░░░░░░░░░░░░░░]  31.3% 245760/784340 bytes... 
+Writing at 0x0008dfb7 [██████████░░░░░░░░░░░░░░░░░░░░]  33.4% 262144/784340 bytes... 
+Writing at 0x0009411e [██████████░░░░░░░░░░░░░░░░░░░░]  35.5% 278528/784340 bytes... 
+Writing at 0x0009a48c [███████████░░░░░░░░░░░░░░░░░░░]  37.6% 294912/784340 bytes... 
+Writing at 0x000a04bf [███████████░░░░░░░░░░░░░░░░░░░]  39.7% 311296/784340 bytes... 
+Writing at 0x000a6425 [████████████░░░░░░░░░░░░░░░░░░]  41.8% 327680/784340 bytes... 
+Writing at 0x000abbbe [█████████████░░░░░░░░░░░░░░░░░]  43.9% 344064/784340 bytes... 
+Writing at 0x000b1525 [█████████████░░░░░░░░░░░░░░░░░]  46.0% 360448/784340 bytes... 
+Writing at 0x000b6d1e [██████████████░░░░░░░░░░░░░░░░]  48.0% 376832/784340 bytes... 
+Writing at 0x000bc91e [███████████████░░░░░░░░░░░░░░░]  50.1% 393216/784340 bytes... 
+Writing at 0x000c25c9 [███████████████░░░░░░░░░░░░░░░]  52.2% 409600/784340 bytes... 
+Writing at 0x000c800b [████████████████░░░░░░░░░░░░░░]  54.3% 425984/784340 bytes... 
+Writing at 0x000cdb7a [████████████████░░░░░░░░░░░░░░]  56.4% 442368/784340 bytes... 
+Writing at 0x000d3c09 [█████████████████░░░░░░░░░░░░░]  58.5% 458752/784340 bytes... 
+Writing at 0x000d9595 [██████████████████░░░░░░░░░░░░]  60.6% 475136/784340 bytes... 
+Writing at 0x000dfa52 [██████████████████░░░░░░░░░░░░]  62.7% 491520/784340 bytes... 
+Writing at 0x000e5eda [███████████████████░░░░░░░░░░░]  64.8% 507904/784340 bytes... 
+Writing at 0x000ec050 [████████████████████░░░░░░░░░░]  66.8% 524288/784340 bytes... 
+Writing at 0x000f2140 [████████████████████░░░░░░░░░░]  68.9% 540672/784340 bytes... 
+Writing at 0x000f811c [█████████████████████░░░░░░░░░]  71.0% 557056/784340 bytes... 
+Writing at 0x000fdff0 [█████████████████████░░░░░░░░░]  73.1% 573440/784340 bytes... 
+Writing at 0x00105154 [██████████████████████░░░░░░░░]  75.2% 589824/784340 bytes... 
+Writing at 0x0010bf1b [███████████████████████░░░░░░░]  77.3% 606208/784340 bytes... 
+Writing at 0x0011358f [███████████████████████░░░░░░░]  79.4% 622592/784340 bytes... 
+Writing at 0x0011b584 [████████████████████████░░░░░░]  81.5% 638976/784340 bytes... 
+Writing at 0x00122e25 [█████████████████████████░░░░░]  83.6% 655360/784340 bytes... 
+Writing at 0x00128e18 [█████████████████████████░░░░░]  85.6% 671744/784340 bytes... 
+Writing at 0x0012f014 [██████████████████████████░░░░]  87.7% 688128/784340 bytes... 
+Writing at 0x00135ead [██████████████████████████░░░░]  89.8% 704512/784340 bytes... 
+Writing at 0x0013dcf1 [███████████████████████████░░░]  91.9% 720896/784340 bytes... 
+Writing at 0x001438b0 [████████████████████████████░░]  94.0% 737280/784340 bytes... 
+Writing at 0x00149944 [████████████████████████████░░]  96.1% 753664/784340 bytes... 
+Writing at 0x0014fe2d [█████████████████████████████░]  98.2% 770048/784340 bytes... 
+Writing at 0x00155560 [██████████████████████████████] 100.0% 784340/784340 bytes... 
+Wrote 1332576 bytes (784340 compressed) at 0x00010000 in 23.3 seconds (457.7 kbit/s).
+Hash of data verified.
+
+Hard resetting via RTS pin...
+Warning! Skipping unknown filters `default esp32_exception_decoder`. Known filters are `debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time`
+--- Terminal on /dev/ttyUSB0 | 115200 8-N-1
+--- Available filters and text transformations: debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+Puara Start Done!
+
+  Type "reboot" in the serial monitor to reset the ESP32.
+
+physical_distance_cm,frame_count,burst_period,estimated_distance_cm,rtt_ns,rssi_dbm,elapsed_ms
+# Starting automated sampling: 5 configs x 1000 samples = 5000 total
+# Config 1/5: frame_count=16, burst_period=2
+300,16,2,780,52,-39,254
+300,16,2,795,53,-38,812
+300,16,2,765,51,-38,318
+300,16,2,780,52,-38,305
+300,16,2,765,51,-38,805
+300,16,2,780,52,-38,306
+300,16,2,795,53,-38,314
+300,16,2,765,51,-40,300
+300,16,2,765,51,-38,322
+300,16,2,780,52,-38,810
+300,16,2,765,51,-38,344
+300,16,2,765,51,-38,779
+300,16,2,780,52,-38,319
+300,16,2,795,53,-39,849
+300,16,2,780,52,-38,778
+300,16,2,780,52,-38,318
+300,16,2,795,53,-38,308
+300,16,2,780,52,-38,848
+300,16,2,825,55,-40,794
+300,16,2,765,51,-40,805
+300,16,2,765,51,-38,304
+300,16,2,750,50,-40,323
+300,16,2,645,43,-38,820
+300,16,2,750,50,-39,844
+300,16,2,840,56,-39,781
+300,16,2,795,53,-40,306
+300,16,2,795,53,-38,305
+300,16,2,795,53,-38,308
+300,16,2,840,56,-38,322
+300,16,2,765,51,-40,817
+300,16,2,855,57,-40,819
+300,16,2,780,52,-40,823
+300,16,2,795,53,-38,804
+300,16,2,810,54,-38,305
+300,16,2,780,52,-39,321
+300,16,2,780,52,-40,819
+300,16,2,825,55,-39,821
+300,16,2,810,54,-40,820
+300,16,2,795,53,-38,294
+300,16,2,795,53,-38,307
+300,16,2,780,52,-39,335
+300,16,2,885,59,-39,1027
+300,16,2,870,58,-39,804
+300,16,2,810,54,-38,828
+300,16,2,855,57,-39,809
+300,16,2,810,54,-40,844
+300,16,2,855,57,-39,863
+300,16,2,855,57,-40,857
+300,16,2,840,56,-38,819
+300,16,2,825,55,-39,821
+300,16,2,825,55,-38,810
+300,16,2,825,55,-38,849
+300,16,2,810,54,-40,777
+300,16,2,810,54,-40,307
+300,16,2,810,54,-38,306
+300,16,2,855,57,-41,310
+300,16,2,870,58,-39,305
+300,16,2,855,57,-39,309
+300,16,2,810,54,-39,319
+300,16,2,825,55,-39,808
+300,16,2,855,57,-39,308
+300,16,2,825,55,-39,307
+300,16,2,840,56,-39,309
+300,16,2,870,58,-41,316
+300,16,2,825,55,-39,311
+300,16,2,885,59,-39,304
+300,16,2,795,53,-38,854
+300,16,2,795,53,-39,260
+300,16,2,795,53,-39,320
+300,16,2,825,55,-41,804
+300,16,2,810,54,-41,309
+300,16,2,795,53,-41,313
+300,16,2,795,53,-41,307
+300,16,2,810,54,-39,319
+300,16,2,840,56,-39,818
+300,16,2,825,55,-38,838
+300,16,2,825,55,-38,788
+300,16,2,825,55,-38,302
+300,16,2,810,54,-38,311
+300,16,2,825,55,-39,334
+300,16,2,810,54,-39,799
+300,16,2,870,58,-39,315
+300,16,2,840,56,-39,806
+300,16,2,840,56,-41,304
+300,16,2,825,55,-39,312
+300,16,2,780,52,-41,345
+300,16,2,870,58,-40,777
+300,16,2,840,56,-41,351
+300,16,2,855,57,-41,276
+300,16,2,870,58,-39,929
+300,16,2,855,57,-40,812
+300,16,2,855,57,-39,294
+300,16,2,885,59,-41,311
+300,16,2,900,60,-39,343
+300,16,2,810,54,-38,794
+300,16,2,840,56,-38,309
+300,16,2,855,57,-41,806
+300,16,2,705,47,-41,346
+300,16,2,795,53,-42,790
+300,16,2,855,57,-40,862
+300,16,2,675,45,-42,785
+300,16,2,915,61,-46,798
+300,16,2,705,47,-44,320
+300,16,2,855,57,-47,298
+300,16,2,900,60,-47,344
+300,16,2,675,45,-44,780
+300,16,2,660,44,-43,323
+300,16,2,660,44,-43,822
+300,16,2,660,44,-42,821
+300,16,2,660,44,-44,810
+300,16,2,525,35,-42,820
+300,16,2,525,35,-42,298
+300,16,2,540,36,-42,346
+300,16,2,615,41,-39,796
+300,16,2,690,46,-41,301
+300,16,2,885,59,-46,819
+300,16,2,750,50,-41,855
+300,16,2,750,50,-39,280
+300,16,2,780,52,-40,816
+E (73272) wifi:No FTM Measurements received from responder!
+W (73272) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-41,319
+300,16,2,840,56,-41,818
+300,16,2,870,58,-40,814
+300,16,2,900,60,-41,313
+300,16,2,885,59,-38,313
+300,16,2,900,60,-39,847
+300,16,2,885,59,-40,904
+300,16,2,930,62,-39,795
+300,16,2,930,62,-40,317
+300,16,2,900,60,-39,848
+300,16,2,915,61,-41,789
+300,16,2,870,58,-40,822
+300,16,2,870,58,-40,834
+300,16,2,885,59,-41,804
+300,16,2,930,62,-41,817
+300,16,2,870,58,-41,834
+300,16,2,870,58,-42,807
+300,16,2,915,61,-39,817
+300,16,2,810,54,-38,807
+300,16,2,870,58,-42,348
+300,16,2,855,57,-38,917
+300,16,2,810,54,-41,270
+300,16,2,855,57,-41,321
+300,16,2,825,55,-41,807
+300,16,2,825,55,-39,348
+300,16,2,810,54,-39,790
+300,16,2,825,55,-38,308
+300,16,2,795,53,-37,845
+300,16,2,840,56,-38,792
+300,16,2,885,59,-40,850
+300,16,2,870,58,-41,275
+300,16,2,825,55,-41,842
+300,16,2,840,56,-42,803
+300,16,2,855,57,-39,305
+300,16,2,810,54,-40,806
+300,16,2,810,54,-39,320
+300,16,2,825,55,-38,840
+300,16,2,885,59,-40,799
+300,16,2,855,57,-38,838
+300,16,2,840,56,-38,790
+300,16,2,810,54,-38,317
+300,16,2,870,58,-39,368
+300,16,2,840,56,-41,785
+300,16,2,825,55,-39,264
+300,16,2,795,53,-41,309
+300,16,2,690,46,-43,313
+300,16,2,900,60,-44,340
+300,16,2,840,56,-40,271
+300,16,2,915,61,-42,306
+300,16,2,870,58,-38,346
+300,16,2,1020,68,-42,777
+300,16,2,795,53,-41,307
+300,16,2,900,60,-41,314
+300,16,2,1065,71,-41,306
+300,16,2,960,64,-41,346
+300,16,2,990,66,-42,792
+300,16,2,750,50,-43,851
+300,16,2,810,54,-42,272
+300,16,2,885,59,-38,814
+300,16,2,810,54,-38,338
+300,16,2,690,46,-44,781
+300,16,2,750,50,-42,307
+300,16,2,855,57,-42,308
+300,16,2,840,56,-39,319
+300,16,2,855,57,-38,837
+300,16,2,870,58,-39,789
+300,16,2,840,56,-39,307
+300,16,2,855,57,-38,308
+300,16,2,840,56,-38,312
+300,16,2,840,56,-38,315
+300,16,2,825,55,-39,812
+300,16,2,795,53,-40,342
+300,16,2,840,56,-38,265
+300,16,2,855,57,-38,311
+300,16,2,825,55,-39,346
+300,16,2,870,58,-39,792
+300,16,2,810,54,-39,807
+300,16,2,825,55,-39,309
+300,16,2,840,56,-38,320
+300,16,2,870,58,-40,825
+300,16,2,855,57,-41,813
+300,16,2,855,57,-38,818
+300,16,2,870,58,-38,847
+300,16,2,840,56,-38,264
+300,16,2,855,57,-38,360
+300,16,2,855,57,-38,279
+300,16,2,885,59,-39,812
+300,16,2,825,55,-38,465
+300,16,2,870,58,-38,778
+300,16,2,825,55,-38,812
+300,16,2,855,57,-38,282
+300,16,2,900,60,-38,333
+300,16,2,825,55,-39,838
+300,16,2,900,60,-39,799
+300,16,2,795,53,-39,822
+300,16,2,900,60,-38,820
+300,16,2,855,57,-39,817
+300,16,2,855,57,-40,285
+300,16,2,825,55,-38,310
+300,16,2,900,60,-39,344
+300,16,2,900,60,-38,779
+300,16,2,855,57,-37,346
+300,16,2,855,57,-39,795
+300,16,2,870,58,-41,841
+300,16,2,870,58,-40,805
+300,16,2,915,61,-39,810
+300,16,2,885,59,-39,835
+300,16,2,870,58,-39,822
+300,16,2,855,57,-37,854
+300,16,2,840,56,-40,447
+300,16,2,870,58,-38,308
+300,16,2,855,57,-39,309
+300,16,2,870,58,-38,306
+300,16,2,885,59,-40,345
+300,16,2,885,59,-39,783
+300,16,2,840,56,-38,318
+300,16,2,840,56,-38,890
+300,16,2,840,56,-38,326
+300,16,2,855,57,-38,320
+300,16,2,840,56,-39,312
+300,16,2,870,58,-38,811
+300,16,2,855,57,-38,821
+300,16,2,825,55,-39,805
+300,16,2,900,60,-38,311
+300,16,2,900,60,-38,341
+300,16,2,885,59,-40,268
+300,16,2,960,64,-38,321
+300,16,2,840,56,-38,819
+300,16,2,870,58,-38,854
+300,16,2,870,58,-39,786
+300,16,2,870,58,-38,824
+300,16,2,840,56,-38,813
+300,16,2,900,60,-38,807
+300,16,2,840,56,-38,322
+300,16,2,870,58,-39,834
+300,16,2,855,57,-38,803
+300,16,2,900,60,-38,838
+300,16,2,885,59,-39,813
+300,16,2,870,58,-37,817
+300,16,2,840,56,-38,299
+300,16,2,930,62,-38,294
+300,16,2,900,60,-39,317
+300,16,2,840,56,-37,819
+300,16,2,930,62,-39,328
+300,16,2,870,58,-38,808
+300,16,2,870,58,-38,800
+300,16,2,825,55,-39,321
+300,16,2,915,61,-38,877
+300,16,2,930,62,-40,822
+300,16,2,885,59,-41,758
+300,16,2,885,59,-39,294
+300,16,2,885,59,-39,306
+300,16,2,870,58,-39,308
+300,16,2,840,56,-38,303
+300,16,2,885,59,-39,310
+300,16,2,870,58,-39,319
+300,16,2,870,58,-38,807
+300,16,2,885,59,-39,312
+300,16,2,885,59,-38,330
+300,16,2,870,58,-39,810
+300,16,2,825,55,-38,313
+300,16,2,870,58,-38,796
+300,16,2,855,57,-40,319
+300,16,2,840,56,-39,311
+300,16,2,840,56,-38,305
+300,16,2,870,58,-37,805
+300,16,2,840,56,-37,311
+300,16,2,810,54,-38,304
+300,16,2,840,56,-40,343
+300,16,2,885,59,-39,795
+300,16,2,870,58,-40,310
+300,16,2,840,56,-38,311
+300,16,2,885,59,-37,819
+300,16,2,915,61,-38,817
+300,16,2,855,57,-38,806
+300,16,2,870,58,-38,343
+300,16,2,840,56,-39,268
+300,16,2,870,58,-38,308
+300,16,2,900,60,-38,315
+300,16,2,855,57,-38,301
+300,16,2,885,59,-38,339
+300,16,2,840,56,-38,785
+300,16,2,855,57,-38,306
+300,16,2,900,60,-38,321
+300,16,2,885,59,-38,294
+300,16,2,855,57,-38,316
+300,16,2,855,57,-38,320
+300,16,2,840,56,-38,817
+300,16,2,870,58,-38,301
+300,16,2,855,57,-38,809
+300,16,2,855,57,-38,324
+300,16,2,855,57,-39,799
+300,16,2,870,58,-40,309
+300,16,2,885,59,-38,318
+300,16,2,855,57,-38,820
+300,16,2,840,56,-38,808
+300,16,2,870,58,-38,304
+300,16,2,855,57,-38,321
+300,16,2,855,57,-38,847
+300,16,2,690,46,-39,319
+300,16,2,855,57,-38,771
+300,16,2,870,58,-38,347
+300,16,2,840,56,-38,775
+300,16,2,840,56,-38,307
+300,16,2,840,56,-38,312
+300,16,2,870,58,-38,325
+300,16,2,900,60,-38,819
+300,16,2,855,57,-38,801
+300,16,2,870,58,-38,304
+300,16,2,870,58,-39,309
+300,16,2,855,57,-38,307
+300,16,2,855,57,-38,347
+300,16,2,840,56,-39,786
+300,16,2,870,58,-38,300
+300,16,2,840,56,-38,307
+300,16,2,855,57,-39,307
+300,16,2,840,56,-38,306
+300,16,2,885,59,-38,310
+300,16,2,855,57,-38,304
+300,16,2,870,58,-38,314
+300,16,2,870,58,-38,305
+300,16,2,840,56,-38,340
+300,16,2,885,59,-39,791
+300,16,2,855,57,-38,299
+300,16,2,840,56,-38,341
+300,16,2,870,58,-38,903
+300,16,2,855,57,-38,820
+300,16,2,855,57,-38,801
+300,16,2,870,58,-38,322
+300,16,2,870,58,-38,296
+300,16,2,870,58,-38,305
+300,16,2,855,57,-38,308
+300,16,2,900,60,-39,310
+300,16,2,855,57,-39,305
+300,16,2,840,56,-38,307
+300,16,2,840,56,-38,306
+300,16,2,840,56,-38,310
+300,16,2,840,56,-38,308
+300,16,2,855,57,-38,317
+300,16,2,855,57,-38,297
+300,16,2,840,56,-38,306
+300,16,2,840,56,-38,304
+300,16,2,870,58,-38,321
+300,16,2,840,56,-38,820
+300,16,2,870,58,-38,806
+300,16,2,855,57,-38,343
+300,16,2,840,56,-38,273
+300,16,2,870,58,-38,309
+300,16,2,840,56,-38,305
+300,16,2,855,57,-38,306
+300,16,2,885,59,-38,353
+300,16,2,855,57,-38,788
+300,16,2,855,57,-38,837
+300,16,2,825,55,-38,803
+E (213515) wifi:No FTM Measurements received from responder!
+W (213516) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-38,308
+300,16,2,870,58,-38,321
+300,16,2,870,58,-38,318
+300,16,2,870,58,-38,807
+300,16,2,855,57,-38,319
+300,16,2,840,56,-40,795
+300,16,2,855,57,-38,306
+300,16,2,840,56,-39,310
+300,16,2,840,56,-38,310
+300,16,2,855,57,-38,303
+300,16,2,870,58,-38,309
+300,16,2,855,57,-38,310
+300,16,2,855,57,-38,306
+300,16,2,855,57,-38,337
+300,16,2,855,57,-38,787
+300,16,2,840,56,-38,307
+300,16,2,855,57,-38,320
+300,16,2,870,58,-38,837
+300,16,2,900,60,-38,790
+300,16,2,840,56,-38,304
+300,16,2,870,58,-38,308
+300,16,2,885,59,-38,307
+300,16,2,840,56,-38,307
+300,16,2,840,56,-38,307
+300,16,2,855,57,-38,308
+300,16,2,885,59,-40,306
+300,16,2,840,56,-38,321
+300,16,2,870,58,-38,810
+300,16,2,855,57,-39,308
+300,16,2,870,58,-38,338
+300,16,2,885,59,-38,786
+300,16,2,885,59,-38,307
+300,16,2,870,58,-38,304
+300,16,2,900,60,-38,307
+300,16,2,855,57,-38,310
+300,16,2,855,57,-38,307
+300,16,2,840,56,-38,307
+300,16,2,840,56,-38,305
+300,16,2,840,56,-38,309
+300,16,2,885,59,-38,307
+300,16,2,870,58,-38,309
+300,16,2,840,56,-38,310
+300,16,2,855,57,-38,338
+300,16,2,885,59,-38,273
+300,16,2,870,58,-38,307
+300,16,2,855,57,-38,319
+300,16,2,825,55,-38,1017
+300,16,2,885,59,-38,422
+300,16,2,840,56,-38,802
+300,16,2,870,58,-38,307
+300,16,2,855,57,-38,319
+300,16,2,870,58,-38,806
+300,16,2,855,57,-38,321
+300,16,2,855,57,-38,805
+300,16,2,855,57,-38,308
+300,16,2,840,56,-38,308
+300,16,2,870,58,-38,306
+300,16,2,855,57,-38,314
+300,16,2,855,57,-38,343
+300,16,2,855,57,-38,791
+300,16,2,855,57,-38,315
+300,16,2,870,58,-38,817
+300,16,2,855,57,-38,311
+300,16,2,825,55,-38,815
+300,16,2,885,59,-38,828
+300,16,2,915,61,-38,809
+300,16,2,855,57,-38,816
+300,16,2,840,56,-39,294
+300,16,2,900,60,-38,350
+300,16,2,840,56,-38,276
+300,16,2,780,52,-38,810
+300,16,2,870,58,-38,304
+300,16,2,900,60,-38,320
+300,16,2,885,59,-38,842
+300,16,2,855,57,-38,785
+300,16,2,840,56,-38,308
+300,16,2,855,57,-38,310
+300,16,2,825,55,-38,305
+300,16,2,840,56,-38,308
+300,16,2,840,56,-39,324
+300,16,2,870,58,-38,820
+300,16,2,840,56,-38,803
+300,16,2,840,56,-38,320
+300,16,2,840,56,-38,803
+300,16,2,870,58,-38,347
+300,16,2,840,56,-38,790
+300,16,2,855,57,-38,298
+300,16,2,855,57,-38,305
+300,16,2,855,57,-38,306
+300,16,2,840,56,-38,307
+300,16,2,840,56,-38,320
+300,16,2,840,56,-39,809
+300,16,2,885,59,-38,324
+300,16,2,840,56,-38,822
+300,16,2,840,56,-38,294
+300,16,2,840,56,-38,300
+300,16,2,870,58,-38,307
+300,16,2,840,56,-39,337
+300,16,2,855,57,-39,807
+300,16,2,855,57,-38,822
+300,16,2,885,59,-39,812
+300,16,2,825,55,-38,294
+300,16,2,870,58,-38,347
+300,16,2,840,56,-38,778
+300,16,2,840,56,-38,320
+300,16,2,840,56,-39,314
+300,16,2,840,56,-38,801
+300,16,2,840,56,-38,311
+300,16,2,855,57,-39,335
+300,16,2,855,57,-38,816
+300,16,2,870,58,-38,277
+300,16,2,855,57,-38,321
+300,16,2,840,56,-39,808
+300,16,2,840,56,-37,307
+300,16,2,840,56,-39,318
+300,16,2,870,58,-39,316
+300,16,2,885,59,-38,800
+300,16,2,870,58,-38,347
+300,16,2,870,58,-38,777
+300,16,2,840,56,-38,308
+300,16,2,855,57,-38,320
+300,16,2,840,56,-38,298
+300,16,2,870,58,-38,339
+300,16,2,855,57,-38,799
+300,16,2,840,56,-38,844
+300,16,2,855,57,-38,792
+300,16,2,870,58,-38,306
+300,16,2,885,59,-39,820
+300,16,2,840,56,-38,844
+300,16,2,840,56,-38,275
+300,16,2,840,56,-38,319
+300,16,2,825,55,-38,291
+300,16,2,840,56,-38,308
+300,16,2,840,56,-38,345
+300,16,2,870,58,-38,797
+300,16,2,840,56,-38,817
+300,16,2,870,58,-38,296
+300,16,2,870,58,-39,341
+300,16,2,840,56,-38,269
+300,16,2,885,59,-38,321
+300,16,2,855,57,-38,847
+300,16,2,840,56,-38,279
+300,16,2,885,59,-38,892
+300,16,2,840,56,-38,752
+300,16,2,870,58,-38,818
+300,16,2,930,62,-38,827
+300,16,2,855,57,-38,833
+300,16,2,840,56,-38,785
+300,16,2,825,55,-39,335
+300,16,2,855,57,-38,792
+300,16,2,855,57,-38,308
+300,16,2,885,59,-38,334
+300,16,2,840,56,-38,807
+300,16,2,840,56,-38,818
+300,16,2,855,57,-38,806
+300,16,2,855,57,-38,304
+300,16,2,885,59,-38,335
+300,16,2,840,56,-38,810
+300,16,2,855,57,-38,814
+300,16,2,870,58,-39,831
+300,16,2,840,56,-38,808
+300,16,2,870,58,-38,824
+300,16,2,855,57,-38,835
+300,16,2,840,56,-38,281
+300,16,2,885,59,-38,301
+300,16,2,885,59,-38,305
+300,16,2,840,56,-38,346
+300,16,2,840,56,-38,780
+300,16,2,840,56,-38,327
+300,16,2,870,58,-40,301
+300,16,2,855,57,-38,810
+300,16,2,870,58,-40,301
+300,16,2,825,55,-38,307
+300,16,2,840,56,-38,320
+300,16,2,840,56,-39,806
+300,16,2,840,56,-38,306
+300,16,2,900,60,-38,354
+300,16,2,855,57,-38,262
+300,16,2,840,56,-39,305
+300,16,2,870,58,-38,321
+300,16,2,840,56,-38,819
+300,16,2,840,56,-38,808
+300,16,2,855,57,-39,308
+300,16,2,840,56,-38,318
+300,16,2,870,58,-38,853
+300,16,2,855,57,-38,789
+300,16,2,855,57,-38,844
+300,16,2,855,57,-38,784
+300,16,2,855,57,-38,329
+300,16,2,855,57,-38,816
+300,16,2,870,58,-38,827
+300,16,2,840,56,-38,800
+300,16,2,840,56,-38,863
+300,16,2,840,56,-38,767
+300,16,2,840,56,-38,316
+300,16,2,840,56,-38,824
+300,16,2,855,57,-38,805
+300,16,2,870,58,-38,323
+300,16,2,840,56,-38,803
+300,16,2,840,56,-38,334
+300,16,2,855,57,-38,809
+300,16,2,870,58,-38,817
+300,16,2,840,56,-38,817
+300,16,2,840,56,-38,818
+300,16,2,855,57,-38,805
+300,16,2,840,56,-38,317
+300,16,2,840,56,-38,329
+300,16,2,870,58,-38,920
+300,16,2,945,63,-38,929
+300,16,2,885,59,-39,281
+300,16,2,855,57,-38,843
+300,16,2,840,56,-38,800
+300,16,2,855,57,-38,306
+300,16,2,840,56,-38,846
+300,16,2,855,57,-38,780
+300,16,2,870,58,-38,339
+300,16,2,870,58,-38,805
+300,16,2,840,56,-38,818
+300,16,2,870,58,-38,813
+300,16,2,870,58,-38,850
+300,16,2,885,59,-38,777
+300,16,2,930,62,-38,320
+300,16,2,900,60,-38,819
+300,16,2,900,60,-38,825
+300,16,2,825,55,-38,847
+300,16,2,855,57,-38,786
+300,16,2,855,57,-38,809
+300,16,2,885,59,-38,304
+300,16,2,840,56,-38,311
+300,16,2,840,56,-38,304
+300,16,2,870,58,-38,320
+300,16,2,855,57,-38,807
+300,16,2,855,57,-38,366
+E (340791) wifi:No FTM Measurements received from responder!
+W (340791) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,825,55,-38,289
+300,16,2,765,51,-38,811
+300,16,2,825,55,-40,816
+300,16,2,915,61,-38,842
+E (348578) wifi:No FTM Measurements received from responder!
+W (348578) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-38,299
+300,16,2,900,60,-38,981
+300,16,2,930,62,-38,752
+300,16,2,885,59,-39,345
+E (356150) wifi:No FTM Measurements received from responder!
+W (356150) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,870,58,-40,836
+300,16,2,900,60,-38,798
+300,16,2,855,57,-38,818
+300,16,2,840,56,-38,916
+300,16,2,855,57,-38,817
+300,16,2,840,56,-38,837
+E (366165) wifi:No FTM Measurements received from responder!
+W (366166) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,945,63,-38,310
+300,16,2,840,56,-38,476
+E (371933) wifi:No FTM Measurements received from responder!
+W (371933) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (376342) wifi:No FTM Measurements received from responder!
+W (376343) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (381427) wifi:No FTM Measurements received from responder!
+W (381428) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-39,305
+300,16,2,840,56,-38,876
+300,16,2,855,57,-38,933
+300,16,2,810,54,-38,1365
+E (390282) wifi:No FTM Measurements received from responder!
+W (390283) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-38,406
+300,16,2,855,57,-38,828
+E (396585) wifi:No FTM Measurements received from responder!
+W (396585) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-38,337
+E (402053) wifi:No FTM Measurements received from responder!
+W (402054) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (406453) wifi:No FTM Measurements received from responder!
+W (406453) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (411439) wifi:No FTM Measurements received from responder!
+W (411440) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,825,55,-38,427
+E (417811) wifi:No FTM Measurements received from responder!
+W (417811) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,855,57,-38,341
+300,16,2,825,55,-38,838
+300,16,2,840,56,-38,1097
+300,16,2,825,55,-39,1100
+300,16,2,825,55,-39,821
+300,16,2,840,56,-39,839
+300,16,2,870,58,-38,863
+300,16,2,855,57,-38,794
+300,16,2,840,56,-40,935
+300,16,2,825,55,-38,925
+300,16,2,930,62,-39,849
+300,16,2,840,56,-38,1012
+300,16,2,900,60,-39,834
+E (433967) wifi:No FTM Measurements received from responder!
+W (433968) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,900,60,-40,270
+300,16,2,825,55,-38,822
+300,16,2,900,60,-38,439
+300,16,2,855,57,-38,896
+300,16,2,825,55,-38,822
+300,16,2,930,62,-38,911
+300,16,2,870,58,-40,832
+E (443511) wifi:No FTM Measurements received from responder!
+W (443512) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,855,57,-38,414
+300,16,2,840,56,-37,819
+300,16,2,825,55,-38,827
+300,16,2,855,57,-38,954
+300,16,2,840,56,-38,987
+300,16,2,840,56,-38,926
+300,16,2,825,55,-39,825
+300,16,2,885,59,-39,920
+300,16,2,900,60,-38,1004
+E (456781) wifi:No FTM Measurements received from responder!
+W (456781) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,855,57,-38,436
+300,16,2,870,58,-38,931
+300,16,2,900,60,-38,1016
+300,16,2,855,57,-38,844
+300,16,2,840,56,-39,793
+300,16,2,825,55,-38,922
+300,16,2,855,57,-38,978
+300,16,2,825,55,-38,770
+300,16,2,855,57,-39,821
+300,16,2,825,55,-38,849
+300,16,2,870,58,-38,780
+300,16,2,870,58,-39,816
+300,16,2,825,55,-38,851
+300,16,2,840,56,-38,584
+300,16,2,795,53,-39,834
+300,16,2,855,57,-39,803
+300,16,2,825,55,-40,824
+300,16,2,825,55,-38,819
+300,16,2,840,56,-38,884
+300,16,2,840,56,-38,931
+300,16,2,885,59,-39,846
+300,16,2,840,56,-38,850
+300,16,2,825,55,-39,307
+300,16,2,825,55,-38,1171
+E (481473) wifi:No FTM Measurements received from responder!
+W (481473) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-39,445
+300,16,2,840,56,-40,1473
+E (488425) wifi:No FTM Measurements received from responder!
+W (488426) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,900,60,-39,298
+300,16,2,885,59,-38,937
+300,16,2,825,55,-38,948
+300,16,2,840,56,-38,773
+300,16,2,855,57,-38,921
+300,16,2,840,56,-38,837
+300,16,2,855,57,-38,801
+300,16,2,840,56,-39,824
+300,16,2,825,55,-38,853
+300,16,2,825,55,-38,817
+300,16,2,840,56,-38,886
+300,16,2,855,57,-38,818
+300,16,2,825,55,-38,1160
+300,16,2,840,56,-38,861
+300,16,2,885,59,-39,1376
+300,16,2,840,56,-38,808
+300,16,2,840,56,-38,1003
+300,16,2,900,60,-38,840
+300,16,2,825,55,-38,829
+300,16,2,825,55,-39,1010
+300,16,2,810,54,-38,1047
+300,16,2,855,57,-39,975
+300,16,2,825,55,-38,939
+300,16,2,900,60,-38,852
+300,16,2,945,63,-39,838
+300,16,2,885,59,-38,817
+300,16,2,870,58,-38,774
+300,16,2,915,61,-38,941
+300,16,2,855,57,-38,963
+300,16,2,915,61,-38,766
+300,16,2,870,58,-38,812
+E (520419) wifi:No FTM Measurements received from responder!
+W (520420) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-38,357
+E (525430) wifi:No FTM Measurements received from responder!
+W (525430) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,900,60,-38,425
+300,16,2,855,57,-38,794
+E (531675) wifi:No FTM Measurements received from responder!
+W (531676) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,825,55,-38,326
+300,16,2,825,55,-38,865
+300,16,2,870,58,-38,1379
+300,16,2,840,56,-38,834
+300,16,2,855,57,-39,808
+300,16,2,870,58,-38,817
+300,16,2,885,59,-39,828
+300,16,2,855,57,-38,808
+300,16,2,825,55,-39,866
+300,16,2,825,55,-38,800
+300,16,2,930,62,-38,823
+E (546186) wifi:No FTM Measurements received from responder!
+W (546187) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,825,55,-37,415
+300,16,2,825,55,-38,871
+300,16,2,840,56,-38,882
+300,16,2,855,57,-39,991
+300,16,2,900,60,-39,824
+300,16,2,885,59,-39,826
+E (555969) wifi:No FTM Measurements received from responder!
+W (555970) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-38,323
+300,16,2,855,57,-38,1231
+300,16,2,840,56,-38,915
+300,16,2,840,56,-39,1095
+300,16,2,855,57,-38,831
+300,16,2,825,55,-40,1352
+300,16,2,825,55,-39,927
+300,16,2,870,58,-38,1666
+E (569165) wifi:No FTM Measurements received from responder!
+W (569166) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,885,59,-40,388
+300,16,2,855,57,-38,865
+300,16,2,870,58,-38,801
+300,16,2,840,56,-38,790
+300,16,2,900,60,-38,927
+300,16,2,840,56,-38,820
+300,16,2,840,56,-38,899
+300,16,2,840,56,-38,1357
+300,16,2,840,56,-38,913
+300,16,2,870,58,-39,1184
+300,16,2,855,57,-39,889
+300,16,2,855,57,-38,841
+300,16,2,825,55,-38,847
+300,16,2,840,56,-38,945
+300,16,2,825,55,-38,993
+300,16,2,840,56,-38,1150
+E (588580) wifi:No FTM Measurements received from responder!
+W (588581) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-38,383
+300,16,2,825,55,-38,786
+300,16,2,825,55,-38,1021
+300,16,2,825,55,-38,1482
+E (597295) wifi:No FTM Measurements received from responder!
+W (597295) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,855,57,-38,269
+300,16,2,840,56,-38,816
+300,16,2,855,57,-38,925
+300,16,2,825,55,-38,931
+300,16,2,885,59,-38,925
+300,16,2,870,58,-39,1060
+300,16,2,855,57,-38,500
+300,16,2,840,56,-38,914
+300,16,2,825,55,-39,845
+300,16,2,825,55,-38,912
+300,16,2,870,58,-39,1034
+300,16,2,855,57,-38,394
+300,16,2,840,56,-38,1022
+300,16,2,825,55,-38,792
+300,16,2,855,57,-38,904
+300,16,2,840,56,-40,829
+300,16,2,825,55,-38,833
+300,16,2,885,59,-38,815
+300,16,2,885,59,-38,808
+300,16,2,825,55,-38,840
+300,16,2,840,56,-38,794
+300,16,2,915,61,-39,1101
+300,16,2,840,56,-38,867
+300,16,2,870,58,-38,903
+300,16,2,840,56,-39,883
+300,16,2,855,57,-38,868
+300,16,2,840,56,-38,803
+300,16,2,825,55,-39,821
+300,16,2,885,59,-38,844
+300,16,2,840,56,-39,1035
+E (628267) wifi:No FTM Measurements received from responder!
+W (628267) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,855,57,-39,515
+300,16,2,840,56,-39,806
+300,16,2,855,57,-38,944
+300,16,2,855,57,-38,880
+300,16,2,960,64,-39,972
+300,16,2,840,56,-39,908
+E (638347) wifi:No FTM Measurements received from responder!
+W (638348) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,660,44,-38,296
+E (642872) wifi:No FTM Measurements received from responder!
+W (642873) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (647519) wifi:No FTM Measurements received from responder!
+W (647520) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,840,56,-38,393
+300,16,2,840,56,-38,1150
+300,16,2,825,55,-38,863
+300,16,2,840,56,-38,1264
+300,16,2,810,54,-38,935
+300,16,2,765,51,-38,1053
+300,16,2,840,56,-38,828
+300,16,2,825,55,-39,1333
+300,16,2,840,56,-38,825
+300,16,2,855,57,-38,812
+300,16,2,930,62,-37,697
+300,16,2,840,56,-39,1305
+300,16,2,840,56,-38,969
+300,16,2,825,55,-39,817
+E (666115) wifi:No FTM Measurements received from responder!
+W (666116) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,855,57,-39,367
+E (671549) wifi:No FTM Measurements received from responder!
+W (671550) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,885,59,-38,514
+300,16,2,855,57,-38,937
+300,16,2,840,56,-38,880
+300,16,2,855,57,-38,848
+300,16,2,840,56,-38,910
+300,16,2,915,61,-39,931
+300,16,2,840,56,-38,798
+300,16,2,795,53,-38,822
+E (683132) wifi:No FTM Measurements received from responder!
+W (683132) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,870,58,-38,313
+300,16,2,825,55,-40,1205
+300,16,2,900,60,-38,884
+300,16,2,840,56,-38,1290
+300,16,2,885,59,-38,308
+300,16,2,855,57,-38,946
+300,16,2,1020,68,-38,971
+E (694239) wifi:No FTM Measurements received from responder!
+W (694240) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,825,55,-38,456
+300,16,2,840,56,-38,984
+300,16,2,855,57,-39,960
+300,16,2,825,55,-38,938
+300,16,2,840,56,-38,830
+300,16,2,825,55,-38,823
+300,16,2,825,55,-38,793
+300,16,2,780,52,-39,837
+300,16,2,885,59,-38,822
+300,16,2,840,56,-38,787
+300,16,2,825,55,-38,317
+300,16,2,870,58,-39,823
+300,16,2,885,59,-38,817
+300,16,2,855,57,-38,851
+300,16,2,795,53,-38,906
+300,16,2,825,55,-38,901
+300,16,2,870,58,-38,833
+300,16,2,825,55,-38,818
+300,16,2,870,58,-38,806
+300,16,2,855,57,-39,306
+300,16,2,870,58,-38,948
+300,16,2,870,58,-38,794
+300,16,2,840,56,-38,833
+300,16,2,840,56,-38,962
+300,16,2,885,59,-39,797
+300,16,2,870,58,-38,791
+300,16,2,810,54,-38,841
+300,16,2,840,56,-38,807
+300,16,2,840,56,-39,809
+300,16,2,840,56,-38,823
+300,16,2,840,56,-38,811
+300,16,2,900,60,-39,1093
+300,16,2,840,56,-38,1258
+300,16,2,870,58,-38,929
+300,16,2,855,57,-38,817
+300,16,2,870,58,-38,858
+300,16,2,840,56,-39,781
+300,16,2,840,56,-38,833
+300,16,2,840,56,-39,849
+300,16,2,870,58,-38,775
+300,16,2,870,58,-38,887
+300,16,2,825,55,-38,917
+300,16,2,885,59,-39,900
+300,16,2,915,61,-39,955
+E (735805) wifi:No FTM Measurements received from responder!
+W (735806) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,825,55,-38,357
+300,16,2,900,60,-38,1010
+300,16,2,930,62,-38,830
+300,16,2,870,58,-38,822
+E (744442) wifi:No FTM Measurements received from responder!
+W (744443) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,2,855,57,-38,375
+300,16,2,825,55,-38,866
+300,16,2,825,55,-38,847
+300,16,2,855,57,-38,782
+300,16,2,855,57,-38,320
+300,16,2,885,59,-38,302
+300,16,2,885,59,-38,810
+300,16,2,840,56,-38,340
+300,16,2,870,58,-38,796
+300,16,2,840,56,-38,842
+300,16,2,870,58,-39,287
+300,16,2,870,58,-39,856
+300,16,2,840,56,-38,274
+300,16,2,855,57,-38,915
+300,16,2,825,55,-39,843
+300,16,2,870,58,-38,785
+300,16,2,885,59,-38,320
+300,16,2,795,53,-38,874
+300,16,2,840,56,-38,250
+300,16,2,825,55,-39,531
+300,16,2,840,56,-39,811
+300,16,2,840,56,-39,808
+300,16,2,870,58,-38,297
+300,16,2,870,58,-39,348
+300,16,2,885,59,-38,781
+300,16,2,870,58,-38,327
+300,16,2,825,55,-39,808
+300,16,2,855,57,-38,809
+300,16,2,840,56,-39,341
+300,16,2,840,56,-38,796
+300,16,2,825,55,-38,848
+300,16,2,825,55,-39,796
+300,16,2,840,56,-38,823
+300,16,2,855,57,-38,815
+300,16,2,840,56,-38,820
+300,16,2,840,56,-38,292
+300,16,2,885,59,-39,318
+300,16,2,870,58,-38,823
+300,16,2,840,56,-38,881
+300,16,2,855,57,-38,740
+300,16,2,855,57,-38,338
+300,16,2,870,58,-38,812
+300,16,2,825,55,-38,816
+300,16,2,870,58,-38,811
+300,16,2,825,55,-39,838
+300,16,2,840,56,-38,279
+300,16,2,855,57,-38,319
+300,16,2,840,56,-38,817
+300,16,2,840,56,-38,850
+300,16,2,840,56,-38,778
+300,16,2,870,58,-38,327
+300,16,2,840,56,-38,799
+300,16,2,840,56,-38,307
+300,16,2,825,55,-39,336
+300,16,2,870,58,-38,786
+300,16,2,870,58,-38,312
+300,16,2,825,55,-38,327
+300,16,2,840,56,-38,826
+300,16,2,885,59,-38,815
+300,16,2,915,61,-38,799
+300,16,2,870,58,-38,334
+300,16,2,855,57,-40,813
+300,16,2,840,56,-38,793
+300,16,2,840,56,-38,315
+300,16,2,855,57,-38,320
+300,16,2,855,57,-38,307
+300,16,2,825,55,-39,837
+300,16,2,840,56,-38,274
+300,16,2,870,58,-38,321
+300,16,2,855,57,-38,822
+300,16,2,870,58,-38,298
+300,16,2,840,56,-38,807
+300,16,2,840,56,-38,309
+300,16,2,825,55,-38,308
+300,16,2,825,55,-38,342
+300,16,2,855,57,-38,783
+300,16,2,855,57,-38,308
+300,16,2,855,57,-38,318
+300,16,2,840,56,-38,297
+300,16,2,825,55,-39,323
+300,16,2,840,56,-38,823
+300,16,2,870,58,-38,832
+300,16,2,825,55,-38,816
+300,16,2,870,58,-38,788
+300,16,2,855,57,-38,309
+300,16,2,825,55,-38,309
+300,16,2,825,55,-38,302
+300,16,2,855,57,-39,342
+300,16,2,870,58,-38,808
+300,16,2,840,56,-38,812
+300,16,2,870,58,-39,804
+300,16,2,915,61,-38,340
+300,16,2,840,56,-38,788
+300,16,2,825,55,-38,323
+300,16,2,825,55,-38,841
+300,16,2,885,59,-39,784
+300,16,2,840,56,-38,322
+300,16,2,870,58,-38,813
+300,16,2,825,55,-38,813
+300,16,2,840,56,-39,319
+300,16,2,855,57,-39,310
+300,16,2,840,56,-38,801
+300,16,2,915,61,-38,353
+300,16,2,840,56,-38,887
+300,16,2,840,56,-38,850
+300,16,2,885,59,-39,791
+300,16,2,855,57,-38,807
+300,16,2,855,57,-39,343
+300,16,2,855,57,-38,779
+300,16,2,855,57,-38,308
+300,16,2,825,55,-40,305
+300,16,2,840,56,-38,308
+300,16,2,840,56,-38,322
+300,16,2,855,57,-39,820
+300,16,2,870,58,-39,292
+300,16,2,840,56,-38,322
+300,16,2,840,56,-38,847
+300,16,2,870,58,-38,790
+300,16,2,855,57,-40,806
+300,16,2,870,58,-38,320
+300,16,2,840,56,-38,296
+# Config 2/5: frame_count=16, burst_period=4
+300,16,4,855,57,-38,512
+300,16,4,840,56,-39,536
+300,16,4,840,56,-38,1015
+300,16,4,840,56,-39,490
+300,16,4,930,62,-37,525
+300,16,4,900,60,-38,1021
+300,16,4,840,56,-38,557
+300,16,4,870,58,-38,979
+300,16,4,870,58,-38,510
+300,16,4,825,55,-38,548
+300,16,4,840,56,-38,981
+300,16,4,825,55,-38,528
+300,16,4,885,59,-38,1051
+300,16,4,855,57,-38,990
+300,16,4,870,58,-39,504
+300,16,4,840,56,-38,528
+300,16,4,840,56,-38,1008
+300,16,4,870,58,-38,518
+300,16,4,855,57,-38,542
+300,16,4,855,57,-39,1031
+300,16,4,900,60,-38,993
+300,16,4,825,55,-38,1030
+300,16,4,915,61,-39,1046
+300,16,4,855,57,-39,983
+300,16,4,900,60,-38,516
+300,16,4,840,56,-38,555
+300,16,4,870,58,-39,977
+300,16,4,840,56,-38,512
+300,16,4,840,56,-38,512
+300,16,4,840,56,-38,513
+300,16,4,840,56,-38,510
+300,16,4,855,57,-38,518
+300,16,4,840,56,-38,547
+300,16,4,840,56,-38,472
+300,16,4,840,56,-38,512
+300,16,4,825,55,-38,513
+300,16,4,855,57,-38,512
+300,16,4,825,55,-38,509
+300,16,4,840,56,-38,516
+300,16,4,900,60,-38,523
+300,16,4,825,55,-39,1025
+300,16,4,855,57,-39,1009
+300,16,4,840,56,-38,514
+300,16,4,855,57,-38,508
+300,16,4,855,57,-38,516
+300,16,4,885,59,-39,525
+300,16,4,855,57,-38,1011
+300,16,4,855,57,-38,511
+300,16,4,840,56,-38,518
+300,16,4,840,56,-38,505
+300,16,4,840,56,-40,512
+300,16,4,855,57,-38,513
+300,16,4,840,56,-38,514
+300,16,4,855,57,-38,513
+300,16,4,855,57,-38,508
+300,16,4,870,58,-38,514
+300,16,4,855,57,-38,512
+300,16,4,840,56,-38,526
+300,16,4,840,56,-38,525
+300,16,4,825,55,-39,1035
+300,16,4,855,57,-38,994
+300,16,4,870,58,-38,526
+300,16,4,870,58,-38,1017
+300,16,4,810,54,-38,1021
+300,16,4,855,57,-38,1037
+300,16,4,885,59,-38,494
+300,16,4,855,57,-39,528
+300,16,4,840,56,-38,1004
+300,16,4,840,56,-38,521
+300,16,4,870,58,-38,1012
+300,16,4,855,57,-38,510
+300,16,4,840,56,-39,531
+300,16,4,795,53,-38,1005
+300,16,4,870,58,-38,520
+300,16,4,840,56,-38,508
+300,16,4,855,57,-38,522
+300,16,4,855,57,-38,1020
+300,16,4,855,57,-38,521
+300,16,4,855,57,-39,499
+300,16,4,825,55,-38,549
+300,16,4,840,56,-38,982
+300,16,4,870,58,-38,516
+300,16,4,840,56,-39,512
+300,16,4,870,58,-38,507
+300,16,4,870,58,-38,525
+300,16,4,855,57,-39,1011
+300,16,4,915,61,-39,526
+300,16,4,840,56,-38,499
+300,16,4,930,62,-38,545
+300,16,4,885,59,-38,998
+300,16,4,855,57,-38,508
+300,16,4,855,57,-39,513
+300,16,4,840,56,-38,540
+300,16,4,900,60,-39,496
+300,16,4,870,58,-38,1007
+300,16,4,855,57,-38,512
+300,16,4,840,56,-39,521
+300,16,4,825,55,-38,540
+300,16,4,930,62,-38,992
+300,16,4,840,56,-38,515
+300,16,4,840,56,-38,541
+300,16,4,840,56,-39,1001
+300,16,4,825,55,-39,1044
+300,16,4,885,59,-38,1010
+300,16,4,840,56,-38,1045
+300,16,4,840,56,-38,998
+300,16,4,840,56,-38,1029
+300,16,4,840,56,-38,532
+300,16,4,870,58,-38,1008
+300,16,4,885,59,-38,1050
+300,16,4,840,56,-38,988
+300,16,4,840,56,-38,1024
+300,16,4,900,60,-39,1024
+300,16,4,840,56,-38,1026
+300,16,4,840,56,-38,1030
+300,16,4,840,56,-38,1028
+300,16,4,870,58,-38,1000
+300,16,4,840,56,-38,525
+300,16,4,840,56,-38,1058
+300,16,4,900,60,-38,989
+300,16,4,840,56,-38,1016
+300,16,4,870,58,-38,527
+300,16,4,870,58,-38,1048
+300,16,4,840,56,-38,481
+300,16,4,870,58,-38,1025
+300,16,4,870,58,-38,514
+300,16,4,855,57,-38,1025
+300,16,4,900,60,-38,1020
+300,16,4,900,60,-38,1019
+300,16,4,900,60,-38,516
+300,16,4,840,56,-38,1025
+300,16,4,855,57,-38,507
+300,16,4,915,61,-39,522
+300,16,4,870,58,-38,1046
+300,16,4,855,57,-38,1039
+300,16,4,855,57,-38,982
+300,16,4,855,57,-38,1046
+300,16,4,900,60,-38,1007
+300,16,4,885,59,-39,1019
+300,16,4,855,57,-38,1131
+300,16,4,870,58,-39,1014
+300,16,4,885,59,-38,520
+300,16,4,945,63,-39,1021
+300,16,4,840,56,-38,1056
+300,16,4,825,55,-38,992
+300,16,4,870,58,-38,1028
+300,16,4,870,58,-38,1122
+300,16,4,855,57,-38,1013
+300,16,4,900,60,-40,524
+300,16,4,840,56,-38,1019
+300,16,4,840,56,-39,503
+300,16,4,855,57,-38,526
+300,16,4,840,56,-38,1019
+300,16,4,915,61,-38,517
+300,16,4,855,57,-39,1024
+300,16,4,825,55,-38,1024
+300,16,4,825,55,-38,1052
+300,16,4,825,55,-38,491
+300,16,4,825,55,-39,609
+300,16,4,810,54,-38,1024
+300,16,4,840,56,-40,1043
+300,16,4,840,56,-38,1020
+300,16,4,825,55,-38,1021
+300,16,4,870,58,-39,1014
+300,16,4,870,58,-38,1014
+300,16,4,855,57,-38,636
+300,16,4,825,55,-38,995
+300,16,4,870,58,-38,516
+300,16,4,840,56,-38,508
+300,16,4,855,57,-38,526
+300,16,4,870,58,-38,512
+300,16,4,855,57,-38,532
+300,16,4,855,57,-39,1009
+300,16,4,840,56,-38,1014
+300,16,4,855,57,-38,512
+300,16,4,825,55,-39,527
+300,16,4,825,55,-38,1023
+300,16,4,870,58,-39,1001
+300,16,4,840,56,-39,518
+300,16,4,915,61,-39,545
+300,16,4,855,57,-38,1014
+300,16,4,840,56,-38,1010
+300,16,4,840,56,-38,1037
+300,16,4,855,57,-38,1012
+300,16,4,855,57,-38,1013
+300,16,4,840,56,-39,509
+300,16,4,915,61,-38,552
+E (962408) wifi:No FTM Measurements received from responder!
+W (962409) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,840,56,-38,493
+300,16,4,840,56,-38,578
+300,16,4,855,57,-38,441
+300,16,4,855,57,-38,558
+300,16,4,885,59,-38,465
+300,16,4,840,56,-38,562
+300,16,4,840,56,-39,994
+300,16,4,855,57,-38,1047
+300,16,4,840,56,-38,1007
+300,16,4,855,57,-38,1022
+300,16,4,870,58,-38,1013
+300,16,4,870,58,-38,1044
+300,16,4,870,58,-38,1016
+300,16,4,855,57,-38,1014
+300,16,4,840,56,-40,1167
+300,16,4,885,59,-38,469
+300,16,4,855,57,-38,1092
+W (981109) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,840,56,-38,575
+300,16,4,840,56,-38,1025
+300,16,4,840,56,-38,999
+300,16,4,840,56,-38,525
+300,16,4,855,57,-38,1234
+300,16,4,810,54,-38,1926
+E (991986) wifi:No FTM Measurements received from responder!
+W (991986) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,825,55,-38,606
+300,16,4,1080,72,-38,1136
+300,16,4,825,55,-38,1649
+300,16,4,840,56,-38,1130
+300,16,4,855,57,-38,1059
+300,16,4,885,59,-38,1536
+300,16,4,840,56,-38,1125
+300,16,4,840,56,-38,1714
+300,16,4,840,56,-38,1241
+300,16,4,870,58,-40,1114
+300,16,4,840,56,-38,1754
+300,16,4,840,56,-38,1149
+E (1012483) wifi:No FTM Measurements received from responder!
+W (1012483) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1017062) wifi:No FTM Measurements received from responder!
+W (1017063) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,870,58,-40,602
+300,16,4,825,55,-38,1671
+W (1024884) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,855,57,-38,700
+300,16,4,855,57,-39,1287
+E (1032245) wifi:No FTM Measurements received from responder!
+W (1032245) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,960,64,-38,581
+300,16,4,870,58,-38,1043
+300,16,4,840,56,-40,1202
+300,16,4,870,58,-38,1136
+300,16,4,840,56,-38,1331
+300,16,4,840,56,-39,1579
+300,16,4,915,61,-38,1182
+300,16,4,840,56,-38,1340
+300,16,4,855,57,-38,1234
+300,16,4,825,55,-38,1784
+E (1049073) wifi:No FTM Measurements received from responder!
+W (1049073) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1053270) wifi:No FTM Measurements received from responder!
+W (1053270) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1058493) wifi:No FTM Measurements received from responder!
+W (1058494) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1063510) wifi:No FTM Measurements received from responder!
+W (1063511) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1068326) wifi:No FTM Measurements received from responder!
+W (1068326) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,885,59,-39,553
+300,16,4,825,55,-40,1335
+300,16,4,825,55,-39,1019
+300,16,4,825,55,-39,1028
+300,16,4,840,56,-40,1159
+300,16,4,855,57,-39,1122
+300,16,4,795,53,-40,1128
+300,16,4,795,53,-40,1880
+300,16,4,795,53,-38,1215
+300,16,4,810,54,-39,1128
+300,16,4,810,54,-40,1283
+300,16,4,810,54,-39,1130
+W (1088269) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,780,52,-38,694
+300,16,4,810,54,-40,1274
+300,16,4,840,56,-38,1495
+300,16,4,810,54,-39,1396
+300,16,4,810,54,-38,1161
+300,16,4,810,54,-39,1568
+300,16,4,825,55,-39,1618
+300,16,4,810,54,-39,526
+300,16,4,825,55,-38,1051
+300,16,4,810,54,-40,1204
+300,16,4,795,53,-39,1651
+300,16,4,795,53,-39,1381
+300,16,4,870,58,-39,1793
+300,16,4,840,56,-39,1009
+E (1111056) wifi:No FTM Measurements received from responder!
+W (1111056) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,795,53,-38,1038
+300,16,4,825,55,-38,1693
+300,16,4,780,52,-39,1174
+300,16,4,825,55,-39,1258
+E (1120855) wifi:No FTM Measurements received from responder!
+W (1120855) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1125296) wifi:No FTM Measurements received from responder!
+W (1125297) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,825,55,-39,1122
+300,16,4,795,53,-41,1660
+300,16,4,795,53,-38,1146
+W (1135185) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,810,54,-40,607
+300,16,4,810,54,-38,1617
+E (1141512) wifi:No FTM Measurements received from responder!
+W (1141512) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,810,54,-39,549
+300,16,4,825,55,-41,1945
+300,16,4,840,56,-39,1025
+E (1151458) wifi:No FTM Measurements received from responder!
+W (1151458) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,840,56,-40,523
+300,16,4,735,49,-39,1140
+300,16,4,810,54,-39,1023
+W (1158617) puara-module: FTM Report received with non-success status: 3
+# Timeout after 5001 ms, retrying...
+300,16,4,765,51,-40,537
+300,16,4,840,56,-39,1011
+300,16,4,780,52,-39,1049
+300,16,4,810,54,-39,1002
+300,16,4,765,51,-40,1137
+300,16,4,810,54,-38,1636
+300,16,4,735,49,-38,1211
+300,16,4,795,53,-39,1024
+300,16,4,855,57,-40,1127
+300,16,4,840,56,-41,772
+300,16,4,810,54,-38,967
+300,16,4,825,55,-40,1023
+300,16,4,810,54,-39,1047
+300,16,4,795,53,-38,1007
+300,16,4,840,56,-41,1193
+300,16,4,840,56,-38,1101
+300,16,4,795,53,-40,978
+300,16,4,840,56,-38,1026
+300,16,4,900,60,-40,1330
+300,16,4,825,55,-39,1165
+300,16,4,825,55,-39,1186
+300,16,4,810,54,-39,1132
+300,16,4,840,56,-39,1026
+300,16,4,900,60,-39,1029
+300,16,4,885,59,-40,1015
+300,16,4,870,58,-39,1030
+300,16,4,840,56,-38,1134
+300,16,4,825,55,-40,1147
+300,16,4,885,59,-39,1272
+300,16,4,855,57,-39,1793
+E (1196907) wifi:No FTM Measurements received from responder!
+W (1196908) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1200731) wifi:No FTM Measurements received from responder!
+W (1200732) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,840,56,-38,674
+300,16,4,855,57,-40,1627
+300,16,4,885,59,-39,1194
+300,16,4,840,56,-39,1078
+E (1211626) wifi:No FTM Measurements received from responder!
+W (1211627) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+E (1216155) wifi:No FTM Measurements received from responder!
+W (1216156) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,840,56,-39,589
+300,16,4,825,55,-40,1053
+300,16,4,780,52,-40,1137
+300,16,4,825,55,-39,1533
+300,16,4,900,60,-38,1116
+300,16,4,825,55,-40,1002
+300,16,4,810,54,-39,1023
+300,16,4,780,52,-38,1159
+300,16,4,840,56,-40,992
+300,16,4,780,52,-40,1023
+300,16,4,840,56,-39,1025
+300,16,4,900,60,-40,1028
+300,16,4,840,56,-40,1153
+300,16,4,795,53,-39,988
+E (1235934) wifi:No FTM Measurements received from responder!
+W (1235935) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,810,54,-39,559
+300,16,4,960,64,-38,759
+300,16,4,795,53,-39,1056
+300,16,4,780,52,-38,1084
+300,16,4,1275,85,-40,988
+300,16,4,795,53,-38,1480
+300,16,4,795,53,-41,1528
+300,16,4,795,53,-38,1475
+300,16,4,825,55,-40,1027
+300,16,4,795,53,-38,1165
+300,16,4,870,58,-39,1111
+300,16,4,810,54,-38,1118
+300,16,4,780,52,-38,1388
+E (1255587) wifi:No FTM Measurements received from responder!
+W (1255588) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,780,52,-38,663
+300,16,4,780,52,-39,915
+300,16,4,810,54,-39,1645
+300,16,4,825,55,-38,1444
+300,16,4,795,53,-40,1092
+300,16,4,720,48,-38,1042
+E (1267419) wifi:No FTM Measurements received from responder!
+W (1267419) puara-module: FTM Report received with non-success status: 5
+# Timeout after 5001 ms, retrying...
+300,16,4,795,53,-39,629
+300,16,4,825,55,-40,1029
+300,16,4,795,53,-40,1093
+300,16,4,795,53,-38,1055
+300,16,4,870,58,-39,1122
+300,16,4,795,53,-38,1176
+300,16,4,825,55,-40,1070
+300,16,4,810,54,-40,1167
+300,16,4,795,53,-38,995
+300,16,4,840,56,-38,1738
+300,16,4,795,53,-38,1023
+300,16,4,825,55,-39,1206
+300,16,4,705,47,-38,1083
+300,16,4,900,60,-38,1152
+300,16,4,780,52,-40,963
+300,16,4,780,52,-39,1218
+300,16,4,795,53,-39,1137
+300,16,4,900,60,-39,1232
+300,16,4,975,65,-38,1195
+300,16,4,825,55,-38,1073
+300,16,4,795,53,-41,1219
+300,16,4,795,53,-39,1221
+300,16,4,810,54,-38,1085
+300,16,4,825,55,-39,962
+300,16,4,810,54,-38,511
+300,16,4,810,54,-38,1030
+300,16,4,795,53,-38,1034
+300,16,4,840,56,-38,1015
+300,16,4,900,60,-40,1023
+300,16,4,795,53,-38,509
+300,16,4,825,55,-38,1027
+300,16,4,855,57,-38,1023
+300,16,4,975,65,-38,1047
+300,16,4,840,56,-38,997
+300,16,4,810,54,-40,1024
+300,16,4,810,54,-38,518
+300,16,4,795,53,-40,1021
+300,16,4,885,59,-38,1037
+300,16,4,915,61,-40,1047
+300,16,4,735,49,-38,984
+300,16,4,795,53,-38,1046
+300,16,4,795,53,-38,1007
+300,16,4,855,57,-38,1025
+300,16,4,870,58,-40,1020
+300,16,4,840,56,-38,516
+300,16,4,855,57,-40,1025
+300,16,4,825,55,-39,518
+300,16,4,765,51,-38,1016
+300,16,4,885,59,-39,1030
+300,16,4,855,57,-40,1039
+300,16,4,855,57,-38,1006
+300,16,4,765,51,-40,1020
+300,16,4,735,49,-38,1054
+300,16,4,825,55,-38,993
+300,16,4,750,50,-38,1058
+300,16,4,870,58,-39,977
+300,16,4,825,55,-39,533
+300,16,4,810,54,-38,1002
+300,16,4,795,53,-39,556
+300,16,4,840,56,-39,993
+======================== [SUCCESS] Took 1375.50 seconds ========================
