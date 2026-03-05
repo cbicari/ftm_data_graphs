@@ -1,0 +1,1062 @@
+Processing template (board: esp32-c3-devkitc-02; platform: https://github.com/pioarduino/platform-espressif32/releases/download/stable/platform-espressif32.zip; framework: arduino)
+--------------------------------------------------------------------------------
+Verbose mode can be enabled via `-v, --verbose` option
+CONFIGURATION: https://docs.platformio.org/page/boards/espressif32/esp32-c3-devkitc-02.html
+PLATFORM: Espressif 32 (55.3.37) > Espressif ESP32-C3-DevKitC-02
+HARDWARE: ESP32C3 160MHz, 320KB RAM, 4MB Flash
+DEBUG: Current (cmsis-dap) External (cmsis-dap, esp-bridge, esp-builtin, esp-prog, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa)
+PACKAGES: 
+ - contrib-piohome @ 3.4.4 
+ - framework-arduinoespressif32 @ 3.3.7 
+ - framework-arduinoespressif32-libs @ 5.5.0+sha.87912cd291 
+ - tool-esptoolpy @ 5.1.2 
+ - toolchain-riscv32-esp @ 14.2.0+20251107 
+ - toolchain-xtensa-esp32s3 @ 12.2.0+20230208
+LDF: Library Dependency Finder -> https://bit.ly/configure-pio-ldf
+LDF Modes: Finder ~ chain, Compatibility ~ soft
+Found 44 compatible libraries
+Scanning dependencies...
+Dependency Graph
+|-- puara-module @ 1.0.0
+Building in release mode
+Retrieving maximum program size .pio/build/template/firmware.elf
+Checking size .pio/build/template/firmware.elf
+Advanced Memory Usage is available via "PlatformIO Home > Project Inspect"
+RAM:   [=         ]  13.9% (used 45408 bytes from 327680 bytes)
+Flash: [===       ]  32.2% (used 1264601 bytes from 3932160 bytes)
+Configuring upload protocol...
+AVAILABLE: cmsis-dap, esp-bridge, esp-builtin, esp-prog, espota, esptool, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa
+CURRENT: upload_protocol = esptool
+Looking for upload port...
+Auto-detected: /dev/ttyUSB0
+Uploading .pio/build/template/firmware.bin
+esptool v5.1.2
+Serial port /dev/ttyUSB0:
+Connecting....
+Connected to ESP32-C3 on /dev/ttyUSB0:
+Chip type:          ESP32-C3 (QFN32) (revision v0.4)
+Features:           Wi-Fi, BT 5 (LE), Single Core, 160MHz
+Crystal frequency:  40MHz
+MAC:                54:32:04:41:45:a8
+
+Uploading stub flasher...
+Running stub flasher...
+Stub flasher running.
+Changing baud rate to 460800...
+Changed.
+
+Configuring flash size...
+Auto-detected flash size: 4MB
+Flash will be erased from 0x00000000 to 0x00004fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00157fff...
+SHA digest in image updated.
+Compressed 19520 bytes to 12719...
+
+Writing at 0x00000000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/12719 bytes... 
+
+Writing at 0x00004c40 [██████████████████████████████] 100.0% 12719/12719 bytes... 
+Wrote 19520 bytes (12719 compressed) at 0x00000000 in 0.8 seconds (208.2 kbit/s).
+Hash of data verified.
+Compressed 3072 bytes to 119...
+
+Writing at 0x00008000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/119 bytes... 
+
+Writing at 0x00008c00 [██████████████████████████████] 100.0% 119/119 bytes... 
+Wrote 3072 bytes (119 compressed) at 0x00008000 in 0.1 seconds (282.9 kbit/s).
+Hash of data verified.
+Compressed 8192 bytes to 47...
+
+Writing at 0x0000e000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/47 bytes... 
+
+Writing at 0x00010000 [██████████████████████████████] 100.0% 47/47 bytes... 
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.2 seconds (378.0 kbit/s).
+Hash of data verified.
+Compressed 1340192 bytes to 788878...
+
+Writing at 0x00010000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/788878 bytes... 
+
+Writing at 0x0001cc21 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   2.1% 16384/788878 bytes... 
+
+Writing at 0x00028752 [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   4.2% 32768/788878 bytes... 
+
+Writing at 0x000302fc [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   6.2% 49152/788878 bytes... 
+
+Writing at 0x0003a72a [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   8.3% 65536/788878 bytes... 
+
+Writing at 0x000463b8 [███░░░░░░░░░░░░░░░░░░░░░░░░░░░]  10.4% 81920/788878 bytes... 
+
+Writing at 0x0005000c [███░░░░░░░░░░░░░░░░░░░░░░░░░░░]  12.5% 98304/788878 bytes... 
+
+Writing at 0x0005631f [████░░░░░░░░░░░░░░░░░░░░░░░░░░]  14.5% 114688/788878 bytes... 
+
+Writing at 0x0005cccd [████░░░░░░░░░░░░░░░░░░░░░░░░░░]  16.6% 131072/788878 bytes... 
+
+Writing at 0x00062fa7 [█████░░░░░░░░░░░░░░░░░░░░░░░░░]  18.7% 147456/788878 bytes... 
+
+Writing at 0x00069a51 [██████░░░░░░░░░░░░░░░░░░░░░░░░]  20.8% 163840/788878 bytes... 
+
+Writing at 0x0006fb64 [██████░░░░░░░░░░░░░░░░░░░░░░░░]  22.8% 180224/788878 bytes... 
+
+Writing at 0x0007607e [███████░░░░░░░░░░░░░░░░░░░░░░░]  24.9% 196608/788878 bytes... 
+
+Writing at 0x0007c19d [████████░░░░░░░░░░░░░░░░░░░░░░]  27.0% 212992/788878 bytes... 
+
+Writing at 0x00081f40 [████████░░░░░░░░░░░░░░░░░░░░░░]  29.1% 229376/788878 bytes... 
+
+Writing at 0x00087cd6 [█████████░░░░░░░░░░░░░░░░░░░░░]  31.2% 245760/788878 bytes... 
+
+Writing at 0x0008e04f [█████████░░░░░░░░░░░░░░░░░░░░░]  33.2% 262144/788878 bytes... 
+
+Writing at 0x0009422f [██████████░░░░░░░░░░░░░░░░░░░░]  35.3% 278528/788878 bytes... 
+
+Writing at 0x0009a70d [███████████░░░░░░░░░░░░░░░░░░░]  37.4% 294912/788878 bytes... 
+
+Writing at 0x000a0719 [███████████░░░░░░░░░░░░░░░░░░░]  39.5% 311296/788878 bytes... 
+
+Writing at 0x000a6752 [████████████░░░░░░░░░░░░░░░░░░]  41.5% 327680/788878 bytes... 
+
+Writing at 0x000ac04c [█████████████░░░░░░░░░░░░░░░░░]  43.6% 344064/788878 bytes... 
+
+Writing at 0x000b1943 [█████████████░░░░░░░░░░░░░░░░░]  45.7% 360448/788878 bytes... 
+
+Writing at 0x000b712f [██████████████░░░░░░░░░░░░░░░░]  47.8% 376832/788878 bytes... 
+
+Writing at 0x000bca54 [██████████████░░░░░░░░░░░░░░░░]  49.8% 393216/788878 bytes... 
+
+Writing at 0x000c27db [███████████████░░░░░░░░░░░░░░░]  51.9% 409600/788878 bytes... 
+
+Writing at 0x000c83fe [████████████████░░░░░░░░░░░░░░]  54.0% 425984/788878 bytes... 
+
+Writing at 0x000cdeca [████████████████░░░░░░░░░░░░░░]  56.1% 442368/788878 bytes... 
+
+Writing at 0x000d3e38 [█████████████████░░░░░░░░░░░░░]  58.2% 458752/788878 bytes... 
+
+Writing at 0x000d98ec [██████████████████░░░░░░░░░░░░]  60.2% 475136/788878 bytes... 
+
+Writing at 0x000dfd42 [██████████████████░░░░░░░░░░░░]  62.3% 491520/788878 bytes... 
+
+Writing at 0x000e5ff9 [███████████████████░░░░░░░░░░░]  64.4% 507904/788878 bytes... 
+
+Writing at 0x000ec2f7 [███████████████████░░░░░░░░░░░]  66.5% 524288/788878 bytes... 
+
+Writing at 0x000f2305 [████████████████████░░░░░░░░░░]  68.5% 540672/788878 bytes... 
+
+Writing at 0x000f83d3 [█████████████████████░░░░░░░░░]  70.6% 557056/788878 bytes... 
+
+Writing at 0x000fe319 [█████████████████████░░░░░░░░░]  72.7% 573440/788878 bytes... 
+
+Writing at 0x00104bba [██████████████████████░░░░░░░░]  74.8% 589824/788878 bytes... 
+
+Writing at 0x0010c17e [███████████████████████░░░░░░░]  76.8% 606208/788878 bytes... 
+
+Writing at 0x00112fd7 [███████████████████████░░░░░░░]  78.9% 622592/788878 bytes... 
+
+Writing at 0x0011a91d [████████████████████████░░░░░░]  81.0% 638976/788878 bytes... 
+
+Writing at 0x00123046 [████████████████████████░░░░░░]  83.1% 655360/788878 bytes... 
+
+Writing at 0x00128ffc [█████████████████████████░░░░░]  85.2% 671744/788878 bytes... 
+
+Writing at 0x0012f0da [██████████████████████████░░░░]  87.2% 688128/788878 bytes... 
+
+Writing at 0x00135bc8 [██████████████████████████░░░░]  89.3% 704512/788878 bytes... 
+
+Writing at 0x0013dcf7 [███████████████████████████░░░]  91.4% 720896/788878 bytes... 
+
+Writing at 0x00143c9c [████████████████████████████░░]  93.5% 737280/788878 bytes... 
+
+Writing at 0x00149d97 [████████████████████████████░░]  95.5% 753664/788878 bytes... 
+
+Writing at 0x0014ff8e [█████████████████████████████░]  97.6% 770048/788878 bytes... 
+
+Writing at 0x00156185 [█████████████████████████████░]  99.7% 786432/788878 bytes... 
+
+Writing at 0x00157320 [██████████████████████████████] 100.0% 788878/788878 bytes... 
+Wrote 1340192 bytes (788878 compressed) at 0x00010000 in 23.4 seconds (458.0 kbit/s).
+Hash of data verified.
+
+Hard resetting via RTS pin...
+Warning! Skipping unknown filters `default esp32_exception_decoder`. Known filters are `debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time`
+--- Terminal on /dev/ttyUSB0 | 115200 8-N-1
+--- Available filters and text transformations: debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+Trying to connect to AP 1/5
+Trying to connect to AP 2/5
+Trying to connect to AP 3/5
+Trying to connect to AP 4/5
+Trying to connect to AP 5/5
+W (17536) puara-module: Connect to external AP failed. Creating own Access Point network
+W (17536) puara-module: wifi_init: Failed to connect to SSID: no_connection_now
+Device wifi network : ftm_initiator_001
+Open device network config/settings in browser with : http://ftm_initiator_001.local/
+Puara Start Done!
+
+  Type "reboot" in the serial monitor to reset the ESP32.
+
+Retrieved SSID for Responder 1: ftm_responder_001
+Retrieved SSID for Responder 2: ftm_responder_002
+Retrieved SSID for Responder 3: ftm_responder_003
+Retrieved SSID for Responder 4: ftm_responder_004
+# ====== FTM Benchmark Test ======
+# Position       : p11 (5.0, 2.5)
+# Responders     : 4
+# Samples/resp   : 1000
+# Total attempts : 4000
+# Frame count    : 16
+# Burst period   : 4
+# Responder r1 : SSID=ftm_responder_001  pos=(0.0, 0.0)
+# Responder r2 : SSID=ftm_responder_002  pos=(20.0, 0.0)
+# Responder r3 : SSID=ftm_responder_003  pos=(0.0, 10.0)
+# Responder r4 : SSID=ftm_responder_004  pos=(20.0, 10.0)
+# ================================
+position,real_x,real_y,responder_ssid,responder_label,responder_x,responder_y,frame_count,burst_period,dist_est_cm,rtt_est_ns,rssi,elapsed_ms,sample_num
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,448,1
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1860,124,-44,448,1
+# ERROR round 1: ftm_responder_003 (r3) — timeout/failure
+W (22622) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-52,462,1
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,443,2
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-44,449,2
+# ERROR round 2: ftm_responder_003 (r3) — timeout/failure
+W (24981) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3015,201,-52,471,2
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,765,51,-36,523,3
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1725,115,-44,453,3
+# ERROR round 3: ftm_responder_003 (r3) — timeout/failure
+W (27434) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2940,196,-52,468,3
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,535,4
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-44,461,4
+# ERROR round 4: ftm_responder_003 (r3) — timeout/failure
+W (29904) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2910,194,-52,452,4
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,438,5
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-44,453,5
+# ERROR round 5: ftm_responder_003 (r3) — timeout/failure
+W (32253) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2910,194,-53,459,5
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,451,6
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-44,432,6
+# ERROR round 6: ftm_responder_003 (r3) — timeout/failure
+W (34602) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2925,195,-52,474,6
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,554,7
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-44,531,7
+# ERROR round 7: ftm_responder_003 (r3) — timeout/failure
+W (37166) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2925,195,-53,464,7
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,750,50,-36,428,8
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-44,465,8
+# ERROR round 8: ftm_responder_003 (r3) — timeout/failure
+W (39530) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-54,452,8
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,447,9
+E (40456) wifi:No FTM Measurements received from responder!
+W (40456) puara-module: FTM Report received with non-success status: 5
+# ERROR round 9: ftm_responder_002 (r2) — timeout/failure
+# ERROR round 9: ftm_responder_003 (r3) — timeout/failure
+W (42435) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2910,194,-52,517,9
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,432,10
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-44,451,10
+# ERROR round 10: ftm_responder_003 (r3) — timeout/failure
+W (44842) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2940,196,-52,465,10
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,443,11
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-44,447,11
+# ERROR round 11: ftm_responder_003 (r3) — timeout/failure
+W (47203) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-53,457,11
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,885,59,-36,439,12
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-44,446,12
+# ERROR round 12: ftm_responder_003 (r3) — timeout/failure
+W (49551) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3000,200,-52,467,12
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,434,13
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-44,449,13
+# ERROR round 13: ftm_responder_003 (r3) — timeout/failure
+W (51906) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-52,472,13
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,533,14
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1695,113,-44,450,14
+# ERROR round 14: ftm_responder_003 (r3) — timeout/failure
+W (54367) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-52,457,14
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,855,57,-36,439,15
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1710,114,-44,451,15
+Processing template (board: esp32-c3-devkitc-02; platform: https://github.com/pioarduino/platform-espressif32/releases/download/stable/platform-espressif32.zip; framework: arduino)
+--------------------------------------------------------------------------------
+Verbose mode can be enabled via `-v, --verbose` option
+CONFIGURATION: https://docs.platformio.org/page/boards/espressif32/esp32-c3-devkitc-02.html
+PLATFORM: Espressif 32 (55.3.37) > Espressif ESP32-C3-DevKitC-02
+HARDWARE: ESP32C3 160MHz, 320KB RAM, 4MB Flash
+DEBUG: Current (cmsis-dap) External (cmsis-dap, esp-bridge, esp-builtin, esp-prog, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa)
+PACKAGES: 
+ - contrib-piohome @ 3.4.4 
+ - framework-arduinoespressif32 @ 3.3.7 
+ - framework-arduinoespressif32-libs @ 5.5.0+sha.87912cd291 
+ - tool-esptoolpy @ 5.1.2 
+ - toolchain-riscv32-esp @ 14.2.0+20251107 
+ - toolchain-xtensa-esp32s3 @ 12.2.0+20230208
+LDF: Library Dependency Finder -> https://bit.ly/configure-pio-ldf
+LDF Modes: Finder ~ chain, Compatibility ~ soft
+Found 44 compatible libraries
+Scanning dependencies...
+Dependency Graph
+|-- puara-module @ 1.0.0
+Building in release mode
+Retrieving maximum program size .pio/build/template/firmware.elf
+Checking size .pio/build/template/firmware.elf
+Advanced Memory Usage is available via "PlatformIO Home > Project Inspect"
+RAM:   [=         ]  13.9% (used 45408 bytes from 327680 bytes)
+Flash: [===       ]  32.2% (used 1264601 bytes from 3932160 bytes)
+Configuring upload protocol...
+AVAILABLE: cmsis-dap, esp-bridge, esp-builtin, esp-prog, espota, esptool, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa
+CURRENT: upload_protocol = esptool
+Looking for upload port...
+Auto-detected: /dev/ttyUSB0
+Uploading .pio/build/template/firmware.bin
+esptool v5.1.2
+Serial port /dev/ttyUSB0:
+Connecting....
+Connected to ESP32-C3 on /dev/ttyUSB0:
+Chip type:          ESP32-C3 (QFN32) (revision v0.4)
+Features:           Wi-Fi, BT 5 (LE), Single Core, 160MHz
+Crystal frequency:  40MHz
+MAC:                54:32:04:41:45:a8
+
+Uploading stub flasher...
+Running stub flasher...
+Stub flasher running.
+Changing baud rate to 460800...
+Changed.
+
+Configuring flash size...
+Auto-detected flash size: 4MB
+Flash will be erased from 0x00000000 to 0x00004fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00157fff...
+SHA digest in image updated.
+Compressed 19520 bytes to 12719...
+
+Writing at 0x00000000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/12719 bytes... 
+
+Writing at 0x00004c40 [██████████████████████████████] 100.0% 12719/12719 bytes... 
+Wrote 19520 bytes (12719 compressed) at 0x00000000 in 0.8 seconds (208.2 kbit/s).
+Hash of data verified.
+Compressed 3072 bytes to 119...
+
+Writing at 0x00008000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/119 bytes... 
+
+Writing at 0x00008c00 [██████████████████████████████] 100.0% 119/119 bytes... 
+Wrote 3072 bytes (119 compressed) at 0x00008000 in 0.1 seconds (283.0 kbit/s).
+Hash of data verified.
+Compressed 8192 bytes to 47...
+
+Writing at 0x0000e000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/47 bytes... 
+
+Writing at 0x00010000 [██████████████████████████████] 100.0% 47/47 bytes... 
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.2 seconds (384.3 kbit/s).
+Hash of data verified.
+Compressed 1340192 bytes to 788878...
+
+Writing at 0x00010000 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0% 0/788878 bytes... 
+
+Writing at 0x0001cc21 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   2.1% 16384/788878 bytes... 
+
+Writing at 0x00028752 [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   4.2% 32768/788878 bytes... 
+
+Writing at 0x000302fc [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   6.2% 49152/788878 bytes... 
+
+Writing at 0x0003a72a [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   8.3% 65536/788878 bytes... 
+
+Writing at 0x000463b8 [███░░░░░░░░░░░░░░░░░░░░░░░░░░░]  10.4% 81920/788878 bytes... 
+
+Writing at 0x0005000c [███░░░░░░░░░░░░░░░░░░░░░░░░░░░]  12.5% 98304/788878 bytes... 
+
+Writing at 0x0005631f [████░░░░░░░░░░░░░░░░░░░░░░░░░░]  14.5% 114688/788878 bytes... 
+
+Writing at 0x0005cccd [████░░░░░░░░░░░░░░░░░░░░░░░░░░]  16.6% 131072/788878 bytes... 
+
+Writing at 0x00062fa7 [█████░░░░░░░░░░░░░░░░░░░░░░░░░]  18.7% 147456/788878 bytes... 
+
+Writing at 0x00069a51 [██████░░░░░░░░░░░░░░░░░░░░░░░░]  20.8% 163840/788878 bytes... 
+
+Writing at 0x0006fb64 [██████░░░░░░░░░░░░░░░░░░░░░░░░]  22.8% 180224/788878 bytes... 
+
+Writing at 0x0007607e [███████░░░░░░░░░░░░░░░░░░░░░░░]  24.9% 196608/788878 bytes... 
+
+Writing at 0x0007c19d [████████░░░░░░░░░░░░░░░░░░░░░░]  27.0% 212992/788878 bytes... 
+
+Writing at 0x00081f40 [████████░░░░░░░░░░░░░░░░░░░░░░]  29.1% 229376/788878 bytes... 
+
+Writing at 0x00087cd6 [█████████░░░░░░░░░░░░░░░░░░░░░]  31.2% 245760/788878 bytes... 
+
+Writing at 0x0008e04f [█████████░░░░░░░░░░░░░░░░░░░░░]  33.2% 262144/788878 bytes... 
+
+Writing at 0x0009422f [██████████░░░░░░░░░░░░░░░░░░░░]  35.3% 278528/788878 bytes... 
+
+Writing at 0x0009a70d [███████████░░░░░░░░░░░░░░░░░░░]  37.4% 294912/788878 bytes... 
+
+Writing at 0x000a0719 [███████████░░░░░░░░░░░░░░░░░░░]  39.5% 311296/788878 bytes... 
+
+Writing at 0x000a6752 [████████████░░░░░░░░░░░░░░░░░░]  41.5% 327680/788878 bytes... 
+
+Writing at 0x000ac04c [█████████████░░░░░░░░░░░░░░░░░]  43.6% 344064/788878 bytes... 
+
+Writing at 0x000b1943 [█████████████░░░░░░░░░░░░░░░░░]  45.7% 360448/788878 bytes... 
+
+Writing at 0x000b712f [██████████████░░░░░░░░░░░░░░░░]  47.8% 376832/788878 bytes... 
+
+Writing at 0x000bca54 [██████████████░░░░░░░░░░░░░░░░]  49.8% 393216/788878 bytes... 
+
+Writing at 0x000c27db [███████████████░░░░░░░░░░░░░░░]  51.9% 409600/788878 bytes... 
+
+Writing at 0x000c83fe [████████████████░░░░░░░░░░░░░░]  54.0% 425984/788878 bytes... 
+
+Writing at 0x000cdeca [████████████████░░░░░░░░░░░░░░]  56.1% 442368/788878 bytes... 
+
+Writing at 0x000d3e38 [█████████████████░░░░░░░░░░░░░]  58.2% 458752/788878 bytes... 
+
+Writing at 0x000d98ec [██████████████████░░░░░░░░░░░░]  60.2% 475136/788878 bytes... 
+
+Writing at 0x000dfd42 [██████████████████░░░░░░░░░░░░]  62.3% 491520/788878 bytes... 
+
+Writing at 0x000e5ff9 [███████████████████░░░░░░░░░░░]  64.4% 507904/788878 bytes... 
+
+Writing at 0x000ec2f7 [███████████████████░░░░░░░░░░░]  66.5% 524288/788878 bytes... 
+
+Writing at 0x000f2305 [████████████████████░░░░░░░░░░]  68.5% 540672/788878 bytes... 
+
+Writing at 0x000f83d3 [█████████████████████░░░░░░░░░]  70.6% 557056/788878 bytes... 
+
+Writing at 0x000fe319 [█████████████████████░░░░░░░░░]  72.7% 573440/788878 bytes... 
+
+Writing at 0x00104bba [██████████████████████░░░░░░░░]  74.8% 589824/788878 bytes... 
+
+Writing at 0x0010c17e [███████████████████████░░░░░░░]  76.8% 606208/788878 bytes... 
+
+Writing at 0x00112fd7 [███████████████████████░░░░░░░]  78.9% 622592/788878 bytes... 
+
+Writing at 0x0011a91d [████████████████████████░░░░░░]  81.0% 638976/788878 bytes... 
+
+Writing at 0x00123046 [████████████████████████░░░░░░]  83.1% 655360/788878 bytes... 
+
+Writing at 0x00128ffc [█████████████████████████░░░░░]  85.2% 671744/788878 bytes... 
+
+Writing at 0x0012f0da [██████████████████████████░░░░]  87.2% 688128/788878 bytes... 
+
+Writing at 0x00135bc8 [██████████████████████████░░░░]  89.3% 704512/788878 bytes... 
+
+Writing at 0x0013dcf7 [███████████████████████████░░░]  91.4% 720896/788878 bytes... 
+
+Writing at 0x00143c9c [████████████████████████████░░]  93.5% 737280/788878 bytes... 
+
+Writing at 0x00149d97 [████████████████████████████░░]  95.5% 753664/788878 bytes... 
+
+Writing at 0x0014ff8e [█████████████████████████████░]  97.6% 770048/788878 bytes... 
+
+Writing at 0x00156185 [█████████████████████████████░]  99.7% 786432/788878 bytes... 
+
+Writing at 0x00157320 [██████████████████████████████] 100.0% 788878/788878 bytes... 
+Wrote 1340192 bytes (788878 compressed) at 0x00010000 in 23.3 seconds (459.2 kbit/s).
+Hash of data verified.
+
+Hard resetting via RTS pin...
+Warning! Skipping unknown filters `default esp32_exception_decoder`. Known filters are `debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time`
+--- Terminal on /dev/ttyUSB0 | 115200 8-N-1
+--- Available filters and text transformations: debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+Trying to connect to AP 1/5
+Trying to connect to AP 2/5
+Trying to connect to AP 3/5
+Trying to connect to AP 4/5
+Trying to connect to AP 5/5
+W (17506) puara-module: Connect to external AP failed. Creating own Access Point network
+W (17507) puara-module: wifi_init: Failed to connect to SSID: no_connection_now
+Device wifi network : ftm_initiator_001
+Open device network config/settings in browser with : http://ftm_initiator_001.local/
+Puara Start Done!
+
+  Type "reboot" in the serial monitor to reset the ESP32.
+
+Retrieved SSID for Responder 1: ftm_responder_001
+Retrieved SSID for Responder 2: ftm_responder_002
+Retrieved SSID for Responder 3: ftm_responder_003
+Retrieved SSID for Responder 4: ftm_responder_004
+# ====== FTM Benchmark Test ======
+# Position       : p11 (5.0, 2.5)
+# Responders     : 4
+# Samples/resp   : 1000
+# Total attempts : 4000
+# Frame count    : 16
+# Burst period   : 4
+# Responder r1 : SSID=ftm_responder_001  pos=(0.0, 0.0)
+# Responder r2 : SSID=ftm_responder_002  pos=(20.0, 0.0)
+# Responder r3 : SSID=ftm_responder_003  pos=(0.0, 10.0)
+# Responder r4 : SSID=ftm_responder_004  pos=(20.0, 10.0)
+# ================================
+position,real_x,real_y,responder_ssid,responder_label,responder_x,responder_y,frame_count,burst_period,dist_est_cm,rtt_est_ns,rssi,elapsed_ms,sample_num
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,481,1
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-48,457,1
+E (22126) wifi:No FTM Measurements received from responder!
+W (22127) puara-module: FTM Report received with non-success status: 5
+# ERROR round 1: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2850,190,-53,460,1
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,447,2
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,2040,136,-49,543,2
+E (24583) wifi:No FTM Measurements received from responder!
+W (24584) puara-module: FTM Report received with non-success status: 5
+# ERROR round 2: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2895,193,-52,461,2
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,447,3
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1920,128,-51,441,3
+E (26955) wifi:No FTM Measurements received from responder!
+W (26955) puara-module: FTM Report received with non-success status: 5
+# ERROR round 3: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-52,477,3
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,750,50,-36,530,4
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,2055,137,-50,447,4
+E (29402) wifi:No FTM Measurements received from responder!
+W (29403) puara-module: FTM Report received with non-success status: 5
+# ERROR round 4: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2940,196,-52,462,4
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,436,5
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1905,127,-50,454,5
+E (31792) wifi:No FTM Measurements received from responder!
+W (31793) puara-module: FTM Report received with non-success status: 5
+# ERROR round 5: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2910,194,-53,458,5
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,433,6
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1860,124,-52,450,6
+# ERROR round 6: ftm_responder_003 (r3) — timeout/failure
+W (34611) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2925,195,-52,475,6
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,531,7
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1845,123,-47,445,7
+# ERROR round 7: ftm_responder_003 (r3) — timeout/failure
+W (37068) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-53,478,7
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,765,51,-36,527,8
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,2895,193,-56,463,8
+E (39026) wifi:No FTM Measurements received from responder!
+W (39026) puara-module: FTM Report received with non-success status: 5
+# ERROR round 8: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2955,197,-53,459,8
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,2835,189,-53,45,9
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1725,115,-46,527,9
+# ERROR round 9: ftm_responder_003 (r3) — timeout/failure
+W (41580) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-52,457,9
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,765,51,-36,438,10
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-47,450,10
+E (43424) wifi:No FTM Measurements received from responder!
+W (43425) puara-module: FTM Report received with non-success status: 5
+# ERROR round 10: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-52,464,10
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,435,11
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1650,110,-46,450,11
+E (45779) wifi:No FTM Measurements received from responder!
+W (45779) puara-module: FTM Report received with non-success status: 5
+# ERROR round 11: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3000,200,-53,464,11
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,448,12
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1695,113,-46,437,12
+# ERROR round 12: ftm_responder_003 (r3) — timeout/failure
+W (48641) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3000,200,-53,465,12
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,433,13
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1665,111,-46,461,13
+E (50486) wifi:No FTM Measurements received from responder!
+W (50486) puara-module: FTM Report received with non-success status: 5
+# ERROR round 13: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3015,201,-53,451,13
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,439,14
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1680,112,-46,448,14
+# ERROR round 14: ftm_responder_003 (r3) — timeout/failure
+W (53349) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3000,200,-53,465,14
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,448,15
+E (54293) wifi:No FTM Measurements received from responder!
+W (54293) puara-module: FTM Report received with non-success status: 5
+# ERROR round 15: ftm_responder_002 (r2) — timeout/failure
+E (55812) wifi:No FTM Measurements received from responder!
+W (55813) puara-module: FTM Report received with non-success status: 5
+# ERROR round 15: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2985,199,-53,560,15
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,506,16
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,900,60,-36,64,16
+# ERROR round 16: ftm_responder_003 (r3) — timeout/failure
+W (58406) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2985,199,-53,538,16
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,529,17
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1740,116,-46,452,17
+E (60430) wifi:No FTM Measurements received from responder!
+W (60430) puara-module: FTM Report received with non-success status: 5
+# ERROR round 17: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2940,196,-53,473,17
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,735,49,-36,525,18
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1740,116,-47,452,18
+E (62890) wifi:No FTM Measurements received from responder!
+W (62890) puara-module: FTM Report received with non-success status: 5
+# ERROR round 18: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2940,196,-54,471,18
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,541,19
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,750,50,-36,14,19
+E (64928) wifi:No FTM Measurements received from responder!
+W (64929) puara-module: FTM Report received with non-success status: 5
+# ERROR round 19: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3015,201,-53,478,19
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,750,50,-36,435,20
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-46,449,20
+# ERROR round 20: ftm_responder_003 (r3) — timeout/failure
+W (67788) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2925,195,-52,463,20
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,438,21
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-46,462,21
+# ERROR round 21: ftm_responder_003 (r3) — timeout/failure
+W (70157) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2670,178,-54,496,21
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,505,22
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1845,123,-46,450,22
+# ERROR round 22: ftm_responder_003 (r3) — timeout/failure
+W (72615) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2850,190,-54,459,22
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,528,23
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-46,460,23
+E (74558) wifi:No FTM Measurements received from responder!
+W (74558) puara-module: FTM Report received with non-success status: 5
+# ERROR round 23: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2805,187,-54,466,23
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,540,24
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-46,539,24
+# ERROR round 24: ftm_responder_003 (r3) — timeout/failure
+W (77619) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2760,184,-55,466,24
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,855,57,-36,432,25
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1725,115,-46,459,25
+E (79476) wifi:No FTM Measurements received from responder!
+W (79477) puara-module: FTM Report received with non-success status: 5
+# ERROR round 25: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,4110,274,-58,468,25
+E (80485) wifi:No FTM Measurements received from responder!
+W (80486) puara-module: FTM Report received with non-success status: 5
+# ERROR round 26: ftm_responder_001 (r1) — timeout/failure
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-46,500,26
+# ERROR round 26: ftm_responder_003 (r3) — timeout/failure
+W (82957) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,4215,281,-57,469,26
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,520,27
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-46,448,27
+E (84895) wifi:No FTM Measurements received from responder!
+W (84896) puara-module: FTM Report received with non-success status: 5
+# ERROR round 27: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2820,188,-54,464,27
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,435,28
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-46,456,28
+# ERROR round 28: ftm_responder_003 (r3) — timeout/failure
+W (87761) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2745,183,-52,469,28
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-37,532,29
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1680,112,-46,447,29
+# ERROR round 29: ftm_responder_003 (r3) — timeout/failure
+W (90216) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-52,473,29
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,543,30
+E (91381) wifi:No FTM Measurements received from responder!
+W (91381) puara-module: FTM Report received with non-success status: 5
+# ERROR round 30: ftm_responder_002 (r2) — timeout/failure
+E (92784) wifi:No FTM Measurements received from responder!
+W (92785) puara-module: FTM Report received with non-success status: 5
+# ERROR round 30: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2700,180,-52,519,30
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,870,58,-36,531,31
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-46,453,31
+# ERROR round 31: ftm_responder_003 (r3) — timeout/failure
+W (95748) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2670,178,-52,458,31
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,438,32
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-45,464,32
+# ERROR round 32: ftm_responder_003 (r3) — timeout/failure
+W (98115) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3765,251,-56,453,32
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,765,51,-36,434,33
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1740,116,-45,448,33
+# ERROR round 33: ftm_responder_003 (r3) — timeout/failure
+W (100455) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3000,200,-54,468,33
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,437,34
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-46,441,34
+# ERROR round 34: ftm_responder_003 (r3) — timeout/failure
+W (102807) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2850,190,-52,510,34
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,735,49,-36,509,35
+E (103892) wifi:No FTM Measurements received from responder!
+W (103893) puara-module: FTM Report received with non-success status: 5
+# ERROR round 35: ftm_responder_002 (r2) — timeout/failure
+# ERROR round 35: ftm_responder_003 (r3) — timeout/failure
+W (105833) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2805,187,-53,523,35
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,2835,189,-53,41,36
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-46,527,36
+# ERROR round 36: ftm_responder_003 (r3) — timeout/failure
+W (107931) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3135,209,-52,464,36
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,433,37
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,453,37
+E (109789) wifi:No FTM Measurements received from responder!
+W (109789) puara-module: FTM Report received with non-success status: 5
+# ERROR round 37: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-52,461,37
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,440,38
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-46,451,38
+E (112135) wifi:No FTM Measurements received from responder!
+W (112136) puara-module: FTM Report received with non-success status: 5
+# ERROR round 38: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2955,197,-52,472,38
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,525,39
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1845,123,-45,451,39
+# ERROR round 39: ftm_responder_003 (r3) — timeout/failure
+W (115099) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-53,461,39
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,441,40
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-46,460,40
+# ERROR round 40: ftm_responder_003 (r3) — timeout/failure
+W (117466) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3090,206,-52,553,40
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,915,61,-36,443,41
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-45,445,41
+# ERROR round 41: ftm_responder_003 (r3) — timeout/failure
+W (119913) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3000,200,-52,567,41
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,435,42
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1830,122,-45,449,42
+# ERROR round 42: ftm_responder_003 (r3) — timeout/failure
+W (122371) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2940,196,-52,457,42
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,445,43
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1740,116,-46,449,43
+# ERROR round 43: ftm_responder_003 (r3) — timeout/failure
+W (124727) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2955,197,-53,572,43
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,2820,188,-54,49,44
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1665,111,-45,560,44
+# ERROR round 44: ftm_responder_003 (r3) — timeout/failure
+W (126914) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-54,526,44
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,441,45
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1710,114,-45,457,45
+# ERROR round 45: ftm_responder_003 (r3) — timeout/failure
+W (129344) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2955,197,-53,561,45
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,870,58,-36,534,46
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1740,116,-45,449,46
+# ERROR round 46: ftm_responder_003 (r3) — timeout/failure
+W (131895) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2955,197,-52,574,46
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,537,47
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1695,113,-45,442,47
+# ERROR round 47: ftm_responder_003 (r3) — timeout/failure
+W (134453) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2910,194,-53,472,47
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,531,48
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1890,126,-45,444,48
+# ERROR round 48: ftm_responder_003 (r3) — timeout/failure
+W (136907) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2940,196,-53,478,48
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,529,49
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1845,123,-45,447,49
+# ERROR round 49: ftm_responder_003 (r3) — timeout/failure
+W (139367) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3015,201,-52,567,49
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,441,50
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-46,449,50
+# ERROR round 50: ftm_responder_003 (r3) — timeout/failure
+W (141830) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2985,199,-52,570,50
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,534,51
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-45,443,51
+# ERROR round 51: ftm_responder_003 (r3) — timeout/failure
+W (144384) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2865,191,-52,474,51
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,532,52
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-46,444,52
+# ERROR round 52: ftm_responder_003 (r3) — timeout/failure
+W (146839) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2985,199,-52,466,52
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,435,53
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,463,53
+# ERROR round 53: ftm_responder_003 (r3) — timeout/failure
+W (149210) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2985,199,-52,456,53
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,430,54
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-46,455,54
+# ERROR round 54: ftm_responder_003 (r3) — timeout/failure
+W (151556) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2925,195,-53,466,54
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,434,55
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-46,450,55
+# ERROR round 55: ftm_responder_003 (r3) — timeout/failure
+W (153912) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2925,195,-53,571,55
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,532,56
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1740,116,-46,453,56
+# ERROR round 56: ftm_responder_003 (r3) — timeout/failure
+W (156474) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2910,194,-53,458,56
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,433,57
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-45,454,57
+# ERROR round 57: ftm_responder_003 (r3) — timeout/failure
+W (158825) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-53,473,57
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,765,51,-36,545,58
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-46,534,58
+# ERROR round 58: ftm_responder_003 (r3) — timeout/failure
+W (161383) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-53,466,58
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,441,59
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-45,448,59
+# ERROR round 59: ftm_responder_003 (r3) — timeout/failure
+W (163744) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-53,453,59
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,453,60
+E (164659) wifi:No FTM Measurements received from responder!
+W (164660) puara-module: FTM Report received with non-success status: 5
+# ERROR round 60: ftm_responder_002 (r2) — timeout/failure
+# ERROR round 60: ftm_responder_003 (r3) — timeout/failure
+W (166657) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2925,195,-52,513,60
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,436,61
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1695,113,-46,462,61
+# ERROR round 61: ftm_responder_003 (r3) — timeout/failure
+W (169074) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2955,197,-52,458,61
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,429,62
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,463,62
+# ERROR round 62: ftm_responder_003 (r3) — timeout/failure
+W (171430) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2985,199,-52,451,62
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,915,61,-36,449,63
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1725,115,-46,539,63
+# ERROR round 63: ftm_responder_003 (r3) — timeout/failure
+W (173876) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2910,194,-52,464,63
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,449,64
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1695,113,-45,605,64
+# ERROR round 64: ftm_responder_003 (r3) — timeout/failure
+W (176400) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3000,200,-52,509,64
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,855,57,-36,527,65
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-45,454,65
+# ERROR round 65: ftm_responder_003 (r3) — timeout/failure
+W (178895) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2895,193,-52,462,65
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,449,66
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-45,456,66
+# ERROR round 66: ftm_responder_003 (r3) — timeout/failure
+W (181269) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2940,196,-53,546,66
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,441,67
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-45,457,67
+# ERROR round 67: ftm_responder_003 (r3) — timeout/failure
+W (183718) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-52,450,67
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,441,68
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1830,122,-45,444,68
+# ERROR round 68: ftm_responder_003 (r3) — timeout/failure
+W (186059) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3015,201,-52,466,68
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,436,69
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,448,69
+# ERROR round 69: ftm_responder_003 (r3) — timeout/failure
+W (188415) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2985,199,-52,461,69
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,447,70
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-45,454,70
+# ERROR round 70: ftm_responder_003 (r3) — timeout/failure
+W (190783) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2955,197,-53,459,70
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,430,71
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-46,446,71
+# ERROR round 71: ftm_responder_003 (r3) — timeout/failure
+W (193124) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,3045,203,-52,468,71
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,437,72
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1845,123,-45,445,72
+# ERROR round 72: ftm_responder_003 (r3) — timeout/failure
+W (195480) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2970,198,-52,466,72
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,439,73
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,445,73
+E (197298) wifi:No FTM Measurements received from responder!
+W (197298) puara-module: FTM Report received with non-success status: 5
+# ERROR round 73: ftm_responder_003 (r3) — timeout/failure
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2775,185,-51,475,73
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,885,59,-36,540,74
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-45,436,74
+# ERROR round 74: ftm_responder_003 (r3) — timeout/failure
+W (200293) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-52,475,74
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,900,60,-36,528,75
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-45,455,75
+p11,5.0,2.5,ftm_responder_003,r3,0.0,10.0,16,4,3855,257,-59,450,75
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-51,507,75
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,430,76
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-45,449,76
+p11,5.0,2.5,ftm_responder_003,r3,0.0,10.0,16,4,2100,140,-56,458,76
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-51,507,76
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,537,77
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1830,122,-45,442,77
+p11,5.0,2.5,ftm_responder_003,r3,0.0,10.0,16,4,3195,213,-58,468,77
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2925,195,-51,483,77
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,445,78
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1890,126,-45,450,78
+# ERROR round 78: ftm_responder_003 (r3) — timeout/failure
+W (208389) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2940,196,-51,459,78
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,449,79
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-45,436,79
+# ERROR round 79: ftm_responder_003 (r3) — timeout/failure
+W (210740) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2895,193,-51,464,79
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,900,60,-36,434,80
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,450,80
+# ERROR round 80: ftm_responder_003 (r3) — timeout/failure
+W (213093) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2910,194,-51,464,80
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,915,61,-36,443,81
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,446,81
+# ERROR round 81: ftm_responder_003 (r3) — timeout/failure
+W (215453) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2895,193,-52,461,81
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,454,82
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1830,122,-45,547,82
+# ERROR round 82: ftm_responder_003 (r3) — timeout/failure
+W (217920) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2820,188,-51,458,82
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-37,538,83
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1830,122,-45,440,83
+# ERROR round 83: ftm_responder_003 (r3) — timeout/failure
+W (220362) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2760,184,-52,478,83
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,526,84
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1845,123,-45,454,84
+# ERROR round 84: ftm_responder_003 (r3) — timeout/failure
+W (222827) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-51,460,84
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,437,85
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1815,121,-45,447,85
+# ERROR round 85: ftm_responder_003 (r3) — timeout/failure
+W (225176) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2790,186,-52,466,85
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,435,86
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-44,452,86
+# ERROR round 86: ftm_responder_003 (r3) — timeout/failure
+W (227536) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2775,185,-51,460,86
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,444,87
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1830,122,-45,441,87
+# ERROR round 87: ftm_responder_003 (r3) — timeout/failure
+W (229886) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2820,188,-51,466,87
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,441,88
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-45,448,88
+# ERROR round 88: ftm_responder_003 (r3) — timeout/failure
+W (232247) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2790,186,-51,470,88
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,2835,189,-52,20,89
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,478,89
+# ERROR round 89: ftm_responder_003 (r3) — timeout/failure
+W (234221) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2760,184,-51,536,89
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,795,53,-36,538,90
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1830,122,-45,453,90
+# ERROR round 90: ftm_responder_003 (r3) — timeout/failure
+W (236754) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-51,468,90
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,2850,190,-51,20,91
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1830,122,-45,456,91
+# ERROR round 91: ftm_responder_003 (r3) — timeout/failure
+W (238704) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-51,562,91
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,810,54,-36,434,92
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-45,444,92
+# ERROR round 92: ftm_responder_003 (r3) — timeout/failure
+W (241151) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-51,466,92
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,780,52,-36,436,93
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1875,125,-45,446,93
+# ERROR round 93: ftm_responder_003 (r3) — timeout/failure
+W (243505) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2895,193,-51,468,93
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,855,57,-36,441,94
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-45,445,94
+# ERROR round 94: ftm_responder_003 (r3) — timeout/failure
+W (245865) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-51,565,94
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,855,57,-36,437,95
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-44,454,95
+# ERROR round 95: ftm_responder_003 (r3) — timeout/failure
+W (248327) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-51,568,95
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,532,96
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,444,96
+# ERROR round 96: ftm_responder_003 (r3) — timeout/failure
+W (250878) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2790,186,-51,478,96
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,2775,185,-51,37,97
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-46,529,97
+# ERROR round 97: ftm_responder_003 (r3) — timeout/failure
+W (252927) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2850,190,-51,471,97
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,825,55,-36,443,98
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1740,116,-45,441,98
+# ERROR round 98: ftm_responder_003 (r3) — timeout/failure
+W (255288) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-51,469,98
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,855,57,-36,529,99
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-45,450,99
+# ERROR round 99: ftm_responder_003 (r3) — timeout/failure
+W (257742) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2820,188,-51,566,99
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,930,62,-36,446,100
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1845,123,-45,441,100
+# ERROR round 100: ftm_responder_003 (r3) — timeout/failure
+W (260202) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-52,464,100
+# Progress: 100 / 1000 rounds complete
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,840,56,-36,441,101
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1755,117,-45,439,101
+# ERROR round 101: ftm_responder_003 (r3) — timeout/failure
+W (262551) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2850,190,-51,467,101
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,870,58,-36,434,102
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-45,450,102
+# ERROR round 102: ftm_responder_003 (r3) — timeout/failure
+W (264909) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-51,462,102
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,750,50,-36,439,103
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1785,119,-45,447,103
+# ERROR round 103: ftm_responder_003 (r3) — timeout/failure
+W (267262) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2880,192,-52,470,103
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,750,50,-37,438,104
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1800,120,-45,456,104
+# ERROR round 104: ftm_responder_003 (r3) — timeout/failure
+W (269633) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2910,194,-51,550,104
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,750,50,-36,438,105
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1710,114,-45,455,105
+# ERROR round 105: ftm_responder_003 (r3) — timeout/failure
+W (272082) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2820,188,-51,460,105
+p11,5.0,2.5,ftm_responder_001,r1,0.0,0.0,16,4,765,51,-36,435,106
+p11,5.0,2.5,ftm_responder_002,r2,20.0,0.0,16,4,1770,118,-45,447,106
+# ERROR round 106: ftm_responder_003 (r3) — timeout/failure
+W (274430) puara-module: FTM Report received with non-success status: 6
+p11,5.0,2.5,ftm_responder_004,r4,20.0,10.0,16,4,2835,189,-51,466,106
