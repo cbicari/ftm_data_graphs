@@ -1,0 +1,7 @@
+
+get "real distance"
+# Calculate true distance (convert positions from meters to cm for comparison)
+df_all['true_dist_cm'] = np.sqrt(
+    (df_all['real_x'] * 100 - df_all['responder_x'] * 100)**2 +
+    (df_all['real_y'] * 100 - df_all['responder_y'] * 100)**2
+)
